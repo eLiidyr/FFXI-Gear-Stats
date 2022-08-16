@@ -1,0 +1,1748 @@
+{
+  "1":{
+    "id":1,
+    "ja":"ファノエ運河",
+    "search":"PhanauetCh",
+    "en":"Phanauet Channel"
+  },
+  "2":{
+    "id":2,
+    "ja":"ギルド桟橋",
+    "search":"CpntLanding",
+    "en":"Carpenters' Landing"
+  },
+  "3":{
+    "id":3,
+    "ja":"マナクリッパー",
+    "search":"Manaclipper",
+    "en":"Manaclipper"
+  },
+  "4":{
+    "id":4,
+    "ja":"ビビキー湾",
+    "search":"BibikiBay",
+    "en":"Bibiki Bay"
+  },
+  "5":{
+    "id":5,
+    "ja":"ウルガラン山脈",
+    "search":"Uleguerand",
+    "en":"Uleguerand Range"
+  },
+  "6":{
+    "id":6,
+    "ja":"熊爪嶽",
+    "search":"BearclawPn",
+    "en":"Bearclaw Pinnacle"
+  },
+  "7":{
+    "id":7,
+    "ja":"アットワ地溝",
+    "search":"AttohwaCsm",
+    "en":"Attohwa Chasm"
+  },
+  "8":{
+    "id":8,
+    "ja":"千骸谷",
+    "search":"BoneyardGl",
+    "en":"Boneyard Gully"
+  },
+  "9":{
+    "id":9,
+    "ja":"ソ・ジヤ",
+    "search":"PsoXja",
+    "en":"Pso'Xja"
+  },
+  "10":{
+    "id":10,
+    "ja":"異界の口",
+    "search":"ShroudMaw",
+    "en":"The Shrouded Maw"
+  },
+  "11":{
+    "id":11,
+    "ja":"ムバルポロス旧市街",
+    "search":"OldMoval",
+    "en":"Oldton Movalpolos"
+  },
+  "12":{
+    "id":12,
+    "ja":"ムバルポロス新市街",
+    "search":"NewMoval",
+    "en":"Newton Movalpolos"
+  },
+  "13":{
+    "id":13,
+    "ja":"2716号採石場",
+    "search":"Mine2716",
+    "en":"Mine Shaft #2716"
+  },
+  "14":{
+    "id":14,
+    "ja":"転移の間",
+    "search":"HallOfTrns",
+    "en":"Hall of Transference"
+  },
+  "15":{
+    "id":15,
+    "ja":"アビセア-コンシュタット",
+    "search":"AbysKonscht",
+    "en":"Abyssea - Konschtat"
+  },
+  "16":{
+    "id":16,
+    "ja":"プロミヴォン-ホラ",
+    "search":"PromvHolla",
+    "en":"Promyvion - Holla"
+  },
+  "17":{
+    "id":17,
+    "ja":"ホラの塔",
+    "search":"SpireHolla",
+    "en":"Spire of Holla"
+  },
+  "18":{
+    "id":18,
+    "ja":"プロミヴォン-デム",
+    "search":"PromvDem",
+    "en":"Promyvion - Dem"
+  },
+  "19":{
+    "id":19,
+    "ja":"デムの塔",
+    "search":"SpireDem",
+    "en":"Spire of Dem"
+  },
+  "20":{
+    "id":20,
+    "ja":"プロミヴォン-メア",
+    "search":"PromvMea",
+    "en":"Promyvion - Mea"
+  },
+  "21":{
+    "id":21,
+    "ja":"メアの塔",
+    "search":"SpireMea",
+    "en":"Spire of Mea"
+  },
+  "22":{
+    "id":22,
+    "ja":"プロミヴォン-ヴァズ",
+    "search":"PromvVahzl",
+    "en":"Promyvion - Vahzl"
+  },
+  "23":{
+    "id":23,
+    "ja":"ヴァズの塔",
+    "search":"SpireVahzl",
+    "en":"Spire of Vahzl"
+  },
+  "24":{
+    "id":24,
+    "ja":"ルフェーゼ野",
+    "search":"LufaiseMds",
+    "en":"Lufaise Meadows"
+  },
+  "25":{
+    "id":25,
+    "ja":"ミザレオ海岸",
+    "search":"Misareaux",
+    "en":"Misareaux Coast"
+  },
+  "26":{
+    "id":26,
+    "ja":"タブナジア地下壕",
+    "search":"TavSafehld",
+    "en":"Tavnazian Safehold"
+  },
+  "27":{
+    "id":27,
+    "ja":"フォミュナ水道",
+    "search":"PhomiunaAq",
+    "en":"Phomiuna Aqueducts"
+  },
+  "28":{
+    "id":28,
+    "ja":"礼拝堂",
+    "search":"Sacrarium",
+    "en":"Sacrarium"
+  },
+  "29":{
+    "id":29,
+    "ja":"リヴェーヌ岩塊群サイトB01",
+    "search":"RiverneB01",
+    "en":"Riverne - Site #B01"
+  },
+  "30":{
+    "id":30,
+    "ja":"リヴェーヌ岩塊群サイトA01",
+    "search":"RiverneA01",
+    "en":"Riverne - Site #A01"
+  },
+  "31":{
+    "id":31,
+    "ja":"帝龍の飛泉",
+    "search":"MonarchLinn",
+    "en":"Monarch Linn"
+  },
+  "32":{
+    "id":32,
+    "ja":"海獅子の巣窟",
+    "search":"SealionDen",
+    "en":"Sealion's Den"
+  },
+  "33":{
+    "id":33,
+    "ja":"アル・タユ",
+    "search":"AlTaieu",
+    "en":"Al'Taieu"
+  },
+  "34":{
+    "id":34,
+    "ja":"フ・ゾイの王宮",
+    "search":"HuXzoi",
+    "en":"Grand Palace of Hu'Xzoi"
+  },
+  "35":{
+    "id":35,
+    "ja":"ル・メトの園",
+    "search":"RuHmet",
+    "en":"The Garden of Ru'Hmet"
+  },
+  "36":{
+    "id":36,
+    "ja":"天象の鎖",
+    "search":"EmParadox",
+    "en":"Empyreal Paradox"
+  },
+  "37":{
+    "id":37,
+    "ja":"テメナス",
+    "search":"Temenos",
+    "en":"Temenos"
+  },
+  "38":{
+    "id":38,
+    "ja":"アポリオン",
+    "search":"Apollyon",
+    "en":"Apollyon"
+  },
+  "39":{
+    "id":39,
+    "ja":"デュナミス-バルクルム",
+    "search":"DynamisVal",
+    "en":"Dynamis - Valkurm"
+  },
+  "40":{
+    "id":40,
+    "ja":"デュナミス-ブブリム",
+    "search":"DynamisBub",
+    "en":"Dynamis - Buburimu"
+  },
+  "41":{
+    "id":41,
+    "ja":"デュナミス-クフィム",
+    "search":"DynamisQuf",
+    "en":"Dynamis - Qufim"
+  },
+  "42":{
+    "id":42,
+    "ja":"デュナミス-タブナジア",
+    "search":"DynamisTav",
+    "en":"Dynamis - Tavnazia"
+  },
+  "43":{
+    "id":43,
+    "ja":"アブダルスの箱庭-ゲルスバ",
+    "search":"DioramaGhel",
+    "en":"Diorama Abdhaljs-Ghelsba"
+  },
+  "44":{
+    "id":44,
+    "ja":"アブダルスの島-プルゴノルゴ",
+    "search":"AbdhalPurgo",
+    "en":"Abdhaljs Isle-Purgonorgo"
+  },
+  "45":{
+    "id":45,
+    "ja":"アビセア-タロンギ",
+    "search":"AbysTahrongi",
+    "en":"Abyssea - Tahrongi"
+  },
+  "46":{
+    "id":46,
+    "ja":"外洋航路：アルザビ行き",
+    "search":"OpenseaZah",
+    "en":"Open sea route to Al Zahbi"
+  },
+  "47":{
+    "id":47,
+    "ja":"外洋航路：マウラ行き",
+    "search":"OpenseaMha",
+    "en":"Open sea route to Mhaura"
+  },
+  "48":{
+    "id":48,
+    "ja":"アルザビ",
+    "search":"AlZahbi",
+    "en":"Al Zahbi"
+  },
+  "50":{
+    "id":50,
+    "ja":"アトルガン白門",
+    "search":"Whitegate",
+    "en":"Aht Urhgan Whitegate"
+  },
+  "51":{
+    "id":51,
+    "ja":"ワジャーム樹林",
+    "search":"Wajaom",
+    "en":"Wajaom Woodlands"
+  },
+  "52":{
+    "id":52,
+    "ja":"バフラウ段丘",
+    "search":"BhafThicket",
+    "en":"Bhaflau Thickets"
+  },
+  "53":{
+    "id":53,
+    "ja":"ナシュモ",
+    "search":"Nashmau",
+    "en":"Nashmau"
+  },
+  "54":{
+    "id":54,
+    "ja":"アラパゴ暗礁域",
+    "search":"ArrpgoReef",
+    "en":"Arrapago Reef"
+  },
+  "55":{
+    "id":55,
+    "ja":"イルルシ環礁",
+    "search":"Ilrusi",
+    "en":"Ilrusi Atoll"
+  },
+  "56":{
+    "id":56,
+    "ja":"ペリキア",
+    "search":"Periqia",
+    "en":"Periqia"
+  },
+  "57":{
+    "id":57,
+    "ja":"タラッカ入江",
+    "search":"Talacca",
+    "en":"Talacca Cove"
+  },
+  "58":{
+    "id":58,
+    "ja":"銀海航路：ナシュモ行き",
+    "search":"SilvSeaNas",
+    "en":"Silver Sea route to Nashmau"
+  },
+  "59":{
+    "id":59,
+    "ja":"銀海航路：アルザビ行き",
+    "search":"SilvSeaZah",
+    "en":"Silver Sea route to Al Zahbi"
+  },
+  "60":{
+    "id":60,
+    "ja":"アシュタリフ号",
+    "search":"AshuTalif",
+    "en":"The Ashu Talif"
+  },
+  "61":{
+    "id":61,
+    "ja":"ゼオルム火山",
+    "search":"MtZhayolm",
+    "en":"Mount Zhayolm"
+  },
+  "62":{
+    "id":62,
+    "ja":"ハルブーン",
+    "search":"Halvung",
+    "en":"Halvung"
+  },
+  "63":{
+    "id":63,
+    "ja":"レベロス風穴",
+    "search":"Lebros",
+    "en":"Lebros Cavern"
+  },
+  "64":{
+    "id":64,
+    "ja":"ナバゴ処刑場",
+    "search":"Navukgo",
+    "en":"Navukgo Execution Chamber"
+  },
+  "65":{
+    "id":65,
+    "ja":"マムーク",
+    "search":"Mamook",
+    "en":"Mamook"
+  },
+  "66":{
+    "id":66,
+    "ja":"マムージャ兵訓練所",
+    "search":"MamoolTrGr",
+    "en":"Mamool Ja Training Grounds"
+  },
+  "67":{
+    "id":67,
+    "ja":"翡翠廟",
+    "search":"JadeSepul",
+    "en":"Jade Sepulcher"
+  },
+  "68":{
+    "id":68,
+    "ja":"エジワ蘿洞",
+    "search":"Aydeewa",
+    "en":"Aydeewa Subterrane"
+  },
+  "69":{
+    "id":69,
+    "ja":"ルジャワン霊窟",
+    "search":"Leujaoam",
+    "en":"Leujaoam Sanctum"
+  },
+  "70":{
+    "id":70,
+    "ja":"チョコボサーキット",
+    "search":"ChocoCirc",
+    "en":"Chocobo Circuit"
+  },
+  "71":{
+    "id":71,
+    "ja":"コロセウム",
+    "search":"Colosseum",
+    "en":"The Colosseum"
+  },
+  "72":{
+    "id":72,
+    "ja":"アルザダール海底遺跡群",
+    "search":"AlzaUndrsea",
+    "en":"Alzadaal Undersea Ruins"
+  },
+  "73":{
+    "id":73,
+    "ja":"ゼオルム遺構",
+    "search":"ZhaylmRem",
+    "en":"Zhayolm Remnants"
+  },
+  "74":{
+    "id":74,
+    "ja":"アラパゴ遺構",
+    "search":"ArrpgoRem",
+    "en":"Arrapago Remnants"
+  },
+  "75":{
+    "id":75,
+    "ja":"バフラウ遺構",
+    "search":"BhaflauRem",
+    "en":"Bhaflau Remnants"
+  },
+  "76":{
+    "id":76,
+    "ja":"銀海遺構",
+    "search":"SilvSeaRem",
+    "en":"Silver Sea Remnants"
+  },
+  "77":{
+    "id":77,
+    "ja":"ナイズル島",
+    "search":"Nyzul",
+    "en":"Nyzul Isle"
+  },
+  "78":{
+    "id":78,
+    "ja":"ハザルム試験場",
+    "search":"Hazhalm",
+    "en":"Hazhalm Testing Grounds"
+  },
+  "79":{
+    "id":79,
+    "ja":"カダーバの浮沼",
+    "search":"Caedarva",
+    "en":"Caedarva Mire"
+  },
+  "80":{
+    "id":80,
+    "ja":"南サンドリア〔Ｓ〕",
+    "search":"SSandOria_S",
+    "en":"Southern San d'Oria [S]"
+  },
+  "81":{
+    "id":81,
+    "ja":"東ロンフォール〔Ｓ〕",
+    "search":"ERonfaure_S",
+    "en":"East Ronfaure [S]"
+  },
+  "82":{
+    "id":82,
+    "ja":"ジャグナー森林〔Ｓ〕",
+    "search":"Jugner_S",
+    "en":"Jugner Forest [S]"
+  },
+  "83":{
+    "id":83,
+    "ja":"ブンカール浦〔Ｓ〕",
+    "search":"Vunkerl_S",
+    "en":"Vunkerl Inlet [S]"
+  },
+  "84":{
+    "id":84,
+    "ja":"バタリア丘陵〔Ｓ〕",
+    "search":"Batallia_S",
+    "en":"Batallia Downs [S]"
+  },
+  "85":{
+    "id":85,
+    "ja":"ラヴォール村〔Ｓ〕",
+    "search":"LaVaule_S",
+    "en":"La Vaule [S]"
+  },
+  "86":{
+    "id":86,
+    "ja":"常花の石窟",
+    "search":"Everbloom",
+    "en":"Everbloom Hollow"
+  },
+  "87":{
+    "id":87,
+    "ja":"バストゥーク商業区〔Ｓ〕",
+    "search":"BasMarket_S",
+    "en":"Bastok Markets [S]"
+  },
+  "88":{
+    "id":88,
+    "ja":"北グスタベルグ〔Ｓ〕",
+    "search":"NGustabrg_S",
+    "en":"North Gustaberg [S]"
+  },
+  "89":{
+    "id":89,
+    "ja":"グロウベルグ〔Ｓ〕",
+    "search":"Grauberg_S",
+    "en":"Grauberg [S]"
+  },
+  "90":{
+    "id":90,
+    "ja":"パシュハウ沼〔Ｓ〕",
+    "search":"Pashhow_S",
+    "en":"Pashhow Marshlands [S]"
+  },
+  "91":{
+    "id":91,
+    "ja":"ロランベリー耕地〔Ｓ〕",
+    "search":"RolFields_S",
+    "en":"Rolanberry Fields [S]"
+  },
+  "92":{
+    "id":92,
+    "ja":"ベドー〔Ｓ〕",
+    "search":"Beadeaux_S",
+    "en":"Beadeaux [S]"
+  },
+  "93":{
+    "id":93,
+    "ja":"ルホッツ銀山",
+    "search":"Ruhotz",
+    "en":"Ruhotz Silvermines"
+  },
+  "94":{
+    "id":94,
+    "ja":"ウィンダス水の区〔Ｓ〕",
+    "search":"WinWaters_S",
+    "en":"Windurst Waters [S]"
+  },
+  "95":{
+    "id":95,
+    "ja":"西サルタバルタ〔Ｓ〕",
+    "search":"WSaruta_S",
+    "en":"West Sarutabaruta [S]"
+  },
+  "96":{
+    "id":96,
+    "ja":"カルゴナルゴ城砦〔Ｓ〕",
+    "search":"FortK-N_S",
+    "en":"Fort Karugo-Narugo [S]"
+  },
+  "97":{
+    "id":97,
+    "ja":"メリファト山地〔Ｓ〕",
+    "search":"MeriMount_S",
+    "en":"Meriphataud Mountains [S]"
+  },
+  "98":{
+    "id":98,
+    "ja":"ソロムグ原野〔Ｓ〕",
+    "search":"SaurChamp_S",
+    "en":"Sauromugue Champaign [S]"
+  },
+  "99":{
+    "id":99,
+    "ja":"オズトロヤ城〔Ｓ〕",
+    "search":"Oztroja_S",
+    "en":"Castle Oztroja [S]"
+  },
+  "100":{
+    "id":100,
+    "ja":"西ロンフォール",
+    "search":"WRonfaure",
+    "en":"West Ronfaure"
+  },
+  "101":{
+    "id":101,
+    "ja":"東ロンフォール",
+    "search":"ERonfaure",
+    "en":"East Ronfaure"
+  },
+  "102":{
+    "id":102,
+    "ja":"ラテーヌ高原",
+    "search":"LaTheine",
+    "en":"La Theine Plateau"
+  },
+  "103":{
+    "id":103,
+    "ja":"バルクルム砂丘",
+    "search":"Valkurm",
+    "en":"Valkurm Dunes"
+  },
+  "104":{
+    "id":104,
+    "ja":"ジャグナー森林",
+    "search":"Jugner",
+    "en":"Jugner Forest"
+  },
+  "105":{
+    "id":105,
+    "ja":"バタリア丘陵",
+    "search":"Batallia",
+    "en":"Batallia Downs"
+  },
+  "106":{
+    "id":106,
+    "ja":"北グスタベルグ",
+    "search":"NGustaberg",
+    "en":"North Gustaberg"
+  },
+  "107":{
+    "id":107,
+    "ja":"南グスタベルグ",
+    "search":"SGustaberg",
+    "en":"South Gustaberg"
+  },
+  "108":{
+    "id":108,
+    "ja":"コンシュタット高地",
+    "search":"Konschtat",
+    "en":"Konschtat Highlands"
+  },
+  "109":{
+    "id":109,
+    "ja":"パシュハウ沼",
+    "search":"Pashhow",
+    "en":"Pashhow Marshlands"
+  },
+  "110":{
+    "id":110,
+    "ja":"ロランベリー耕地",
+    "search":"Rolanberry",
+    "en":"Rolanberry Fields"
+  },
+  "111":{
+    "id":111,
+    "ja":"ボスディン氷河",
+    "search":"Beaucedine",
+    "en":"Beaucedine Glacier"
+  },
+  "112":{
+    "id":112,
+    "ja":"ザルカバード",
+    "search":"Xarcabard",
+    "en":"Xarcabard"
+  },
+  "113":{
+    "id":113,
+    "ja":"テリガン岬",
+    "search":"Teriggan",
+    "en":"Cape Teriggan"
+  },
+  "114":{
+    "id":114,
+    "ja":"東アルテパ砂漠",
+    "search":"EastAltepa",
+    "en":"Eastern Altepa Desert"
+  },
+  "115":{
+    "id":115,
+    "ja":"西サルタバルタ",
+    "search":"WSartabarta",
+    "en":"West Sarutabaruta"
+  },
+  "116":{
+    "id":116,
+    "ja":"東サルタバルタ",
+    "search":"ESartabarta",
+    "en":"East Sarutabaruta"
+  },
+  "117":{
+    "id":117,
+    "ja":"タロンギ大峡谷",
+    "search":"Tahrongi",
+    "en":"Tahrongi Canyon"
+  },
+  "118":{
+    "id":118,
+    "ja":"ブブリム半島",
+    "search":"Buburimu",
+    "en":"Buburimu Peninsula"
+  },
+  "119":{
+    "id":119,
+    "ja":"メリファト山地",
+    "search":"Meriphataud",
+    "en":"Meriphataud Mountains"
+  },
+  "120":{
+    "id":120,
+    "ja":"ソロムグ原野",
+    "search":"Sauromugue",
+    "en":"Sauromugue Champaign"
+  },
+  "121":{
+    "id":121,
+    "ja":"聖地ジ・タ",
+    "search":"ZiTah",
+    "en":"The Sanctuary of Zi'Tah"
+  },
+  "122":{
+    "id":122,
+    "ja":"ロ・メーヴ",
+    "search":"RoMaeve",
+    "en":"Ro'Maeve"
+  },
+  "123":{
+    "id":123,
+    "ja":"ユタンガ大森林",
+    "search":"YuhtunJng",
+    "en":"Yuhtunga Jungle"
+  },
+  "124":{
+    "id":124,
+    "ja":"ヨアトル大森林",
+    "search":"YhoatorJng",
+    "en":"Yhoator Jungle"
+  },
+  "125":{
+    "id":125,
+    "ja":"西アルテパ砂漠",
+    "search":"WestAltepa",
+    "en":"Western Altepa Desert"
+  },
+  "126":{
+    "id":126,
+    "ja":"クフィム島",
+    "search":"Qufim",
+    "en":"Qufim Island"
+  },
+  "127":{
+    "id":127,
+    "ja":"ベヒーモスの縄張り",
+    "search":"BehemotDom",
+    "en":"Behemoth's Dominion"
+  },
+  "128":{
+    "id":128,
+    "ja":"慟哭の谷",
+    "search":"SorrowVall",
+    "en":"Valley of Sorrows"
+  },
+  "129":{
+    "id":129,
+    "ja":"ゴユの空洞",
+    "search":"GhoyusRev",
+    "en":"Ghoyu's Reverie"
+  },
+  "130":{
+    "id":130,
+    "ja":"ル・オンの庭",
+    "search":"RuAunGard",
+    "en":"Ru'Aun Gardens"
+  },
+  "131":{
+    "id":131,
+    "ja":"モルディオン監獄",
+    "search":"Mordion",
+    "en":"Mordion Gaol"
+  },
+  "132":{
+    "id":132,
+    "ja":"アビセア-ラテーヌ",
+    "search":"AbysLaThein",
+    "en":"Abyssea - La Theine"
+  },
+  "133":{
+    "id":133,
+    "ja":"ラ・カザナル宮外郭〔Ｕ２〕",
+    "search":"OutRaKaz_U2",
+    "en":"Outer Ra'Kaznar [U2]"
+  },
+  "134":{
+    "id":134,
+    "ja":"デュナミス-ボスディン",
+    "search":"DynamisBcd",
+    "en":"Dynamis - Beaucedine"
+  },
+  "135":{
+    "id":135,
+    "ja":"デュナミス-ザルカバード",
+    "search":"DynamisXar",
+    "en":"Dynamis - Xarcabard"
+  },
+  "136":{
+    "id":136,
+    "ja":"ボスディン氷河〔Ｓ〕",
+    "search":"BeaGlacier_S",
+    "en":"Beaucedine Glacier [S]"
+  },
+  "137":{
+    "id":137,
+    "ja":"ザルカバード〔Ｓ〕",
+    "search":"Xarcabard_S",
+    "en":"Xarcabard [S]"
+  },
+  "138":{
+    "id":138,
+    "ja":"ズヴァール城外郭〔Ｓ〕",
+    "search":"ZvBaileys_S",
+    "en":"Castle Zvahl Baileys [S]"
+  },
+  "139":{
+    "id":139,
+    "ja":"ホルレーの岩峰",
+    "search":"HorlaisPk",
+    "en":"Horlais Peak"
+  },
+  "140":{
+    "id":140,
+    "ja":"ゲルスバ野営陣",
+    "search":"GhelsbaOp",
+    "en":"Ghelsba Outpost"
+  },
+  "141":{
+    "id":141,
+    "ja":"ゲルスバ砦",
+    "search":"FtGhelsba",
+    "en":"Fort Ghelsba"
+  },
+  "142":{
+    "id":142,
+    "ja":"ユグホトの岩屋",
+    "search":"Yughott",
+    "en":"Yughott Grotto"
+  },
+  "143":{
+    "id":143,
+    "ja":"パルブロ鉱山",
+    "search":"Palborough",
+    "en":"Palborough Mines"
+  },
+  "144":{
+    "id":144,
+    "ja":"ワールンの祠",
+    "search":"Waughroon",
+    "en":"Waughroon Shrine"
+  },
+  "145":{
+    "id":145,
+    "ja":"ギデアス",
+    "search":"Giddeus",
+    "en":"Giddeus"
+  },
+  "146":{
+    "id":146,
+    "ja":"バルガの舞台",
+    "search":"BalgasDais",
+    "en":"Balga's Dais"
+  },
+  "147":{
+    "id":147,
+    "ja":"ベドー",
+    "search":"Beadeaux",
+    "en":"Beadeaux"
+  },
+  "148":{
+    "id":148,
+    "ja":"クゥルンの大伽藍",
+    "search":"QulunDome",
+    "en":"Qulun Dome"
+  },
+  "149":{
+    "id":149,
+    "ja":"ダボイ",
+    "search":"Davoi",
+    "en":"Davoi"
+  },
+  "150":{
+    "id":150,
+    "ja":"修道窟",
+    "search":"MonastiCav",
+    "en":"Monastic Cavern"
+  },
+  "151":{
+    "id":151,
+    "ja":"オズトロヤ城",
+    "search":"Oztroja",
+    "en":"Castle Oztroja"
+  },
+  "152":{
+    "id":152,
+    "ja":"祭壇の間",
+    "search":"AltarRoom",
+    "en":"Altar Room"
+  },
+  "153":{
+    "id":153,
+    "ja":"ボヤーダ樹",
+    "search":"Boyahda",
+    "en":"The Boyahda Tree"
+  },
+  "154":{
+    "id":154,
+    "ja":"龍のねぐら",
+    "search":"DragonAery",
+    "en":"Dragon's Aery"
+  },
+  "155":{
+    "id":155,
+    "ja":"ズヴァール城内郭〔Ｓ〕",
+    "search":"ZvKeep_S",
+    "en":"Castle Zvahl Keep [S]"
+  },
+  "156":{
+    "id":156,
+    "ja":"王の間〔Ｓ〕",
+    "search":"ThroneRm_S",
+    "en":"Throne Room [S]"
+  },
+  "157":{
+    "id":157,
+    "ja":"デルクフの塔中層",
+    "search":"MidDelkfut",
+    "en":"Middle Delkfutt's Tower"
+  },
+  "158":{
+    "id":158,
+    "ja":"デルクフの塔上層",
+    "search":"UpDelkfut",
+    "en":"Upper Delkfutt's Tower"
+  },
+  "159":{
+    "id":159,
+    "ja":"ウガレピ寺院",
+    "search":"Uggalepih",
+    "en":"Temple of Uggalepih"
+  },
+  "160":{
+    "id":160,
+    "ja":"怨念洞",
+    "search":"RancorDen",
+    "en":"Den of Rancor"
+  },
+  "161":{
+    "id":161,
+    "ja":"ズヴァール城外郭",
+    "search":"ZvahlBails",
+    "en":"Castle Zvahl Baileys"
+  },
+  "162":{
+    "id":162,
+    "ja":"ズヴァール城内郭",
+    "search":"ZvahlKeep",
+    "en":"Castle Zvahl Keep"
+  },
+  "163":{
+    "id":163,
+    "ja":"生贄の間",
+    "search":"SacriChamb",
+    "en":"Sacrificial Chamber"
+  },
+  "164":{
+    "id":164,
+    "ja":"ガルレージュ要塞〔Ｓ〕",
+    "search":"Garlaige_S",
+    "en":"Garlaige Citadel [S]"
+  },
+  "165":{
+    "id":165,
+    "ja":"王の間",
+    "search":"ThroneRoom",
+    "en":"Throne Room"
+  },
+  "166":{
+    "id":166,
+    "ja":"ラングモント峠",
+    "search":"Ranguemont",
+    "en":"Ranguemont Pass"
+  },
+  "167":{
+    "id":167,
+    "ja":"ボストーニュ監獄",
+    "search":"Bostaunieu",
+    "en":"Bostaunieux Oubliette"
+  },
+  "168":{
+    "id":168,
+    "ja":"宣託の間",
+    "search":"OracleChmb",
+    "en":"Chamber of Oracles"
+  },
+  "169":{
+    "id":169,
+    "ja":"トライマライ水路",
+    "search":"Toraimarai",
+    "en":"Toraimarai Canal"
+  },
+  "170":{
+    "id":170,
+    "ja":"満月の泉",
+    "search":"FullMoonFn",
+    "en":"Full Moon Fountain"
+  },
+  "171":{
+    "id":171,
+    "ja":"クロウラーの巣〔Ｓ〕",
+    "search":"CrawlNest_S",
+    "en":"Crawlers' Nest [S]"
+  },
+  "172":{
+    "id":172,
+    "ja":"ツェールン鉱山",
+    "search":"Zeruhn",
+    "en":"Zeruhn Mines"
+  },
+  "173":{
+    "id":173,
+    "ja":"コロロカの洞門",
+    "search":"Korroloka",
+    "en":"Korroloka Tunnel"
+  },
+  "174":{
+    "id":174,
+    "ja":"クフタルの洞門",
+    "search":"Kuftal",
+    "en":"Kuftal Tunnel"
+  },
+  "175":{
+    "id":175,
+    "ja":"エルディーム古墳〔Ｓ〕",
+    "search":"Eldieme_S",
+    "en":"The Eldieme Necropolis [S]"
+  },
+  "176":{
+    "id":176,
+    "ja":"海蛇の岩窟",
+    "search":"SeaGrotto",
+    "en":"Sea Serpent Grotto"
+  },
+  "177":{
+    "id":177,
+    "ja":"ヴェ・ルガノン宮殿",
+    "search":"VeLugannon",
+    "en":"Ve'Lugannon Palace"
+  },
+  "178":{
+    "id":178,
+    "ja":"ル・アビタウ神殿",
+    "search":"RuAvitau",
+    "en":"The Shrine of Ru'Avitau"
+  },
+  "179":{
+    "id":179,
+    "ja":"天輪の場",
+    "search":"StlrFulcrm",
+    "en":"Stellar Fulcrum"
+  },
+  "180":{
+    "id":180,
+    "ja":"ラ・ロフの劇場",
+    "search":"LaLoff",
+    "en":"La'Loff Amphitheater"
+  },
+  "181":{
+    "id":181,
+    "ja":"宿星の座",
+    "search":"CelesNexus",
+    "en":"The Celestial Nexus"
+  },
+  "182":{
+    "id":182,
+    "ja":"ウォークオブエコーズ",
+    "search":"WalkEchoes",
+    "en":"Walk of Echoes"
+  },
+  "183":{
+    "id":183,
+    "ja":"アブダルスの模型-レギオンA",
+    "search":"LegionA",
+    "en":"Maquette Abdhaljs-LegionA"
+  },
+  "184":{
+    "id":184,
+    "ja":"デルクフの塔下層",
+    "search":"LowDelkfut",
+    "en":"Lower Delkfutt's Tower"
+  },
+  "185":{
+    "id":185,
+    "ja":"デュナミス-サンドリア",
+    "search":"DynamisSan",
+    "en":"Dynamis - San d'Oria"
+  },
+  "186":{
+    "id":186,
+    "ja":"デュナミス-バストゥーク",
+    "search":"DynamisBas",
+    "en":"Dynamis - Bastok"
+  },
+  "187":{
+    "id":187,
+    "ja":"デュナミス-ウィンダス",
+    "search":"DynamisWin",
+    "en":"Dynamis - Windurst"
+  },
+  "188":{
+    "id":188,
+    "ja":"デュナミス-ジュノ",
+    "search":"DynamisJeu",
+    "en":"Dynamis - Jeuno"
+  },
+  "190":{
+    "id":190,
+    "ja":"龍王ランペールの墓",
+    "search":"RanpsTomb",
+    "en":"King Ranperre's Tomb"
+  },
+  "191":{
+    "id":191,
+    "ja":"ダングルフの涸れ谷",
+    "search":"Dangruf",
+    "en":"Dangruf Wadi"
+  },
+  "192":{
+    "id":192,
+    "ja":"内ホルトト遺跡",
+    "search":"InHorutoto",
+    "en":"Inner Horutoto Ruins"
+  },
+  "193":{
+    "id":193,
+    "ja":"オルデール鍾乳洞",
+    "search":"Ordelles",
+    "en":"Ordelle's Caves"
+  },
+  "194":{
+    "id":194,
+    "ja":"外ホルトト遺跡",
+    "search":"OutHorutot",
+    "en":"Outer Horutoto Ruins"
+  },
+  "195":{
+    "id":195,
+    "ja":"エルディーム古墳",
+    "search":"Eldieme",
+    "en":"The Eldieme Necropolis"
+  },
+  "196":{
+    "id":196,
+    "ja":"グスゲン鉱山",
+    "search":"Gusgen",
+    "en":"Gusgen Mines"
+  },
+  "197":{
+    "id":197,
+    "ja":"クロウラーの巣",
+    "search":"CrawlNest",
+    "en":"Crawlers' Nest"
+  },
+  "198":{
+    "id":198,
+    "ja":"シャクラミの地下迷宮",
+    "search":"Shakhrami",
+    "en":"Maze of Shakhrami"
+  },
+  "200":{
+    "id":200,
+    "ja":"ガルレージュ要塞",
+    "search":"Garlaige",
+    "en":"Garlaige Citadel"
+  },
+  "201":{
+    "id":201,
+    "ja":"突風の回廊",
+    "search":"ClstGales",
+    "en":"Cloister of Gales"
+  },
+  "202":{
+    "id":202,
+    "ja":"雷鳴の回廊",
+    "search":"ClstStorms",
+    "en":"Cloister of Storms"
+  },
+  "203":{
+    "id":203,
+    "ja":"凍結の回廊",
+    "search":"ClstFrost",
+    "en":"Cloister of Frost"
+  },
+  "204":{
+    "id":204,
+    "ja":"フェ・イン",
+    "search":"FeiYin",
+    "en":"Fei'Yin"
+  },
+  "205":{
+    "id":205,
+    "ja":"イフリートの釜",
+    "search":"IfritCldrn",
+    "en":"Ifrit's Cauldron"
+  },
+  "206":{
+    "id":206,
+    "ja":"ク・ビアの闘技場",
+    "search":"QuBiaArena",
+    "en":"Qu'Bia Arena"
+  },
+  "207":{
+    "id":207,
+    "ja":"灼熱の回廊",
+    "search":"ClstFlames",
+    "en":"Cloister of Flames"
+  },
+  "208":{
+    "id":208,
+    "ja":"流砂洞",
+    "search":"Quicksands",
+    "en":"Quicksand Caves"
+  },
+  "209":{
+    "id":209,
+    "ja":"震動の回廊",
+    "search":"ClstTremor",
+    "en":"Cloister of Tremors"
+  },
+  "211":{
+    "id":211,
+    "ja":"海流の回廊",
+    "search":"ClstTides",
+    "en":"Cloister of Tides"
+  },
+  "212":{
+    "id":212,
+    "ja":"グスタフの洞門",
+    "search":"Gustav",
+    "en":"Gustav Tunnel"
+  },
+  "213":{
+    "id":213,
+    "ja":"オンゾゾの迷路",
+    "search":"Onzozo",
+    "en":"Labyrinth of Onzozo"
+  },
+  "215":{
+    "id":215,
+    "ja":"アビセア-アットワ",
+    "search":"AbysAttohwa",
+    "en":"Abyssea - Attohwa"
+  },
+  "216":{
+    "id":216,
+    "ja":"アビセア-ミザレオ",
+    "search":"AbysMisar",
+    "en":"Abyssea - Misareaux"
+  },
+  "217":{
+    "id":217,
+    "ja":"アビセア-ブンカール",
+    "search":"AbysVunkerl",
+    "en":"Abyssea - Vunkerl"
+  },
+  "218":{
+    "id":218,
+    "ja":"アビセア-アルテパ",
+    "search":"AbysAltepa",
+    "en":"Abyssea - Altepa"
+  },
+  "220":{
+    "id":220,
+    "ja":"航路：セルビナ行き",
+    "search":"ShipToSelb",
+    "en":"Ship bound for Selbina"
+  },
+  "221":{
+    "id":221,
+    "ja":"航路：マウラ行き",
+    "search":"ShipToMhau",
+    "en":"Ship bound for Mhaura"
+  },
+  "222":{
+    "id":222,
+    "ja":"真界",
+    "search":"Provenance",
+    "en":"Provenance"
+  },
+  "223":{
+    "id":223,
+    "ja":"飛空艇航路",
+    "search":"Airship",
+    "en":"San d'Oria-Jeuno Airship"
+  },
+  "224":{
+    "id":224,
+    "ja":"飛空艇航路",
+    "search":"Airship",
+    "en":"Bastok-Jeuno Airship"
+  },
+  "225":{
+    "id":225,
+    "ja":"飛空艇航路",
+    "search":"Airship",
+    "en":"Windurst-Jeuno Airship"
+  },
+  "226":{
+    "id":226,
+    "ja":"飛空艇航路",
+    "search":"Airship",
+    "en":"Kazham-Jeuno Airship"
+  },
+  "227":{
+    "id":227,
+    "ja":"航路：セルビナ行き",
+    "search":"ShipToSelb",
+    "en":"Ship bound for Selbina"
+  },
+  "228":{
+    "id":228,
+    "ja":"航路：マウラ行き",
+    "search":"ShipToMhau",
+    "en":"Ship bound for Mhaura"
+  },
+  "229":{
+    "id":229,
+    "ja":"王の間〔Ｖ〕",
+    "search":"ThroneRm_V",
+    "en":"Throne Room [V]"
+  },
+  "230":{
+    "id":230,
+    "ja":"南サンドリア",
+    "search":"SSandOria",
+    "en":"Southern San d'Oria"
+  },
+  "231":{
+    "id":231,
+    "ja":"北サンドリア",
+    "search":"NSandOria",
+    "en":"Northern San d'Oria"
+  },
+  "232":{
+    "id":232,
+    "ja":"サンドリア港",
+    "search":"PSandOria",
+    "en":"Port San d'Oria"
+  },
+  "233":{
+    "id":233,
+    "ja":"ドラギーユ城",
+    "search":"ChatdOrag",
+    "en":"Chateau d'Oraguille"
+  },
+  "234":{
+    "id":234,
+    "ja":"バストゥーク鉱山区",
+    "search":"BastokMine",
+    "en":"Bastok Mines"
+  },
+  "235":{
+    "id":235,
+    "ja":"バストゥーク商業区",
+    "search":"BastokMark",
+    "en":"Bastok Markets"
+  },
+  "236":{
+    "id":236,
+    "ja":"バストゥーク港",
+    "search":"PortBastok",
+    "en":"Port Bastok"
+  },
+  "237":{
+    "id":237,
+    "ja":"大工房",
+    "search":"Metalworks",
+    "en":"Metalworks"
+  },
+  "238":{
+    "id":238,
+    "ja":"ウィンダス水の区",
+    "search":"WindWaters",
+    "en":"Windurst Waters"
+  },
+  "239":{
+    "id":239,
+    "ja":"ウィンダス石の区",
+    "search":"WindWalls",
+    "en":"Windurst Walls"
+  },
+  "240":{
+    "id":240,
+    "ja":"ウィンダス港",
+    "search":"PortWind",
+    "en":"Port Windurst"
+  },
+  "241":{
+    "id":241,
+    "ja":"ウィンダス森の区",
+    "search":"WindWoods",
+    "en":"Windurst Woods"
+  },
+  "242":{
+    "id":242,
+    "ja":"天の塔",
+    "search":"HeavenTowr",
+    "en":"Heavens Tower"
+  },
+  "243":{
+    "id":243,
+    "ja":"ル・ルデの庭",
+    "search":"RuLudeGard",
+    "en":"Ru'Lude Gardens"
+  },
+  "244":{
+    "id":244,
+    "ja":"ジュノ上層",
+    "search":"UpJeuno",
+    "en":"Upper Jeuno"
+  },
+  "245":{
+    "id":245,
+    "ja":"ジュノ下層",
+    "search":"LowJeuno",
+    "en":"Lower Jeuno"
+  },
+  "246":{
+    "id":246,
+    "ja":"ジュノ港",
+    "search":"PortJeuno",
+    "en":"Port Jeuno"
+  },
+  "247":{
+    "id":247,
+    "ja":"ラバオ",
+    "search":"Rabao",
+    "en":"Rabao"
+  },
+  "248":{
+    "id":248,
+    "ja":"セルビナ",
+    "search":"Selbina",
+    "en":"Selbina"
+  },
+  "249":{
+    "id":249,
+    "ja":"マウラ",
+    "search":"Mhaura",
+    "en":"Mhaura"
+  },
+  "250":{
+    "id":250,
+    "ja":"カザム",
+    "search":"Kazham",
+    "en":"Kazham"
+  },
+  "251":{
+    "id":251,
+    "ja":"神々の間",
+    "search":"HallOfGods",
+    "en":"Hall of the Gods"
+  },
+  "252":{
+    "id":252,
+    "ja":"ノーグ",
+    "search":"Norg",
+    "en":"Norg"
+  },
+  "253":{
+    "id":253,
+    "ja":"アビセア-ウルガラン",
+    "search":"AbysUleg",
+    "en":"Abyssea - Uleguerand"
+  },
+  "254":{
+    "id":254,
+    "ja":"アビセア-グロウベルグ",
+    "search":"AbysGraub",
+    "en":"Abyssea - Grauberg"
+  },
+  "255":{
+    "id":255,
+    "ja":"アビセア-天象の鎖",
+    "search":"AbysParadox",
+    "en":"Abyssea - Empyreal Paradox"
+  },
+  "256":{
+    "id":256,
+    "ja":"西アドゥリン",
+    "search":"WestAdoulin",
+    "en":"Western Adoulin"
+  },
+  "257":{
+    "id":257,
+    "ja":"東アドゥリン",
+    "search":"EastAdoulin",
+    "en":"Eastern Adoulin"
+  },
+  "258":{
+    "id":258,
+    "ja":"ララ水道",
+    "search":"Rala",
+    "en":"Rala Waterways"
+  },
+  "259":{
+    "id":259,
+    "ja":"ララ水道〔Ｕ〕",
+    "search":"Rala_U",
+    "en":"Rala Waterways [U]"
+  },
+  "260":{
+    "id":260,
+    "ja":"ヤッセの狩り場",
+    "search":"Yahse",
+    "en":"Yahse Hunting Grounds"
+  },
+  "261":{
+    "id":261,
+    "ja":"ケイザック古戦場",
+    "search":"Ceizak",
+    "en":"Ceizak Battlegrounds"
+  },
+  "262":{
+    "id":262,
+    "ja":"エヌティエル水林",
+    "search":"Hennetiel",
+    "en":"Foret de Hennetiel"
+  },
+  "263":{
+    "id":263,
+    "ja":"ヨルシア森林",
+    "search":"Yorcia",
+    "en":"Yorcia Weald"
+  },
+  "264":{
+    "id":264,
+    "ja":"ヨルシア森林〔Ｕ〕",
+    "search":"Yorcia_U",
+    "en":"Yorcia Weald [U]"
+  },
+  "265":{
+    "id":265,
+    "ja":"モリマー台地",
+    "search":"Morimar",
+    "en":"Morimar Basalt Fields"
+  },
+  "266":{
+    "id":266,
+    "ja":"マリアミ渓谷",
+    "search":"Marjami",
+    "en":"Marjami Ravine"
+  },
+  "267":{
+    "id":267,
+    "ja":"カミール山麓",
+    "search":"Kamihr",
+    "en":"Kamihr Drifts"
+  },
+  "268":{
+    "id":268,
+    "ja":"シィの門",
+    "search":"SihGates",
+    "en":"Sih Gates"
+  },
+  "269":{
+    "id":269,
+    "ja":"モーの門",
+    "search":"MohGates",
+    "en":"Moh Gates"
+  },
+  "270":{
+    "id":270,
+    "ja":"シルダス洞窟",
+    "search":"Cirdas",
+    "en":"Cirdas Caverns"
+  },
+  "271":{
+    "id":271,
+    "ja":"シルダス洞窟〔Ｕ〕",
+    "search":"Cirdas_U",
+    "en":"Cirdas Caverns [U]"
+  },
+  "272":{
+    "id":272,
+    "ja":"ドーの門",
+    "search":"DhoGates",
+    "en":"Dho Gates"
+  },
+  "273":{
+    "id":273,
+    "ja":"ウォーの門",
+    "search":"WohGates",
+    "en":"Woh Gates"
+  },
+  "274":{
+    "id":274,
+    "ja":"ラ・カザナル宮外郭",
+    "search":"OutRaKaz",
+    "en":"Outer Ra'Kaznar"
+  },
+  "275":{
+    "id":275,
+    "ja":"ラ・カザナル宮外郭〔Ｕ１〕",
+    "search":"OutRaKaz_U1",
+    "en":"Outer Ra'Kaznar [U1]"
+  },
+  "276":{
+    "id":276,
+    "ja":"ラ・カザナル宮内郭",
+    "search":"InRaKaz",
+    "en":"Ra'Kaznar Inner Court"
+  },
+  "277":{
+    "id":277,
+    "ja":"ラ・カザナル宮天守",
+    "search":"RaKazTurris",
+    "en":"Ra'Kaznar Turris"
+  },
+  "279":{
+    "id":279,
+    "ja":"ウォークオブエコーズ〔Ｐ２〕",
+    "search":"WlkEchoes_P2",
+    "en":"Walk of Echoes [P2]"
+  },
+  "280":{
+    "id":280,
+    "ja":"モグガーデン",
+    "search":"MogGarden",
+    "en":"Mog Garden"
+  },
+  "281":{
+    "id":281,
+    "ja":"リファーリア",
+    "search":"Leafallia",
+    "en":"Leafallia"
+  },
+  "282":{
+    "id":282,
+    "ja":"カミール山",
+    "search":"MtKamihr",
+    "en":"Mount Kamihr"
+  },
+  "283":{
+    "id":283,
+    "ja":"シルバー・ナイフ",
+    "search":"SilverKnife",
+    "en":"Silver Knife"
+  },
+  "284":{
+    "id":284,
+    "ja":"セレニア図書館",
+    "search":"Celennia",
+    "en":"Celennia Memorial Library"
+  },
+  "285":{
+    "id":285,
+    "ja":"魂の聖櫃",
+    "search":"Feretory",
+    "en":"Feretory"
+  },
+  "287":{
+    "id":287,
+    "ja":"アブダルスの模型-レギオンB",
+    "search":"LegionB",
+    "en":"Maquette Abdhaljs-LegionB"
+  },
+  "288":{
+    "id":288,
+    "ja":"エスカ-ジ・タ",
+    "search":"EschaZiTah",
+    "en":"Escha - Zi'Tah"
+  },
+  "289":{
+    "id":289,
+    "ja":"エスカ-ル・オン",
+    "search":"EschaRuAun",
+    "en":"Escha - Ru'Aun"
+  },
+  "290":{
+    "id":290,
+    "ja":"デスエチア-天象の鎖",
+    "search":"DesParadox",
+    "en":"Desuetia - Empyreal Paradox"
+  },
+  "291":{
+    "id":291,
+    "ja":"醴泉島",
+    "search":"Reisenjima",
+    "en":"Reisenjima"
+  },
+  "292":{
+    "id":292,
+    "ja":"醴泉島-秘境",
+    "search":"ReisenHenge",
+    "en":"Reisenjima Henge"
+  },
+  "293":{
+    "id":293,
+    "ja":"醴泉島の祠",
+    "search":"ReisenSanc",
+    "en":"Reisenjima Sanctorium"
+  },
+  "294":{
+    "id":294,
+    "ja":"デュナミス-サンドリア〔Ｄ〕",
+    "search":"DynamisSan_D",
+    "en":"Dynamis - San d'Oria [D]"
+  },
+  "295":{
+    "id":295,
+    "ja":"デュナミス-バストゥーク〔Ｄ〕",
+    "search":"DynamisBas_D",
+    "en":"Dynamis - Bastok [D]"
+  },
+  "296":{
+    "id":296,
+    "ja":"デュナミス-ウィンダス〔Ｄ〕",
+    "search":"DynamisWin_D",
+    "en":"Dynamis - Windurst [D]"
+  },
+  "297":{
+    "id":297,
+    "ja":"デュナミス-ジュノ〔Ｄ〕",
+    "search":"DynamisJeu_D",
+    "en":"Dynamis - Jeuno [D]"
+  },
+  "298":{
+    "id":298,
+    "ja":"ウォークオブエコーズ〔Ｐ１〕",
+    "search":"WlkEchoes_P1",
+    "en":"Walk of Echoes [P1]"
+  },
+  "0":{
+    "id":0,
+    "ja":"unknown",
+    "search":"unknown",
+    "en":"unknown"
+  }
+}

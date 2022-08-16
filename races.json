@@ -1,0 +1,104 @@
+{
+  "1":{
+    "id":1,
+    "ja":"ヒューム♂",
+    "gender":"♂",
+    "en":"Hume ♂"
+  },
+  "2":{
+    "id":2,
+    "ja":"ヒューム♀",
+    "gender":"♀",
+    "en":"Hume ♀"
+  },
+  "3":{
+    "id":3,
+    "ja":"エㇽバン♂",
+    "gender":"♂",
+    "en":"Elvaan ♂"
+  },
+  "4":{
+    "id":4,
+    "ja":"エㇽバン♀",
+    "gender":"♀",
+    "en":"Elvaan ♀"
+  },
+  "5":{
+    "id":5,
+    "ja":"タルタル♂",
+    "gender":"♂",
+    "en":"Tarutaru ♂"
+  },
+  "6":{
+    "id":6,
+    "ja":"タルタル♀",
+    "gender":"♀",
+    "en":"Tarutaru ♀"
+  },
+  "7":{
+    "id":7,
+    "ja":"ミスラ",
+    "gender":"♀",
+    "en":"Mithra"
+  },
+  "8":{
+    "id":8,
+    "ja":"ガㇽカ",
+    "gender":"♂",
+    "en":"Galka"
+  },
+  "0":{
+    "id":0,
+    "ja":"合成済みのNPC",
+    "gender":"None",
+    "en":"Precomposed NPC"
+  },
+  "33":{
+    "id":33,
+    "ja":"チョコボ黒",
+    "gender":"None",
+    "en":"Chocobo Destrier"
+  },
+  "35":{
+    "id":35,
+    "ja":"チョコボ青",
+    "gender":"None",
+    "en":"Chocobo Courser"
+  },
+  "29":{
+    "id":29,
+    "ja":"ミスラの子",
+    "gender":"♀",
+    "en":"Mithra Child"
+  },
+  "30":{
+    "id":30,
+    "ja":"エㇽ・ヒュームの子♀",
+    "gender":"♀",
+    "en":"Elvaan Hume Child ♀"
+  },
+  "31":{
+    "id":31,
+    "ja":"エㇽ・ヒュームの子♂",
+    "gender":"♂",
+    "en":"Elvaan Hume Child ♂"
+  },
+  "32":{
+    "id":32,
+    "ja":"チョコボ黄",
+    "gender":"None",
+    "en":"Chocobo Rounsey"
+  },
+  "34":{
+    "id":34,
+    "ja":"チョコボ赤",
+    "gender":"None",
+    "en":"Chocobo Palfrey"
+  },
+  "36":{
+    "id":36,
+    "ja":"チョコボ緑",
+    "gender":"None",
+    "en":"Chocobo Jennet"
+  }
+}

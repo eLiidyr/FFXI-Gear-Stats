@@ -1,0 +1,308 @@
+{
+  "1":{
+    "ja":"ラプトル",
+    "jadesc":"ラプトルを呼び出す。",
+    "icon_id":87,
+    "id":1,
+    "prefix":"/mount",
+    "en":"Raptor",
+    "endesc":"Calls forth a raptor."
+  },
+  "2":{
+    "ja":"剣虎",
+    "jadesc":"剣虎を呼び出す。",
+    "icon_id":87,
+    "id":2,
+    "prefix":"/mount",
+    "en":"Tiger",
+    "endesc":"Calls forth a tiger."
+  },
+  "3":{
+    "ja":"クラブ",
+    "jadesc":"クラブを呼び出す。",
+    "icon_id":87,
+    "id":3,
+    "prefix":"/mount",
+    "en":"Crab",
+    "endesc":"Calls forth a crab."
+  },
+  "4":{
+    "ja":"赤クラブ",
+    "jadesc":"赤クラブを呼び出す。",
+    "icon_id":87,
+    "id":4,
+    "prefix":"/mount",
+    "en":"Red Crab",
+    "endesc":"Calls forth a red crab."
+  },
+  "5":{
+    "ja":"ボム",
+    "jadesc":"ボムを呼び出す。",
+    "icon_id":87,
+    "id":5,
+    "prefix":"/mount",
+    "en":"Bomb",
+    "endesc":"Calls forth a bomb."
+  },
+  "6":{
+    "ja":"大羊",
+    "jadesc":"大羊を呼び出す。",
+    "icon_id":87,
+    "id":6,
+    "prefix":"/mount",
+    "en":"Sheep",
+    "endesc":"Calls forth a sheep."
+  },
+  "7":{
+    "ja":"モルボル",
+    "jadesc":"モルボルを呼び出す。",
+    "icon_id":87,
+    "id":7,
+    "prefix":"/mount",
+    "en":"Morbol",
+    "endesc":"Calls forth a morbol."
+  },
+  "8":{
+    "ja":"クロウラー",
+    "jadesc":"クロウラーを呼び出す。",
+    "icon_id":87,
+    "id":8,
+    "prefix":"/mount",
+    "en":"Crawler",
+    "endesc":"Calls forth a crawler."
+  },
+  "9":{
+    "ja":"フェンリル",
+    "jadesc":"フェンリルを呼び出す。",
+    "icon_id":87,
+    "id":9,
+    "prefix":"/mount",
+    "en":"Fenrir",
+    "endesc":"Calls forth Fenrir."
+  },
+  "10":{
+    "ja":"甲虫",
+    "jadesc":"甲虫を呼び出す。",
+    "icon_id":87,
+    "id":10,
+    "prefix":"/mount",
+    "en":"Beetle",
+    "endesc":"Calls forth a beetle."
+  },
+  "11":{
+    "ja":"モーグリ",
+    "jadesc":"モーグリを呼び出す。",
+    "icon_id":87,
+    "id":11,
+    "prefix":"/mount",
+    "en":"Moogle",
+    "endesc":"Calls forth a moogle."
+  },
+  "12":{
+    "ja":"マジックポット",
+    "jadesc":"マジックポットを呼び出す。",
+    "icon_id":87,
+    "id":12,
+    "prefix":"/mount",
+    "en":"Magic Pot",
+    "endesc":"Calls forth a magic pot."
+  },
+  "13":{
+    "ja":"トゥルフェイア",
+    "jadesc":"トゥルフェイアを呼び出す。",
+    "icon_id":87,
+    "id":13,
+    "prefix":"/mount",
+    "en":"Tulfaire",
+    "endesc":"Calls forth a tulfaire."
+  },
+  "14":{
+    "ja":"ウォーマシン",
+    "jadesc":"ウォーマシンを呼び出す。",
+    "icon_id":87,
+    "id":14,
+    "prefix":"/mount",
+    "en":"Warmachine",
+    "endesc":"Calls forth a warmachine."
+  },
+  "15":{
+    "ja":"ゾミト",
+    "jadesc":"ゾミトを呼び出す。",
+    "icon_id":87,
+    "id":15,
+    "prefix":"/mount",
+    "en":"Xzomit",
+    "endesc":"Calls forth a xzomit."
+  },
+  "16":{
+    "ja":"ヒポグリフ",
+    "jadesc":"ヒポグリフを呼び出す。",
+    "icon_id":87,
+    "id":16,
+    "prefix":"/mount",
+    "en":"Hippogryph",
+    "endesc":"Calls forth a hippogryph."
+  },
+  "17":{
+    "ja":"悪霊の椅子",
+    "jadesc":"悪霊の椅子を呼び出す。",
+    "icon_id":87,
+    "id":17,
+    "prefix":"/mount",
+    "en":"Spectral Chair",
+    "endesc":"Calls forth a spectral chair."
+  },
+  "18":{
+    "ja":"スフィアロイド",
+    "jadesc":"スフィアロイドを呼び出す。",
+    "icon_id":87,
+    "id":18,
+    "prefix":"/mount",
+    "en":"Spheroid",
+    "endesc":"Calls forth a spheroid."
+  },
+  "19":{
+    "ja":"オメガ",
+    "jadesc":"オメガを呼び出す。",
+    "icon_id":87,
+    "id":19,
+    "prefix":"/mount",
+    "en":"Omega",
+    "endesc":"Calls forth Omega."
+  },
+  "20":{
+    "ja":"クァール",
+    "jadesc":"クァールを呼び出す。",
+    "icon_id":87,
+    "id":20,
+    "prefix":"/mount",
+    "en":"Coeurl",
+    "endesc":"Calls forth a coeurl."
+  },
+  "21":{
+    "ja":"グゥーブー",
+    "jadesc":"グゥーブーを呼び出す。",
+    "icon_id":87,
+    "id":21,
+    "prefix":"/mount",
+    "en":"Goobbue",
+    "endesc":"Calls forth a goobbue."
+  },
+  "22":{
+    "ja":"ラズ",
+    "jadesc":"ラズを呼び出す。",
+    "icon_id":87,
+    "id":22,
+    "prefix":"/mount",
+    "en":"Raaz",
+    "endesc":"Calls forth a raaz."
+  },
+  "23":{
+    "ja":"レヴィデイス",
+    "jadesc":"レヴィデイスを呼び出す。",
+    "icon_id":87,
+    "id":23,
+    "prefix":"/mount",
+    "en":"Levitus",
+    "endesc":"Calls forth the Levitus."
+  },
+  "24":{
+    "ja":"アダマンタス",
+    "jadesc":"アダマンタスを呼び出す。",
+    "icon_id":87,
+    "id":24,
+    "prefix":"/mount",
+    "en":"Adamantoise",
+    "endesc":"Calls forth an adamantoise."
+  },
+  "25":{
+    "ja":"ダルメル",
+    "jadesc":"ダルメルを呼び出す。",
+    "icon_id":87,
+    "id":25,
+    "prefix":"/mount",
+    "en":"Dhalmel",
+    "endesc":"Calls forth a dhalmel."
+  },
+  "26":{
+    "ja":"ドール",
+    "jadesc":"ドールを呼び出す。",
+    "icon_id":87,
+    "id":26,
+    "prefix":"/mount",
+    "en":"Doll",
+    "endesc":"Calls forth a doll."
+  },
+  "27":{
+    "ja":"ゴールデンボム",
+    "jadesc":"ゴールデンボムを呼び出す。",
+    "icon_id":87,
+    "id":27,
+    "prefix":"/mount",
+    "en":"Golden Bomb",
+    "endesc":"Calls forth a golden bomb."
+  },
+  "28":{
+    "ja":"バッファロー",
+    "jadesc":"バッファローを呼び出す。",
+    "icon_id":87,
+    "id":28,
+    "prefix":"/mount",
+    "en":"Buffalo",
+    "endesc":"Calls forth a buffalo."
+  },
+  "29":{
+    "ja":"ウィヴル",
+    "jadesc":"ウィヴルを呼び出す。",
+    "icon_id":87,
+    "id":29,
+    "prefix":"/mount",
+    "en":"Wivre",
+    "endesc":"Calls forth a wivre."
+  },
+  "30":{
+    "ja":"赤ラプトル",
+    "jadesc":"赤ラプトルを呼び出す。",
+    "icon_id":87,
+    "id":30,
+    "prefix":"/mount",
+    "en":"Red Raptor",
+    "endesc":"Calls forth a red raptor."
+  },
+  "31":{
+    "ja":"鉄巨人",
+    "jadesc":"鉄巨人を呼び出す。",
+    "icon_id":87,
+    "id":31,
+    "prefix":"/mount",
+    "en":"Iron Giant",
+    "endesc":"Calls forth an iron giant."
+  },
+  "32":{
+    "ja":"白虎",
+    "jadesc":"白虎を呼び出す。",
+    "icon_id":87,
+    "id":32,
+    "prefix":"/mount",
+    "en":"Byakko",
+    "endesc":"Calls forth Byakko."
+  },
+  "0":{
+    "ja":"マイチョコボ",
+    "jadesc":"マイチョコボを呼び出す。",
+    "icon_id":86,
+    "id":0,
+    "prefix":"/mount",
+    "en":"Chocobo",
+    "endesc":"Calls forth your personal chocobo."
+  },
+  "33":{
+    "ja":"ノーブルチョコボ",
+    "jadesc":"ノーブルチョコボを呼び出す。",
+    "icon_id":86,
+    "id":33,
+    "prefix":"/mount",
+    "en":"Noble Chocobo",
+    "endesc":"Calls forth a noble chocobo."
+  }
+}

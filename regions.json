@@ -1,0 +1,277 @@
+{
+  "1":{
+    "id":1,
+    "ja":"バストゥーク共和国",
+    "en":"Bastok"
+  },
+  "2":{
+    "id":2,
+    "ja":"ウィンダス連邦",
+    "en":"Windurst"
+  },
+  "3":{
+    "id":3,
+    "ja":"ジュノ大公国",
+    "en":"Jeuno"
+  },
+  "4":{
+    "id":4,
+    "ja":"ロンフォール",
+    "en":"Ronfaure"
+  },
+  "5":{
+    "id":5,
+    "ja":"ザルクヘイム",
+    "en":"Zulkheim"
+  },
+  "6":{
+    "id":6,
+    "ja":"ノルバレン",
+    "en":"Norvallen"
+  },
+  "7":{
+    "id":7,
+    "ja":"グスタベルグ",
+    "en":"Gustaberg"
+  },
+  "8":{
+    "id":8,
+    "ja":"デルフラント",
+    "en":"Derfland"
+  },
+  "9":{
+    "id":9,
+    "ja":"サルタバルタ",
+    "en":"Sarutabaruta"
+  },
+  "10":{
+    "id":10,
+    "ja":"コルシュシュ",
+    "en":"Kolshushu"
+  },
+  "11":{
+    "id":11,
+    "ja":"アラゴーニュ",
+    "en":"Aragoneu"
+  },
+  "12":{
+    "id":12,
+    "ja":"フォルガンディ",
+    "en":"Fauregandi"
+  },
+  "13":{
+    "id":13,
+    "ja":"バルドニア",
+    "en":"Valdeaunia"
+  },
+  "14":{
+    "id":14,
+    "ja":"クフィム",
+    "en":"Qufim"
+  },
+  "15":{
+    "id":15,
+    "ja":"リ・テロア",
+    "en":"Li'Telor"
+  },
+  "16":{
+    "id":16,
+    "ja":"クゾッツ",
+    "en":"Kuzotz"
+  },
+  "17":{
+    "id":17,
+    "ja":"ヴォルボー",
+    "en":"Vollbow"
+  },
+  "18":{
+    "id":18,
+    "ja":"低地エルシモ",
+    "en":"Elshimo Lowlands"
+  },
+  "19":{
+    "id":19,
+    "ja":"高地エルシモ",
+    "en":"Elshimo Uplands"
+  },
+  "20":{
+    "id":20,
+    "ja":"トゥー・リア",
+    "en":"Tu'Lia"
+  },
+  "21":{
+    "id":21,
+    "ja":"デュナミス",
+    "en":"Dynamis"
+  },
+  "22":{
+    "id":22,
+    "ja":"ムバルポロス",
+    "en":"Movalpolos"
+  },
+  "23":{
+    "id":23,
+    "ja":"タブナジア侯国",
+    "en":"Tavnazian Marquisate"
+  },
+  "24":{
+    "id":24,
+    "ja":"タブナジア群島",
+    "en":"Tavnazian Archipelago"
+  },
+  "25":{
+    "id":25,
+    "ja":"プロミヴォン",
+    "en":"Promyvion"
+  },
+  "26":{
+    "id":26,
+    "ja":"ルモリア",
+    "en":"Lumoria"
+  },
+  "27":{
+    "id":27,
+    "ja":"リンバス",
+    "en":"Limbus"
+  },
+  "28":{
+    "id":28,
+    "ja":"アトルガン皇国",
+    "en":"Empire of Aht Urhgan"
+  },
+  "29":{
+    "id":29,
+    "ja":"西アトルガン地方",
+    "en":"West Aht Urhgan"
+  },
+  "30":{
+    "id":30,
+    "ja":"マムージャ蕃国",
+    "en":"Mamool Ja Savagelands"
+  },
+  "31":{
+    "id":31,
+    "ja":"ハルブーン傭兵団領",
+    "en":"Halvung Territory"
+  },
+  "32":{
+    "id":32,
+    "ja":"アラパゴ諸島",
+    "en":"Arrapago Islands"
+  },
+  "33":{
+    "id":33,
+    "ja":"アルザダール文明遺跡群",
+    "en":"Ruins of Alzadaal"
+  },
+  "34":{
+    "id":34,
+    "ja":"ロンフォール戦線",
+    "en":"The Ronfaure Front"
+  },
+  "35":{
+    "id":35,
+    "ja":"ノルバレン戦線",
+    "en":"The Norvallen Front"
+  },
+  "36":{
+    "id":36,
+    "ja":"グスタベルグ戦線",
+    "en":"The Gustaberg Front"
+  },
+  "37":{
+    "id":37,
+    "ja":"デルフラント戦線",
+    "en":"The Derfland Front"
+  },
+  "38":{
+    "id":38,
+    "ja":"サルタバルタ戦線",
+    "en":"The Sarutabaruta Front"
+  },
+  "39":{
+    "id":39,
+    "ja":"アラゴーニュ戦線",
+    "en":"The Aragoneu Front"
+  },
+  "40":{
+    "id":40,
+    "ja":"フォルガンディ戦線",
+    "en":"The Fauregandi Front"
+  },
+  "41":{
+    "id":41,
+    "ja":"バルドニア戦線",
+    "en":"The Valdeaunia Front"
+  },
+  "42":{
+    "id":42,
+    "ja":"オーク帝国軍",
+    "en":"Orcish Hosts"
+  },
+  "43":{
+    "id":43,
+    "ja":"クゥダフ兵団",
+    "en":"Quadav Shieldwarriors"
+  },
+  "44":{
+    "id":44,
+    "ja":"ヤグード教団軍",
+    "en":"Yagudo Theomilitary"
+  },
+  "45":{
+    "id":45,
+    "ja":"闇の王親衛隊",
+    "en":"Dark Kindred"
+  },
+  "46":{
+    "id":46,
+    "ja":"アビセア",
+    "en":"Abyssea"
+  },
+  "47":{
+    "id":47,
+    "ja":"スレッショルド",
+    "en":"The Threshold"
+  },
+  "48":{
+    "id":48,
+    "ja":"アブダルス",
+    "en":"Abdhaljs"
+  },
+  "49":{
+    "id":49,
+    "ja":"神聖アドゥリン都市同盟",
+    "en":"The Sacred City of Adoulin"
+  },
+  "50":{
+    "id":50,
+    "ja":"アドゥリン諸島",
+    "en":"The Adoulin Islands"
+  },
+  "51":{
+    "id":51,
+    "ja":"東ウルブカ地方",
+    "en":"East Ulbuka Territory"
+  },
+  "52":{
+    "id":52,
+    "ja":"ラ・カザナル",
+    "en":"Ra'Kaznar"
+  },
+  "53":{
+    "id":53,
+    "ja":"エスカ",
+    "en":"Escha"
+  },
+  "54":{
+    "id":54,
+    "ja":"ひんがし",
+    "en":"Far East"
+  },
+  "0":{
+    "id":0,
+    "ja":"サンドリア王国",
+    "en":"San d'Oria"
+  }
+}

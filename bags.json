@@ -1,0 +1,128 @@
+{
+  "1":{
+    "access":"Mog House",
+    "id":1,
+    "equippable":false,
+    "command":"bank",
+    "en":"Safe"
+  },
+  "2":{
+    "access":"Mog House",
+    "id":2,
+    "equippable":false,
+    "command":"storage",
+    "en":"Storage"
+  },
+  "3":{
+    "access":"Situational",
+    "id":3,
+    "equippable":false,
+    "command":"temporary",
+    "en":"Temporary"
+  },
+  "4":{
+    "access":"Mog House",
+    "id":4,
+    "equippable":false,
+    "command":"locker",
+    "en":"Locker"
+  },
+  "5":{
+    "access":"Everywhere",
+    "id":5,
+    "equippable":false,
+    "command":"satchel",
+    "en":"Satchel"
+  },
+  "6":{
+    "access":"Everywhere",
+    "id":6,
+    "equippable":false,
+    "command":"sack",
+    "en":"Sack"
+  },
+  "7":{
+    "access":"Everywhere",
+    "id":7,
+    "equippable":false,
+    "command":"case",
+    "en":"Case"
+  },
+  "8":{
+    "access":"Everywhere",
+    "id":8,
+    "equippable":true,
+    "command":"wardrobe",
+    "en":"Wardrobe"
+  },
+  "9":{
+    "access":"Mog House",
+    "id":9,
+    "equippable":false,
+    "command":"bank2",
+    "en":"Safe 2"
+  },
+  "10":{
+    "access":"Everywhere",
+    "id":10,
+    "equippable":true,
+    "command":"wardrobe2",
+    "en":"Wardrobe 2"
+  },
+  "11":{
+    "access":"Everywhere",
+    "id":11,
+    "equippable":true,
+    "command":"wardrobe3",
+    "en":"Wardrobe 3"
+  },
+  "12":{
+    "access":"Everywhere",
+    "id":12,
+    "equippable":true,
+    "command":"wardrobe4",
+    "en":"Wardrobe 4"
+  },
+  "13":{
+    "access":"Everywhere",
+    "id":13,
+    "equippable":true,
+    "command":"wardrobe5",
+    "en":"Wardrobe 5"
+  },
+  "14":{
+    "access":"Everywhere",
+    "id":14,
+    "equippable":true,
+    "command":"wardrobe6",
+    "en":"Wardrobe 6"
+  },
+  "15":{
+    "access":"Everywhere",
+    "id":15,
+    "equippable":true,
+    "command":"wardrobe7",
+    "en":"Wardrobe 7"
+  },
+  "16":{
+    "access":"Everywhere",
+    "id":16,
+    "equippable":true,
+    "command":"wardrobe8",
+    "en":"Wardrobe 8"
+  },
+  "17":{
+    "access":"Everywhere",
+    "id":17,
+    "equippable":false,
+    "command":"recycle",
+    "en":"Recycle"
+  },
+  "0":{
+    "access":"Everywhere",
+    "id":0,
+    "equippable":true,
+    "command":"inventory",
+    "en":"Inventory"
+  }
+}

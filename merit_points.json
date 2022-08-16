@@ -1,0 +1,2074 @@
+{
+  "222":{
+    "ja":"ガードスキル",
+    "jadesc":"能力値1でガードスキルを2ポイントアップします。",
+    "id":222,
+    "en":"Guarding Skill",
+    "endesc":"Adjust your guarding skill by 2 points."
+  },
+  "64":{
+    "ja":"HP上限",
+    "jadesc":"能力値1でHP上限を10ポイントアップします。",
+    "id":64,
+    "en":"Max HP",
+    "endesc":"Adjust your maximum HP by 10 points."
+  },
+  "128":{
+    "ja":"STR",
+    "jadesc":"能力値1でSTRを1ポイントアップします。",
+    "id":128,
+    "en":"STR",
+    "endesc":"Adjust your STR by 1 point."
+  },
+  "192":{
+    "ja":"格闘スキル",
+    "jadesc":"能力値1で格闘スキルを2ポイントアップします。",
+    "id":192,
+    "en":"Hand-to-Hand Skill",
+    "endesc":"Adjust your hand-to-hand skill by 2 points."
+  },
+  "224":{
+    "ja":"回避スキル",
+    "jadesc":"能力値1で回避スキルを2ポイントアップします。",
+    "id":224,
+    "en":"Evasion Skill",
+    "endesc":"Adjust your evasion skill by 2 points."
+  },
+  "256":{
+    "ja":"神聖魔法スキル",
+    "jadesc":"能力値1で神聖魔法スキルを2ポイントアップします。",
+    "id":256,
+    "en":"Divine Magic Skill",
+    "endesc":"Adjust your divine magic skill by 2 points."
+  },
+  "320":{
+    "ja":"敵対心+",
+    "jadesc":"能力値1で敵対心を+1します。",
+    "id":320,
+    "en":"Enmity Increase",
+    "endesc":"Increase your enmity 1 point."
+  },
+  "384":{
+    "ja":"バーサク使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":384,
+    "en":"Berserk Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "448":{
+    "ja":"集中使用間隔",
+    "jadesc":"能力値1で使用間隔を4秒短縮します。",
+    "id":448,
+    "en":"Focus Recast",
+    "endesc":"Shorten recast time by 4 seconds."
+  },
+  "512":{
+    "ja":"女神の印使用間隔",
+    "jadesc":"能力値1で使用間隔を20秒短縮します。",
+    "id":512,
+    "en":"Divine Seal Recast",
+    "endesc":"Shorten recast time by 20 seconds."
+  },
+  "640":{
+    "ja":"コンバート使用間隔",
+    "jadesc":"能力値1で使用間隔を20秒短縮します。",
+    "id":640,
+    "en":"Convert Recast",
+    "endesc":"Shorten recast time by 20 seconds."
+  },
+  "768":{
+    "ja":"シールドバッシュ使用間隔",
+    "jadesc":"能力値1で使用間隔を2秒短縮します。",
+    "id":768,
+    "en":"Shield Bash Recast",
+    "endesc":"Shorten recast time by 2 seconds."
+  },
+  "896":{
+    "ja":"キラー確率",
+    "jadesc":"能力値1で所持するキラー確率を1%アップします。",
+    "id":896,
+    "en":"Killer Effects",
+    "endesc":"Increase intimidation rate on all killer effects by 1 percent."
+  },
+  "1024":{
+    "ja":"スカベンジ効果",
+    "jadesc":"能力値1で矢弾回収率を5%アップします。",
+    "id":1024,
+    "en":"Scavenge Effect",
+    "endesc":"Increase the chance of finding ammunition by 5 percent."
+  },
+  "1280":{
+    "ja":"召喚獣物理命中率",
+    "jadesc":"能力値1で召喚獣の物理命中率を+3します。",
+    "id":1280,
+    "en":"Avatar Physical Accuracy",
+    "endesc":"Increase avatars' physical accuracy by 3."
+  },
+  "1536":{
+    "ja":"ステップ命中率",
+    "jadesc":"能力値1でステップの命中率を+3します。",
+    "id":1536,
+    "en":"Step Accuracy",
+    "endesc":"Increase the accuracy of Steps by 3."
+  },
+  "1792":{
+    "ja":"エンチャントルーン効果",
+    "jadesc":"能力値1でエンチャントルーンの属性耐性を+2します",
+    "id":1792,
+    "en":"Rune Enchantment Effect",
+    "endesc":"Increase potency of runes harbored by 2 points."
+  },
+  "514":{
+    "ja":"ケアル詠唱時間",
+    "jadesc":"能力値1でケアルの詠唱時間を4%短縮します。",
+    "id":514,
+    "en":"Cure Cast Time",
+    "endesc":"Shorten cast time of all Cure spells by 4 percent."
+  },
+  "642":{
+    "ja":"火属性魔法命中率",
+    "jadesc":"能力値1で火属性魔法命中率を+3します。",
+    "id":642,
+    "en":"Fire Magic Accuracy",
+    "endesc":"Increase the accuracy of Fire spells by 3."
+  },
+  "770":{
+    "ja":"ホーリーサークル使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":770,
+    "en":"Holy Circle Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "898":{
+    "ja":"いたわる使用間隔",
+    "jadesc":"能力値1で使用間隔を3秒短縮します。",
+    "id":898,
+    "en":"Reward Recast",
+    "endesc":"Shorten recast time by 3 seconds."
+  },
+  "3074":{
+    "ja":"フォールド",
+    "jadesc":"自身のかけたバストかロールを1つ消す。\nバストが優先して消され、ロールは残りの効果時間の\n長いほうを消す。使用間隔:5分\n能力値1でファントムロールの使用間隔をリセット\nする確率が10%アップします。",
+    "id":3074,
+    "en":"Fold",
+    "endesc":"Erases one roll or bust effect.\nBusts will be removed first, while if a roll is erased, the one with the longest remaining duration will be chosen. Recast: 5min.\nIncrease chance of resetting Phantom Roll recast timer by 10%."
+  },
+  "322":{
+    "ja":"敵対心-",
+    "jadesc":"能力値1で敵対心を-1します。",
+    "id":322,
+    "en":"Enmity Decrease",
+    "endesc":"Decrease your enmity 1 point."
+  },
+  "386":{
+    "ja":"ディフェンダー使用間隔",
+    "jadesc":"能力値1で使用間隔を6秒短縮します。",
+    "id":386,
+    "en":"Defender Recast",
+    "endesc":"Shorten recast time by 6 seconds."
+  },
+  "2566":{
+    "ja":"ビーストヒーラー",
+    "jadesc":"いたわるによるリジェネ効果をアップ。\n能力値1でリジェネ量を+1します。",
+    "id":2566,
+    "en":"Beast Healer",
+    "endesc":"Enhances the Regen effect of Reward. Increase Regen amount by 1."
+  },
+  "516":{
+    "ja":"属性耐性魔法効果",
+    "jadesc":"能力値1で属性耐性魔法の属性耐性、および魔法防御力を+2します。",
+    "id":516,
+    "en":"Bar Spell Effect",
+    "endesc":"Increase potency of Bar spells and add a magic defense bonus of 2 points."
+  },
+  "644":{
+    "ja":"氷属性魔法命中率",
+    "jadesc":"能力値1で氷属性魔法命中率を+3します。",
+    "id":644,
+    "en":"Ice Magic Accuracy",
+    "endesc":"Increase the accuracy of Ice spells by 3."
+  },
+  "772":{
+    "ja":"センチネル使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":772,
+    "en":"Sentinel Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "900":{
+    "ja":"よびだす使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":900,
+    "en":"Call Beast Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "1032":{
+    "ja":"ラピッドショット確率",
+    "jadesc":"能力値1でラピッドショット確率を1%アップします。",
+    "id":1032,
+    "en":"Rapid Shot Rate",
+    "endesc":"Increase rapid shot rate by 1 percent."
+  },
+  "1288":{
+    "ja":"召喚魔法詠唱時間",
+    "jadesc":"能力値1で召喚魔法の詠唱時間を5%短縮します。",
+    "id":1288,
+    "en":"Summoning Magic Cast Time",
+    "endesc":"Shorten cast time of all summoning magic spells by 5 percent."
+  },
+  "1800":{
+    "ja":"ガンビット使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":1800,
+    "en":"Gambit Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "130":{
+    "ja":"DEX",
+    "jadesc":"能力値1でDEXを1ポイントアップします。",
+    "id":130,
+    "en":"DEX",
+    "endesc":"Adjust your DEX by 1 point."
+  },
+  "646":{
+    "ja":"風属性魔法命中率",
+    "jadesc":"能力値1で風属性魔法命中率を+3します。",
+    "id":646,
+    "en":"Wind Magic Accuracy",
+    "endesc":"Increase the accuracy of Wind spells by 3."
+  },
+  "194":{
+    "ja":"短剣スキル",
+    "jadesc":"能力値1で短剣スキルを2ポイントアップします。",
+    "id":194,
+    "en":"Dagger Skill",
+    "endesc":"Adjust your dagger skill by 2 points."
+  },
+  "226":{
+    "ja":"盾スキル",
+    "jadesc":"能力値1で盾スキルを2ポイントアップします。",
+    "id":226,
+    "en":"Shield Skill",
+    "endesc":"Adjust your shield skill by 2 points."
+  },
+  "260":{
+    "ja":"強化魔法スキル",
+    "jadesc":"能力値1で強化魔法スキルを2ポイントアップします。",
+    "id":260,
+    "en":"Enhancing Magic Skill",
+    "endesc":"Adjust your enhancing magic skill by 2 points."
+  },
+  "324":{
+    "ja":"クリティカルヒット率",
+    "jadesc":"能力値1で敵に与えるクリティカルヒット確率を1%アップします。",
+    "id":324,
+    "en":"Critical Hit Rate",
+    "endesc":"Adjust your critical hit rate by 1 percent."
+  },
+  "388":{
+    "ja":"ウォークライ使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":388,
+    "en":"Warcry Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "452":{
+    "ja":"チャクラ使用間隔",
+    "jadesc":"能力値1で使用間隔を6秒短縮します。",
+    "id":452,
+    "en":"Chakra Recast",
+    "endesc":"Shorten recast time by 6 seconds."
+  },
+  "520":{
+    "ja":"リジェネ効果",
+    "jadesc":"リジェネの単位時間あたりの回復量が、能力値分増加します。",
+    "id":520,
+    "en":"Regen Effect",
+    "endesc":"Increase the amount of HP recovered each interval by 1."
+  },
+  "648":{
+    "ja":"土属性魔法命中率",
+    "jadesc":"能力値1で土属性魔法命中率を+3します。",
+    "id":648,
+    "en":"Earth Magic Accuracy",
+    "endesc":"Increase the accuracy of Earth spells by 3."
+  },
+  "776":{
+    "ja":"ランパート使用間隔",
+    "jadesc":"能力値1で使用間隔を4秒短縮します。",
+    "id":776,
+    "en":"Rampart Recast",
+    "endesc":"Shorten recast time by 4 seconds."
+  },
+  "904":{
+    "ja":"なだめる使用間隔",
+    "jadesc":"能力値1で使用間隔を20秒短縮します。",
+    "id":904,
+    "en":"Tame Recast",
+    "endesc":"Shorten recast time by 20 seconds."
+  },
+  "650":{
+    "ja":"雷属性魔法命中率",
+    "jadesc":"能力値1で雷属性魔法命中率を+3します。",
+    "id":650,
+    "en":"Lightning Magic Accuracy",
+    "endesc":"Increase the accuracy of Lightning spells by 3."
+  },
+  "262":{
+    "ja":"弱体魔法スキル",
+    "jadesc":"能力値1で弱体魔法スキルを2ポイントアップします。",
+    "id":262,
+    "en":"Enfeebling Magic Skill",
+    "endesc":"Adjust your enfeebling magic skill by 2 points."
+  },
+  "326":{
+    "ja":"被クリティカルヒット率",
+    "jadesc":"能力値1で敵からのクリティカルヒット確率を1%ダウンします。",
+    "id":326,
+    "en":"Enemy Critical Hit Rate",
+    "endesc":"Adjust enemies' critical hit rate by 1 percent."
+  },
+  "390":{
+    "ja":"アグレッサー使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":390,
+    "en":"Aggressor Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "454":{
+    "ja":"カウンター確率",
+    "jadesc":"能力値1でカウンター確率を1%アップします。",
+    "id":454,
+    "en":"Counter Rate",
+    "endesc":"Increase counter attack rate by 1 percent."
+  },
+  "652":{
+    "ja":"水属性魔法命中率",
+    "jadesc":"能力値1で水属性魔法命中率を+3します。",
+    "id":652,
+    "en":"Water Magic Accuracy",
+    "endesc":"Increase the accuracy of Water spells by 3."
+  },
+  "66":{
+    "ja":"MP上限",
+    "jadesc":"能力値1でMP上限を10ポイントアップします。",
+    "id":66,
+    "en":"Max MP",
+    "endesc":"Adjust your maximum MP by 10 points."
+  },
+  "132":{
+    "ja":"VIT",
+    "jadesc":"能力値1でVITを1ポイントアップします。",
+    "id":132,
+    "en":"VIT",
+    "endesc":"Adjust your VIT by 1 point."
+  },
+  "196":{
+    "ja":"片手剣スキル",
+    "jadesc":"能力値1で片手剣スキルを2ポイントアップします。",
+    "id":196,
+    "en":"Sword Skill",
+    "endesc":"Adjust your sword skill by 2 points."
+  },
+  "228":{
+    "ja":"受け流しスキル",
+    "jadesc":"能力値1で受け流しスキルを2ポイントアップします。",
+    "id":228,
+    "en":"Parrying Skill",
+    "endesc":"Adjust your parrying skill by 2 points."
+  },
+  "264":{
+    "ja":"精霊魔法スキル",
+    "jadesc":"能力値1で精霊魔法スキルを2ポイントアップします。",
+    "id":264,
+    "en":"Elemental Magic Skill",
+    "endesc":"Adjust your elemental magic skill by 2 points."
+  },
+  "328":{
+    "ja":"詠唱中断率",
+    "jadesc":"能力値1で詠唱中断率を2%ダウンします。",
+    "id":328,
+    "en":"Spell Interruption Rate",
+    "endesc":"Adjust your spell interruption rate by 2 percent."
+  },
+  "392":{
+    "ja":"ダブルアタック確率",
+    "jadesc":"能力値1でダブルアタック確率を1%アップします。",
+    "id":392,
+    "en":"Double Attack Rate",
+    "endesc":"Increase double attack rate by 1 percent."
+  },
+  "456":{
+    "ja":"蹴撃確率",
+    "jadesc":"能力値1で蹴撃確率を1%アップします。",
+    "id":456,
+    "en":"Kick Attack Rate",
+    "endesc":"Increase kick attack rate by 1 percent."
+  },
+  "2112":{
+    "ja":"マントラ",
+    "jadesc":"範囲内パーティメンバーのHPmaxをアップ。\n使用間隔:10分\n能力値1で効果を4%アップします。",
+    "id":2112,
+    "en":"Mantra",
+    "endesc":"Increases the max. HP of party members within area of effect. Recast: 10min. Increase effect by 4 percent."
+  },
+  "2624":{
+    "ja":"ナイチンゲール",
+    "jadesc":"効果時間内、歌の詠唱時間、再詠唱時間を半減。\n使用間隔:10分\n能力値1で歌の詠唱時間が著しく速くなる確率を\n25%アップします。",
+    "id":2624,
+    "en":"Nightingale",
+    "endesc":"Halves the casting and recast times of songs. Recast: 10min.\nIncrease chance of spectacular \"Fast Cast\" effect by 25 percent."
+  },
+  "2114":{
+    "ja":"無想無念",
+    "jadesc":"効果時間内、近接攻撃の攻撃属性を無属性にする。\nウェポンスキルには効果無し。使用間隔:10分\n能力値1で効果を5%アップします。",
+    "id":2114,
+    "en":"Formless Strikes",
+    "endesc":"While in effect, melee attacks will not be considered physical damage. No effect on weapon skills. Recast: 10min.\nIncrease effect by 5 percent."
+  },
+  "2626":{
+    "ja":"トルバドゥール",
+    "jadesc":"効果時間内、歌の詠唱時間を1.5倍、効果時間を2\n倍。使用間隔:10分\n能力値1で歌の命中率が著しく高くなる確率を25%\nアップします。",
+    "id":2626,
+    "en":"Troubadour",
+    "endesc":"Increases the casting time for songs by 1.5 and doubles the effect duration.\nRecast: 10min.\nIncrease chance of unerring song accuracy by 25 percent."
+  },
+  "3138":{
+    "ja":"腹話術",
+    "jadesc":"対象モンスターの、マスターとオートマトンへの\n敵対心を入れ替える。使用間隔:1分\n能力値1で入れ替えた敵対心で高い方が5%アップ、\n低い方が5%ダウンします。",
+    "id":3138,
+    "en":"Ventriloquy",
+    "endesc":"Swaps the enmity of master and automaton for target. Recast: 1min.\nIncrease higher enmity value and decrease lower value by 5% each."
+  },
+  "2628":{
+    "ja":"魔物のシルベント",
+    "jadesc":"範囲内のパーティメンバーの敵対心を下がりにくくす\nる。\n能力値1で下がる敵対心を5%緩和します。",
+    "id":2628,
+    "en":"Foe Sirvente",
+    "endesc":"Reduces enmity loss for party members within area of effect.\nIncrease effect by 5 percent."
+  },
+  "3140":{
+    "ja":"微調整",
+    "jadesc":"オートマトンの命中、飛命、回避、魔法防御力にボーナスを得る。\n能力値1で命中を+5、飛命を+5、回避を+5、魔法防御力を+5します。",
+    "id":3140,
+    "en":"Fine-Tuning",
+    "endesc":"Grants a bonus to your automaton's accuracy, ranged accuracy, evasion, and magic defense.\nIncrease accuracy by 5, ranged accuracy by 5, evasion by 5, and magic defense by 5."
+  },
+  "2630":{
+    "ja":"冒険者のダージュ",
+    "jadesc":"範囲内のパーティメンバーの敵対心をダウン。\n能力値1で敵対心を-3します。",
+    "id":2630,
+    "en":"Adventurer's Dirge",
+    "endesc":"Reduces enmity for party members within area of effect.\nReduce enmity by 3."
+  },
+  "3142":{
+    "ja":"最適化",
+    "jadesc":"オートマトンの攻撃力、防御力、魔法攻撃力にボーナスを得る。\n能力値1で攻撃力を+5%、防御力を+5%、魔法攻撃力を+5します。",
+    "id":3142,
+    "en":"Optimization",
+    "endesc":"Grants a bonus to your automaton's attack, defense, and magic attack.\nIncrease attack by 5%, defense by 5%, and magic attack by 5."
+  },
+  "2632":{
+    "ja":"コンアニマ",
+    "jadesc":"良い歌効果中、自身の被物理ダメージを軽減する。\n能力値1で被物理ダメージを1%軽減します。",
+    "id":2632,
+    "en":"Con Anima",
+    "endesc":"Decreases own physical damage taken while singing a beneficial song.\nDecrease physical damage taken by 1 percent."
+  },
+  "2634":{
+    "ja":"コンブリオ",
+    "jadesc":"良い歌効果中、自身の被魔法ダメージを軽減する。\n能力値1で被魔法ダメージを1%軽減します。",
+    "id":2634,
+    "en":"Con Brio",
+    "endesc":"Decreases own magic damage taken while singing a beneficial song.\nDecrease magic damage taken by 1 percent."
+  },
+  "134":{
+    "ja":"AGI",
+    "jadesc":"能力値1でAGIを1ポイントアップします。",
+    "id":134,
+    "en":"AGI",
+    "endesc":"Adjust your AGI by 1 point."
+  },
+  "198":{
+    "ja":"両手剣スキル",
+    "jadesc":"能力値1で両手剣スキルを2ポイントアップします。",
+    "id":198,
+    "en":"Great Sword Skill",
+    "endesc":"Adjust your great sword skill by 2 points."
+  },
+  "268":{
+    "ja":"召喚魔法スキル",
+    "jadesc":"能力値1で召喚魔法スキルを2ポイントアップします。",
+    "id":268,
+    "en":"Summoning Magic Skill",
+    "endesc":"Adjust your summoning magic skill by 2 points."
+  },
+  "270":{
+    "ja":"忍術スキル",
+    "jadesc":"能力値1で忍術スキルを2ポイントアップします。",
+    "id":270,
+    "en":"Ninjutsu Skill",
+    "endesc":"Adjust your ninjutsu skill by 2 points."
+  },
+  "68":{
+    "ja":"メリットポイント上限",
+    "jadesc":"能力値1でメリットポイント上限を1ポイントアップ\nします。",
+    "id":68,
+    "en":"Maximum Merit Points",
+    "endesc":"Adjust your maximum number of merit points by 1 point."
+  },
+  "136":{
+    "ja":"INT",
+    "jadesc":"能力値1でINTを1ポイントアップします。",
+    "id":136,
+    "en":"INT",
+    "endesc":"Adjust your INT by 1 point."
+  },
+  "200":{
+    "ja":"片手斧スキル",
+    "jadesc":"能力値1で片手斧スキルを2ポイントアップします。",
+    "id":200,
+    "en":"Axe Skill",
+    "endesc":"Adjust your axe skill by 2 points."
+  },
+  "272":{
+    "ja":"歌唱スキル",
+    "jadesc":"能力値1で歌唱スキルを2ポイントアップします。",
+    "id":272,
+    "en":"Singing Skill",
+    "endesc":"Adjust your singing skill by 2 points."
+  },
+  "1088":{
+    "ja":"心眼使用間隔",
+    "jadesc":"能力値1で使用間隔を2秒短縮します。",
+    "id":1088,
+    "en":"Third Eye Recast",
+    "endesc":"Shorten recast time by 2 seconds."
+  },
+  "1344":{
+    "ja":"ブルーチェーン使用間隔",
+    "jadesc":"能力値1で使用間隔を4秒短縮します。",
+    "id":1344,
+    "en":"Chain Affinity Recast",
+    "endesc":"Shorten recast time by 4 seconds."
+  },
+  "1600":{
+    "ja":"グリモア使用間隔",
+    "jadesc":"能力値1で白のグリモア、黒のグリモアの使用間隔をともに2秒短縮します。",
+    "id":1600,
+    "en":"Grimoire Recast",
+    "endesc":"Shorten recast time of Light Arts and Dark Arts by 2 seconds."
+  },
+  "1090":{
+    "ja":"護摩の守護円使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":1090,
+    "en":"Warding Circle Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "1346":{
+    "ja":"ブルーバースト使用間隔",
+    "jadesc":"能力値1で使用間隔を4秒短縮します。",
+    "id":1346,
+    "en":"Burst Affinity Recast",
+    "endesc":"Shorten recast time by 4 seconds."
+  },
+  "1602":{
+    "ja":"以逸待労の計効果時間",
+    "jadesc":"能力値1で以逸待労の計の効果時間を10%延長しま\nす。",
+    "id":1602,
+    "en":"Modus Veritas Duration",
+    "endesc":"Increase duration of effect for Modus Veritas by 10%."
+  },
+  "2690":{
+    "ja":"フラッシーショット",
+    "jadesc":"次の遠隔攻撃が敵対心アップ、標的のレベル差に\n応じて飛命とD値にボーナス。\n使用間隔:10分\n能力値1で飛攻を5%アップします。",
+    "id":2690,
+    "en":"Flashy Shot",
+    "endesc":"Your next ranged attack will generate more enmity and both have increased accuracy and deal increased damage based on the level difference between you and the target. Recast: 10min.\nIncrease ranged attack by 5 percent."
+  },
+  "274":{
+    "ja":"弦楽器スキル",
+    "jadesc":"能力値1で弦楽器スキルを2ポイントアップします。",
+    "id":274,
+    "en":"String Instrument Skill",
+    "endesc":"Adjust your string instrument skill by 2 points."
+  },
+  "1348":{
+    "ja":"モンスター相関関係効果",
+    "jadesc":"能力値1でモンスター相関関係効果を+1します。",
+    "id":1348,
+    "en":"Monster Correlation",
+    "endesc":"Increase monster family related effects by 1."
+  },
+  "1604":{
+    "ja":"計略魔法命中率、魔法攻撃力",
+    "jadesc":"能力値1で計略の魔法命中率を+3、魔法攻撃力を+2します。",
+    "id":1604,
+    "en":"Helix Magic Acc./Atk.",
+    "endesc":"Increase magic accuracy by 3 and magic attack bonus by 2 for helix spells."
+  },
+  "2694":{
+    "ja":"リサイクル確率",
+    "jadesc":"矢弾を消費せずに遠隔攻撃ができることがある。\n能力値1で発動確率を5%アップします。",
+    "id":2694,
+    "en":"Recycle Rate",
+    "endesc":"Occasionally allows ranged attacks without consuming ammunition.\nIncrease rate of activation by 5 percent."
+  },
+  "1094":{
+    "ja":"黙想使用間隔",
+    "jadesc":"能力値1で使用間隔を6秒短縮します。",
+    "id":1094,
+    "en":"Meditate Recast",
+    "endesc":"Shorten recast time by 6 seconds."
+  },
+  "1350":{
+    "ja":"物理系青魔法攻撃力",
+    "jadesc":"能力値1で物理系青魔法の攻撃力を+2します。",
+    "id":1350,
+    "en":"Physical Potency",
+    "endesc":"Increase the potency of physical blue magic spells by 2."
+  },
+  "1606":{
+    "ja":"机上演習上限",
+    "jadesc":"能力値1で机上演習によるMP蓄積量の上限を+10します。",
+    "id":1606,
+    "en":"Max Sublimation",
+    "endesc":"Increase the maximum amount of MP available via Sublimation by 10."
+  },
+  "1096":{
+    "ja":"残心確率",
+    "jadesc":"能力値1で残心確率を1%アップします。",
+    "id":1096,
+    "en":"Zanshin Attack Rate",
+    "endesc":"Increase Zanshin attack rate by 1 percent."
+  },
+  "1352":{
+    "ja":"魔法系青魔法命中率",
+    "jadesc":"能力値1で魔法系青魔法の命中率を+2します。",
+    "id":1352,
+    "en":"Magical Accuracy",
+    "endesc":"Increase the accuracy of magical blue magic spells by 2."
+  },
+  "138":{
+    "ja":"MND",
+    "jadesc":"能力値1でMNDを1ポイントアップします。",
+    "id":138,
+    "en":"MND",
+    "endesc":"Adjust your MND by 1 point."
+  },
+  "202":{
+    "ja":"両手斧スキル",
+    "jadesc":"能力値1で両手斧スキルを2ポイントアップします。",
+    "id":202,
+    "en":"Great Axe Skill",
+    "endesc":"Adjust your great axe skill by 2 points."
+  },
+  "276":{
+    "ja":"管楽器スキル",
+    "jadesc":"能力値1で管楽器スキルを2ポイントアップします。",
+    "id":276,
+    "en":"Wind Instrument Skill",
+    "endesc":"Adjust your wind instrument skill by 2 points."
+  },
+  "278":{
+    "ja":"青魔法スキル",
+    "jadesc":"能力値1で青魔法スキルを2ポイントアップします。",
+    "id":278,
+    "en":"Blue Magic Skill",
+    "endesc":"Adjust your blue magic skill by 2 points."
+  },
+  "140":{
+    "ja":"CHR",
+    "jadesc":"能力値1でCHRを1ポイントアップします。",
+    "id":140,
+    "en":"CHR",
+    "endesc":"Adjust your CHR by 1 point."
+  },
+  "204":{
+    "ja":"両手鎌スキル",
+    "jadesc":"能力値1で両手鎌スキルを2ポイントアップします。",
+    "id":204,
+    "en":"Scythe Skill",
+    "endesc":"Adjust your scythe skill by 2 points."
+  },
+  "280":{
+    "ja":"風水魔法スキル",
+    "jadesc":"能力値1で風水魔法スキルを2ポイントアップします。",
+    "id":280,
+    "en":"Geomancy Skill",
+    "endesc":"Adjust your geomancy skill by 2 points."
+  },
+  "2240":{
+    "ja":"フレアII",
+    "jadesc":"敵に火属性のダメージを与え、水属性に対する防御力をダウン。\n能力値1でフレアIIのマジックバーストダメージボーナスを+3、魔法命中率を+5します。",
+    "id":2240,
+    "en":"Flare II",
+    "endesc":"Deals fire damage to an enemy and lowers its resistance against water.\nIncrease Flare II magic burst damage by 3, and magic accuracy by 5."
+  },
+  "2752":{
+    "ja":"士気昂揚",
+    "jadesc":"標的のパーティメンバーに自身の1000を超えた分の\nTPを分け与える。使用間隔:5分\n能力値1で分け与えるTPを12%アップします。",
+    "id":2752,
+    "en":"Shikikoyo",
+    "endesc":"Shares TP above 1000 with a party member. Recast: 5min.\nSupplement TP shared by 12%."
+  },
+  "2242":{
+    "ja":"フリーズII",
+    "jadesc":"敵に氷属性のダメージを与え、火属性に対する防御力をダウン。\n能力値1でフリーズIIのマジックバーストダメージボーナスを+3、魔法命中率を+5します。",
+    "id":2242,
+    "en":"Freeze II",
+    "endesc":"Deals ice damage to an enemy and lowers its resistance against fire.\nIncrease Freeze II magic burst damage by 3, and magic accuracy by 5."
+  },
+  "2754":{
+    "ja":"峰打ち",
+    "jadesc":"両手刀で強打しスタンさせ、悪疫状態にすることが\nある。使用間隔:3分\n能力値1で悪疫状態を15秒延長します。",
+    "id":2754,
+    "en":"Blade Bash",
+    "endesc":"Delivers an attack that can stun the target and occasionally cause plague. Requires great katana. Recast: 3min. Increase plague duration by 15 seconds."
+  },
+  "3266":{
+    "ja":"一心精進の章",
+    "jadesc":"黒のグリモア戦術魔道書アビリティ。\n次に唱える黒魔法の命中率がアップ。\n能力値1で魔法命中率を+5します。",
+    "id":3266,
+    "en":"Focalization",
+    "endesc":"Dark Arts Stratagem.\nIncreases the accuracy of your next black magic spell.\nIncrease magic accuracy by 5."
+  },
+  "2756":{
+    "ja":"意気衝天",
+    "jadesc":"残心命中時にTPが多く貯まる。\n能力値1でTPを+30します。",
+    "id":2756,
+    "en":"Ikishoten",
+    "endesc":"Increases amount of TP gained with a Zanshin attack.\nIncrease TP gained by 30."
+  },
+  "2246":{
+    "ja":"クエイクII",
+    "jadesc":"敵に土属性のダメージを与え、風属性に対する防御力をダウン。\n能力値1でクエイクIIのマジックバーストダメージボーナスを+3、魔法命中率を+5します。",
+    "id":2246,
+    "en":"Quake II",
+    "endesc":"Deals earth damage to an enemy and lowers its resistance against wind.\nIncrease Quake II magic burst damage by 3, and magic accuracy by 5."
+  },
+  "2758":{
+    "ja":"正正堂堂",
+    "jadesc":"敵の正面からウェポンスキルを撃つ場合、ダメージにボーナスを得る。\n能力値1～3はダメージを5%ずつアップします。能力値4～5はダメージを2%ずつアップします。",
+    "id":2758,
+    "en":"Overwhelm",
+    "endesc":"Grants a damage bonus to weapon skills performed face-to-face with an enemy.\nIncrease damage bonus by 5% for the first three points, and by 2% for the final 2 points."
+  },
+  "2248":{
+    "ja":"バーストII",
+    "jadesc":"敵に雷属性のダメージを与え、土属性に対する防御力をダウン。\n能力値1でバーストIIのマジックバーストダメージボーナスを+3、魔法命中率を+5します。",
+    "id":2248,
+    "en":"Burst II",
+    "endesc":"Deals lightning damage to an enemy and lowers its resistance against earth.\nIncrease Burst II magic burst damage by 3, and magic accuracy by 5."
+  },
+  "3272":{
+    "ja":"大悟徹底",
+    "jadesc":"グリモアに関わらず次の1回だけ白魔法、黒魔法とも\nに特化し、両方の補遺の魔法を詠唱可能。\n使用間隔:5分\n能力値1でINTとMNDを+5します。",
+    "id":3272,
+    "en":"Enlightenment",
+    "endesc":"Optimizes both white and black magic capabilities and allows access to both addenda for your next spell. Recast: 5min.\n+5 bonus to INT and MND."
+  },
+  "3274":{
+    "ja":"陣頭指揮",
+    "jadesc":"陣の効果に、天候の属性に対応するステータスアップ効果を付与する。初期値:ステータス+3\n能力値1でステータスを+1します。",
+    "id":3274,
+    "en":"Stormsurge",
+    "endesc":"Storm-type spells grant a bonus to attributes associated with their element. Initial bonus value: +3.\nIncrease bonus value by 1."
+  },
+  "2254":{
+    "ja":"古代魔法のMBダメージ",
+    "jadesc":"能力値1で古代魔法のマジックバーストダメージを+3%します。",
+    "id":2254,
+    "en":"Ancient Magic MB Dmg.",
+    "endesc":"Increase Ancient Magic magic burst damage by 3%."
+  },
+  "2256":{
+    "ja":"精霊魔法の魔法命中率",
+    "jadesc":"能力値1で精霊魔法の魔法命中率を+5します。",
+    "id":2256,
+    "en":"Elemental Mag. Acc.",
+    "endesc":"Increase Elemental Magic Accuracy by 5."
+  },
+  "2258":{
+    "ja":"精霊魔法のSTダウン効果時間",
+    "jadesc":"能力値1で精霊魔法のステータスダウンの効果時間を12秒延長します。",
+    "id":2258,
+    "en":"Ele. Mag. Debuff Dur.",
+    "endesc":"Increase Elemental Magic debuff duration by 12 seconds."
+  },
+  "2260":{
+    "ja":"精霊魔法のSTダウン効果",
+    "jadesc":"能力値1で精霊魔法のステータスダウンを-2します。\nさらに蝕むダメージを+1します。",
+    "id":2260,
+    "en":"Ele. Mag. Debuff Pot.",
+    "endesc":"Increase Elemental Magic debuff potency by 2 and damage over time by 1."
+  },
+  "2262":{
+    "ja":"アスピル吸収量",
+    "jadesc":"能力値1でアスピルの吸収量を+4%します。",
+    "id":2262,
+    "en":"Aspir Abs. Amount",
+    "endesc":"Increase the amount of MP absorbed by Aspir by 4%."
+  },
+  "208":{
+    "ja":"片手刀スキル",
+    "jadesc":"能力値1で片手刀スキルを2ポイントアップします。",
+    "id":208,
+    "en":"Katana Skill",
+    "endesc":"Adjust your katana skill by 2 points."
+  },
+  "576":{
+    "ja":"精霊の印使用間隔",
+    "jadesc":"能力値1で使用間隔を20秒短縮します。",
+    "id":576,
+    "en":"Elemental Seal Recast",
+    "endesc":"Shorten recast time by 20 seconds."
+  },
+  "704":{
+    "ja":"とんずら使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":704,
+    "en":"Flee Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "832":{
+    "ja":"暗黒使用間隔",
+    "jadesc":"能力値1で使用間隔を12秒短縮します。",
+    "id":832,
+    "en":"Souleater Recast",
+    "endesc":"Shorten recast time by 12 seconds."
+  },
+  "960":{
+    "ja":"ララバイ使用間隔",
+    "jadesc":"能力値1で使用間隔を1秒短縮します。",
+    "id":960,
+    "en":"Lullaby Recast",
+    "endesc":"Shorten recast time by 1 second."
+  },
+  "1152":{
+    "ja":"モクシャ効果",
+    "jadesc":"能力値1でモクシャを+1します。",
+    "id":1152,
+    "en":"Subtle Blow Effect",
+    "endesc":"Increase subtle blow effect by 1."
+  },
+  "1408":{
+    "ja":"ファントムロール使用間隔",
+    "jadesc":"能力値1で使用間隔を2秒短縮します。",
+    "id":1408,
+    "en":"Phantom Roll Recast",
+    "endesc":"Shorten recast time by 2 seconds."
+  },
+  "1664":{
+    "ja":"四神円舞",
+    "jadesc":"使用条件:Lv96～、格闘スキル357～。\nジョブ:モか。\n能力値1でDEXによるボーナスを+3%します。",
+    "id":1664,
+    "en":"Shijin Spiral",
+    "endesc":"Lv.96 MNK/PUP\nHand-to-Hand skill 357 or greater.\nAdjust DEX bonus by 3%."
+  },
+  "578":{
+    "ja":"火属性魔法攻撃力",
+    "jadesc":"能力値1で火属性魔法攻撃力を+2します。",
+    "id":578,
+    "en":"Fire Magic Potency",
+    "endesc":"Increase the potency of Fire spells by 2."
+  },
+  "706":{
+    "ja":"かくれる使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":706,
+    "en":"Hide Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "834":{
+    "ja":"アルケインサークル使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":834,
+    "en":"Arcane Circle Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "962":{
+    "ja":"フィナーレ使用間隔",
+    "jadesc":"能力値1で使用間隔を1秒短縮します。",
+    "id":962,
+    "en":"Finale Recast",
+    "endesc":"Shorten recast time by 1 second."
+  },
+  "1156":{
+    "ja":"氷遁の術効果",
+    "jadesc":"能力値1で氷遁の術攻撃力を+2、属性防御ダウン時間を2秒延長します。",
+    "id":1156,
+    "en":"Hyoton Effect",
+    "endesc":"Increase damage by 2, and length of fire resistance down effect by 2 seconds."
+  },
+  "1412":{
+    "ja":"クイックドロー命中率",
+    "jadesc":"能力値1でクイックドローの命中率を+2します。",
+    "id":1412,
+    "en":"Quick Draw Accuracy",
+    "endesc":"Increase the accuracy of Quick Draw by 2."
+  },
+  "1668":{
+    "ja":"レクイエスカット",
+    "jadesc":"使用条件:Lv96～、片手剣スキル357～。\nジョブ:戦赤ナ暗侍青コ剣。\n能力値1でMNDによるボーナスを+3%します。",
+    "id":1668,
+    "en":"Requiescat",
+    "endesc":"Lv.96 WAR/RDM/PLD/DRK/SAM/BLU/COR/RUN\nSword skill 357 or greater.\nAdjust MND bonus by 3%."
+  },
+  "2822":{
+    "ja":"氷遁の術:参",
+    "jadesc":"忍び道具:氷柱。敵に氷属性のダメージを与え、火属性に対する防御力をダウン。\n能力値1で氷遁の術:参の魔法攻撃力を+5、魔法命中率を+5します。",
+    "id":2822,
+    "en":"Hyoton: San",
+    "endesc":"Uses the ninja tool, \"tsurara.\" Deals ice damage to an enemy and lowers its resistance against fire.\nIncrease Hyoton: San magic attack by 5 and magic accuracy by 5."
+  },
+  "580":{
+    "ja":"氷属性魔法攻撃力",
+    "jadesc":"能力値1で氷属性魔法攻撃力を+2します。",
+    "id":580,
+    "en":"Ice Magic Potency",
+    "endesc":"Increase the potency of Ice spells by 2."
+  },
+  "708":{
+    "ja":"不意打ち使用間隔",
+    "jadesc":"能力値1で使用間隔を2秒短縮します。",
+    "id":708,
+    "en":"Sneak Attack Recast",
+    "endesc":"Shorten recast time by 2 seconds."
+  },
+  "836":{
+    "ja":"ラストリゾート使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":836,
+    "en":"Last Resort Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "964":{
+    "ja":"ミンネ効果",
+    "jadesc":"能力値1で防御力を+2します。",
+    "id":964,
+    "en":"Minne Effect",
+    "endesc":"Increase defense enhancement by 2."
+  },
+  "1160":{
+    "ja":"土遁の術効果",
+    "jadesc":"能力値1で土遁の術攻撃力を+2、属性防御ダウン時間を2秒延長します。",
+    "id":1160,
+    "en":"Doton Effect",
+    "endesc":"Increase damage by 2, and length of wind resistance down effect by 2 seconds."
+  },
+  "1416":{
+    "ja":"Bust時間短縮",
+    "jadesc":"能力値1でBust時間を10秒短縮します。",
+    "id":1416,
+    "en":"Bust Duration",
+    "endesc":"Shorten the duration of the Bust penalty by 10 seconds."
+  },
+  "1672":{
+    "ja":"ルイネーター",
+    "jadesc":"使用条件:Lv96～、片手斧スキル357～。\nジョブ:戦暗獣狩剣。\n能力値1でSTRによるボーナスを+3%します。",
+    "id":1672,
+    "en":"Ruinator",
+    "endesc":"Lv.96 WAR/DRK/BST/RNG/RUN\nAxe skill 357 or greater.\nAdjust STR bonus by 3%."
+  },
+  "2830":{
+    "ja":"水遁の術:参",
+    "jadesc":"忍び道具:水鉄砲。敵に水属性のダメージを与え、雷属性に対する防御力をダウン。\n能力値1で水遁の術:参の魔法攻撃力を+5、魔法命中率を+5します。",
+    "id":2830,
+    "en":"Suiton: San",
+    "endesc":"Uses the ninja tool, \"mizu-deppo.\" Deals water damage to an enemy and lowers its resistance against lightning.\nIncrease Suiton: San magic attack by 5 and magic accuracy by 5."
+  },
+  "582":{
+    "ja":"風属性魔法攻撃力",
+    "jadesc":"能力値1で風属性魔法攻撃力を+2します。",
+    "id":582,
+    "en":"Wind Magic Potency",
+    "endesc":"Increase the potency of Wind spells by 2."
+  },
+  "710":{
+    "ja":"だまし討ち使用間隔",
+    "jadesc":"能力値1で使用間隔を2秒短縮します。",
+    "id":710,
+    "en":"Trick Attack Recast",
+    "endesc":"Shorten recast time by 2 seconds."
+  },
+  "210":{
+    "ja":"両手刀スキル",
+    "jadesc":"能力値1で両手刀スキルを2ポイントアップします。",
+    "id":210,
+    "en":"Great Katana Skill",
+    "endesc":"Adjust your great katana skill by 2 points."
+  },
+  "966":{
+    "ja":"メヌエット効果",
+    "jadesc":"能力値1で攻撃力を+1します。",
+    "id":966,
+    "en":"Minuet Effect",
+    "endesc":"Increase attack enhancement by 1."
+  },
+  "1164":{
+    "ja":"水遁の術効果",
+    "jadesc":"能力値1で水遁の術攻撃力を+2、属性防御ダウン時間を2秒延長します。",
+    "id":1164,
+    "en":"Suiton Effect",
+    "endesc":"Increase damage by 2, and length of ltng. resistance down effect by 2 seconds."
+  },
+  "2836":{
+    "ja":"忍術の魔法命中率",
+    "jadesc":"能力値1で忍術の魔法命中率を+5します。",
+    "id":2836,
+    "en":"Ninjutsu Magic Accuracy",
+    "endesc":"Increase ninjutsu magic accuracy by 5."
+  },
+  "2326":{
+    "ja":"命中率",
+    "jadesc":"能力値1で命中率を+5します。",
+    "id":2326,
+    "en":"Accuracy",
+    "endesc":"Increase accuracy by 5."
+  },
+  "2838":{
+    "ja":"忍術の魔法攻撃力",
+    "jadesc":"能力値1で忍術の魔法攻撃力を+4します。",
+    "id":2838,
+    "en":"Ninjutsu Mag. Atk. Bonus",
+    "endesc":"Increase ninjutsu Magic Atk. Bonus by 4."
+  },
+  "584":{
+    "ja":"土属性魔法攻撃力",
+    "jadesc":"能力値1で土属性魔法攻撃力を+2します。",
+    "id":584,
+    "en":"Earth Magic Potency",
+    "endesc":"Increase the potency of Earth spells by 2."
+  },
+  "712":{
+    "ja":"トリプルアタック確率",
+    "jadesc":"能力値1でトリプルアタック確率を1%アップします。",
+    "id":712,
+    "en":"Triple Attack Rate",
+    "endesc":"Increase triple attack rate by 1 percent."
+  },
+  "840":{
+    "ja":"ウェポンバッシュ使用間隔",
+    "jadesc":"能力値1で使用間隔を6秒短縮します。",
+    "id":840,
+    "en":"Weapon Bash Recast",
+    "endesc":"Shorten recast time by 6 seconds."
+  },
+  "968":{
+    "ja":"マドリガル効果",
+    "jadesc":"能力値1で近接攻撃の命中率を+1します。",
+    "id":968,
+    "en":"Madrigal Effect",
+    "endesc":"Increase melee accuracy enhancement by 1."
+  },
+  "1680":{
+    "ja":"瞬",
+    "jadesc":"使用条件:Lv96～、片手刀スキル357～。\nジョブ:忍。\n能力値1でDEXによるボーナスを+3%します。",
+    "id":1680,
+    "en":"Blade: Shun",
+    "endesc":"Lv.96 NIN\nKatana skill 357 or greater.\nAdjust DEX bonus by 3%."
+  },
+  "586":{
+    "ja":"雷属性魔法攻撃力",
+    "jadesc":"能力値1で雷属性魔法攻撃力を+2します。",
+    "id":586,
+    "en":"Lightning Magic Potency",
+    "endesc":"Increase the potency of Lightning spells by 2."
+  },
+  "1682":{
+    "ja":"十二之太刀・照破",
+    "jadesc":"使用条件:Lv96～、両手刀スキル357～。\nジョブ:侍。\n能力値1でSTRによるボーナスを+3%します。",
+    "id":1682,
+    "en":"Tachi: Shoha",
+    "endesc":"Lv.96 SAM\nGreat Katana skill 357 or greater.\nAdjust STR bonus by 3%."
+  },
+  "1684":{
+    "ja":"レルムレイザー",
+    "jadesc":"使用条件:Lv96～、片手棍スキル357～。\nジョブ:戦モ白黒ナ召青学風。\n能力値1でMNDによるボーナスを+3%します。",
+    "id":1684,
+    "en":"Realmrazer",
+    "endesc":"Lv.96 WAR/MNK/WHM/BLM/PLD/\n SMN/BLU/SCH/GEO\nClub skill 357 or greater.\nAdjust MND bonus by 3%."
+  },
+  "588":{
+    "ja":"水属性魔法攻撃力",
+    "jadesc":"能力値1で水属性魔法攻撃力を+2します。",
+    "id":588,
+    "en":"Water Magic Potency",
+    "endesc":"Increase the potency of Water spells by 2."
+  },
+  "1686":{
+    "ja":"シャッターソウル",
+    "jadesc":"使用条件:Lv96～、両手棍スキル357～。\nジョブ:戦モ白黒ナ吟竜召学風。\n能力値1でINTによるボーナスを+3%します。",
+    "id":1686,
+    "en":"Shattersoul",
+    "endesc":"Lv.96 WAR/MNK/WHM/BLM/PLD/\n BRD/DRG/SMN/SCH/GEO\nStaff skill 357 or greater.\nAdjust INT bonus by 3%."
+  },
+  "1688":{
+    "ja":"エイペクスアロー",
+    "jadesc":"使用条件:Lv96～、弓術スキル357～。\nジョブ:狩侍。\n能力値1でAGIによるボーナスを+3%します。",
+    "id":1688,
+    "en":"Apex Arrow",
+    "endesc":"Lv.96 RNG/SAM\nArchery skill 357 or greater.\nAdjust AGI bonus by 3%."
+  },
+  "212":{
+    "ja":"片手棍スキル",
+    "jadesc":"能力値1で片手棍スキルを2ポイントアップします。",
+    "id":212,
+    "en":"Club Skill",
+    "endesc":"Adjust your club skill by 2 points."
+  },
+  "2368":{
+    "ja":"アサシンチャージ",
+    "jadesc":"次の一撃が3回攻撃。使用間隔:5分\n能力値1で4回攻撃になる確率を5%アップします。",
+    "id":2368,
+    "en":"Assassin's Charge",
+    "endesc":"Will triple your next attack.\nRecast: 5min.\nIncrease chance of fourfold attack by 5 percent."
+  },
+  "2880":{
+    "ja":"ディープブリージング",
+    "jadesc":"次に撃つ飛竜のブレスの効果がアップ。\n使用間隔:5分\n能力値1でブレス効果を10%アップします。",
+    "id":2880,
+    "en":"Deep Breathing",
+    "endesc":"Enhances effect of next wyvern breath. Recast: 5min.\nEnhance effect by an additional 10%."
+  },
+  "2370":{
+    "ja":"フェイント",
+    "jadesc":"次の一撃を当てると、敵の回避率を短時間著しく下\nげる。使用間隔:2分\n能力値1でトレジャーハンターの効果が上がる確\n率に対して25%のボーナスを得ます。",
+    "id":2370,
+    "en":"Feint",
+    "endesc":"Your next successful attack will greatly reduce an enemy's evasion. Recast: 2min.\nIncrease chance of increasing Treasure Hunter effect by 25 percent."
+  },
+  "2882":{
+    "ja":"アンゴン",
+    "jadesc":"専用の投げ槍を消費して敵の防御力をダウン。\n使用間隔:3分\n能力値1で効果時間を15秒延長します。",
+    "id":2882,
+    "en":"Angon",
+    "endesc":"Expends an angon to lower an enemy's defense. Recast: 3min.\nIncrease defense down duration by 15 seconds."
+  },
+  "2372":{
+    "ja":"オーラスティール",
+    "jadesc":"ぬすむにディスペル効果を得る。ディスペルした効果を吸収することがある。\n能力値1で吸収確率を20%アップします。",
+    "id":2372,
+    "en":"Aura Steal",
+    "endesc":"Adds a Dispel effect to Steal. Occasionally absorbs dispelled effect. Increase absorb rate by 20 percent."
+  },
+  "2884":{
+    "ja":"エンパシー",
+    "jadesc":"スピリットリンクに良いステータスを飛竜にコピー\nする効果を得て、飛竜に経験値を与えられる。\n能力値1でコピーするステータス数を+1、与えられ\nる経験値を+200します。",
+    "id":2884,
+    "en":"Empathy",
+    "endesc":"Copies beneficial status effects to wyvern when using Spirit Link.\nIncrease number of copied effects by 1 and experience points obtained by 200."
+  },
+  "2374":{
+    "ja":"アンブッシュ",
+    "jadesc":"敵の背後からの攻撃に対して命中、飛命にボーナスを得る。\n能力値1で命中、飛命を+3します。",
+    "id":2374,
+    "en":"Ambush",
+    "endesc":"Grants an accuracy bonus to melee and ranged attacks from behind an enemy.\nIncrease accuracy bonus by 3."
+  },
+  "2886":{
+    "ja":"ストレイフ効果",
+    "jadesc":"飛竜のブレス命中率アップ。\n能力値1でブレスの命中率を+10します。",
+    "id":2886,
+    "en":"Strafe Effect",
+    "endesc":"Increases accuracy of wyvern breath. Increase accuracy by 10."
+  },
+  "3398":{
+    "ja":"プライムジール",
+    "jadesc":"コリメイトファーバー中、精霊魔法の詠唱時間短縮の\n効果を得る。能力値1で詠唱時間を10%短縮します。",
+    "id":3398,
+    "en":"Primeval Zeal",
+    "endesc":"Shortens casting times of elemental magic spells while under the effects of Collimated Fervor. \nShorten cast time by 10 percent."
+  },
+  "518":{
+    "ja":"バニシュ効果",
+    "jadesc":"能力値1でバニシュの魔法攻撃力を+2、特殊防御力ダウン時間を2秒延長します。",
+    "id":518,
+    "en":"Banish Effect",
+    "endesc":"Increase damage of Banish by 2, and length of def. down effect by 2 seconds."
+  },
+  "214":{
+    "ja":"両手棍スキル",
+    "jadesc":"能力値1で両手棍スキルを2ポイントアップします。",
+    "id":214,
+    "en":"Staff Skill",
+    "endesc":"Adjust your staff skill by 2 points."
+  },
+  "774":{
+    "ja":"かばう効果時間",
+    "jadesc":"能力値1で効果時間を4秒延長します。",
+    "id":774,
+    "en":"Cover Effect Length",
+    "endesc":"Lengthen time of effect by 4 seconds."
+  },
+  "838":{
+    "ja":"ラストリゾート効果",
+    "jadesc":"能力値1で攻撃力を2%アップ、防御力を2%ダウンします。",
+    "id":838,
+    "en":"Last Resort Effect",
+    "endesc":"Increase attacks by 2 percent, but lower defense by 2 percent."
+  },
+  "902":{
+    "ja":"ほんきだせ使用間隔",
+    "jadesc":"能力値1でほんきだせとしじをさせろの使用間隔を2秒短縮します。",
+    "id":902,
+    "en":"Sic Recast",
+    "endesc":"Shorten recast time for Sic and Ready by 2 seconds."
+  },
+  "1026":{
+    "ja":"カモフラージュ使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":1026,
+    "en":"Camouflage Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "1028":{
+    "ja":"狙い撃ち使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":1028,
+    "en":"Sharpshot Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "1030":{
+    "ja":"エンドレスショット使用間隔",
+    "jadesc":"能力値1で使用間隔を6秒短縮します。",
+    "id":1030,
+    "en":"Unlimited Shot Recast",
+    "endesc":"Shorten recast time by 6 seconds."
+  },
+  "1092":{
+    "ja":"ストアTP効果",
+    "jadesc":"能力値1でストアTPを+2します。",
+    "id":1092,
+    "en":"Store TP Effect",
+    "endesc":"Increase amount of TP stored by 2."
+  },
+  "3204":{
+    "ja":"ノーフットライズ",
+    "jadesc":"フィニシングムーブを貯める。使用間隔:3分\n能力値1でフィニシングムーブを+1します。",
+    "id":3204,
+    "en":"No Foot Rise",
+    "endesc":"Instantly grants additional finishing moves. Recast: 3min.\nIncrease finishing moves granted by 1."
+  },
+  "3202":{
+    "ja":"扇の舞い",
+    "jadesc":"効果中、被物理ダメージカット＆敵対心アップ、サ\nンバ使用不可。被物理ダメージカット量は相手から\nの攻撃を受ける毎に徐々に減衰する。使用間隔:3分\n能力値1でワルツの使用間隔を5%短縮します。",
+    "id":3202,
+    "en":"Fan Dance",
+    "endesc":"Reduces physical damage taken and increases enmity, but renders sambas unusable. Physical damage reduction gradually decreases with each hit taken. Recast: 3min.\nShorten waltz recast time by 5%."
+  },
+  "2252":{
+    "ja":"古代魔法の魔法攻撃力",
+    "jadesc":"能力値1で古代魔法の魔法攻撃力を+3します。",
+    "id":2252,
+    "en":"Ancient Magic MAB",
+    "endesc":"Increase Ancient Magic Magic Attack Bonus by 3."
+  },
+  "3200":{
+    "ja":"剣の舞い",
+    "jadesc":"効果中、ダブルアタック発動率アップ、ワルツ使用\n不可。ダブルアタック発動率は徐々に減衰する。\n使用間隔:3分\n能力値1でサンバの効果時間を5%延長します。",
+    "id":3200,
+    "en":"Saber Dance",
+    "endesc":"Increases Double Attack rate, but renders waltzes unusable. Double Attack rate gradually decreases. Recast: 3min.\nIncrease samba duration by 5%."
+  },
+  "2250":{
+    "ja":"フラッドII",
+    "jadesc":"敵に水属性のダメージを与え、雷属性に対する防御力をダウン。\n能力値1でフラッドIIのマジックバーストダメージボーナスを+3、魔法命中率を+5します。",
+    "id":2250,
+    "en":"Flood II",
+    "endesc":"Deals water damage to an enemy and lowers its resistance against lightning.\nIncrease Flood II magic burst damage by 3, and magic accuracy by 5."
+  },
+  "2118":{
+    "ja":"発剄",
+    "jadesc":"気孔弾にストアTP-の効果を得る。\n能力値1で効果時間を20秒延長します。",
+    "id":2118,
+    "en":"Penance",
+    "endesc":"Adds an effect to Chi Blast that inhibits an enemy's TP accumulation.\nIncrease duration of effect by 20 seconds."
+  },
+  "206":{
+    "ja":"両手槍スキル",
+    "jadesc":"能力値1で両手槍スキルを2ポイントアップします。",
+    "id":206,
+    "en":"Polearm Skill",
+    "endesc":"Adjust your polearm skill by 2 points."
+  },
+  "3136":{
+    "ja":"黒衣チェンジ",
+    "jadesc":"マスターとオートマトンのHPを入れ替える。\n使用間隔:2分\n能力値1で入れ替えたHPを5%アップします。",
+    "id":3136,
+    "en":"Role Reversal",
+    "endesc":"Swaps HP of master and automaton. Recast: 2min.\nSupplement HP granted by 5%."
+  },
+  "1538":{
+    "ja":"ヘイストサンバ効果",
+    "jadesc":"能力値1でヘイストサンバの効果を+1します。",
+    "id":1538,
+    "en":"Haste Samba Effect",
+    "endesc":"Increase the effect of Haste Samba by 1."
+  },
+  "1540":{
+    "ja":"R.フラリッシュ効果",
+    "jadesc":"能力値1でR.フラリッシュ発動時のTP変換量を+30します。",
+    "id":1540,
+    "en":"Reverse Flourish Effect",
+    "endesc":"Increase TP gained via Reverse Flourish by 30."
+  },
+  "1542":{
+    "ja":"B.フラリッシュ効果",
+    "jadesc":"能力値1でB.フラリッシュによる命中率を+2、攻撃力を+1%、クリティカルヒット確率を+1%アップしま\nす。",
+    "id":1542,
+    "en":"Building Flourish Effect",
+    "endesc":"Increase Building Flourish accuracy by 2, attack power by 1%, and critical hit rating by 1%."
+  },
+  "1666":{
+    "ja":"エクゼンテレター",
+    "jadesc":"使用条件:Lv96～、短剣スキル357～。\nジョブ:戦赤シ獣吟狩忍コ踊。\n能力値1でAGIによるボーナスを+3%します。",
+    "id":1666,
+    "en":"Exenterator",
+    "endesc":"Lv.96 WAR/RDM/THF/BST/BRD/\n RNG/NIN/COR/DNC\nDagger skill 357 or greater.\nAdjust AGI bonus by 3%."
+  },
+  "1670":{
+    "ja":"レゾルーション",
+    "jadesc":"使用条件:Lv96～、両手剣スキル357～。\nジョブ:戦ナ暗剣。\n能力値1でSTRによるボーナスを+3%します。",
+    "id":1670,
+    "en":"Resolution",
+    "endesc":"Lv.96 WAR/PLD/DRK/RUN\nGreat Sword skill 357 or greater.\nAdjust STR bonus by 3%."
+  },
+  "1674":{
+    "ja":"アップヒーバル",
+    "jadesc":"使用条件:Lv96～、両手斧スキル357～。\nジョブ:戦暗剣。\n能力値1でVITによるボーナスを+3%します。",
+    "id":1674,
+    "en":"Upheaval",
+    "endesc":"Lv.96 WAR/DRK/RUN\nGreat Axe skill 357 or greater.\nAdjust VIT bonus by 3%."
+  },
+  "1678":{
+    "ja":"スターダイバー",
+    "jadesc":"使用条件:Lv96～、両手槍スキル357～。\nジョブ:戦侍竜。\n能力値1でSTRによるボーナスを+3%します。",
+    "id":1678,
+    "en":"Stardiver",
+    "endesc":"Lv.96 WAR/SAM/DRG\nPolearm skill 357 or greater.\nAdjust STR bonus by 3%."
+  },
+  "1690":{
+    "ja":"ラストスタンド",
+    "jadesc":"使用条件:Lv96～、射撃スキル357～。\nジョブ:シ狩コ。\n能力値1でAGIによるボーナスを+3%します。",
+    "id":1690,
+    "en":"Last Stand",
+    "endesc":"Lv.96 THF/RNG/COR\nMarksmanship skill 357 or greater.\nAdjust AGI bonus by 3%."
+  },
+  "1794":{
+    "ja":"ヴァレション効果",
+    "jadesc":"能力値1でヴァレションの属性ダメージ軽減の効果を\nエンチャントルーン1つにつき+1します。\nヴァリエンスの属性ダメージ軽減の効果もアップします。",
+    "id":1794,
+    "en":"Vallation Effect",
+    "endesc":"Add an elemental damage reduction to Vallation and an elemental damage reduction to Valiance of 1 point per harbored rune."
+  },
+  "1796":{
+    "ja":"ランジ効果",
+    "jadesc":"能力値1でランジの命中率をエンチャントルーン1つに\nつき+3します。\nスワイプの命中率もアップします。",
+    "id":1796,
+    "en":"Lunge Effect",
+    "endesc":"Increase the accuracy of Lunge by 3 points per harbored rune and the accuracy of Swipe by a total of 3."
+  },
+  "1798":{
+    "ja":"フルーグ効果",
+    "jadesc":"能力値1でレジスト効果発動確率をエンチャントルーン\n1つにつき+1します。",
+    "id":1798,
+    "en":"Pflug Effect",
+    "endesc":"Enhance the likelihood of resistance activating by 1 point per harbored rune."
+  },
+  "2048":{
+    "ja":"ウォリアーチャージ",
+    "jadesc":"次の一撃が2回攻撃。使用間隔:5分\n能力値1で3回攻撃になる確率を5%アップします。",
+    "id":2048,
+    "en":"Warrior's Charge",
+    "endesc":"Will double your next attack.\nRecast: 5min.\nIncrease chance of triple attack by 5 percent."
+  },
+  "2050":{
+    "ja":"トマホーク",
+    "jadesc":"専用の投げ斧を消費して、敵に特殊防御力ダウンの効果。使用間隔:3分\n能力値1で効果時間を15秒延長します。",
+    "id":2050,
+    "en":"Tomahawk",
+    "endesc":"Expends a throwing tomahawk to inflict a special defense down effect on an enemy. Recast: 3min.\nIncrease duration of effect by 15 seconds."
+  },
+  "2828":{
+    "ja":"雷遁の術:参",
+    "jadesc":"忍び道具:避雷針。敵に雷属性のダメージを与え、土属性に対する防御力をダウン。\n能力値1で雷遁の術:参の魔法攻撃力を+5、魔法命中率を+5します。",
+    "id":2828,
+    "en":"Raiton: San",
+    "endesc":"Uses the ninja tool, \"hiraishin.\" Deals lightning damage to an enemy and lowers its resistance against earth.\nIncrease Raiton: San magic attack by 5 and magic accuracy by 5."
+  },
+  "2052":{
+    "ja":"サベッジリ",
+    "jadesc":"ウォークライにTPボーナスの効果を得る。\n能力値1でウェポンスキルのTPボーナスを+100\nします。",
+    "id":2052,
+    "en":"Savagery",
+    "endesc":"Adds TP bonus effect to Warcry.\nIncrease weapon skill TP bonus by 100."
+  },
+  "2054":{
+    "ja":"アグレシブエイム",
+    "jadesc":"アグレッサーに飛命アップの効果を得る。\n能力値1で飛命を+4します。",
+    "id":2054,
+    "en":"Aggressive Aim",
+    "endesc":"Adds ranged accuracy bonus to Aggressor.\nIncrease ranged accuracy bonus by 4."
+  },
+  "216":{
+    "ja":"弓術スキル",
+    "jadesc":"能力値1で弓術スキルを2ポイントアップします。",
+    "id":216,
+    "en":"Archery Skill",
+    "endesc":"Adjust your archery skill by 2 points."
+  },
+  "2116":{
+    "ja":"練気",
+    "jadesc":"チャクラ発動後、一定時間リジェネ効果を得る。\n能力値1で効果時間を24秒延長します。",
+    "id":2116,
+    "en":"Invigorate",
+    "endesc":"Adds a Regen effect when using Chakra. Increase duration of effect by 24 seconds."
+  },
+  "2176":{
+    "ja":"マーター",
+    "jadesc":"標的のパーティメンバーに自身のHPの一部を倍増し\nて分け与える。使用間隔:10分\n能力値1でHP回復量を5%アップします。",
+    "id":2176,
+    "en":"Martyr",
+    "endesc":"Sacrifices HP to heal a party member double the amount. Recast: 10min.\nIncrease amount of HP healed by 5 percent."
+  },
+  "2178":{
+    "ja":"デヴォーション",
+    "jadesc":"標的のパーティメンバーに自身のHPの一部をMPと\nして分け与える。使用間隔:10分\n能力値1でMP回復量を5%アップします。",
+    "id":2178,
+    "en":"Devotion",
+    "endesc":"Sacrifices HP to grant a party member the same amount in MP. Recast: 10min.\nIncrease amount of MP granted by 5 percent."
+  },
+  "2180":{
+    "ja":"プロテアV",
+    "jadesc":"範囲内にいるパーティメンバーの防御力をアップす\nる。\n能力値1で防御力を+5します。",
+    "id":2180,
+    "en":"Protectra V",
+    "endesc":"Increases the defense of party members within area of effect.\nIncrease bonus defense by 5."
+  },
+  "2182":{
+    "ja":"シェルラV",
+    "jadesc":"範囲内にいるパーティメンバーの魔法防御力をアップする。\n能力値1で魔法防御力を+1します。",
+    "id":2182,
+    "en":"Shellra V",
+    "endesc":"Increases the magic defense of party members within area of effect.\nIncrease bonus magic defense by 1."
+  },
+  "2184":{
+    "ja":"ソウルオブソラス",
+    "jadesc":"ハートオブソラスの特定の回復魔法で付与される\nストンスキンの被ダメージ吸収量上限をアップする。\n能力値1で被ダメージ吸収量上限を+5します。",
+    "id":2184,
+    "en":"Animus Solace",
+    "endesc":"Increases the maximum damage absorbed by Stoneskin applied by certain healing spells during Afflatus Solace.\nIncrease maximum damage absorbed by 2%."
+  },
+  "2186":{
+    "ja":"ソウルオブミゼリ",
+    "jadesc":"ハートオブミゼリの被ダメージ蓄積上限をアップする\n能力値1で被ダメージ蓄積上限を5%アップします。",
+    "id":2186,
+    "en":"Animus Misery",
+    "endesc":"Increases the maximum total damage stored during Afflatus Misery.\nIncrease maximum total damage stored by 5%."
+  },
+  "2244":{
+    "ja":"トルネドII",
+    "jadesc":"敵に風属性のダメージを与え、氷属性に対する防御力をダウン。\n能力値1でトルネドIIのマジックバーストダメージボーナスを+3、魔法命中率を+5します。",
+    "id":2244,
+    "en":"Tornado II",
+    "endesc":"Deals wind damage to an enemy and lowers its resistance against ice.\nIncrease Tornado II magic burst damage by 3, and magic accuracy by 5."
+  },
+  "3392":{
+    "ja":"メンドハレイション",
+    "jadesc":"羅盤を消失し、範囲内のパーティメンバーのHPを回\n復する。使用間隔:5分\n能力値1でHP回復量を5%アップします。",
+    "id":3392,
+    "en":"Mending Halation",
+    "endesc":"Causes your luopan to vanish and \nrestores HP of party members within area of effect. \nRecast: 5min. Increase amount of HP restored by 5 percent."
+  },
+  "1216":{
+    "ja":"エンシェントサークル使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。",
+    "id":1216,
+    "en":"Ancient Circle Recast",
+    "endesc":"Shorten recast time by 10 seconds."
+  },
+  "1472":{
+    "ja":"オートマトンスキル",
+    "jadesc":"能力値1でオートマトンの白兵戦/射撃戦/魔法戦スキルを2ポイントアップします。",
+    "id":1472,
+    "en":"Automaton Skills",
+    "endesc":"Adjust valoredge, sharpshot, and stormwaker automaton skills by 2 points."
+  },
+  "1728":{
+    "ja":"フルサークル効果",
+    "jadesc":"能力値1で自身に還元されるMPを5%アップします。",
+    "id":1728,
+    "en":"Full Circle Effect",
+    "endesc":"Increase the amount of MP returned by 5 percent."
+  },
+  "2304":{
+    "ja":"ディアIII",
+    "jadesc":"敵を光属性のダメージがじわじわ蝕み防御力ダウン。\n能力値1で効果時間を30秒延長します。",
+    "id":2304,
+    "en":"Dia III",
+    "endesc":"Lowers an enemy's defense and gradually deals light elemental damage.\nIncrease duration of effect by 30 seconds."
+  },
+  "1218":{
+    "ja":"ジャンプ使用間隔",
+    "jadesc":"能力値1で使用間隔を2秒短縮します。\nスピリットジャンプの使用間隔も短縮します。",
+    "id":1218,
+    "en":"Jump Recast",
+    "endesc":"Shorten recast time of Jump and Spirit Jump by 2 seconds."
+  },
+  "2944":{
+    "ja":"メテオストライク",
+    "jadesc":"イフリートの契約の履行。敵に火属性ダメージ。\n能力値1でメテオストライクのTPボーナスを+400します。",
+    "id":2944,
+    "en":"Meteor Strike",
+    "endesc":"Ifrit Blood Pact ability. Deals fire elemental damage.\nIncrease Meteor Strike TP bonus by 400."
+  },
+  "3456":{
+    "ja":"バットゥタ",
+    "jadesc":"受け流し確率にボーナスを得る。\nさらに、受け流し発動時エンチャントルーンに依存し\nた反撃ダメージを与える。使用間隔:5分。\n能力値1で受け流し確率を4%アップ、反撃ダメージを\nエンチャントルーン１つにつき+4アップします。",
+    "id":3456,
+    "en":"Battuta",
+    "endesc":"Increases the likelihood of parrying and deals counter damage after parrying dependent upon harbored runes. \nRecast: 5min. Increase chance of parrying by 4 percent and increase counter damage by 4 points per rune harbored."
+  },
+  "2946":{
+    "ja":"ヘヴンリーストライク",
+    "jadesc":"シヴァの契約の履行。敵に氷属性ダメージ。\n能力値1でヘヴンリーストライクのTPボーナスを+400します。",
+    "id":2946,
+    "en":"Heavenly Strike",
+    "endesc":"Shiva Blood Pact ability. Deals ice elemental damage.\nIncrease Heavenly Strike TP bonus by 400."
+  },
+  "3458":{
+    "ja":"レイク",
+    "jadesc":"ルーンを消費して、対象の属性耐性をダウンさせる。\n使用間隔:5分。\n能力値1で効果時間を3秒延長します。",
+    "id":3458,
+    "en":"Rayke",
+    "endesc":"Expends runes to reduce elemental resistance of the target. \nRecast: 5min. Increase duration of effect by 3 seconds."
+  },
+  "2948":{
+    "ja":"ウインドブレード",
+    "jadesc":"ガルーダの契約の履行。敵に風属性ダメージ。\n能力値1でウインドブレードのTPボーナスを+400します。",
+    "id":2948,
+    "en":"Wind Blade",
+    "endesc":"Garuda Blood Pact ability. Deals wind elemental damage.\nIncrease Wind Blade TP bonus by 400."
+  },
+  "3460":{
+    "ja":"インスパイア",
+    "jadesc":"ヴァレション、ヴァリエンスに魔法詠唱時間短縮の効\n果を得る。\n能力値1で魔法詠唱時間を10%短縮します。",
+    "id":3460,
+    "en":"Inspiration",
+    "endesc":"Grants a \"Fast Cast\" effect to Vallation and Valiance. \nIncrease cast speed by 10 percent."
+  },
+  "2950":{
+    "ja":"ジオクラッシュ",
+    "jadesc":"タイタンの契約の履行。敵に土属性ダメージ。\n能力値1でジオクラッシュのTPボーナスを+400します。",
+    "id":2950,
+    "en":"Geocrush",
+    "endesc":"Titan Blood Pact ability. Deals earth elemental damage.\nIncrease Geocrush TP bonus by 400."
+  },
+  "3462":{
+    "ja":"スライトソード",
+    "jadesc":"ソードプレイ中、モクシャの効果を得る。\n能力値1でモクシャの効果の最大値を5アップします。",
+    "id":3462,
+    "en":"Sleight of Sword",
+    "endesc":"Grants a \"Subtle Blow\" effect during Swordplay. \nIncrease the maximum value of Subtle Blow by 5 points."
+  },
+  "2952":{
+    "ja":"サンダーストーム",
+    "jadesc":"ラムウの契約の履行。敵に雷属性ダメージ。\n能力値1でサンダーストームのTPボーナスを+400します。",
+    "id":2952,
+    "en":"Thunderstorm",
+    "endesc":"Ramuh Blood Pact ability. Deals lightning elemental damage.\nIncrease Thunderstorm TP bonus by 400."
+  },
+  "1734":{
+    "ja":"グローリーブレイズ使用間隔",
+    "jadesc":"能力値1で使用間隔を20秒短縮します。",
+    "id":1734,
+    "en":"Blaze of Glory Recast",
+    "endesc":"Shorten recast time by 20 seconds."
+  },
+  "2954":{
+    "ja":"グランドフォール",
+    "jadesc":"リヴァイアサンの契約の履行。敵に水属性ダメージ。\n能力値1でグランドフォールのTPボーナスを+400します。",
+    "id":2954,
+    "en":"Grand Fall",
+    "endesc":"Leviathan Blood Pact ability. Deals water elemental damage.\nIncrease Grand Fall TP bonus by 400."
+  },
+  "1224":{
+    "ja":"スピリットリンク使用間隔",
+    "jadesc":"能力値1で使用間隔を3秒短縮します。",
+    "id":1224,
+    "en":"Spirit Link Recast",
+    "endesc":"Shorten recast time by 3 seconds."
+  },
+  "1480":{
+    "ja":"リペアー使用間隔",
+    "jadesc":"能力値1で使用間隔を3秒短縮します。",
+    "id":1480,
+    "en":"Repair Recast",
+    "endesc":"Shorten recast time by 3 seconds."
+  },
+  "1736":{
+    "ja":"デマテリアライズ使用間隔",
+    "jadesc":"能力値1で使用間隔を20秒短縮します。",
+    "id":1736,
+    "en":"Dematerialize Recast",
+    "endesc":"Shorten recast time by 20 seconds."
+  },
+  "2306":{
+    "ja":"スロウII",
+    "jadesc":"敵の攻撃間隔を長くする。\n能力値1でスロウIIのスロウ効果を+1し、魔法命中率を+2します。",
+    "id":2306,
+    "en":"Slow II",
+    "endesc":"Reduces an enemy's attack speed. Increase Slow II effect by 1 and magic accuracy by 2. "
+  },
+  "2308":{
+    "ja":"パライズII",
+    "jadesc":"敵を麻痺させる。\n能力値1でパライズIIの麻痺確率を+1し、魔法命中率を+2します。",
+    "id":2308,
+    "en":"Paralyze II",
+    "endesc":"Paralyzes an enemy.\nIncrease Paralyze II effect by 1 and magic accuracy by 2. "
+  },
+  "2310":{
+    "ja":"ファランクスII",
+    "jadesc":"標的のパーティメンバーが受けるダメージを一定量軽減する。\n能力値1でファランクスIIの効果時間を30秒延長し、ダメージカット量を+3します。",
+    "id":2310,
+    "en":"Phalanx II",
+    "endesc":"Grants a party member a certain amount of damage resistance.\nIncrease Phalanx II duration by 30 seconds and damage reduction by 3."
+  },
+  "218":{
+    "ja":"射撃スキル",
+    "jadesc":"能力値1で射撃スキルを2ポイントアップします。",
+    "id":218,
+    "en":"Marksmanship Skill",
+    "endesc":"Adjust your marksmanship skill by 2 points."
+  },
+  "2312":{
+    "ja":"バイオIII",
+    "jadesc":"敵を闇属性のダメージがじわじわ蝕み攻撃力ダウン。\n能力値1で効果時間を30秒延長します。",
+    "id":2312,
+    "en":"Bio III",
+    "endesc":"Deals dark damage that weakens an enemy's attacks and gradually reduces its HP.\nIncrease duration of effect by 30 seconds."
+  },
+  "1676":{
+    "ja":"エントロピー",
+    "jadesc":"使用条件:Lv96～、両手鎌スキル357～。\nジョブ:戦暗獣。\n能力値1でINTによるボーナスを+3%します。",
+    "id":1676,
+    "en":"Entropy",
+    "endesc":"Lv.96 WAR/DRK/BST\nScythe skill 357 or greater.\nAdjust INT bonus by 3%."
+  },
+  "2314":{
+    "ja":"ブラインII",
+    "jadesc":"敵を暗闇で捕らえ、命中率ダウン。\n能力値1でブラインIIの命中ダウン効果を+1し、魔法命中率を+2します。",
+    "id":2314,
+    "en":"Blind II",
+    "endesc":"Blinds an enemy, lowers its accuracy. Increase Blind II accuracy down effect by 1 and magic accuracy by 2."
+  },
+  "2316":{
+    "ja":"弱体魔法の効果時間",
+    "jadesc":"能力値1で弱体魔法の効果時間を6秒延長します。",
+    "id":2316,
+    "en":"Enfeebling Magic Duration",
+    "endesc":"Increase enfeebling magic duration by 6 seconds."
+  },
+  "2318":{
+    "ja":"魔法命中率",
+    "jadesc":"能力値1で魔法命中率を+5します。",
+    "id":2318,
+    "en":"Magic Accuracy",
+    "endesc":"Increase magic accuracy by 5."
+  },
+  "2320":{
+    "ja":"強化魔法の効果時間",
+    "jadesc":"能力値1で強化魔法の効果時間を6秒延長します。",
+    "id":2320,
+    "en":"Enhancing Magic Duration",
+    "endesc":"Increase enhancing magic duration by 6 seconds."
+  },
+  "2322":{
+    "ja":"レジストハック確率",
+    "jadesc":"能力値1でレジストハックが発生する確率を+3%\nします。",
+    "id":2322,
+    "en":"Immunobreak Chance",
+    "endesc":"Increase chance of Immunobreak occurring by 3 percent."
+  },
+  "2324":{
+    "ja":"魔法剣ダメージ",
+    "jadesc":"能力値1で魔法剣ダメージを+3します。\nエン系IIは+6します。",
+    "id":2324,
+    "en":"Enspell Damage",
+    "endesc":"Increase damage of Enspell effects by 3, and Enspell II effects by 6."
+  },
+  "2432":{
+    "ja":"フィールティ",
+    "jadesc":"効果時間内、弱体魔法に対して強力な耐性を得る。\n使用間隔:10分\n能力値1で効果時間を5秒延長します。",
+    "id":2432,
+    "en":"Fealty",
+    "endesc":"Grants a powerful resistance to enfeebling magic. Recast: 10min.\nIncrease duration by 5 seconds."
+  },
+  "2434":{
+    "ja":"シバルリー",
+    "jadesc":"TPをMPに変換する。使用間隔:10分\n能力値1でMP回復量を5%アップします。",
+    "id":2434,
+    "en":"Chivalry",
+    "endesc":"Converts TP to MP. Recast: 10min.\nIncrease amount of MP granted by 5 percent."
+  },
+  "2436":{
+    "ja":"アイアンウィル",
+    "jadesc":"ランパートに詠唱中断率ダウンの効果を得る。\n能力値1で詠唱中断率を19%ダウンします。",
+    "id":2436,
+    "en":"Iron Will",
+    "endesc":"Adds a spell interruption down effect to Rampart.\nIncrease effect by 19 percent."
+  },
+  "2438":{
+    "ja":"ガーディアン",
+    "jadesc":"センチネル中、敵対心が下がりにくくなる。\n能力値1で下がる敵対心を19%緩和します。",
+    "id":2438,
+    "en":"Guardian",
+    "endesc":"Reduces enmity loss while using Sentinel. Increase effect by 19 percent."
+  },
+  "1414":{
+    "ja":"ランダムディール使用間隔",
+    "jadesc":"能力値1で使用間隔を40秒短縮します。",
+    "id":1414,
+    "en":"Random Deal Recast",
+    "endesc":"Shorten recast time by 40 seconds."
+  },
+  "1286":{
+    "ja":"召喚獣魔法攻撃力",
+    "jadesc":"能力値1で召喚獣の魔法攻撃力を+2します。",
+    "id":1286,
+    "en":"Avatar Magical Attack",
+    "endesc":"Increase avatars' magical attacks by 2."
+  },
+  "1282":{
+    "ja":"召喚獣物理攻撃力",
+    "jadesc":"能力値1で召喚獣の物理攻撃力を+2します。",
+    "id":1282,
+    "en":"Avatar Physical Attack",
+    "endesc":"Increase avatars' physical attacks by 2."
+  },
+  "1158":{
+    "ja":"風遁の術効果",
+    "jadesc":"能力値1で風遁の術攻撃力を+2、属性防御ダウン時間を2秒延長します。",
+    "id":1158,
+    "en":"Huton Effect",
+    "endesc":"Increase damage by 2, and length of ice resistance down effect by 2 seconds."
+  },
+  "2560":{
+    "ja":"フェラルハウル",
+    "jadesc":"対象を恐怖におののかせる。使用間隔:5分\n能力値1で命中率を5%アップします。",
+    "id":2560,
+    "en":"Feral Howl",
+    "endesc":"Terrorizes the target. Recast: 5min. Increase accuracy by 5 percent."
+  },
+  "2562":{
+    "ja":"K.インスティンクト",
+    "jadesc":"範囲内にいるパーティメンバーはペットの持つキラー\n能力を得て、キラー能力を得た種族に対してダメージ\nアップ、被ダメージ軽減の効果を得る。使用間隔:5分\n能力値1で効果時間を10秒延長します。",
+    "id":2562,
+    "en":"Killer Instinct",
+    "endesc":"Grants your pet's Killer effect to party members within area of effect.\nParty members will also deal increased damage and take less when fighting enemies of the corresponding monster family.\nRecast: 5min.\nIncrease duration by 10 seconds."
+  },
+  "2564":{
+    "ja":"ビーストアフニティ",
+    "jadesc":"よびだしによるペットのレベル上限アップ。\n能力値1でレベル上限を+2します。",
+    "id":2564,
+    "en":"Beast Affinity",
+    "endesc":"Increases the level of pets summoned with Call Beast.\nIncrease pet level by 2."
+  },
+  "450":{
+    "ja":"回避使用間隔",
+    "jadesc":"能力値1で使用間隔を4秒短縮します。",
+    "id":450,
+    "en":"Dodge Recast",
+    "endesc":"Shorten recast time by 4 seconds."
+  },
+  "1478":{
+    "ja":"アクティベート使用間隔",
+    "jadesc":"能力値1で使用間隔を40秒短縮します。",
+    "id":1478,
+    "en":"Activate Recast",
+    "endesc":"Shorten recast time by 40 seconds."
+  },
+  "1222":{
+    "ja":"スーパージャンプ使用間隔",
+    "jadesc":"能力値1で使用間隔を6秒短縮します。",
+    "id":1222,
+    "en":"Super Jump Recast",
+    "endesc":"Shorten recast time by 6 seconds."
+  },
+  "1732":{
+    "ja":"ライフサイクル使用間隔",
+    "jadesc":"能力値1で使用間隔を20秒短縮します。",
+    "id":1732,
+    "en":"Life Cycle Recast",
+    "endesc":"Shorten recast time by 20 seconds."
+  },
+  "1476":{
+    "ja":"リペアー効果",
+    "jadesc":"能力値1でオートマトンのHP回復量を2%アップします",
+    "id":1476,
+    "en":"Repair Effect",
+    "endesc":"Increase amount of HP restored by 2%."
+  },
+  "1220":{
+    "ja":"ハイジャンプ使用間隔",
+    "jadesc":"能力値1で使用間隔を4秒短縮します。\nソウルジャンプの使用間隔も短縮します。",
+    "id":1220,
+    "en":"High Jump Recast",
+    "endesc":"Shorten recast time of High Jump and Soul Jump by 4 seconds."
+  },
+  "258":{
+    "ja":"回復魔法スキル",
+    "jadesc":"能力値1で回復魔法スキルを2ポイントアップします。",
+    "id":258,
+    "en":"Healing Magic Skill",
+    "endesc":"Adjust your healing magic skill by 2 points."
+  },
+  "2816":{
+    "ja":"散華",
+    "jadesc":"必ず打剣が発動するようになるが、手裏剣を消費する\n使用間隔:3分\n能力値1で飛命を+25します。",
+    "id":2816,
+    "en":"Sange",
+    "endesc":"Daken will always activate but consume shuriken.\nRecast: 5min.\nIncrease ranged accuracy by 25."
+  },
+  "2818":{
+    "ja":"忍具の知識",
+    "jadesc":"忍び道具を消費せずに忍術を唱えられることがある。\n能力値1で発動確率を5%アップします。",
+    "id":2818,
+    "en":"Ninja Tool Expertise",
+    "endesc":"Occasionally allows the use of ninjutsu without consuming ninja tools.\nIncrease rate of activation by 5 percent."
+  },
+  "2820":{
+    "ja":"火遁の術:参",
+    "jadesc":"忍び道具:打竹。敵に火属性のダメージを与え、水属性に対する防御力をダウン。\n能力値1で火遁の術:参の魔法攻撃力を+5、魔法命中率を+5します。",
+    "id":2820,
+    "en":"Katon: San",
+    "endesc":"Uses the ninja tool, \"uchitake.\" Deals fire damage to an enemy and lowers its resistance against water.\nIncrease Katon: San magic attack by 5 and magic accuracy by 5."
+  },
+  "2824":{
+    "ja":"風遁の術:参",
+    "jadesc":"忍び道具:蝙蝠扇。敵に風属性のダメージを与え、氷属性に対する防御力をダウン。\n能力値1で風遁の術:参の魔法攻撃力を+5、魔法命中率を+5します。",
+    "id":2824,
+    "en":"Huton: San",
+    "endesc":"Uses the ninja tool, \"kawahori-ogi.\" Deals wind damage to an enemy and lowers its resistance against ice.\nIncrease Huton: San magic attack by 5 and magic accuracy by 5."
+  },
+  "2826":{
+    "ja":"土遁の術:参",
+    "jadesc":"忍び道具:撒菱。敵に土属性のダメージを与え、風属性に対する防御力をダウン。\n能力値1で土遁の術:参の魔法攻撃力を+5、魔法命中率を+5します。",
+    "id":2826,
+    "en":"Doton: San",
+    "endesc":"Uses the ninja tool, \"makibishi.\" Deals earth damage to an enemy and lowers its resistance against wind.\nIncrease Doton: San magic attack by 5 and magic accuracy by 5."
+  },
+  "220":{
+    "ja":"投てきスキル",
+    "jadesc":"能力値1で投てきスキルを2ポイントアップします。",
+    "id":220,
+    "en":"Throwing Skill",
+    "endesc":"Adjust your throwing skill by 2 points."
+  },
+  "2832":{
+    "ja":"陽忍効果アップ",
+    "jadesc":"陽忍中、最大HPをアップ。\n能力値1で最大HPを+50します。",
+    "id":2832,
+    "en":"Yonin Effect",
+    "endesc":"Increase maximum HP by 50."
+  },
+  "2834":{
+    "ja":"陰忍効果アップ",
+    "jadesc":"陰忍中、対象の後方にいる場合、連携ダメージと\nマジックバーストダメージをアップ。\n能力値1で連携ダメージと\nマジックバーストダメージを+1%します。",
+    "id":2834,
+    "en":"Innin Effect",
+    "endesc":"Increase skillchain and magic burst damage by 1% when behind foe."
+  },
+  "266":{
+    "ja":"暗黒魔法スキル",
+    "jadesc":"能力値1で暗黒魔法スキルを2ポイントアップします。",
+    "id":266,
+    "en":"Dark Magic Skill",
+    "endesc":"Adjust your dark magic skill by 2 points."
+  },
+  "282":{
+    "ja":"風水鈴スキル",
+    "jadesc":"能力値1で風水鈴スキルを2ポイントアップします。",
+    "id":282,
+    "en":"Handbell Skill",
+    "endesc":"Adjust your handbell skill by 2 points."
+  },
+  "2692":{
+    "ja":"スナップショット",
+    "jadesc":"遠隔攻撃による攻撃間隔短縮。\n能力値1で遠隔攻撃に対して攻撃間隔-2%。",
+    "id":2692,
+    "en":"Snapshot",
+    "endesc":"Reduces delay for ranged attacks.\nReduce delay by 2 percent."
+  },
+  "2688":{
+    "ja":"ステルスショット",
+    "jadesc":"次の遠隔攻撃による敵対心がダウン。使用間隔:5分\n能力値1で敵対心を-10します。",
+    "id":2688,
+    "en":"Stealth Shot",
+    "endesc":"Your next ranged attack will generate less enmity. Recast: 5min.\nReduce enmity by 10."
+  },
+  "1410":{
+    "ja":"クイックドロー使用間隔",
+    "jadesc":"能力値1で使用間隔を2秒短縮します。",
+    "id":1410,
+    "en":"Quick Draw Recast",
+    "endesc":"Shorten recast time by 2 seconds."
+  },
+  "1284":{
+    "ja":"召喚獣魔法命中率",
+    "jadesc":"能力値1で召喚獣の魔法命中率を+3します。",
+    "id":1284,
+    "en":"Avatar Magical Accuracy",
+    "endesc":"Increase avatars' magical accuracy by 3."
+  },
+  "1162":{
+    "ja":"雷遁の術効果",
+    "jadesc":"能力値1で雷遁の術攻撃力を+2、属性防御ダウン時間を2秒延長します。",
+    "id":1162,
+    "en":"Raiton Effect",
+    "endesc":"Increase damage by 2, and length of earth resistance down effect by 2 seconds."
+  },
+  "1154":{
+    "ja":"火遁の術効果",
+    "jadesc":"能力値1で火遁の術攻撃力を+2、属性防御ダウン時間を2秒延長します。",
+    "id":1154,
+    "en":"Katon Effect",
+    "endesc":"Increase damage by 2, and length of water resistance down effect by 2 seconds."
+  },
+  "3072":{
+    "ja":"スネークアイ",
+    "jadesc":"次に振るロールの値を1にする。使用間隔:5分\n能力値1で現在のロールの値が5以上の時、11になる\nロールの値の出る確率が10%アップします。",
+    "id":3072,
+    "en":"Snake Eye",
+    "endesc":"Your next roll will automatically be a 1. Recast: 5min.\nWhen current roll is 5 or higher, increase chance of rolling an 11 by 10%."
+  },
+  "3076":{
+    "ja":"ウィニングストリーク",
+    "jadesc":"ファントムロールの効果時間を延長。\n能力値1で効果時間を20秒延長します。",
+    "id":3076,
+    "en":"Winning Streak",
+    "endesc":"Extends the duration of Phantom Roll effects.\nIncrease duration of effect by 20 seconds."
+  },
+  "3078":{
+    "ja":"ローデッドデッキ",
+    "jadesc":"ランダムディールの対象がリキャスト発生中のアビリティに絞られる。ただし、リキャスト発生中のアビリティが1つの場合はミスの可能性がある。\n能力値1でミスの確率を10%ダウンします。",
+    "id":3078,
+    "en":"Loaded Deck",
+    "endesc":"Focuses effect of Random Deal on abilities waiting on recast.\nHas a chance to fail if only one ability is waiting on recast.\nReduce chance of failure by 10%."
+  },
+  "2496":{
+    "ja":"ダークシール",
+    "jadesc":"次に唱える暗黒魔法の命中率がアップ。\n使用間隔:5分\n能力値1で暗黒魔法の詠唱時間を10%短縮します。",
+    "id":2496,
+    "en":"Dark Seal",
+    "endesc":"Enhances the accuracy of your next dark magic spell. Recast: 5min.\nShorten cast time of all dark magic spells by 10 percent."
+  },
+  "3008":{
+    "ja":"コンバージェンス",
+    "jadesc":"次に唱える魔法系青魔法の対象範囲が単体になって威力アップ。使用間隔:10分\n能力値1で魔法攻撃力を+5、魔法命中率を+5します。",
+    "id":3008,
+    "en":"Convergence",
+    "endesc":"Increases the power of your next magical blue magic spell. Limits area of effect to single target. Recast: 10min.\nIncrease magic attack by 5 and magic accuracy by 5."
+  },
+  "2498":{
+    "ja":"ディアボリクアイ",
+    "jadesc":"HPmaxダウン、命中率アップ。使用間隔:5分\n能力値1で物理命中を+5します。",
+    "id":2498,
+    "en":"Diabolic Eye",
+    "endesc":"Reduces max. HP, increases accuracy. Recast: 5min.\nIncrease physical attack accuracy by 5 percent."
+  },
+  "3010":{
+    "ja":"ディフュージョン",
+    "jadesc":"次に唱える補助系青魔法の効果が範囲になる。\n使用間隔:10分\n能力値1で効果時間を5%延長します。",
+    "id":3010,
+    "en":"Diffusion",
+    "endesc":"Grants the effect of your next support blue magic spell to party members within range. Recast: 10min.\nIncrease duration by 5%."
+  },
+  "2500":{
+    "ja":"ミューテッドソウル",
+    "jadesc":"暗黒中の敵対心がダウン。\n能力値1で敵対心を-10します。",
+    "id":2500,
+    "en":"Muted Soul",
+    "endesc":"Reduces enmity while using Souleater. Reduce enmity by 10."
+  },
+  "3012":{
+    "ja":"エンチェーンメント",
+    "jadesc":"ブルーチェーンにTPボーナスの効果を得る。\n能力値1でTPボーナスを+100します。",
+    "id":3012,
+    "en":"Enchainment",
+    "endesc":"Grants a TP bonus to Chain Affinity.\nIncrease TP bonus by 100."
+  },
+  "2502":{
+    "ja":"デスペレートブロー効果",
+    "jadesc":"ラストリゾートに両手武器の攻撃間隔短縮効果を得\nる。\n能力値1で両手武器に対して攻撃間隔-2%。",
+    "id":2502,
+    "en":"Desperate Blows Effect",
+    "endesc":"Reduces delay for two-handed weapons when using Last Resort.\nReduce delay by 2 percent."
+  },
+  "3014":{
+    "ja":"アシミレーション",
+    "jadesc":"青魔法ポイントの上限をアップ。\n能力値1で青魔法ポイントの上限を+1します。",
+    "id":3014,
+    "en":"Assimilation",
+    "endesc":"Increases maximum blue magic points.\nIncrease blue magic point maximum by 1."
+  },
+  "3206":{
+    "ja":"Ｃ・ポジション",
+    "jadesc":"敵の正面にいる場合に限り、命中と回避にボーナスを得る。\n能力値1で命中を+3、回避を+3します。",
+    "id":3206,
+    "en":"Closed Position",
+    "endesc":"Grants a bonus to accuracy and evasion when face-to-face with an enemy.\nIncrease accuracy and evasion bonuses\nby 3."
+  },
+  "3264":{
+    "ja":"不惜身命の章",
+    "jadesc":"白のグリモア戦術魔道書アビリティ。\n次に唱える白魔法の命中率がアップ。\n能力値1で魔法命中率を+5します。",
+    "id":3264,
+    "en":"Altruism",
+    "endesc":"Light Arts Stratagem.\nIncreases the accuracy of your next white magic spell.\nIncrease magic accuracy by 5."
+  },
+  "3268":{
+    "ja":"天衣無縫の章",
+    "jadesc":"白のグリモア戦術魔道書アビリティ。\n次に唱える白魔法の敵対心をダウン。\n能力値1で敵対心を-10します。",
+    "id":3268,
+    "en":"Tranquility",
+    "endesc":"Light Arts Stratagem.\nYour next white magic spell will generate less enmity.\nReduce enmity by 10."
+  },
+  "3270":{
+    "ja":"無憂無風の章",
+    "jadesc":"黒のグリモア戦術魔道書アビリティ。\n次に唱える黒魔法の敵対心をダウン。\n能力値1で敵対心を-10します。",
+    "id":3270,
+    "en":"Equanimity",
+    "endesc":"Dark Arts Stratagem.\nYour next black magic spell will generate less enmity.\nReduce enmity by 10."
+  },
+  "3394":{
+    "ja":"レイディアルアルカナ",
+    "jadesc":"羅盤を消失し、範囲内のパーティメンバーのMPを回\n復する。使用間隔:5分\n能力値1でMP回復量を3%アップします。",
+    "id":3394,
+    "en":"Radial Arcana",
+    "endesc":"Causes your luopan to vanish and \nrestores MP of party members within area of effect. \nRecast: 5min. Increase amount of MP restored by 3 percent."
+  },
+  "3396":{
+    "ja":"キュアリカント",
+    "jadesc":"フルサークルにHP回復の効果を得る。\n能力値1でHP回復量を5%アップします。",
+    "id":3396,
+    "en":"Curative Recantation",
+    "endesc":"Grants a healing effect to Full Circle. \nIncrease amount of HP healed by 5 percent."
+  },
+  "1474":{
+    "ja":"フラッシング使用間隔",
+    "jadesc":"能力値1で使用間隔を3秒短縮します。",
+    "id":1474,
+    "en":"Maintenance Recast",
+    "endesc":"Shorten recast time by 3 seconds."
+  },
+  "1730":{
+    "ja":"サークルエンリッチ使用間隔",
+    "jadesc":"能力値1で使用間隔を10秒短縮します。\nエンデュアエマネイトの使用間隔も短縮されます。",
+    "id":1730,
+    "en":"Ecliptic Attrition Recast",
+    "endesc":"Shorten recast time of Ecliptic Attrition and Lasting Emanation by 10 seconds."
+  }
+}

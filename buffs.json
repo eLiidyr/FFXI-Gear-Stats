@@ -1,0 +1,4328 @@
+{
+  "1":{
+    "ja":"衰弱",
+    "jal":"衰弱",
+    "id":1,
+    "enl":"weakened",
+    "en":"weakness"
+  },
+  "2":{
+    "ja":"睡眠",
+    "jal":"睡眠",
+    "id":2,
+    "enl":"asleep",
+    "en":"sleep"
+  },
+  "3":{
+    "ja":"毒",
+    "jal":"毒",
+    "id":3,
+    "enl":"poisoned",
+    "en":"poison"
+  },
+  "4":{
+    "ja":"麻痺",
+    "jal":"麻痺",
+    "id":4,
+    "enl":"paralyzed",
+    "en":"paralysis"
+  },
+  "5":{
+    "ja":"暗闇",
+    "jal":"暗闇",
+    "id":5,
+    "enl":"blinded",
+    "en":"blindness"
+  },
+  "6":{
+    "ja":"静寂",
+    "jal":"静寂",
+    "id":6,
+    "enl":"silenced",
+    "en":"silence"
+  },
+  "7":{
+    "ja":"石化",
+    "jal":"石化",
+    "id":7,
+    "enl":"petrified",
+    "en":"petrification"
+  },
+  "8":{
+    "ja":"病気",
+    "jal":"病気",
+    "id":8,
+    "enl":"diseased",
+    "en":"disease"
+  },
+  "9":{
+    "ja":"呪い",
+    "jal":"呪い",
+    "id":9,
+    "enl":"cursed",
+    "en":"curse"
+  },
+  "10":{
+    "ja":"スタン",
+    "jal":"スタン",
+    "id":10,
+    "enl":"stunned",
+    "en":"stun"
+  },
+  "11":{
+    "ja":"バインド",
+    "jal":"バインド",
+    "id":11,
+    "enl":"bound",
+    "en":"bind"
+  },
+  "12":{
+    "ja":"ヘヴィ",
+    "jal":"ヘヴィ",
+    "id":12,
+    "enl":"weighed down",
+    "en":"weight"
+  },
+  "13":{
+    "ja":"スロウ",
+    "jal":"スロウ",
+    "id":13,
+    "enl":"slowed",
+    "en":"slow"
+  },
+  "14":{
+    "ja":"魅了",
+    "jal":"魅了",
+    "id":14,
+    "enl":"charmed",
+    "en":"charm"
+  },
+  "15":{
+    "ja":"死の宣告",
+    "jal":"死の宣告",
+    "id":15,
+    "enl":"doomed",
+    "en":"doom"
+  },
+  "16":{
+    "ja":"アムネジア",
+    "jal":"アムネジア",
+    "id":16,
+    "enl":"amnesic",
+    "en":"amnesia"
+  },
+  "17":{
+    "ja":"魅了",
+    "jal":"魅了",
+    "id":17,
+    "enl":"charmed",
+    "en":"charm"
+  },
+  "18":{
+    "ja":"徐々に石化",
+    "jal":"徐々に石化",
+    "id":18,
+    "enl":"gradually petrifying",
+    "en":"gradual petrification"
+  },
+  "19":{
+    "ja":"睡眠",
+    "jal":"睡眠",
+    "id":19,
+    "enl":"asleep",
+    "en":"sleep"
+  },
+  "20":{
+    "ja":"呪い",
+    "jal":"呪い",
+    "id":20,
+    "enl":"cursed",
+    "en":"curse"
+  },
+  "21":{
+    "ja":"アドル",
+    "jal":"アドル",
+    "id":21,
+    "enl":"addled",
+    "en":"addle"
+  },
+  "22":{
+    "ja":"ひるみ",
+    "jal":"ひるみ",
+    "id":22,
+    "enl":"intimidated",
+    "en":"intimidate"
+  },
+  "23":{
+    "ja":"メルトン",
+    "jal":"メルトン",
+    "id":23,
+    "enl":"afflicted with Kaustra",
+    "en":"Kaustra"
+  },
+  "24":{
+    "ja":"ＳＴ２４",
+    "jal":"ＳＴ２４",
+    "id":24,
+    "enl":"ST24",
+    "en":"ST24"
+  },
+  "25":{
+    "ja":"ＳＴ２５",
+    "jal":"ＳＴ２５",
+    "id":25,
+    "enl":"ST25",
+    "en":"ST25"
+  },
+  "26":{
+    "ja":"ＳＴ２６",
+    "jal":"ＳＴ２６",
+    "id":26,
+    "enl":"ST26",
+    "en":"ST26"
+  },
+  "27":{
+    "ja":"ＳＴ２７",
+    "jal":"ＳＴ２７",
+    "id":27,
+    "enl":"ST27",
+    "en":"ST27"
+  },
+  "28":{
+    "ja":"テラー",
+    "jal":"テラー",
+    "id":28,
+    "enl":"terrorized",
+    "en":"terror"
+  },
+  "29":{
+    "ja":"沈黙",
+    "jal":"沈黙",
+    "id":29,
+    "enl":"muted",
+    "en":"mute"
+  },
+  "30":{
+    "ja":"呪詛",
+    "jal":"呪詛",
+    "id":30,
+    "enl":"baned",
+    "en":"bane"
+  },
+  "31":{
+    "ja":"悪疫",
+    "jal":"悪疫",
+    "id":31,
+    "enl":"plagued",
+    "en":"plague"
+  },
+  "32":{
+    "ja":"とんずら",
+    "jal":"とんずら",
+    "id":32,
+    "enl":"fleeing",
+    "en":"Flee"
+  },
+  "33":{
+    "ja":"ヘイスト",
+    "jal":"ヘイスト",
+    "id":33,
+    "enl":"hastened",
+    "en":"Haste"
+  },
+  "34":{
+    "ja":"ブレイズスパイク",
+    "jal":"ブレイズスパイク",
+    "id":34,
+    "enl":"Blaze Spikes",
+    "en":"Blaze Spikes"
+  },
+  "35":{
+    "ja":"アイススパイク",
+    "jal":"アイススパイク",
+    "id":35,
+    "enl":"Ice Spikes",
+    "en":"Ice Spikes"
+  },
+  "36":{
+    "ja":"ブリンク",
+    "jal":"ブリンク",
+    "id":36,
+    "enl":"Blink",
+    "en":"Blink"
+  },
+  "37":{
+    "ja":"ストンスキン",
+    "jal":"ストンスキン",
+    "id":37,
+    "enl":"Stoneskin",
+    "en":"Stoneskin"
+  },
+  "38":{
+    "ja":"ショックスパイク",
+    "jal":"ショックスパイク",
+    "id":38,
+    "enl":"Shock Spikes",
+    "en":"Shock Spikes"
+  },
+  "39":{
+    "ja":"アクアベール",
+    "jal":"アクアベール",
+    "id":39,
+    "enl":"Aquaveil",
+    "en":"Aquaveil"
+  },
+  "40":{
+    "ja":"プロテス",
+    "jal":"プロテス",
+    "id":40,
+    "enl":"Protect",
+    "en":"Protect"
+  },
+  "41":{
+    "ja":"シェル",
+    "jal":"シェル",
+    "id":41,
+    "enl":"Shell",
+    "en":"Shell"
+  },
+  "42":{
+    "ja":"リジェネ",
+    "jal":"リジェネ",
+    "id":42,
+    "enl":"regenerating",
+    "en":"Regen"
+  },
+  "43":{
+    "ja":"リフレシュ",
+    "jal":"リフレシュ",
+    "id":43,
+    "enl":"refreshing",
+    "en":"Refresh"
+  },
+  "44":{
+    "ja":"マイティストライク",
+    "jal":"マイティストライク",
+    "id":44,
+    "enl":"Mighty Strikes",
+    "en":"Mighty Strikes"
+  },
+  "45":{
+    "ja":"ためる",
+    "jal":"ためる",
+    "id":45,
+    "enl":"Boost",
+    "en":"Boost"
+  },
+  "46":{
+    "ja":"百烈拳",
+    "jal":"百烈拳",
+    "id":46,
+    "enl":"Hundred Fists",
+    "en":"Hundred Fists"
+  },
+  "47":{
+    "ja":"魔力の泉",
+    "jal":"魔力の泉",
+    "id":47,
+    "enl":"Manafont",
+    "en":"Manafont"
+  },
+  "48":{
+    "ja":"連続魔",
+    "jal":"連続魔",
+    "id":48,
+    "enl":"Chainspell",
+    "en":"Chainspell"
+  },
+  "49":{
+    "ja":"絶対回避",
+    "jal":"絶対回避",
+    "id":49,
+    "enl":"Perfect Dodge",
+    "en":"Perfect Dodge"
+  },
+  "50":{
+    "ja":"インビンシブル",
+    "jal":"インビンシブル",
+    "id":50,
+    "enl":"Invincible",
+    "en":"Invincible"
+  },
+  "51":{
+    "ja":"ブラッドウェポン",
+    "jal":"ブラッドウェポン",
+    "id":51,
+    "enl":"Blood Weapon",
+    "en":"Blood Weapon"
+  },
+  "52":{
+    "ja":"ソウルボイス",
+    "jal":"ソウルボイス",
+    "id":52,
+    "enl":"Soul Voice",
+    "en":"Soul Voice"
+  },
+  "53":{
+    "ja":"イーグルアイ",
+    "jal":"イーグルアイ",
+    "id":53,
+    "enl":"Eagle Eye Shot",
+    "en":"Eagle Eye Shot"
+  },
+  "54":{
+    "ja":"明鏡止水",
+    "jal":"明鏡止水",
+    "id":54,
+    "enl":"Meikyo Shisui",
+    "en":"Meikyo Shisui"
+  },
+  "55":{
+    "ja":"アストラルフロウ",
+    "jal":"アストラルフロウ",
+    "id":55,
+    "enl":"Astral Flow",
+    "en":"Astral Flow"
+  },
+  "56":{
+    "ja":"バーサク",
+    "jal":"バーサク",
+    "id":56,
+    "enl":"Berserk",
+    "en":"Berserk"
+  },
+  "57":{
+    "ja":"ディフェンダー",
+    "jal":"ディフェンダー",
+    "id":57,
+    "enl":"Defender",
+    "en":"Defender"
+  },
+  "58":{
+    "ja":"アグレッサー",
+    "jal":"アグレッサー",
+    "id":58,
+    "enl":"Aggressor",
+    "en":"Aggressor"
+  },
+  "59":{
+    "ja":"集中",
+    "jal":"集中",
+    "id":59,
+    "enl":"Focus",
+    "en":"Focus"
+  },
+  "60":{
+    "ja":"回避",
+    "jal":"回避",
+    "id":60,
+    "enl":"Dodge",
+    "en":"Dodge"
+  },
+  "61":{
+    "ja":"かまえる",
+    "jal":"かまえる",
+    "id":61,
+    "enl":"Counterstance",
+    "en":"Counterstance"
+  },
+  "62":{
+    "ja":"センチネル",
+    "jal":"センチネル",
+    "id":62,
+    "enl":"Sentinel",
+    "en":"Sentinel"
+  },
+  "63":{
+    "ja":"暗黒",
+    "jal":"暗黒",
+    "id":63,
+    "enl":"Souleater",
+    "en":"Souleater"
+  },
+  "64":{
+    "ja":"ラストリゾート",
+    "jal":"ラストリゾート",
+    "id":64,
+    "enl":"Last Resort",
+    "en":"Last Resort"
+  },
+  "65":{
+    "ja":"不意打ち",
+    "jal":"不意打ち",
+    "id":65,
+    "enl":"Sneak Attack",
+    "en":"Sneak Attack"
+  },
+  "66":{
+    "ja":"分身",
+    "jal":"分身",
+    "id":66,
+    "enl":"Copy Image",
+    "en":"Copy Image"
+  },
+  "67":{
+    "ja":"心眼",
+    "jal":"心眼",
+    "id":67,
+    "enl":"Third Eye",
+    "en":"Third Eye"
+  },
+  "68":{
+    "ja":"ウォークライ",
+    "jal":"ウォークライ",
+    "id":68,
+    "enl":"Warcry",
+    "en":"Warcry"
+  },
+  "69":{
+    "ja":"インビジ",
+    "jal":"インビジ",
+    "id":69,
+    "enl":"Invisible",
+    "en":"Invisible"
+  },
+  "70":{
+    "ja":"デオード",
+    "jal":"デオード",
+    "id":70,
+    "enl":"Deodorize",
+    "en":"Deodorize"
+  },
+  "71":{
+    "ja":"スニーク",
+    "jal":"スニーク",
+    "id":71,
+    "enl":"Sneak",
+    "en":"Sneak"
+  },
+  "72":{
+    "ja":"狙い撃ち",
+    "jal":"狙い撃ち",
+    "id":72,
+    "enl":"Sharpshot",
+    "en":"Sharpshot"
+  },
+  "73":{
+    "ja":"乱れ撃ち",
+    "jal":"乱れ撃ち",
+    "id":73,
+    "enl":"Barrage",
+    "en":"Barrage"
+  },
+  "74":{
+    "ja":"ホーリーサークル",
+    "jal":"ホーリーサークル",
+    "id":74,
+    "enl":"Holy Circle",
+    "en":"Holy Circle"
+  },
+  "75":{
+    "ja":"アルケインサークル",
+    "jal":"アルケインサークル",
+    "id":75,
+    "enl":"Arcane Circle",
+    "en":"Arcane Circle"
+  },
+  "76":{
+    "ja":"かくれる",
+    "jal":"かくれる",
+    "id":76,
+    "enl":"hiding",
+    "en":"Hide"
+  },
+  "77":{
+    "ja":"カモフラージュ",
+    "jal":"カモフラージュ",
+    "id":77,
+    "enl":"camouflaged",
+    "en":"Camouflage"
+  },
+  "78":{
+    "ja":"女神の印",
+    "jal":"女神の印",
+    "id":78,
+    "enl":"Divine Seal",
+    "en":"Divine Seal"
+  },
+  "79":{
+    "ja":"精霊の印",
+    "jal":"精霊の印",
+    "id":79,
+    "enl":"Elemental Seal",
+    "en":"Elemental Seal"
+  },
+  "80":{
+    "ja":"STRアップ",
+    "jal":"STRアップ",
+    "id":80,
+    "enl":"STR-boosted",
+    "en":"STR Boost"
+  },
+  "81":{
+    "ja":"DEXアップ",
+    "jal":"DEXアップ",
+    "id":81,
+    "enl":"DEX-boosted",
+    "en":"DEX Boost"
+  },
+  "82":{
+    "ja":"VITアップ",
+    "jal":"VITアップ",
+    "id":82,
+    "enl":"VIT-boosted",
+    "en":"VIT Boost"
+  },
+  "83":{
+    "ja":"AGIアップ",
+    "jal":"AGIアップ",
+    "id":83,
+    "enl":"AGI-boosted",
+    "en":"AGI Boost"
+  },
+  "84":{
+    "ja":"INTアップ",
+    "jal":"INTアップ",
+    "id":84,
+    "enl":"INT-boosted",
+    "en":"INT Boost"
+  },
+  "85":{
+    "ja":"MNDアップ",
+    "jal":"MNDアップ",
+    "id":85,
+    "enl":"MND-boosted",
+    "en":"MND Boost"
+  },
+  "86":{
+    "ja":"CHRアップ",
+    "jal":"CHRアップ",
+    "id":86,
+    "enl":"CHR-boosted",
+    "en":"CHR Boost"
+  },
+  "87":{
+    "ja":"だまし討ち",
+    "jal":"だまし討ち",
+    "id":87,
+    "enl":"Trick Attack",
+    "en":"Trick Attack"
+  },
+  "88":{
+    "ja":"HPmaxアップ",
+    "jal":"HPmaxアップ",
+    "id":88,
+    "enl":"Max HP-boosted",
+    "en":"Max HP Boost"
+  },
+  "89":{
+    "ja":"MPmaxアップ",
+    "jal":"MPmaxアップ",
+    "id":89,
+    "enl":"Max MP-boosted",
+    "en":"Max MP Boost"
+  },
+  "90":{
+    "ja":"命中率アップ",
+    "jal":"命中率アップ",
+    "id":90,
+    "enl":"accuracy-boosted",
+    "en":"Accuracy Boost"
+  },
+  "91":{
+    "ja":"攻撃力アップ",
+    "jal":"攻撃力アップ",
+    "id":91,
+    "enl":"attack-boosted",
+    "en":"Attack Boost"
+  },
+  "92":{
+    "ja":"回避率アップ",
+    "jal":"回避率アップ",
+    "id":92,
+    "enl":"evasion-boosted",
+    "en":"Evasion Boost"
+  },
+  "93":{
+    "ja":"防御力アップ",
+    "jal":"防御力アップ",
+    "id":93,
+    "enl":"defense-boosted",
+    "en":"Defense Boost"
+  },
+  "94":{
+    "ja":"エンファイア",
+    "jal":"エンファイア",
+    "id":94,
+    "enl":"Enfire",
+    "en":"Enfire"
+  },
+  "95":{
+    "ja":"エンブリザド",
+    "jal":"エンブリザド",
+    "id":95,
+    "enl":"Enblizzard",
+    "en":"Enblizzard"
+  },
+  "96":{
+    "ja":"エンエアロ",
+    "jal":"エンエアロ",
+    "id":96,
+    "enl":"Enaero",
+    "en":"Enaero"
+  },
+  "97":{
+    "ja":"エンストーン",
+    "jal":"エンストーン",
+    "id":97,
+    "enl":"Enstone",
+    "en":"Enstone"
+  },
+  "98":{
+    "ja":"エンサンダー",
+    "jal":"エンサンダー",
+    "id":98,
+    "enl":"Enthunder",
+    "en":"Enthunder"
+  },
+  "99":{
+    "ja":"エンウォータ",
+    "jal":"エンウォータ",
+    "id":99,
+    "enl":"Enwater",
+    "en":"Enwater"
+  },
+  "100":{
+    "ja":"バファイ",
+    "jal":"バファイ",
+    "id":100,
+    "enl":"Barfire",
+    "en":"Barfire"
+  },
+  "101":{
+    "ja":"バブリザ",
+    "jal":"バブリザ",
+    "id":101,
+    "enl":"Barblizzard",
+    "en":"Barblizzard"
+  },
+  "102":{
+    "ja":"バエアロ",
+    "jal":"バエアロ",
+    "id":102,
+    "enl":"Baraero",
+    "en":"Baraero"
+  },
+  "103":{
+    "ja":"バストン",
+    "jal":"バストン",
+    "id":103,
+    "enl":"Barstone",
+    "en":"Barstone"
+  },
+  "104":{
+    "ja":"バサンダ",
+    "jal":"バサンダ",
+    "id":104,
+    "enl":"Barthunder",
+    "en":"Barthunder"
+  },
+  "105":{
+    "ja":"バウォタ",
+    "jal":"バウォタ",
+    "id":105,
+    "enl":"Barwater",
+    "en":"Barwater"
+  },
+  "106":{
+    "ja":"バスリプル",
+    "jal":"バスリプル",
+    "id":106,
+    "enl":"Barsleep",
+    "en":"Barsleep"
+  },
+  "107":{
+    "ja":"バポイズン",
+    "jal":"バポイズン",
+    "id":107,
+    "enl":"Barpoison",
+    "en":"Barpoison"
+  },
+  "108":{
+    "ja":"バパライズ",
+    "jal":"バパライズ",
+    "id":108,
+    "enl":"Barparalyze",
+    "en":"Barparalyze"
+  },
+  "109":{
+    "ja":"バブライン",
+    "jal":"バブライン",
+    "id":109,
+    "enl":"Barblind",
+    "en":"Barblind"
+  },
+  "110":{
+    "ja":"バサイレス",
+    "jal":"バサイレス",
+    "id":110,
+    "enl":"Barsilence",
+    "en":"Barsilence"
+  },
+  "111":{
+    "ja":"バブレイク",
+    "jal":"バブレイク",
+    "id":111,
+    "enl":"Barpetrify",
+    "en":"Barpetrify"
+  },
+  "112":{
+    "ja":"バウィルス",
+    "jal":"バウィルス",
+    "id":112,
+    "enl":"Barvirus",
+    "en":"Barvirus"
+  },
+  "113":{
+    "ja":"リレイズ",
+    "jal":"リレイズ",
+    "id":113,
+    "enl":"Reraise",
+    "en":"Reraise"
+  },
+  "114":{
+    "ja":"かばう",
+    "jal":"かばう",
+    "id":114,
+    "enl":"Cover",
+    "en":"Cover"
+  },
+  "115":{
+    "ja":"エンドレスショット",
+    "jal":"エンドレスショット",
+    "id":115,
+    "enl":"Unlimited Shot",
+    "en":"Unlimited Shot"
+  },
+  "116":{
+    "ja":"ファランクス",
+    "jal":"ファランクス",
+    "id":116,
+    "enl":"Phalanx",
+    "en":"Phalanx"
+  },
+  "117":{
+    "ja":"護摩の守護円",
+    "jal":"護摩の守護円",
+    "id":117,
+    "enl":"Warding Circle",
+    "en":"Warding Circle"
+  },
+  "118":{
+    "ja":"エンシェントサークル",
+    "jal":"エンシェントサークル",
+    "id":118,
+    "enl":"Ancient Circle",
+    "en":"Ancient Circle"
+  },
+  "119":{
+    "ja":"STRアップ",
+    "jal":"STRアップ",
+    "id":119,
+    "enl":"STR-boosted",
+    "en":"STR Boost"
+  },
+  "120":{
+    "ja":"DEXアップ",
+    "jal":"DEXアップ",
+    "id":120,
+    "enl":"DEX-boosted",
+    "en":"DEX Boost"
+  },
+  "121":{
+    "ja":"VITアップ",
+    "jal":"VITアップ",
+    "id":121,
+    "enl":"VIT-boosted",
+    "en":"VIT Boost"
+  },
+  "122":{
+    "ja":"AGIアップ",
+    "jal":"AGIアップ",
+    "id":122,
+    "enl":"AGI-boosted",
+    "en":"AGI Boost"
+  },
+  "123":{
+    "ja":"INTアップ",
+    "jal":"INTアップ",
+    "id":123,
+    "enl":"INT-boosted",
+    "en":"INT Boost"
+  },
+  "124":{
+    "ja":"MNDアップ",
+    "jal":"MNDアップ",
+    "id":124,
+    "enl":"MND-boosted",
+    "en":"MND Boost"
+  },
+  "125":{
+    "ja":"CHRアップ",
+    "jal":"CHRアップ",
+    "id":125,
+    "enl":"CHR-boosted",
+    "en":"CHR Boost"
+  },
+  "126":{
+    "ja":"竜剣",
+    "jal":"竜剣",
+    "id":126,
+    "enl":"Spirit Surge",
+    "en":"Spirit Surge"
+  },
+  "127":{
+    "ja":"コスチューム",
+    "jal":"コスチューム",
+    "id":127,
+    "enl":"Costume",
+    "en":"Costume"
+  },
+  "128":{
+    "ja":"バーン",
+    "jal":"バーン",
+    "id":128,
+    "enl":"afflicted with Burn",
+    "en":"Burn"
+  },
+  "129":{
+    "ja":"フロスト",
+    "jal":"フロスト",
+    "id":129,
+    "enl":"afflicted with Frost",
+    "en":"Frost"
+  },
+  "130":{
+    "ja":"チョーク",
+    "jal":"チョーク",
+    "id":130,
+    "enl":"afflicted with Choke",
+    "en":"Choke"
+  },
+  "131":{
+    "ja":"ラスプ",
+    "jal":"ラスプ",
+    "id":131,
+    "enl":"afflicted with Rasp",
+    "en":"Rasp"
+  },
+  "132":{
+    "ja":"ショック",
+    "jal":"ショック",
+    "id":132,
+    "enl":"afflicted with Shock",
+    "en":"Shock"
+  },
+  "133":{
+    "ja":"ドラウン",
+    "jal":"ドラウン",
+    "id":133,
+    "enl":"afflicted with Drown",
+    "en":"Drown"
+  },
+  "134":{
+    "ja":"ディア",
+    "jal":"ディア",
+    "id":134,
+    "enl":"afflicted with Dia",
+    "en":"Dia"
+  },
+  "135":{
+    "ja":"バイオ",
+    "jal":"バイオ",
+    "id":135,
+    "enl":"afflicted with Bio",
+    "en":"Bio"
+  },
+  "136":{
+    "ja":"STRダウン",
+    "jal":"STRダウン",
+    "id":136,
+    "enl":"afflicted with STR Down",
+    "en":"STR Down"
+  },
+  "137":{
+    "ja":"DEXダウン",
+    "jal":"DEXダウン",
+    "id":137,
+    "enl":"afflicted with DEX Down",
+    "en":"DEX Down"
+  },
+  "138":{
+    "ja":"VITダウン",
+    "jal":"VITダウン",
+    "id":138,
+    "enl":"afflicted with VIT Down",
+    "en":"VIT Down"
+  },
+  "139":{
+    "ja":"AGIダウン",
+    "jal":"AGIダウン",
+    "id":139,
+    "enl":"afflicted with AGI Down",
+    "en":"AGI Down"
+  },
+  "140":{
+    "ja":"INTダウン",
+    "jal":"INTダウン",
+    "id":140,
+    "enl":"afflicted with INT Down",
+    "en":"INT Down"
+  },
+  "141":{
+    "ja":"MNDダウン",
+    "jal":"MNDダウン",
+    "id":141,
+    "enl":"afflicted with MND Down",
+    "en":"MND Down"
+  },
+  "142":{
+    "ja":"CHRダウン",
+    "jal":"CHRダウン",
+    "id":142,
+    "enl":"afflicted with CHR Down",
+    "en":"CHR Down"
+  },
+  "143":{
+    "ja":"レベル制限",
+    "jal":"レベル制限",
+    "id":143,
+    "enl":"level-restricted",
+    "en":"Level Restriction"
+  },
+  "144":{
+    "ja":"HPmaxダウン",
+    "jal":"HPmaxダウン",
+    "id":144,
+    "enl":"afflicted with Max HP Down",
+    "en":"Max HP Down"
+  },
+  "145":{
+    "ja":"MPmaxダウン",
+    "jal":"MPmaxダウン",
+    "id":145,
+    "enl":"afflicted with Max MP Down",
+    "en":"Max MP Down"
+  },
+  "146":{
+    "ja":"命中率ダウン",
+    "jal":"命中率ダウン",
+    "id":146,
+    "enl":"afflicted with Accuracy Down",
+    "en":"Accuracy Down"
+  },
+  "147":{
+    "ja":"攻撃力ダウン",
+    "jal":"攻撃力ダウン",
+    "id":147,
+    "enl":"afflicted with Attack Down",
+    "en":"Attack Down"
+  },
+  "148":{
+    "ja":"回避率ダウン",
+    "jal":"回避率ダウン",
+    "id":148,
+    "enl":"afflicted with Evasion Down",
+    "en":"Evasion Down"
+  },
+  "149":{
+    "ja":"防御力ダウン",
+    "jal":"防御力ダウン",
+    "id":149,
+    "enl":"afflicted with Defense Down",
+    "en":"Defense Down"
+  },
+  "150":{
+    "ja":"物理バリア",
+    "jal":"物理バリア",
+    "id":150,
+    "enl":"Physical Shield",
+    "en":"Physical Shield"
+  },
+  "151":{
+    "ja":"遠隔物理バリア",
+    "jal":"遠隔物理バリア",
+    "id":151,
+    "enl":"Arrow Shield",
+    "en":"Arrow Shield"
+  },
+  "152":{
+    "ja":"魔法バリア",
+    "jal":"魔法バリア",
+    "id":152,
+    "enl":"Magic Shield",
+    "en":"Magic Shield"
+  },
+  "153":{
+    "ja":"ダメージスパイク",
+    "jal":"ダメージスパイク",
+    "id":153,
+    "enl":"Damage Spikes",
+    "en":"Damage Spikes"
+  },
+  "154":{
+    "ja":"ルビーの輝き",
+    "jal":"ルビーの輝き",
+    "id":154,
+    "enl":"Shining Ruby",
+    "en":"Shining Ruby"
+  },
+  "155":{
+    "ja":"服薬中",
+    "jal":"服薬中",
+    "id":155,
+    "enl":"medicated",
+    "en":"medicine"
+  },
+  "156":{
+    "ja":"フラッシュ",
+    "jal":"フラッシュ",
+    "id":156,
+    "enl":"afflicted with Flash",
+    "en":"Flash"
+  },
+  "157":{
+    "ja":"サポートジョブ無効",
+    "jal":"サポートジョブ無効",
+    "id":157,
+    "enl":"SJ Restriction",
+    "en":"SJ Restriction"
+  },
+  "158":{
+    "ja":"挑発",
+    "jal":"挑発",
+    "id":158,
+    "enl":"provoked",
+    "en":"Provoke"
+  },
+  "159":{
+    "ja":"ペナルティ",
+    "jal":"ペナルティ",
+    "id":159,
+    "enl":"penalized",
+    "en":"penalty"
+  },
+  "160":{
+    "ja":"試合復帰準備中",
+    "jal":"試合復帰準備中",
+    "id":160,
+    "enl":"preparing for battle",
+    "en":"preparations"
+  },
+  "161":{
+    "ja":"スプリント",
+    "jal":"スプリント",
+    "id":161,
+    "enl":"Sprint",
+    "en":"Sprint"
+  },
+  "162":{
+    "ja":"エンチャント",
+    "jal":"エンチャント",
+    "id":162,
+    "enl":"enchanted",
+    "en":"enchantment"
+  },
+  "163":{
+    "ja":"アジュールロー",
+    "jal":"アジュールロー",
+    "id":163,
+    "enl":"Azure Lore",
+    "en":"Azure Lore"
+  },
+  "164":{
+    "ja":"ブルーチェーン",
+    "jal":"ブルーチェーン",
+    "id":164,
+    "enl":"Chain Affinity",
+    "en":"Chain Affinity"
+  },
+  "165":{
+    "ja":"ブルーバースト",
+    "jal":"ブルーバースト",
+    "id":165,
+    "enl":"Burst Affinity",
+    "en":"Burst Affinity"
+  },
+  "166":{
+    "ja":"オーバードライヴ",
+    "jal":"オーバードライヴ",
+    "id":166,
+    "enl":"Overdrive",
+    "en":"Overdrive"
+  },
+  "167":{
+    "ja":"魔法防御力ダウン",
+    "jal":"魔法防御力ダウン",
+    "id":167,
+    "enl":"Magic Def. Down",
+    "en":"Magic Def. Down"
+  },
+  "168":{
+    "ja":"インヒビットTP",
+    "jal":"インヒビットTP",
+    "id":168,
+    "enl":"TP-inhibited",
+    "en":"Inhibit TP"
+  },
+  "169":{
+    "ja":"ポテンシー",
+    "jal":"ポテンシー",
+    "id":169,
+    "enl":"Potency",
+    "en":"Potency"
+  },
+  "170":{
+    "ja":"リゲイン",
+    "jal":"リゲイン",
+    "id":170,
+    "enl":"Regain",
+    "en":"Regain"
+  },
+  "171":{
+    "ja":"パクス",
+    "jal":"パクス",
+    "id":171,
+    "enl":"Pax",
+    "en":"Pax"
+  },
+  "172":{
+    "ja":"インテンション",
+    "jal":"インテンション",
+    "id":172,
+    "enl":"Intension",
+    "en":"Intension"
+  },
+  "173":{
+    "ja":"ドレッドスパイク",
+    "jal":"ドレッドスパイク",
+    "id":173,
+    "enl":"Dread Spikes",
+    "en":"Dread Spikes"
+  },
+  "174":{
+    "ja":"魔法命中率ダウン",
+    "jal":"魔法命中率ダウン",
+    "id":174,
+    "enl":"Magic Acc. Down",
+    "en":"Magic Acc. Down"
+  },
+  "175":{
+    "ja":"魔法攻撃力ダウン",
+    "jal":"魔法攻撃力ダウン",
+    "id":175,
+    "enl":"Magic Atk. Down",
+    "en":"Magic Atk. Down"
+  },
+  "176":{
+    "ja":"移動速度アップ",
+    "jal":"移動速度アップ",
+    "id":176,
+    "enl":"quickened",
+    "en":"quickening"
+  },
+  "177":{
+    "ja":"装備変更不可",
+    "jal":"装備変更不可",
+    "id":177,
+    "enl":"encumbered",
+    "en":"encumbrance"
+  },
+  "178":{
+    "ja":"熱波の陣",
+    "jal":"熱波の陣",
+    "id":178,
+    "enl":"Firestorm",
+    "en":"Firestorm"
+  },
+  "179":{
+    "ja":"吹雪の陣",
+    "jal":"吹雪の陣",
+    "id":179,
+    "enl":"Hailstorm",
+    "en":"Hailstorm"
+  },
+  "180":{
+    "ja":"烈風の陣",
+    "jal":"烈風の陣",
+    "id":180,
+    "enl":"Windstorm",
+    "en":"Windstorm"
+  },
+  "181":{
+    "ja":"砂塵の陣",
+    "jal":"砂塵の陣",
+    "id":181,
+    "enl":"Sandstorm",
+    "en":"Sandstorm"
+  },
+  "182":{
+    "ja":"疾雷の陣",
+    "jal":"疾雷の陣",
+    "id":182,
+    "enl":"Thunderstorm",
+    "en":"Thunderstorm"
+  },
+  "183":{
+    "ja":"豪雨の陣",
+    "jal":"豪雨の陣",
+    "id":183,
+    "enl":"Rainstorm",
+    "en":"Rainstorm"
+  },
+  "184":{
+    "ja":"極光の陣",
+    "jal":"極光の陣",
+    "id":184,
+    "enl":"Aurorastorm",
+    "en":"Aurorastorm"
+  },
+  "185":{
+    "ja":"妖霧の陣",
+    "jal":"妖霧の陣",
+    "id":185,
+    "enl":"Voidstorm",
+    "en":"Voidstorm"
+  },
+  "186":{
+    "ja":"計略",
+    "jal":"計略",
+    "id":186,
+    "enl":"Helix",
+    "en":"Helix"
+  },
+  "187":{
+    "ja":"机上演習:蓄積中",
+    "jal":"机上演習:蓄積中",
+    "id":187,
+    "enl":"Sublimation: Activated",
+    "en":"Sublimation: Activated"
+  },
+  "188":{
+    "ja":"机上演習:蓄積完了",
+    "jal":"机上演習:蓄積完了",
+    "id":188,
+    "enl":"Sublimation: Complete",
+    "en":"Sublimation: Complete"
+  },
+  "189":{
+    "ja":"TPmaxダウン",
+    "jal":"TPmaxダウン",
+    "id":189,
+    "enl":"Max TP Down",
+    "en":"Max TP Down"
+  },
+  "190":{
+    "ja":"魔法攻撃力アップ",
+    "jal":"魔法攻撃力アップ",
+    "id":190,
+    "enl":"Magic Atk. Boost",
+    "en":"Magic Atk. Boost"
+  },
+  "191":{
+    "ja":"魔法防御力アップ",
+    "jal":"魔法防御力アップ",
+    "id":191,
+    "enl":"Magic Def. Boost",
+    "en":"Magic Def. Boost"
+  },
+  "192":{
+    "ja":"レクイエム",
+    "jal":"レクイエム",
+    "id":192,
+    "enl":"Requiem",
+    "en":"Requiem"
+  },
+  "193":{
+    "ja":"ララバイ",
+    "jal":"ララバイ",
+    "id":193,
+    "enl":"Lullaby",
+    "en":"Lullaby"
+  },
+  "194":{
+    "ja":"エレジー",
+    "jal":"エレジー",
+    "id":194,
+    "enl":"Elegy",
+    "en":"Elegy"
+  },
+  "195":{
+    "ja":"ピーアン",
+    "jal":"ピーアン",
+    "id":195,
+    "enl":"Paeon",
+    "en":"Paeon"
+  },
+  "196":{
+    "ja":"バラード",
+    "jal":"バラード",
+    "id":196,
+    "enl":"Ballad",
+    "en":"Ballad"
+  },
+  "197":{
+    "ja":"ミンネ",
+    "jal":"ミンネ",
+    "id":197,
+    "enl":"Minne",
+    "en":"Minne"
+  },
+  "198":{
+    "ja":"メヌエット",
+    "jal":"メヌエット",
+    "id":198,
+    "enl":"Minuet",
+    "en":"Minuet"
+  },
+  "199":{
+    "ja":"マドリガル",
+    "jal":"マドリガル",
+    "id":199,
+    "enl":"Madrigal",
+    "en":"Madrigal"
+  },
+  "200":{
+    "ja":"プレリュード",
+    "jal":"プレリュード",
+    "id":200,
+    "enl":"Prelude",
+    "en":"Prelude"
+  },
+  "201":{
+    "ja":"マンボ",
+    "jal":"マンボ",
+    "id":201,
+    "enl":"Mambo",
+    "en":"Mambo"
+  },
+  "202":{
+    "ja":"オーバード",
+    "jal":"オーバード",
+    "id":202,
+    "enl":"Aubade",
+    "en":"Aubade"
+  },
+  "203":{
+    "ja":"パストラル",
+    "jal":"パストラル",
+    "id":203,
+    "enl":"Pastoral",
+    "en":"Pastoral"
+  },
+  "204":{
+    "ja":"ハミング",
+    "jal":"ハミング",
+    "id":204,
+    "enl":"Hum",
+    "en":"Hum"
+  },
+  "205":{
+    "ja":"ファンタジア",
+    "jal":"ファンタジア",
+    "id":205,
+    "enl":"Fantasia",
+    "en":"Fantasia"
+  },
+  "206":{
+    "ja":"オペレッタ",
+    "jal":"オペレッタ",
+    "id":206,
+    "enl":"Operetta",
+    "en":"Operetta"
+  },
+  "207":{
+    "ja":"カプリチオ",
+    "jal":"カプリチオ",
+    "id":207,
+    "enl":"Capriccio",
+    "en":"Capriccio"
+  },
+  "208":{
+    "ja":"セレナーデ",
+    "jal":"セレナーデ",
+    "id":208,
+    "enl":"Serenade",
+    "en":"Serenade"
+  },
+  "209":{
+    "ja":"ロンド",
+    "jal":"ロンド",
+    "id":209,
+    "enl":"Round",
+    "en":"Round"
+  },
+  "210":{
+    "ja":"ガボット",
+    "jal":"ガボット",
+    "id":210,
+    "enl":"Gavotte",
+    "en":"Gavotte"
+  },
+  "211":{
+    "ja":"フーガ",
+    "jal":"フーガ",
+    "id":211,
+    "enl":"Fugue",
+    "en":"Fugue"
+  },
+  "212":{
+    "ja":"ラプソディ",
+    "jal":"ラプソディ",
+    "id":212,
+    "enl":"Rhapsody",
+    "en":"Rhapsody"
+  },
+  "213":{
+    "ja":"アリア",
+    "jal":"アリア",
+    "id":213,
+    "enl":"Aria",
+    "en":"Aria"
+  },
+  "214":{
+    "ja":"マーチ",
+    "jal":"マーチ",
+    "id":214,
+    "enl":"March",
+    "en":"March"
+  },
+  "215":{
+    "ja":"エチュード",
+    "jal":"エチュード",
+    "id":215,
+    "enl":"Etude",
+    "en":"Etude"
+  },
+  "216":{
+    "ja":"カロル",
+    "jal":"カロル",
+    "id":216,
+    "enl":"Carol",
+    "en":"Carol"
+  },
+  "217":{
+    "ja":"スレノディ",
+    "jal":"スレノディ",
+    "id":217,
+    "enl":"Threnody",
+    "en":"Threnody"
+  },
+  "218":{
+    "ja":"ヒムヌス",
+    "jal":"ヒムヌス",
+    "id":218,
+    "enl":"Hymnus",
+    "en":"Hymnus"
+  },
+  "219":{
+    "ja":"マズルカ",
+    "jal":"マズルカ",
+    "id":219,
+    "enl":"Mazurka",
+    "en":"Mazurka"
+  },
+  "220":{
+    "ja":"シルベント",
+    "jal":"シルベント",
+    "id":220,
+    "enl":"Sirvente",
+    "en":"Sirvente"
+  },
+  "221":{
+    "ja":"ダージュ",
+    "jal":"ダージュ",
+    "id":221,
+    "enl":"Dirge",
+    "en":"Dirge"
+  },
+  "222":{
+    "ja":"スケルツォ",
+    "jal":"スケルツォ",
+    "id":222,
+    "enl":"Scherzo",
+    "en":"Scherzo"
+  },
+  "223":{
+    "ja":"ノクターン",
+    "jal":"ノクターン",
+    "id":223,
+    "enl":"Nocturne",
+    "en":"Nocturne"
+  },
+  "224":{
+    "ja":"ＳＴ２２４",
+    "jal":"ＳＴ２２４",
+    "id":224,
+    "enl":"ST224",
+    "en":"ST224"
+  },
+  "225":{
+    "ja":"ＳＴ２２５",
+    "jal":"ＳＴ２２５",
+    "id":225,
+    "enl":"ST225",
+    "en":"ST225"
+  },
+  "226":{
+    "ja":"ＳＴ２２６",
+    "jal":"ＳＴ２２６",
+    "id":226,
+    "enl":"ST226",
+    "en":"ST226"
+  },
+  "227":{
+    "ja":"ストアTP",
+    "jal":"ストアTP",
+    "id":227,
+    "enl":"Store TP",
+    "en":"Store TP"
+  },
+  "228":{
+    "ja":"オーラ",
+    "jal":"オーラ",
+    "id":228,
+    "enl":"Embrava",
+    "en":"Embrava"
+  },
+  "229":{
+    "ja":"魔力の雫",
+    "jal":"魔力の雫",
+    "id":229,
+    "enl":"Manawell",
+    "en":"Manawell"
+  },
+  "230":{
+    "ja":"クイックマジック",
+    "jal":"クイックマジック",
+    "id":230,
+    "enl":"Spontaneity",
+    "en":"Spontaneity"
+  },
+  "231":{
+    "ja":"マルカート",
+    "jal":"マルカート",
+    "id":231,
+    "enl":"Marcato",
+    "en":"Marcato"
+  },
+  "232":{
+    "ja":"（未使用）",
+    "jal":"（未使用）",
+    "id":232,
+    "enl":"(N/A)",
+    "en":"(N/A)"
+  },
+  "233":{
+    "ja":"オートリジェネ",
+    "jal":"オートリジェネ",
+    "id":233,
+    "enl":"Auto-Regen",
+    "en":"Auto-Regen"
+  },
+  "234":{
+    "ja":"オートリフレシュ",
+    "jal":"オートリフレシュ",
+    "id":234,
+    "enl":"Auto-Refresh",
+    "en":"Auto-Refresh"
+  },
+  "235":{
+    "ja":"釣りイメージ",
+    "jal":"釣りイメージ",
+    "id":235,
+    "enl":"Fishing Imagery",
+    "en":"Fishing Imagery"
+  },
+  "236":{
+    "ja":"木工イメージ",
+    "jal":"木工イメージ",
+    "id":236,
+    "enl":"Woodworking Imagery",
+    "en":"Woodworking Imagery"
+  },
+  "237":{
+    "ja":"鍛冶イメージ",
+    "jal":"鍛冶イメージ",
+    "id":237,
+    "enl":"Smithing Imagery",
+    "en":"Smithing Imagery"
+  },
+  "238":{
+    "ja":"彫金イメージ",
+    "jal":"彫金イメージ",
+    "id":238,
+    "enl":"Goldsmithing Imagery",
+    "en":"Goldsmithing Imagery"
+  },
+  "239":{
+    "ja":"裁縫イメージ",
+    "jal":"裁縫イメージ",
+    "id":239,
+    "enl":"Clothcraft Imagery",
+    "en":"Clothcraft Imagery"
+  },
+  "240":{
+    "ja":"革細工イメージ",
+    "jal":"革細工イメージ",
+    "id":240,
+    "enl":"Leathercraft Imagery",
+    "en":"Leathercraft Imagery"
+  },
+  "241":{
+    "ja":"骨細工イメージ",
+    "jal":"骨細工イメージ",
+    "id":241,
+    "enl":"Bonecraft Imagery",
+    "en":"Bonecraft Imagery"
+  },
+  "242":{
+    "ja":"錬金術イメージ",
+    "jal":"錬金術イメージ",
+    "id":242,
+    "enl":"Alchemy Imagery",
+    "en":"Alchemy Imagery"
+  },
+  "243":{
+    "ja":"調理イメージ",
+    "jal":"調理イメージ",
+    "id":243,
+    "enl":"Cooking Imagery",
+    "en":"Cooking Imagery"
+  },
+  "249":{
+    "ja":"専心",
+    "jal":"専心",
+    "id":249,
+    "enl":"Dedication",
+    "en":"Dedication"
+  },
+  "250":{
+    "ja":"遠征軍参加資格",
+    "jal":"遠征軍参加資格",
+    "id":250,
+    "enl":"EF Badge",
+    "en":"EF Badge"
+  },
+  "251":{
+    "ja":"食事",
+    "jal":"食事",
+    "id":251,
+    "enl":"Food",
+    "en":"Food"
+  },
+  "252":{
+    "ja":"マウント",
+    "jal":"マウント",
+    "id":252,
+    "enl":"Mounted",
+    "en":"Mounted"
+  },
+  "253":{
+    "ja":"シグネット",
+    "jal":"シグネット",
+    "id":253,
+    "enl":"Signet",
+    "en":"Signet"
+  },
+  "254":{
+    "ja":"バトルフィールド",
+    "jal":"バトルフィールド",
+    "id":254,
+    "enl":"Battlefield",
+    "en":"Battlefield"
+  },
+  "256":{
+    "ja":"サンクション",
+    "jal":"サンクション",
+    "id":256,
+    "enl":"Sanction",
+    "en":"Sanction"
+  },
+  "257":{
+    "ja":"ビシージド",
+    "jal":"ビシージド",
+    "id":257,
+    "enl":"Besieged",
+    "en":"Besieged"
+  },
+  "258":{
+    "ja":"イリュージョン",
+    "jal":"イリュージョン",
+    "id":258,
+    "enl":"Illusion",
+    "en":"Illusion"
+  },
+  "259":{
+    "ja":"エンカンバー",
+    "jal":"エンカンバー",
+    "id":259,
+    "enl":"encumbered",
+    "en":"encumbrance"
+  },
+  "260":{
+    "ja":"オブリビセンス",
+    "jal":"オブリビセンス",
+    "id":260,
+    "enl":"Obliviscence",
+    "en":"Obliviscence"
+  },
+  "261":{
+    "ja":"インペア",
+    "jal":"インペア",
+    "id":261,
+    "enl":"impaired",
+    "en":"impairment"
+  },
+  "262":{
+    "ja":"オメルタ",
+    "jal":"オメルタ",
+    "id":262,
+    "enl":"Omerta",
+    "en":"Omerta"
+  },
+  "263":{
+    "ja":"デビリテート",
+    "jal":"デビリテート",
+    "id":263,
+    "enl":"debilitated",
+    "en":"debilitation"
+  },
+  "264":{
+    "ja":"パトス",
+    "jal":"パトス",
+    "id":264,
+    "enl":"Pathos",
+    "en":"Pathos"
+  },
+  "265":{
+    "ja":"フラーリー",
+    "jal":"フラーリー",
+    "id":265,
+    "enl":"Flurry",
+    "en":"Flurry"
+  },
+  "266":{
+    "ja":"コンセントレーション",
+    "jal":"コンセントレーション",
+    "id":266,
+    "enl":"Concentration",
+    "en":"Concentration"
+  },
+  "267":{
+    "ja":"アライドタグ",
+    "jal":"アライドタグ",
+    "id":267,
+    "enl":"Allied Tags",
+    "en":"Allied Tags"
+  },
+  "268":{
+    "ja":"シギル",
+    "jal":"シギル",
+    "id":268,
+    "enl":"Sigil",
+    "en":"Sigil"
+  },
+  "269":{
+    "ja":"レベルシンク",
+    "jal":"レベルシンク",
+    "id":269,
+    "enl":"Level Sync",
+    "en":"Level Sync"
+  },
+  "270":{
+    "ja":"アフターマス:Lv1",
+    "jal":"アフターマス:Lv1",
+    "id":270,
+    "enl":"Aftermath: Lv.1",
+    "en":"Aftermath: Lv.1"
+  },
+  "271":{
+    "ja":"アフターマス:Lv2",
+    "jal":"アフターマス:Lv2",
+    "id":271,
+    "enl":"Aftermath: Lv.2",
+    "en":"Aftermath: Lv.2"
+  },
+  "272":{
+    "ja":"アフターマス:Lv3",
+    "jal":"アフターマス:Lv3",
+    "id":272,
+    "enl":"Aftermath: Lv.3",
+    "en":"Aftermath: Lv.3"
+  },
+  "273":{
+    "ja":"アフターマス",
+    "jal":"アフターマス",
+    "id":273,
+    "enl":"Aftermath",
+    "en":"Aftermath"
+  },
+  "274":{
+    "ja":"エンライト",
+    "jal":"エンライト",
+    "id":274,
+    "enl":"Enlight",
+    "en":"Enlight"
+  },
+  "275":{
+    "ja":"オースピス",
+    "jal":"オースピス",
+    "id":275,
+    "enl":"Auspice",
+    "en":"Auspice"
+  },
+  "276":{
+    "ja":"コンフロント",
+    "jal":"コンフロント",
+    "id":276,
+    "enl":"Confrontation",
+    "en":"Confrontation"
+  },
+  "277":{
+    "ja":"エンファイアII",
+    "jal":"エンファイアII",
+    "id":277,
+    "enl":"Enfire II",
+    "en":"Enfire II"
+  },
+  "278":{
+    "ja":"エンブリザドII",
+    "jal":"エンブリザドII",
+    "id":278,
+    "enl":"Enblizzard II",
+    "en":"Enblizzard II"
+  },
+  "279":{
+    "ja":"エンエアロII",
+    "jal":"エンエアロII",
+    "id":279,
+    "enl":"Enaero II",
+    "en":"Enaero II"
+  },
+  "280":{
+    "ja":"エンストーンII",
+    "jal":"エンストーンII",
+    "id":280,
+    "enl":"Enstone II",
+    "en":"Enstone II"
+  },
+  "281":{
+    "ja":"エンサンダーII",
+    "jal":"エンサンダーII",
+    "id":281,
+    "enl":"Enthunder II",
+    "en":"Enthunder II"
+  },
+  "282":{
+    "ja":"エンウォータII",
+    "jal":"エンウォータII",
+    "id":282,
+    "enl":"Enwater II",
+    "en":"Enwater II"
+  },
+  "283":{
+    "ja":"絶対防御",
+    "jal":"絶対防御",
+    "id":283,
+    "enl":"Perfect Defense",
+    "en":"Perfect Defense"
+  },
+  "284":{
+    "ja":"タマゴ",
+    "jal":"タマゴ",
+    "id":284,
+    "enl":"Egg",
+    "en":"Egg"
+  },
+  "285":{
+    "ja":"ビジタント",
+    "jal":"ビジタント",
+    "id":285,
+    "enl":"Visitant",
+    "en":"Visitant"
+  },
+  "286":{
+    "ja":"バアムネジア",
+    "jal":"バアムネジア",
+    "id":286,
+    "enl":"Baramnesia",
+    "en":"Baramnesia"
+  },
+  "287":{
+    "ja":"アートマ",
+    "jal":"アートマ",
+    "id":287,
+    "enl":"Atma",
+    "en":"Atma"
+  },
+  "288":{
+    "ja":"エンダーク",
+    "jal":"エンダーク",
+    "id":288,
+    "enl":"Endark",
+    "en":"Endark"
+  },
+  "289":{
+    "ja":"敵対心アップ",
+    "jal":"敵対心アップ",
+    "id":289,
+    "enl":"Enmity Boost",
+    "en":"Enmity Boost"
+  },
+  "290":{
+    "ja":"モクシャアップ",
+    "jal":"モクシャアップ",
+    "id":290,
+    "enl":"Subtle Blow Plus",
+    "en":"Subtle Blow Plus"
+  },
+  "291":{
+    "ja":"敵対心ダウン",
+    "jal":"敵対心ダウン",
+    "id":291,
+    "enl":"Enmity Down",
+    "en":"Enmity Down"
+  },
+  "292":{
+    "ja":"ペナント",
+    "jal":"ペナント",
+    "id":292,
+    "enl":"Pennant",
+    "en":"Pennant"
+  },
+  "293":{
+    "ja":"ネゲートペトリ",
+    "jal":"ネゲートペトリ",
+    "id":293,
+    "enl":"Negate Petrify",
+    "en":"Negate Petrify"
+  },
+  "294":{
+    "ja":"ネゲートテラー",
+    "jal":"ネゲートテラー",
+    "id":294,
+    "enl":"Negate Terror",
+    "en":"Negate Terror"
+  },
+  "295":{
+    "ja":"ネゲートアムネジア",
+    "jal":"ネゲートアムネジア",
+    "id":295,
+    "enl":"Negate Amnesia",
+    "en":"Negate Amnesia"
+  },
+  "296":{
+    "ja":"ネゲートドゥーム",
+    "jal":"ネゲートドゥーム",
+    "id":296,
+    "enl":"Negate Doom",
+    "en":"Negate Doom"
+  },
+  "297":{
+    "ja":"ネゲートポイズン",
+    "jal":"ネゲートポイズン",
+    "id":297,
+    "enl":"Negate Poison",
+    "en":"Negate Poison"
+  },
+  "298":{
+    "ja":"被クリティカルヒット率アップ",
+    "jal":"被クリティカルヒット率アップ",
+    "id":298,
+    "enl":"critical hit evasion down",
+    "en":"critical hit evasion down"
+  },
+  "299":{
+    "ja":"オーバーロード",
+    "jal":"オーバーロード",
+    "id":299,
+    "enl":"overloaded",
+    "en":"Overload"
+  },
+  "300":{
+    "ja":"ファイアマニューバ",
+    "jal":"ファイアマニューバ",
+    "id":300,
+    "enl":"Fire Maneuver",
+    "en":"Fire Maneuver"
+  },
+  "301":{
+    "ja":"アイスマニューバ",
+    "jal":"アイスマニューバ",
+    "id":301,
+    "enl":"Ice Maneuver",
+    "en":"Ice Maneuver"
+  },
+  "302":{
+    "ja":"ウィンドマニューバ",
+    "jal":"ウィンドマニューバ",
+    "id":302,
+    "enl":"Wind Maneuver",
+    "en":"Wind Maneuver"
+  },
+  "303":{
+    "ja":"アースマニューバ",
+    "jal":"アースマニューバ",
+    "id":303,
+    "enl":"Earth Maneuver",
+    "en":"Earth Maneuver"
+  },
+  "304":{
+    "ja":"サンダーマニューバ",
+    "jal":"サンダーマニューバ",
+    "id":304,
+    "enl":"Thunder Maneuver",
+    "en":"Thunder Maneuver"
+  },
+  "305":{
+    "ja":"ウォータマニューバ",
+    "jal":"ウォータマニューバ",
+    "id":305,
+    "enl":"Water Maneuver",
+    "en":"Water Maneuver"
+  },
+  "306":{
+    "ja":"ライトマニューバ",
+    "jal":"ライトマニューバ",
+    "id":306,
+    "enl":"Light Maneuver",
+    "en":"Light Maneuver"
+  },
+  "307":{
+    "ja":"ダークマニューバ",
+    "jal":"ダークマニューバ",
+    "id":307,
+    "enl":"Dark Maneuver",
+    "en":"Dark Maneuver"
+  },
+  "308":{
+    "ja":"ダブルアップチャンス",
+    "jal":"ダブルアップチャンス",
+    "id":308,
+    "enl":"Double-Up Chance",
+    "en":"Double-Up Chance"
+  },
+  "309":{
+    "ja":"バスト",
+    "jal":"バスト",
+    "id":309,
+    "enl":"Bust",
+    "en":"Bust"
+  },
+  "310":{
+    "ja":"ファイターズロール",
+    "jal":"ファイターズロール",
+    "id":310,
+    "enl":"Fighter's Roll",
+    "en":"Fighter's Roll"
+  },
+  "311":{
+    "ja":"モンクスロール",
+    "jal":"モンクスロール",
+    "id":311,
+    "enl":"Monk's Roll",
+    "en":"Monk's Roll"
+  },
+  "312":{
+    "ja":"ヒーラーズロール",
+    "jal":"ヒーラーズロール",
+    "id":312,
+    "enl":"Healer's Roll",
+    "en":"Healer's Roll"
+  },
+  "313":{
+    "ja":"ウィザーズロール",
+    "jal":"ウィザーズロール",
+    "id":313,
+    "enl":"Wizard's Roll",
+    "en":"Wizard's Roll"
+  },
+  "314":{
+    "ja":"ワーロックスロール",
+    "jal":"ワーロックスロール",
+    "id":314,
+    "enl":"Warlock's Roll",
+    "en":"Warlock's Roll"
+  },
+  "315":{
+    "ja":"ローグズロール",
+    "jal":"ローグズロール",
+    "id":315,
+    "enl":"Rogue's Roll",
+    "en":"Rogue's Roll"
+  },
+  "316":{
+    "ja":"ガランツロール",
+    "jal":"ガランツロール",
+    "id":316,
+    "enl":"Gallant's Roll",
+    "en":"Gallant's Roll"
+  },
+  "317":{
+    "ja":"カオスロール",
+    "jal":"カオスロール",
+    "id":317,
+    "enl":"Chaos Roll",
+    "en":"Chaos Roll"
+  },
+  "318":{
+    "ja":"ビーストロール",
+    "jal":"ビーストロール",
+    "id":318,
+    "enl":"Beast Roll",
+    "en":"Beast Roll"
+  },
+  "319":{
+    "ja":"コーラルロール",
+    "jal":"コーラルロール",
+    "id":319,
+    "enl":"Choral Roll",
+    "en":"Choral Roll"
+  },
+  "320":{
+    "ja":"ハンターズロール",
+    "jal":"ハンターズロール",
+    "id":320,
+    "enl":"Hunter's Roll",
+    "en":"Hunter's Roll"
+  },
+  "321":{
+    "ja":"サムライロール",
+    "jal":"サムライロール",
+    "id":321,
+    "enl":"Samurai Roll",
+    "en":"Samurai Roll"
+  },
+  "322":{
+    "ja":"ニンジャロール",
+    "jal":"ニンジャロール",
+    "id":322,
+    "enl":"Ninja Roll",
+    "en":"Ninja Roll"
+  },
+  "323":{
+    "ja":"ドラケンロール",
+    "jal":"ドラケンロール",
+    "id":323,
+    "enl":"Drachen Roll",
+    "en":"Drachen Roll"
+  },
+  "324":{
+    "ja":"エボカーズロール",
+    "jal":"エボカーズロール",
+    "id":324,
+    "enl":"Evoker's Roll",
+    "en":"Evoker's Roll"
+  },
+  "325":{
+    "ja":"メガスズロール",
+    "jal":"メガスズロール",
+    "id":325,
+    "enl":"Magus's Roll",
+    "en":"Magus's Roll"
+  },
+  "326":{
+    "ja":"コルセアズロール",
+    "jal":"コルセアズロール",
+    "id":326,
+    "enl":"Corsair's Roll",
+    "en":"Corsair's Roll"
+  },
+  "327":{
+    "ja":"パペットロール",
+    "jal":"パペットロール",
+    "id":327,
+    "enl":"Puppet Roll",
+    "en":"Puppet Roll"
+  },
+  "328":{
+    "ja":"ダンサーロール",
+    "jal":"ダンサーロール",
+    "id":328,
+    "enl":"Dancer's Roll",
+    "en":"Dancer's Roll"
+  },
+  "329":{
+    "ja":"スカラーロール",
+    "jal":"スカラーロール",
+    "id":329,
+    "enl":"Scholar's Roll",
+    "en":"Scholar's Roll"
+  },
+  "330":{
+    "ja":"ボルターズロール",
+    "jal":"ボルターズロール",
+    "id":330,
+    "enl":"Bolter's Roll",
+    "en":"Bolter's Roll"
+  },
+  "331":{
+    "ja":"キャスターズロール",
+    "jal":"キャスターズロール",
+    "id":331,
+    "enl":"Caster's Roll",
+    "en":"Caster's Roll"
+  },
+  "332":{
+    "ja":"コアサーズロール",
+    "jal":"コアサーズロール",
+    "id":332,
+    "enl":"Courser's Roll",
+    "en":"Courser's Roll"
+  },
+  "333":{
+    "ja":"ブリッツァロール",
+    "jal":"ブリッツァロール",
+    "id":333,
+    "enl":"Blitzer's Roll",
+    "en":"Blitzer's Roll"
+  },
+  "334":{
+    "ja":"タクティックロール",
+    "jal":"タクティックロール",
+    "id":334,
+    "enl":"Tactician's Roll",
+    "en":"Tactician's Roll"
+  },
+  "335":{
+    "ja":"アライズロール",
+    "jal":"アライズロール",
+    "id":335,
+    "enl":"Allies' Roll",
+    "en":"Allies' Roll"
+  },
+  "336":{
+    "ja":"マイザーロール",
+    "jal":"マイザーロール",
+    "id":336,
+    "enl":"Miser's Roll",
+    "en":"Miser's Roll"
+  },
+  "337":{
+    "ja":"コンパニオンロール",
+    "jal":"コンパニオンロール",
+    "id":337,
+    "enl":"Companion's Roll",
+    "en":"Companion's Roll"
+  },
+  "338":{
+    "ja":"カウンターロール",
+    "jal":"カウンターロール",
+    "id":338,
+    "enl":"Avenger's Roll",
+    "en":"Avenger's Roll"
+  },
+  "339":{
+    "ja":"ナチュラリストロール",
+    "jal":"ナチュラリストロール",
+    "id":339,
+    "enl":"Naturalist's Roll",
+    "en":"Naturalist's Roll"
+  },
+  "340":{
+    "ja":"ウォリアーチャージ",
+    "jal":"ウォリアーチャージ",
+    "id":340,
+    "enl":"Warrior's Charge",
+    "en":"Warrior's Charge"
+  },
+  "341":{
+    "ja":"無想無念",
+    "jal":"無想無念",
+    "id":341,
+    "enl":"Formless Strikes",
+    "en":"Formless Strikes"
+  },
+  "342":{
+    "ja":"アサシンチャージ",
+    "jal":"アサシンチャージ",
+    "id":342,
+    "enl":"Assassin's Charge",
+    "en":"Assassin's Charge"
+  },
+  "343":{
+    "ja":"フェイント",
+    "jal":"フェイント",
+    "id":343,
+    "enl":"Feint",
+    "en":"Feint"
+  },
+  "344":{
+    "ja":"フィールティ",
+    "jal":"フィールティ",
+    "id":344,
+    "enl":"Fealty",
+    "en":"Fealty"
+  },
+  "345":{
+    "ja":"ダークシール",
+    "jal":"ダークシール",
+    "id":345,
+    "enl":"Dark Seal",
+    "en":"Dark Seal"
+  },
+  "346":{
+    "ja":"ディアボリクアイ",
+    "jal":"ディアボリクアイ",
+    "id":346,
+    "enl":"Diabolic Eye",
+    "en":"Diabolic Eye"
+  },
+  "347":{
+    "ja":"ナイチンゲール",
+    "jal":"ナイチンゲール",
+    "id":347,
+    "enl":"Nightingale",
+    "en":"Nightingale"
+  },
+  "348":{
+    "ja":"トルバドゥール",
+    "jal":"トルバドゥール",
+    "id":348,
+    "enl":"Troubadour",
+    "en":"Troubadour"
+  },
+  "349":{
+    "ja":"K.インスティンクト",
+    "jal":"K.インスティンクト",
+    "id":349,
+    "enl":"Killer Instinct",
+    "en":"Killer Instinct"
+  },
+  "350":{
+    "ja":"ステルスショット",
+    "jal":"ステルスショット",
+    "id":350,
+    "enl":"Stealth Shot",
+    "en":"Stealth Shot"
+  },
+  "351":{
+    "ja":"フラッシーショット",
+    "jal":"フラッシーショット",
+    "id":351,
+    "enl":"Flashy Shot",
+    "en":"Flashy Shot"
+  },
+  "352":{
+    "ja":"散華",
+    "jal":"散華",
+    "id":352,
+    "enl":"Sange",
+    "en":"Sange"
+  },
+  "353":{
+    "ja":"八双",
+    "jal":"八双",
+    "id":353,
+    "enl":"Hasso",
+    "en":"Hasso"
+  },
+  "354":{
+    "ja":"星眼",
+    "jal":"星眼",
+    "id":354,
+    "enl":"Seigan",
+    "en":"Seigan"
+  },
+  "355":{
+    "ja":"コンバージェンス",
+    "jal":"コンバージェンス",
+    "id":355,
+    "enl":"Convergence",
+    "en":"Convergence"
+  },
+  "356":{
+    "ja":"ディフュージョン",
+    "jal":"ディフュージョン",
+    "id":356,
+    "enl":"Diffusion",
+    "en":"Diffusion"
+  },
+  "357":{
+    "ja":"スネークアイ",
+    "jal":"スネークアイ",
+    "id":357,
+    "enl":"Snake Eye",
+    "en":"Snake Eye"
+  },
+  "358":{
+    "ja":"白のグリモア",
+    "jal":"白のグリモア",
+    "id":358,
+    "enl":"Light Arts",
+    "en":"Light Arts"
+  },
+  "359":{
+    "ja":"黒のグリモア",
+    "jal":"黒のグリモア",
+    "id":359,
+    "enl":"Dark Arts",
+    "en":"Dark Arts"
+  },
+  "360":{
+    "ja":"簡素清貧の章",
+    "jal":"簡素清貧の章",
+    "id":360,
+    "enl":"Penury",
+    "en":"Penury"
+  },
+  "361":{
+    "ja":"勤倹小心の章",
+    "jal":"勤倹小心の章",
+    "id":361,
+    "enl":"Parsimony",
+    "en":"Parsimony"
+  },
+  "362":{
+    "ja":"電光石火の章",
+    "jal":"電光石火の章",
+    "id":362,
+    "enl":"Celerity",
+    "en":"Celerity"
+  },
+  "363":{
+    "ja":"疾風迅雷の章",
+    "jal":"疾風迅雷の章",
+    "id":363,
+    "enl":"Alacrity",
+    "en":"Alacrity"
+  },
+  "364":{
+    "ja":"意気昂然の章",
+    "jal":"意気昂然の章",
+    "id":364,
+    "enl":"Rapture",
+    "en":"Rapture"
+  },
+  "365":{
+    "ja":"気炎万丈の章",
+    "jal":"気炎万丈の章",
+    "id":365,
+    "enl":"Ebullience",
+    "en":"Ebullience"
+  },
+  "366":{
+    "ja":"女神降臨の章",
+    "jal":"女神降臨の章",
+    "id":366,
+    "enl":"Accession",
+    "en":"Accession"
+  },
+  "367":{
+    "ja":"精霊光来の章",
+    "jal":"精霊光来の章",
+    "id":367,
+    "enl":"Manifestation",
+    "en":"Manifestation"
+  },
+  "368":{
+    "ja":"ドレインサンバ",
+    "jal":"ドレインサンバ",
+    "id":368,
+    "enl":"Drain Samba",
+    "en":"Drain Samba"
+  },
+  "369":{
+    "ja":"アスピルサンバ",
+    "jal":"アスピルサンバ",
+    "id":369,
+    "enl":"Aspir Samba",
+    "en":"Aspir Samba"
+  },
+  "370":{
+    "ja":"ヘイストサンバ",
+    "jal":"ヘイストサンバ",
+    "id":370,
+    "enl":"Haste Samba",
+    "en":"Haste Samba"
+  },
+  "371":{
+    "ja":"ベロシティショット",
+    "jal":"ベロシティショット",
+    "id":371,
+    "enl":"Velocity Shot",
+    "en":"Velocity Shot"
+  },
+  "375":{
+    "ja":"B.フラリッシュ",
+    "jal":"B.フラリッシュ",
+    "id":375,
+    "enl":"Building Flourish",
+    "en":"Building Flourish"
+  },
+  "376":{
+    "ja":"トランス",
+    "jal":"トランス",
+    "id":376,
+    "enl":"Trance",
+    "en":"Trance"
+  },
+  "377":{
+    "ja":"連環計",
+    "jal":"連環計",
+    "id":377,
+    "enl":"Tabula Rasa",
+    "en":"Tabula Rasa"
+  },
+  "378":{
+    "ja":"ドレインデイズ",
+    "jal":"ドレインデイズ",
+    "id":378,
+    "enl":"Drain Daze",
+    "en":"Drain Daze"
+  },
+  "379":{
+    "ja":"アスピルデイズ",
+    "jal":"アスピルデイズ",
+    "id":379,
+    "enl":"Aspir Daze",
+    "en":"Aspir Daze"
+  },
+  "380":{
+    "ja":"ヘイストデイズ",
+    "jal":"ヘイストデイズ",
+    "id":380,
+    "enl":"Haste Daze",
+    "en":"Haste Daze"
+  },
+  "381":{
+    "ja":"フィニシングムーブ1",
+    "jal":"フィニシングムーブ1",
+    "id":381,
+    "enl":"Finishing Move 1",
+    "en":"Finishing Move 1"
+  },
+  "382":{
+    "ja":"フィニシングムーブ2",
+    "jal":"フィニシングムーブ2",
+    "id":382,
+    "enl":"Finishing Move 2",
+    "en":"Finishing Move 2"
+  },
+  "383":{
+    "ja":"フィニシングムーブ3",
+    "jal":"フィニシングムーブ3",
+    "id":383,
+    "enl":"Finishing Move 3",
+    "en":"Finishing Move 3"
+  },
+  "384":{
+    "ja":"フィニシングムーブ4",
+    "jal":"フィニシングムーブ4",
+    "id":384,
+    "enl":"Finishing Move 4",
+    "en":"Finishing Move 4"
+  },
+  "385":{
+    "ja":"フィニシングムーブ5",
+    "jal":"フィニシングムーブ5",
+    "id":385,
+    "enl":"Finishing Move 5",
+    "en":"Finishing Move 5"
+  },
+  "386":{
+    "ja":"クイックステップ1",
+    "jal":"クイックステップ1",
+    "id":386,
+    "enl":"Lethargic Daze 1",
+    "en":"Lethargic Daze 1"
+  },
+  "387":{
+    "ja":"クイックステップ2",
+    "jal":"クイックステップ2",
+    "id":387,
+    "enl":"Lethargic Daze 2",
+    "en":"Lethargic Daze 2"
+  },
+  "388":{
+    "ja":"クイックステップ3",
+    "jal":"クイックステップ3",
+    "id":388,
+    "enl":"Lethargic Daze 3",
+    "en":"Lethargic Daze 3"
+  },
+  "389":{
+    "ja":"クイックステップ4",
+    "jal":"クイックステップ4",
+    "id":389,
+    "enl":"Lethargic Daze 4",
+    "en":"Lethargic Daze 4"
+  },
+  "390":{
+    "ja":"クイックステップ5",
+    "jal":"クイックステップ5",
+    "id":390,
+    "enl":"Lethargic Daze 5",
+    "en":"Lethargic Daze 5"
+  },
+  "391":{
+    "ja":"ボックスステップ1",
+    "jal":"ボックスステップ1",
+    "id":391,
+    "enl":"Sluggish Daze 1",
+    "en":"Sluggish Daze 1"
+  },
+  "392":{
+    "ja":"ボックスステップ2",
+    "jal":"ボックスステップ2",
+    "id":392,
+    "enl":"Sluggish Daze 2",
+    "en":"Sluggish Daze 2"
+  },
+  "393":{
+    "ja":"ボックスステップ3",
+    "jal":"ボックスステップ3",
+    "id":393,
+    "enl":"Sluggish Daze 3",
+    "en":"Sluggish Daze 3"
+  },
+  "394":{
+    "ja":"ボックスステップ4",
+    "jal":"ボックスステップ4",
+    "id":394,
+    "enl":"Sluggish Daze 4",
+    "en":"Sluggish Daze 4"
+  },
+  "395":{
+    "ja":"ボックスステップ5",
+    "jal":"ボックスステップ5",
+    "id":395,
+    "enl":"Sluggish Daze 5",
+    "en":"Sluggish Daze 5"
+  },
+  "396":{
+    "ja":"スタッターステップ1",
+    "jal":"スタッターステップ1",
+    "id":396,
+    "enl":"Weakened Daze 1",
+    "en":"Weakened Daze 1"
+  },
+  "397":{
+    "ja":"スタッターステップ2",
+    "jal":"スタッターステップ2",
+    "id":397,
+    "enl":"Weakened Daze 2",
+    "en":"Weakened Daze 2"
+  },
+  "398":{
+    "ja":"スタッターステップ3",
+    "jal":"スタッターステップ3",
+    "id":398,
+    "enl":"Weakened Daze 3",
+    "en":"Weakened Daze 3"
+  },
+  "399":{
+    "ja":"スタッターステップ4",
+    "jal":"スタッターステップ4",
+    "id":399,
+    "enl":"Weakened Daze 4",
+    "en":"Weakened Daze 4"
+  },
+  "400":{
+    "ja":"スタッターステップ5",
+    "jal":"スタッターステップ5",
+    "id":400,
+    "enl":"Weakened Daze 5",
+    "en":"Weakened Daze 5"
+  },
+  "401":{
+    "ja":"白の補遺",
+    "jal":"白の補遺",
+    "id":401,
+    "enl":"Addendum: White",
+    "en":"Addendum: White"
+  },
+  "402":{
+    "ja":"黒の補遺",
+    "jal":"黒の補遺",
+    "id":402,
+    "enl":"Addendum: Black",
+    "en":"Addendum: Black"
+  },
+  "403":{
+    "ja":"リアクト",
+    "jal":"リアクト",
+    "id":403,
+    "enl":"Reprisal",
+    "en":"Reprisal"
+  },
+  "404":{
+    "ja":"魔法回避率ダウン",
+    "jal":"魔法回避率ダウン",
+    "id":404,
+    "enl":"Magic Evasion Down",
+    "en":"Magic Evasion Down"
+  },
+  "405":{
+    "ja":"リタリエーション",
+    "jal":"リタリエーション",
+    "id":405,
+    "enl":"Retaliation",
+    "en":"Retaliation"
+  },
+  "406":{
+    "ja":"猫足立ち",
+    "jal":"猫足立ち",
+    "id":406,
+    "enl":"Footwork",
+    "en":"Footwork"
+  },
+  "407":{
+    "ja":"虚誘掩殺の策",
+    "jal":"虚誘掩殺の策",
+    "id":407,
+    "enl":"Klimaform",
+    "en":"Klimaform"
+  },
+  "408":{
+    "ja":"石火之機",
+    "jal":"石火之機",
+    "id":408,
+    "enl":"Sekkanoki",
+    "en":"Sekkanoki"
+  },
+  "409":{
+    "ja":"ピアニッシモ",
+    "jal":"ピアニッシモ",
+    "id":409,
+    "enl":"Pianissimo",
+    "en":"Pianissimo"
+  },
+  "410":{
+    "ja":"剣の舞い",
+    "jal":"剣の舞い",
+    "id":410,
+    "enl":"Saber Dance",
+    "en":"Saber Dance"
+  },
+  "411":{
+    "ja":"扇の舞い",
+    "jal":"扇の舞い",
+    "id":411,
+    "enl":"Fan Dance",
+    "en":"Fan Dance"
+  },
+  "412":{
+    "ja":"不惜身命の章",
+    "jal":"不惜身命の章",
+    "id":412,
+    "enl":"Altruism",
+    "en":"Altruism"
+  },
+  "413":{
+    "ja":"一心精進の章",
+    "jal":"一心精進の章",
+    "id":413,
+    "enl":"Focalization",
+    "en":"Focalization"
+  },
+  "414":{
+    "ja":"天衣無縫の章",
+    "jal":"天衣無縫の章",
+    "id":414,
+    "enl":"Tranquility",
+    "en":"Tranquility"
+  },
+  "415":{
+    "ja":"無憂無風の章",
+    "jal":"無憂無風の章",
+    "id":415,
+    "enl":"Equanimity",
+    "en":"Equanimity"
+  },
+  "416":{
+    "ja":"大悟徹底",
+    "jal":"大悟徹底",
+    "id":416,
+    "enl":"Enlightenment",
+    "en":"Enlightenment"
+  },
+  "417":{
+    "ja":"ハートオブソラス",
+    "jal":"ハートオブソラス",
+    "id":417,
+    "enl":"Afflatus Solace",
+    "en":"Afflatus Solace"
+  },
+  "418":{
+    "ja":"ハートオブミゼリ",
+    "jal":"ハートオブミゼリ",
+    "id":418,
+    "enl":"Afflatus Misery",
+    "en":"Afflatus Misery"
+  },
+  "419":{
+    "ja":"コンポージャー",
+    "jal":"コンポージャー",
+    "id":419,
+    "enl":"Composure",
+    "en":"Composure"
+  },
+  "420":{
+    "ja":"陽忍",
+    "jal":"陽忍",
+    "id":420,
+    "enl":"Yonin",
+    "en":"Yonin"
+  },
+  "421":{
+    "ja":"陰忍",
+    "jal":"陰忍",
+    "id":421,
+    "enl":"Innin",
+    "en":"Innin"
+  },
+  "422":{
+    "ja":"カーバンクルの加護",
+    "jal":"カーバンクルの加護",
+    "id":422,
+    "enl":"Carbuncle's Favor",
+    "en":"Carbuncle's Favor"
+  },
+  "423":{
+    "ja":"イフリートの加護",
+    "jal":"イフリートの加護",
+    "id":423,
+    "enl":"Ifrit's Favor",
+    "en":"Ifrit's Favor"
+  },
+  "424":{
+    "ja":"シヴァの加護",
+    "jal":"シヴァの加護",
+    "id":424,
+    "enl":"Shiva's Favor",
+    "en":"Shiva's Favor"
+  },
+  "425":{
+    "ja":"ガルーダの加護",
+    "jal":"ガルーダの加護",
+    "id":425,
+    "enl":"Garuda's Favor",
+    "en":"Garuda's Favor"
+  },
+  "426":{
+    "ja":"タイタンの加護",
+    "jal":"タイタンの加護",
+    "id":426,
+    "enl":"Titan's Favor",
+    "en":"Titan's Favor"
+  },
+  "427":{
+    "ja":"ラムウの加護",
+    "jal":"ラムウの加護",
+    "id":427,
+    "enl":"Ramuh's Favor",
+    "en":"Ramuh's Favor"
+  },
+  "428":{
+    "ja":"リヴァイアサンの加護",
+    "jal":"リヴァイアサンの加護",
+    "id":428,
+    "enl":"Leviathan's Favor",
+    "en":"Leviathan's Favor"
+  },
+  "429":{
+    "ja":"フェンリルの加護",
+    "jal":"フェンリルの加護",
+    "id":429,
+    "enl":"Fenrir's Favor",
+    "en":"Fenrir's Favor"
+  },
+  "430":{
+    "ja":"ディアボロスの加護",
+    "jal":"ディアボロスの加護",
+    "id":430,
+    "enl":"Diabolos's Favor",
+    "en":"Diabolos's Favor"
+  },
+  "431":{
+    "ja":"神獣の加護",
+    "jal":"神獣の加護",
+    "id":431,
+    "enl":"Avatar's Favor",
+    "en":"Avatar's Favor"
+  },
+  "432":{
+    "ja":"マルチアタック",
+    "jal":"マルチアタック",
+    "id":432,
+    "enl":"Multi Strikes",
+    "en":"Multi Strikes"
+  },
+  "433":{
+    "ja":"ダブルショット",
+    "jal":"ダブルショット",
+    "id":433,
+    "enl":"Double Shot",
+    "en":"Double Shot"
+  },
+  "434":{
+    "ja":"天神地祇",
+    "jal":"天神地祇",
+    "id":434,
+    "enl":"Transcendency",
+    "en":"Transcendency"
+  },
+  "435":{
+    "ja":"リストレント",
+    "jal":"リストレント",
+    "id":435,
+    "enl":"Restraint",
+    "en":"Restraint"
+  },
+  "436":{
+    "ja":"絶対カウンター",
+    "jal":"絶対カウンター",
+    "id":436,
+    "enl":"Perfect Counter",
+    "en":"Perfect Counter"
+  },
+  "437":{
+    "ja":"マナウォール",
+    "jal":"マナウォール",
+    "id":437,
+    "enl":"Mana Wall",
+    "en":"Mana Wall"
+  },
+  "438":{
+    "ja":"神聖の印",
+    "jal":"神聖の印",
+    "id":438,
+    "enl":"Divine Emblem",
+    "en":"Divine Emblem"
+  },
+  "439":{
+    "ja":"ネザーヴォイド",
+    "jal":"ネザーヴォイド",
+    "id":439,
+    "enl":"Nether Void",
+    "en":"Nether Void"
+  },
+  "440":{
+    "ja":"先義後利",
+    "jal":"先義後利",
+    "id":440,
+    "enl":"Sengikori",
+    "en":"Sengikori"
+  },
+  "441":{
+    "ja":"二重",
+    "jal":"二重",
+    "id":441,
+    "enl":"Futae",
+    "en":"Futae"
+  },
+  "442":{
+    "ja":"プレスト",
+    "jal":"プレスト",
+    "id":442,
+    "enl":"Presto",
+    "en":"Presto"
+  },
+  "443":{
+    "ja":"C.フラリッシュ",
+    "jal":"C.フラリッシュ",
+    "id":443,
+    "enl":"Climactic Flourish",
+    "en":"Climactic Flourish"
+  },
+  "444":{
+    "ja":"分身(2)",
+    "jal":"分身(2)",
+    "id":444,
+    "enl":"Copy Image (2)",
+    "en":"Copy Image (2)"
+  },
+  "445":{
+    "ja":"分身(3)",
+    "jal":"分身(3)",
+    "id":445,
+    "enl":"Copy Image (3)",
+    "en":"Copy Image (3)"
+  },
+  "446":{
+    "ja":"分身(4+)",
+    "jal":"分身(4+)",
+    "id":446,
+    "enl":"Copy Image (4+)",
+    "en":"Copy Image (4+)"
+  },
+  "447":{
+    "ja":"マルチショット",
+    "jal":"マルチショット",
+    "id":447,
+    "enl":"Multi Shots",
+    "en":"Multi Shots"
+  },
+  "448":{
+    "ja":"フェザーステップ1",
+    "jal":"フェザーステップ1",
+    "id":448,
+    "enl":"Bewildered Daze 1",
+    "en":"Bewildered Daze 1"
+  },
+  "449":{
+    "ja":"フェザーステップ2",
+    "jal":"フェザーステップ2",
+    "id":449,
+    "enl":"Bewildered Daze 2",
+    "en":"Bewildered Daze 2"
+  },
+  "450":{
+    "ja":"フェザーステップ3",
+    "jal":"フェザーステップ3",
+    "id":450,
+    "enl":"Bewildered Daze 3",
+    "en":"Bewildered Daze 3"
+  },
+  "451":{
+    "ja":"フェザーステップ4",
+    "jal":"フェザーステップ4",
+    "id":451,
+    "enl":"Bewildered Daze 4",
+    "en":"Bewildered Daze 4"
+  },
+  "452":{
+    "ja":"フェザーステップ5",
+    "jal":"フェザーステップ5",
+    "id":452,
+    "enl":"Bewildered Daze 5",
+    "en":"Bewildered Daze 5"
+  },
+  "453":{
+    "ja":"女神の愛撫",
+    "jal":"女神の愛撫",
+    "id":453,
+    "enl":"Divine Caress",
+    "en":"Divine Caress"
+  },
+  "454":{
+    "ja":"サボトゥール",
+    "jal":"サボトゥール",
+    "id":454,
+    "enl":"Saboteur",
+    "en":"Saboteur"
+  },
+  "455":{
+    "ja":"テヌート",
+    "jal":"テヌート",
+    "id":455,
+    "enl":"Tenuto",
+    "en":"Tenuto"
+  },
+  "456":{
+    "ja":"気張れ",
+    "jal":"気張れ",
+    "id":456,
+    "enl":"Spur",
+    "en":"Spur"
+  },
+  "457":{
+    "ja":"エフラックス",
+    "jal":"エフラックス",
+    "id":457,
+    "enl":"Efflux",
+    "en":"Efflux"
+  },
+  "458":{
+    "ja":"大地の鎧",
+    "jal":"大地の鎧",
+    "id":458,
+    "enl":"Earthen Armor",
+    "en":"Earthen Armor"
+  },
+  "459":{
+    "ja":"女神の愛撫",
+    "jal":"女神の愛撫",
+    "id":459,
+    "enl":"Divine Caress",
+    "en":"Divine Caress"
+  },
+  "460":{
+    "ja":"ブラッドレイジ",
+    "jal":"ブラッドレイジ",
+    "id":460,
+    "enl":"Blood Rage",
+    "en":"Blood Rage"
+  },
+  "461":{
+    "ja":"インピタス",
+    "jal":"インピタス",
+    "id":461,
+    "enl":"Impetus",
+    "en":"Impetus"
+  },
+  "462":{
+    "ja":"コンスピレーター",
+    "jal":"コンスピレーター",
+    "id":462,
+    "enl":"Conspirator",
+    "en":"Conspirator"
+  },
+  "463":{
+    "ja":"セプルカー",
+    "jal":"セプルカー",
+    "id":463,
+    "enl":"Sepulcher",
+    "en":"Sepulcher"
+  },
+  "464":{
+    "ja":"アルケインクレスト",
+    "jal":"アルケインクレスト",
+    "id":464,
+    "enl":"Arcane Crest",
+    "en":"Arcane Crest"
+  },
+  "465":{
+    "ja":"破魔の刃",
+    "jal":"破魔の刃",
+    "id":465,
+    "enl":"Hamanoha",
+    "en":"Hamanoha"
+  },
+  "466":{
+    "ja":"ドラゴンブレイカー",
+    "jal":"ドラゴンブレイカー",
+    "id":466,
+    "enl":"Dragon Breaker",
+    "en":"Dragon Breaker"
+  },
+  "467":{
+    "ja":"トリプルショット",
+    "jal":"トリプルショット",
+    "id":467,
+    "enl":"Triple Shot",
+    "en":"Triple Shot"
+  },
+  "468":{
+    "ja":"S.フラリッシュ",
+    "jal":"S.フラリッシュ",
+    "id":468,
+    "enl":"Striking Flourish",
+    "en":"Striking Flourish"
+  },
+  "469":{
+    "ja":"令狸執鼠の章",
+    "jal":"令狸執鼠の章",
+    "id":469,
+    "enl":"Perpetuance",
+    "en":"Perpetuance"
+  },
+  "470":{
+    "ja":"震天動地の章",
+    "jal":"震天動地の章",
+    "id":470,
+    "enl":"Immanence",
+    "en":"Immanence"
+  },
+  "471":{
+    "ja":"身替",
+    "jal":"身替",
+    "id":471,
+    "enl":"Migawari",
+    "en":"Migawari"
+  },
+  "472":{
+    "ja":"T.フラリッシュ",
+    "jal":"T.フラリッシュ",
+    "id":472,
+    "enl":"Ternary Flourish",
+    "en":"Ternary Flourish"
+  },
+  "473":{
+    "ja":"アイテム使用不可",
+    "jal":"アイテム使用不可",
+    "id":473,
+    "enl":"muddled",
+    "en":"muddle"
+  },
+  "474":{
+    "ja":"一時技能",
+    "jal":"一時技能",
+    "id":474,
+    "enl":"Prowess",
+    "en":"Prowess"
+  },
+  "475":{
+    "ja":"ヴォイドウォッチャー",
+    "jal":"ヴォイドウォッチャー",
+    "id":475,
+    "enl":"Voidwatcher",
+    "en":"Voidwatcher"
+  },
+  "476":{
+    "ja":"インスフィア",
+    "jal":"インスフィア",
+    "id":476,
+    "enl":"Ensphere",
+    "en":"Ensphere"
+  },
+  "477":{
+    "ja":"女神の聖域",
+    "jal":"女神の聖域",
+    "id":477,
+    "enl":"Sacrosanctity",
+    "en":"Sacrosanctity"
+  },
+  "478":{
+    "ja":"パリセード",
+    "jal":"パリセード",
+    "id":478,
+    "enl":"Palisade",
+    "en":"Palisade"
+  },
+  "479":{
+    "ja":"レッドデリリアム",
+    "jal":"レッドデリリアム",
+    "id":479,
+    "enl":"Scarlet Delirium",
+    "en":"Scarlet Delirium"
+  },
+  "480":{
+    "ja":"レッドデリリアム",
+    "jal":"レッドデリリアム",
+    "id":480,
+    "enl":"Scarlet Delirium",
+    "en":"Scarlet Delirium"
+  },
+  "481":{
+    "ja":"アブダルスの焼印",
+    "jal":"アブダルスの焼印",
+    "id":481,
+    "enl":"Abdhaljs Seal",
+    "en":"Abdhaljs Seal"
+  },
+  "482":{
+    "ja":"デコイショット",
+    "jal":"デコイショット",
+    "id":482,
+    "enl":"Decoy Shot",
+    "en":"Decoy Shot"
+  },
+  "483":{
+    "ja":"葉隠",
+    "jal":"葉隠",
+    "id":483,
+    "enl":"Hagakure",
+    "en":"Hagakure"
+  },
+  "484":{
+    "ja":"一隻眼",
+    "jal":"一隻眼",
+    "id":484,
+    "enl":"Issekigan",
+    "en":"Issekigan"
+  },
+  "485":{
+    "ja":"ノートリアスナレッジ",
+    "jal":"ノートリアスナレッジ",
+    "id":485,
+    "enl":"Unbridled Learning",
+    "en":"Unbridled Learning"
+  },
+  "486":{
+    "ja":"カウンターアップ",
+    "jal":"カウンターアップ",
+    "id":486,
+    "enl":"Counter Boost",
+    "en":"Counter Boost"
+  },
+  "487":{
+    "ja":"エンドレイン",
+    "jal":"エンドレイン",
+    "id":487,
+    "enl":"Endrain",
+    "en":"Endrain"
+  },
+  "488":{
+    "ja":"エンアスピル",
+    "jal":"エンアスピル",
+    "id":488,
+    "enl":"Enaspir",
+    "en":"Enaspir"
+  },
+  "489":{
+    "ja":"アフターグロウ",
+    "jal":"アフターグロウ",
+    "id":489,
+    "enl":"Afterglow",
+    "en":"Afterglow"
+  },
+  "490":{
+    "ja":"ブラーゼンラッシュ",
+    "jal":"ブラーゼンラッシュ",
+    "id":490,
+    "enl":"Brazen Rush",
+    "en":"Brazen Rush"
+  },
+  "491":{
+    "ja":"インナーストレングス",
+    "jal":"インナーストレングス",
+    "id":491,
+    "enl":"Inner Strength",
+    "en":"Inner Strength"
+  },
+  "492":{
+    "ja":"女神の羽衣",
+    "jal":"女神の羽衣",
+    "id":492,
+    "enl":"Asylum",
+    "en":"Asylum"
+  },
+  "493":{
+    "ja":"サテルソーサリー",
+    "jal":"サテルソーサリー",
+    "id":493,
+    "enl":"Subtle Sorcery",
+    "en":"Subtle Sorcery"
+  },
+  "494":{
+    "ja":"スタイミー",
+    "jal":"スタイミー",
+    "id":494,
+    "enl":"Stymie",
+    "en":"Stymie"
+  },
+  "496":{
+    "ja":"インターヴィーン",
+    "jal":"インターヴィーン",
+    "id":496,
+    "enl":"Intervene",
+    "en":"Intervene"
+  },
+  "497":{
+    "ja":"ソールエンスレーヴ",
+    "jal":"ソールエンスレーヴ",
+    "id":497,
+    "enl":"Soul Enslavement",
+    "en":"Soul Enslavement"
+  },
+  "498":{
+    "ja":"アンリーシュ",
+    "jal":"アンリーシュ",
+    "id":498,
+    "enl":"Unleash",
+    "en":"Unleash"
+  },
+  "499":{
+    "ja":"クラリオンコール",
+    "jal":"クラリオンコール",
+    "id":499,
+    "enl":"Clarion Call",
+    "en":"Clarion Call"
+  },
+  "500":{
+    "ja":"オーバーキル",
+    "jal":"オーバーキル",
+    "id":500,
+    "enl":"Overkill",
+    "en":"Overkill"
+  },
+  "501":{
+    "ja":"八重霞",
+    "jal":"八重霞",
+    "id":501,
+    "enl":"Yaegasumi",
+    "en":"Yaegasumi"
+  },
+  "502":{
+    "ja":"身影",
+    "jal":"身影",
+    "id":502,
+    "enl":"Mikage",
+    "en":"Mikage"
+  },
+  "503":{
+    "ja":"フライハイ",
+    "jal":"フライハイ",
+    "id":503,
+    "enl":"Fly High",
+    "en":"Fly High"
+  },
+  "504":{
+    "ja":"アストラルパッセージ",
+    "jal":"アストラルパッセージ",
+    "id":504,
+    "enl":"Astral Conduit",
+    "en":"Astral Conduit"
+  },
+  "505":{
+    "ja":"N.ウィズドム",
+    "jal":"N.ウィズドム",
+    "id":505,
+    "enl":"Unbridled Wisdom",
+    "en":"Unbridled Wisdom"
+  },
+  "507":{
+    "ja":"グランドパー",
+    "jal":"グランドパー",
+    "id":507,
+    "enl":"Grand Pas",
+    "en":"Grand Pas"
+  },
+  "508":{
+    "ja":"ワイデンコンパス",
+    "jal":"ワイデンコンパス",
+    "id":508,
+    "enl":"Widened Compass",
+    "en":"Widened Compass"
+  },
+  "509":{
+    "ja":"オディリックサブタ",
+    "jal":"オディリックサブタ",
+    "id":509,
+    "enl":"Odyllic Subterfuge",
+    "en":"Odyllic Subterfuge"
+  },
+  "510":{
+    "ja":"エルゴンパワー",
+    "jal":"エルゴンパワー",
+    "id":510,
+    "enl":"Ergon Might",
+    "en":"Ergon Might"
+  },
+  "511":{
+    "ja":"レイヴシンボル",
+    "jal":"レイヴシンボル",
+    "id":511,
+    "enl":"Reive Mark",
+    "en":"Reive Mark"
+  },
+  "512":{
+    "ja":"イオニス",
+    "jal":"イオニス",
+    "id":512,
+    "enl":"Ionis",
+    "en":"Ionis"
+  },
+  "0":{
+    "ja":"戦闘不能",
+    "jal":"戦闘不能",
+    "id":0,
+    "enl":"KO'd",
+    "en":"KO"
+  },
+  "583":{
+    "ja":"アポジー",
+    "jal":"アポジー",
+    "id":583,
+    "enl":"Apogee",
+    "en":"Apogee"
+  },
+  "591":{
+    "ja":"烈風の陣II",
+    "jal":"烈風の陣II",
+    "id":591,
+    "enl":"Windstorm",
+    "en":"Windstorm"
+  },
+  "599":{
+    "ja":"コンスームマナ",
+    "jal":"コンスームマナ",
+    "id":599,
+    "enl":"Consume Mana",
+    "en":"Consume Mana"
+  },
+  "607":{
+    "ja":"グリントスパイク",
+    "jal":"グリントスパイク",
+    "id":607,
+    "enl":"Glint Spikes",
+    "en":"Glint Spikes"
+  },
+  "615":{
+    "ja":"ためる",
+    "jal":"ためる",
+    "id":615,
+    "enl":"Boost",
+    "en":"Boost"
+  },
+  "623":{
+    "ja":"ランパート",
+    "jal":"ランパート",
+    "id":623,
+    "enl":"Rampart",
+    "en":"Rampart"
+  },
+  "631":{
+    "ja":"祟り",
+    "jal":"祟り",
+    "id":631,
+    "enl":"haunted",
+    "en":"haunt"
+  },
+  "528":{
+    "ja":"ウンダ",
+    "jal":"ウンダ",
+    "id":528,
+    "enl":"Unda",
+    "en":"Unda"
+  },
+  "536":{
+    "ja":"ガンビット",
+    "jal":"ガンビット",
+    "id":536,
+    "enl":"Gambit",
+    "en":"Gambit"
+  },
+  "544":{
+    "ja":"VITアップ",
+    "jal":"VITアップ",
+    "id":544,
+    "enl":"VIT-boosted",
+    "en":"VIT Boost"
+  },
+  "552":{
+    "ja":"魔法防御力アップ",
+    "jal":"魔法防御力アップ",
+    "id":552,
+    "enl":"Magic Def. Boost",
+    "en":"Magic Def. Boost"
+  },
+  "560":{
+    "ja":"魔法防御力ダウン",
+    "jal":"魔法防御力ダウン",
+    "id":560,
+    "enl":"afflicted with Magic Adef. Down",
+    "en":"Magic Def. Down"
+  },
+  "568":{
+    "ja":"特殊攻撃回避率アップ",
+    "jal":"特殊攻撃回避率アップ",
+    "id":568,
+    "enl":"Foil",
+    "en":"Foil"
+  },
+  "576":{
+    "ja":"減退中",
+    "jal":"減退中",
+    "id":576,
+    "enl":"afflicted with Doubt",
+    "en":"Doubt"
+  },
+  "584":{
+    "ja":"エントラスト",
+    "jal":"エントラスト",
+    "id":584,
+    "enl":"entrusting",
+    "en":"Entrust"
+  },
+  "592":{
+    "ja":"砂塵の陣II",
+    "jal":"砂塵の陣II",
+    "id":592,
+    "enl":"Sandstorm",
+    "en":"Sandstorm"
+  },
+  "600":{
+    "ja":"ルーニストロール",
+    "jal":"ルーニストロール",
+    "id":600,
+    "enl":"Runeist's Roll",
+    "en":"Runeist's Roll"
+  },
+  "608":{
+    "ja":"ネゲートウィルス",
+    "jal":"ネゲートウィルス",
+    "id":608,
+    "enl":"Negate Virus",
+    "en":"Negate Virus"
+  },
+  "616":{
+    "ja":"芸術家肌",
+    "jal":"芸術家肌",
+    "id":616,
+    "enl":"Artisanal Knowledge",
+    "en":"Artisanal Knowledge"
+  },
+  "624":{
+    "ja":"風の守り",
+    "jal":"風の守り",
+    "id":624,
+    "enl":"Wind's Blessing",
+    "en":"Wind's Blessing"
+  },
+  "513":{
+    "ja":"ボルスター",
+    "jal":"ボルスター",
+    "id":513,
+    "enl":"bolstered",
+    "en":"Bolster"
+  },
+  "529":{
+    "ja":"ルックス",
+    "jal":"ルックス",
+    "id":529,
+    "enl":"Lux",
+    "en":"Lux"
+  },
+  "537":{
+    "ja":"リエモン",
+    "jal":"リエモン",
+    "id":537,
+    "enl":"Liement",
+    "en":"Liement"
+  },
+  "545":{
+    "ja":"AGIアップ",
+    "jal":"AGIアップ",
+    "id":545,
+    "enl":"AGI-boosted",
+    "en":"AGI Boost"
+  },
+  "553":{
+    "ja":"命中率アップ",
+    "jal":"命中率アップ",
+    "id":553,
+    "enl":"accuracy-boosted",
+    "en":"Accuracy Boost"
+  },
+  "561":{
+    "ja":"命中率ダウン",
+    "jal":"命中率ダウン",
+    "id":561,
+    "enl":"afflicted with Accuracy Down",
+    "en":"Accuracy Down"
+  },
+  "569":{
+    "ja":"グローリーブレイズ",
+    "jal":"グローリーブレイズ",
+    "id":569,
+    "enl":"Blaze of Glory",
+    "en":"Blaze of Glory"
+  },
+  "577":{
+    "ja":"ケット・シーの加護",
+    "jal":"ケット・シーの加護",
+    "id":577,
+    "enl":"Cait Sith's Favor",
+    "en":"Cait Sith's Favor"
+  },
+  "585":{
+    "ja":"コスチューム",
+    "jal":"コスチューム",
+    "id":585,
+    "enl":"costumed",
+    "en":"Costume"
+  },
+  "593":{
+    "ja":"疾雷の陣II",
+    "jal":"疾雷の陣II",
+    "id":593,
+    "enl":"Thunderstorm",
+    "en":"Thunderstorm"
+  },
+  "601":{
+    "ja":"クルケッドカード",
+    "jal":"クルケッドカード",
+    "id":601,
+    "enl":"Crooked Cards",
+    "en":"Crooked Cards"
+  },
+  "609":{
+    "ja":"ネゲートカーズ",
+    "jal":"ネゲートカーズ",
+    "id":609,
+    "enl":"Negate Curse",
+    "en":"Negate Curse"
+  },
+  "617":{
+    "ja":"サクリファイス",
+    "jal":"サクリファイス",
+    "id":617,
+    "enl":"Sacrifice",
+    "en":"Sacrifice"
+  },
+  "625":{
+    "ja":"セイレーンの加護",
+    "jal":"セイレーンの加護",
+    "id":625,
+    "enl":"Siren's Favor",
+    "en":"Siren's Favor"
+  },
+  "522":{
+    "ja":"E.スフォルツォ",
+    "jal":"E.スフォルツォ",
+    "id":522,
+    "enl":"Elemental Sforzo",
+    "en":"Elemental Sforzo"
+  },
+  "530":{
+    "ja":"テネブレイ",
+    "jal":"テネブレイ",
+    "id":530,
+    "enl":"Tenebrae",
+    "en":"Tenebrae"
+  },
+  "538":{
+    "ja":"ワンフォアオール",
+    "jal":"ワンフォアオール",
+    "id":538,
+    "enl":"One for All",
+    "en":"One for All"
+  },
+  "546":{
+    "ja":"INTアップ",
+    "jal":"INTアップ",
+    "id":546,
+    "enl":"INT-boosted",
+    "en":"INT Boost"
+  },
+  "554":{
+    "ja":"回避率アップ",
+    "jal":"回避率アップ",
+    "id":554,
+    "enl":"evasion-boosted",
+    "en":"Evasion Boost"
+  },
+  "562":{
+    "ja":"回避率ダウン",
+    "jal":"回避率ダウン",
+    "id":562,
+    "enl":"afflicted with Evasion Down",
+    "en":"Evasion Down"
+  },
+  "570":{
+    "ja":"バットゥタ",
+    "jal":"バットゥタ",
+    "id":570,
+    "enl":"Battuta",
+    "en":"Battuta"
+  },
+  "578":{
+    "ja":"釣り師のセンス",
+    "jal":"釣り師のセンス",
+    "id":578,
+    "enl":"Fishy Intuition",
+    "en":"Fishy Intuition"
+  },
+  "586":{
+    "ja":"被ケアル回復量アップ",
+    "jal":"被ケアル回復量アップ",
+    "id":586,
+    "enl":"Curing Conduit",
+    "en":"Curing Conduit"
+  },
+  "594":{
+    "ja":"豪雨の陣II",
+    "jal":"豪雨の陣II",
+    "id":594,
+    "enl":"Rainstorm",
+    "en":"Rainstorm"
+  },
+  "602":{
+    "ja":"神符",
+    "jal":"神符",
+    "id":602,
+    "enl":"Vorseal",
+    "en":"Vorseal"
+  },
+  "610":{
+    "ja":"ネゲートチャーム",
+    "jal":"ネゲートチャーム",
+    "id":610,
+    "enl":"Negate Charm",
+    "en":"Negate Charm"
+  },
+  "618":{
+    "ja":"エンポロックスのツボ",
+    "jal":"エンポロックスのツボ",
+    "id":618,
+    "enl":"Emporox's Gift",
+    "en":"Emporox's Gift"
+  },
+  "626":{
+    "ja":"ネゲートスリープ",
+    "jal":"ネゲートスリープ",
+    "id":626,
+    "enl":"Negate Sleep",
+    "en":"Negate Sleep"
+  },
+  "515":{
+    "ja":"エンデュアエマネイト",
+    "jal":"エンデュアエマネイト",
+    "id":515,
+    "enl":"Lasting Emanation",
+    "en":"Lasting Emanation"
+  },
+  "523":{
+    "ja":"イグニス",
+    "jal":"イグニス",
+    "id":523,
+    "enl":"Ignis",
+    "en":"Ignis"
+  },
+  "531":{
+    "ja":"ヴァレション",
+    "jal":"ヴァレション",
+    "id":531,
+    "enl":"Vallation",
+    "en":"Vallation"
+  },
+  "539":{
+    "ja":"リジェネ",
+    "jal":"リジェネ",
+    "id":539,
+    "enl":"regenerating",
+    "en":"Regen"
+  },
+  "547":{
+    "ja":"MNDアップ",
+    "jal":"MNDアップ",
+    "id":547,
+    "enl":"MND-boosted",
+    "en":"MND Boost"
+  },
+  "555":{
+    "ja":"魔法命中率アップ",
+    "jal":"魔法命中率アップ",
+    "id":555,
+    "enl":"Magic Acc. Boost",
+    "en":"Magic Acc. Boost"
+  },
+  "563":{
+    "ja":"魔法命中率ダウン",
+    "jal":"魔法命中率ダウン",
+    "id":563,
+    "enl":"afflicted with Magic Acc. Down",
+    "en":"Magic Acc. Down"
+  },
+  "571":{
+    "ja":"レイク",
+    "jal":"レイク",
+    "id":571,
+    "enl":"Rayke",
+    "en":"Rayke"
+  },
+  "579":{
+    "ja":"一心",
+    "jal":"一心",
+    "id":579,
+    "enl":"Commitment",
+    "en":"Commitment"
+  },
+  "587":{
+    "ja":"TPボーナスアップ",
+    "jal":"TPボーナスアップ",
+    "id":587,
+    "enl":"TP Bonus",
+    "en":"TP Bonus"
+  },
+  "595":{
+    "ja":"極光の陣II",
+    "jal":"極光の陣II",
+    "id":595,
+    "enl":"Aurorastorm",
+    "en":"Aurorastorm"
+  },
+  "603":{
+    "ja":"祈祷神符",
+    "jal":"祈祷神符",
+    "id":603,
+    "enl":"Elvorseal",
+    "en":"Elvorseal"
+  },
+  "611":{
+    "ja":"魔法回避率アップ",
+    "jal":"魔法回避率アップ",
+    "id":611,
+    "enl":"Magic Evasion Boost",
+    "en":"Magic Evasion Boost"
+  },
+  "619":{
+    "ja":"スピリットボンド",
+    "jal":"スピリットボンド",
+    "id":619,
+    "enl":"Spirit Bond",
+    "en":"Spirit Bond"
+  },
+  "627":{
+    "ja":"戦闘準備期間",
+    "jal":"戦闘準備期間",
+    "id":627,
+    "enl":"mobilized",
+    "en":"Mobilization"
+  },
+  "516":{
+    "ja":"サークルエンリッチ",
+    "jal":"サークルエンリッチ",
+    "id":516,
+    "enl":"Ecliptic Attrition",
+    "en":"Ecliptic Attrition"
+  },
+  "524":{
+    "ja":"ゲールス",
+    "jal":"ゲールス",
+    "id":524,
+    "enl":"Gelus",
+    "en":"Gelus"
+  },
+  "532":{
+    "ja":"ソードプレイ",
+    "jal":"ソードプレイ",
+    "id":532,
+    "enl":"Swordplay",
+    "en":"Swordplay"
+  },
+  "540":{
+    "ja":"ポイズン",
+    "jal":"ポイズン",
+    "id":540,
+    "enl":"poisoned",
+    "en":"poison"
+  },
+  "548":{
+    "ja":"CHRアップ",
+    "jal":"CHRアップ",
+    "id":548,
+    "enl":"CHR-boosted",
+    "en":"CHR Boost"
+  },
+  "556":{
+    "ja":"魔法回避率アップ",
+    "jal":"魔法回避率アップ",
+    "id":556,
+    "enl":"Magic Evasion Boost",
+    "en":"Magic Evasion Boost"
+  },
+  "564":{
+    "ja":"魔法回避率ダウン",
+    "jal":"魔法回避率ダウン",
+    "id":564,
+    "enl":"afflicted with Magic Evasion Down",
+    "en":"Magic Evasion Down"
+  },
+  "572":{
+    "ja":"回避能力ダウン",
+    "jal":"回避能力ダウン",
+    "id":572,
+    "enl":"afflicted with Avoidance Down",
+    "en":"Avoidance Down"
+  },
+  "580":{
+    "ja":"ヘイスト",
+    "jal":"ヘイスト",
+    "id":580,
+    "enl":"hastened",
+    "en":"Haste"
+  },
+  "588":{
+    "ja":"フィニシングムーブ(5+)",
+    "jal":"フィニシングムーブ(5+)",
+    "id":588,
+    "enl":"Finishing Move (6+)",
+    "en":"Finishing Move (6+)"
+  },
+  "596":{
+    "ja":"妖霧の陣II",
+    "jal":"妖霧の陣II",
+    "id":596,
+    "enl":"Voidstorm",
+    "en":"Voidstorm"
+  },
+  "604":{
+    "ja":"マイティガード",
+    "jal":"マイティガード",
+    "id":604,
+    "enl":"mightly guarded",
+    "en":"Mighty Guard"
+  },
+  "612":{
+    "ja":"コルア展開",
+    "jal":"コルア展開",
+    "id":612,
+    "enl":"Colure Active",
+    "en":"Colure Active"
+  },
+  "620":{
+    "ja":"覚醒",
+    "jal":"覚醒",
+    "id":620,
+    "enl":"awakened",
+    "en":"Awaken"
+  },
+  "628":{
+    "ja":"ホバーショット",
+    "jal":"ホバーショット",
+    "id":628,
+    "enl":"Hover Shot",
+    "en":"Hover Shot"
+  },
+  "517":{
+    "ja":"コリメイトファーバー",
+    "jal":"コリメイトファーバー",
+    "id":517,
+    "enl":"Collimated Fervor",
+    "en":"Collimated Fervor"
+  },
+  "525":{
+    "ja":"フラブラ",
+    "jal":"フラブラ",
+    "id":525,
+    "enl":"Flabra",
+    "en":"Flabra"
+  },
+  "533":{
+    "ja":"フルーグ",
+    "jal":"フルーグ",
+    "id":533,
+    "enl":"Pflug",
+    "en":"Pflug"
+  },
+  "541":{
+    "ja":"リフレシュ",
+    "jal":"リフレシュ",
+    "id":541,
+    "enl":"refreshing",
+    "en":"Refresh"
+  },
+  "549":{
+    "ja":"攻撃力アップ",
+    "jal":"攻撃力アップ",
+    "id":549,
+    "enl":"attack-boosted",
+    "en":"Attack Boost"
+  },
+  "557":{
+    "ja":"攻撃力ダウン",
+    "jal":"攻撃力ダウン",
+    "id":557,
+    "enl":"afflicted with Attack Down",
+    "en":"Attack Down"
+  },
+  "565":{
+    "ja":"スロウ",
+    "jal":"スロウ",
+    "id":565,
+    "enl":"slowed",
+    "en":"slow"
+  },
+  "573":{
+    "ja":"アクアスパイク",
+    "jal":"アクアスパイク",
+    "id":573,
+    "enl":"Deluge Spikes",
+    "en":"Deluge Spikes"
+  },
+  "581":{
+    "ja":"スナップ",
+    "jal":"スナップ",
+    "id":581,
+    "enl":"Flurry",
+    "en":"Flurry"
+  },
+  "589":{
+    "ja":"熱波の陣II",
+    "jal":"熱波の陣II",
+    "id":589,
+    "enl":"Firestorm",
+    "en":"Firestorm"
+  },
+  "597":{
+    "ja":"イナンデーション",
+    "jal":"イナンデーション",
+    "id":597,
+    "enl":"innundated",
+    "en":"Inundation"
+  },
+  "605":{
+    "ja":"ゲイルスパイク",
+    "jal":"ゲイルスパイク",
+    "id":605,
+    "enl":"Gale Spikes",
+    "en":"Gale Spikes"
+  },
+  "613":{
+    "ja":"ミュモルの光",
+    "jal":"ミュモルの光",
+    "id":613,
+    "enl":"Mumor's Radiance",
+    "en":"Mumor's Radiance"
+  },
+  "621":{
+    "ja":"マジェスティ",
+    "jal":"マジェスティ",
+    "id":621,
+    "enl":"Majesty",
+    "en":"Majesty"
+  },
+  "629":{
+    "ja":"モグアンプ",
+    "jal":"モグアンプ",
+    "id":629,
+    "enl":"Moogle Amplifier",
+    "en":"Moogle Amplifier"
+  },
+  "518":{
+    "ja":"デマテリアライズ",
+    "jal":"デマテリアライズ",
+    "id":518,
+    "enl":"Dematerialize",
+    "en":"Dematerialize"
+  },
+  "526":{
+    "ja":"テッルス",
+    "jal":"テッルス",
+    "id":526,
+    "enl":"Tellus",
+    "en":"Tellus"
+  },
+  "534":{
+    "ja":"エンボルド",
+    "jal":"エンボルド",
+    "id":534,
+    "enl":"emboldened",
+    "en":"Embolden"
+  },
+  "542":{
+    "ja":"STRアップ",
+    "jal":"STRアップ",
+    "id":542,
+    "enl":"STR-boosted",
+    "en":"STR Boost"
+  },
+  "550":{
+    "ja":"防御力アップ",
+    "jal":"防御力アップ",
+    "id":550,
+    "enl":"defense-boosted",
+    "en":"Defense Boost"
+  },
+  "558":{
+    "ja":"防御力ダウン",
+    "jal":"防御力ダウン",
+    "id":558,
+    "enl":"afflicted with Defense Down",
+    "en":"Defense Down"
+  },
+  "566":{
+    "ja":"麻痺",
+    "jal":"麻痺",
+    "id":566,
+    "enl":"paralyzed",
+    "en":"paralysis"
+  },
+  "574":{
+    "ja":"ファストキャスト",
+    "jal":"ファストキャスト",
+    "id":574,
+    "enl":"Fast Cast",
+    "en":"Fast Cast"
+  },
+  "582":{
+    "ja":"コントラダンス",
+    "jal":"コントラダンス",
+    "id":582,
+    "enl":"Contradance",
+    "en":"Contradance"
+  },
+  "590":{
+    "ja":"吹雪の陣II",
+    "jal":"吹雪の陣II",
+    "id":590,
+    "enl":"Hailstorm",
+    "en":"Hailstorm"
+  },
+  "598":{
+    "ja":"カスケード",
+    "jal":"カスケード",
+    "id":598,
+    "enl":"Cascade",
+    "en":"Cascade"
+  },
+  "606":{
+    "ja":"クロッドスパイク",
+    "jal":"クロッドスパイク",
+    "id":606,
+    "enl":"Clod Spikes",
+    "en":"Clod Spikes"
+  },
+  "614":{
+    "ja":"ウルゴアの闇",
+    "jal":"ウルゴアの闇",
+    "id":614,
+    "enl":"Ullegore's Gloom",
+    "en":"Ullegore's Gloom"
+  },
+  "622":{
+    "ja":"ガード率アップ",
+    "jal":"ガード率アップ",
+    "id":622,
+    "enl":"Guarding Rate Boost",
+    "en":"Guarding Rate Boost"
+  },
+  "630":{
+    "ja":"劇毒",
+    "jal":"劇毒",
+    "id":630,
+    "enl":"tainted",
+    "en":"taint"
+  },
+  "519":{
+    "ja":"タウマテルギフォカス",
+    "jal":"タウマテルギフォカス",
+    "id":519,
+    "enl":"Theurgic Focus",
+    "en":"Theurgic Focus"
+  },
+  "527":{
+    "ja":"スルポール",
+    "jal":"スルポール",
+    "id":527,
+    "enl":"Sulpor",
+    "en":"Sulpor"
+  },
+  "535":{
+    "ja":"ヴァリエンス",
+    "jal":"ヴァリエンス",
+    "id":535,
+    "enl":"Valiance",
+    "en":"Valiance"
+  },
+  "543":{
+    "ja":"DEXアップ",
+    "jal":"DEXアップ",
+    "id":543,
+    "enl":"DEX-boosted",
+    "en":"DEX Boost"
+  },
+  "551":{
+    "ja":"魔法攻撃力アップ",
+    "jal":"魔法攻撃力アップ",
+    "id":551,
+    "enl":"Magic Atk. Boost",
+    "en":"Magic Atk. Boost"
+  },
+  "559":{
+    "ja":"魔法攻撃力ダウン",
+    "jal":"魔法攻撃力ダウン",
+    "id":559,
+    "enl":"afflicted with Magic Atk. Down",
+    "en":"Magic Atk. Down"
+  },
+  "567":{
+    "ja":"ヘヴィ",
+    "jal":"ヘヴィ",
+    "id":567,
+    "enl":"weighed down",
+    "en":"weight"
+  },
+  "575":{
+    "ja":"出現準備期間",
+    "jal":"出現準備期間",
+    "id":575,
+    "enl":"gestating",
+    "en":"gestation"
+  }
+}

@@ -1,0 +1,202 @@
+[{
+    "id":1,
+    "command":"bow"
+  },{
+    "id":2,
+    "command":"salute"
+  },{
+    "id":3,
+    "command":"kneel"
+  },{
+    "id":4,
+    "command":"laugh"
+  },{
+    "id":5,
+    "command":"cry"
+  },{
+    "id":6,
+    "command":"no"
+  },{
+    "id":7,
+    "alternative":"nod",
+    "command":"yes"
+  },{
+    "id":8,
+    "command":"wave"
+  },{
+    "id":9,
+    "alternative":"farewell",
+    "command":"goodbye"
+  },{
+    "id":10,
+    "command":"welcome"
+  },{
+    "id":11,
+    "command":"joy"
+  },{
+    "id":12,
+    "command":"cheer"
+  },{
+    "id":13,
+    "command":"clap"
+  },{
+    "id":14,
+    "command":"praise"
+  },{
+    "id":15,
+    "command":"smile"
+  },{
+    "id":16,
+    "command":"poke"
+  },{
+    "id":17,
+    "command":"slap"
+  },{
+    "id":18,
+    "command":"stagger"
+  },{
+    "id":19,
+    "command":"sigh"
+  },{
+    "id":20,
+    "command":"comfort"
+  },{
+    "id":21,
+    "command":"surprised"
+  },{
+    "id":22,
+    "command":"amazed"
+  },{
+    "id":23,
+    "command":"stare"
+  },{
+    "id":24,
+    "command":"blush"
+  },{
+    "id":25,
+    "command":"angry"
+  },{
+    "id":26,
+    "alternative":"upset",
+    "command":"disgusted"
+  },{
+    "id":27,
+    "command":"muted"
+  },{
+    "id":28,
+    "command":"doze"
+  },{
+    "id":29,
+    "command":"panic"
+  },{
+    "id":30,
+    "command":"grin"
+  },{
+    "id":31,
+    "command":"dance"
+  },{
+    "id":32,
+    "command":"think"
+  },{
+    "id":33,
+    "command":"fume"
+  },{
+    "id":34,
+    "command":"doubt"
+  },{
+    "id":35,
+    "command":"sulk"
+  },{
+    "id":36,
+    "command":"psych"
+  },{
+    "id":37,
+    "command":"huh"
+  },{
+    "id":38,
+    "command":"shocked"
+  },null,null,null,null,{
+    "id":43,
+    "command":"hurray"
+  },{
+    "id":44,
+    "command":"toss"
+  },null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,{
+    "id":65,
+    "command":"dance1"
+  },{
+    "id":66,
+    "command":"dance2"
+  },{
+    "id":67,
+    "command":"dance3"
+  },{
+    "id":68,
+    "command":"dance4"
+  },null,null,null,null,null,{
+    "id":74,
+    "command":"jobemote WAR"
+  },{
+    "id":75,
+    "command":"jobemote MNK"
+  },{
+    "id":76,
+    "command":"jobemote WHM"
+  },{
+    "id":77,
+    "command":"jobemote BLM"
+  },{
+    "id":78,
+    "command":"jobemote RDM"
+  },{
+    "id":79,
+    "command":"jobemote THF"
+  },{
+    "id":80,
+    "command":"jobemote PLD"
+  },{
+    "id":81,
+    "command":"jobemote DRK"
+  },{
+    "id":82,
+    "command":"jobemote BST"
+  },{
+    "id":83,
+    "command":"jobemote BRD"
+  },{
+    "id":84,
+    "command":"jobemote RNG"
+  },{
+    "id":85,
+    "command":"jobemote SAM"
+  },{
+    "id":86,
+    "command":"jobemote NIN"
+  },{
+    "id":87,
+    "command":"jobemote DRG"
+  },{
+    "id":88,
+    "command":"jobemote SMN"
+  },{
+    "id":89,
+    "command":"jobemote BLU"
+  },{
+    "id":90,
+    "command":"jobemote COR"
+  },{
+    "id":91,
+    "command":"jobemote PUP"
+  },{
+    "id":92,
+    "command":"jobemote DNC"
+  },{
+    "id":93,
+    "command":"jobemote SCH"
+  },{
+    "id":94,
+    "command":"jobemote GEO"
+  },{
+    "id":95,
+    "command":"jobemote RUN"
+  }]

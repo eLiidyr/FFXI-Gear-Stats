@@ -1,0 +1,3257 @@
+[{
+    "id":1,
+    "color":"D",
+    "en":"${actor} hits ${target} for ${number} points of damage."
+  },{
+    "id":2,
+    "color":"D",
+    "en":"${actor} casts ${spell}.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":3,
+    "color":50,
+    "en":"${actor} starts casting ${spell}."
+  },{
+    "id":4,
+    "color":122,
+    "en":"${target} is out of range."
+  },{
+    "id":5,
+    "color":122,
+    "en":"Unable to see ${target}."
+  },{
+    "id":6,
+    "color":36,
+    "en":"${actor} defeats ${target}."
+  },{
+    "id":7,
+    "en":"${actor} casts ${spell}.${lb}${target} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":8,
+    "color":131,
+    "en":"${actor} gains ${number} experience points."
+  },{
+    "id":9,
+    "color":131,
+    "en":"${actor} attains level ${number}!"
+  },{
+    "id":10,
+    "color":191,
+    "en":"${actor} loses ${number} experience points."
+  },{
+    "id":11,
+    "color":133,
+    "en":"${actor} falls to level ${number}."
+  },{
+    "id":12,
+    "color":122,
+    "en":"Cannot attack.${lb}Your target is already claimed."
+  },{
+    "id":13,
+    "color":1,
+    "en":"Debug Message:${lb}${actor}: ${target} is now invincible."
+  },{
+    "id":14,
+    "en":"${actor}'s attack is countered by ${target}. ${number} of ${actor}'s shadows absorbs the damage and disappears.",
+    "color":29,
+    "suffix":"shadow"
+  },{
+    "id":15,
+    "en":"${actor} misses ${target}.",
+    "color":"M",
+    "suffix":"(miss)"
+  },{
+    "id":16,
+    "color":122,
+    "en":"${actor}'s casting is interrupted."
+  },{
+    "id":17,
+    "color":122,
+    "en":"Unable to cast spells at this time."
+  },{
+    "id":18,
+    "color":122,
+    "en":"Unable to cast spells at this time."
+  },{
+    "id":19,
+    "color":16,
+    "en":"${actor} calls for help!"
+  },{
+    "id":20,
+    "color":56,
+    "en":"${target} falls to the ground."
+  },{
+    "id":21,
+    "color":122,
+    "en":"No experience points gained."
+  },{
+    "id":22,
+    "color":122,
+    "en":"You cannot call for help at this time."
+  },{
+    "id":23,
+    "color":91,
+    "en":"${actor} learns a new spell!"
+  },{
+    "id":24,
+    "en":"${target} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":25,
+    "en":"${target} recovers ${number} MP.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":26,
+    "en":"${target} recovers ${number} HP and MP.",
+    "color":"H",
+    "suffix":"HP/MP"
+  },{
+    "id":27,
+    "color":1,
+    "en":"Debug Message:${lb}Cannot execute command.${lb}No (BTCALC) command in ATEL source."
+  },{
+    "id":28,
+    "color":90,
+    "en":"${actor} uses a ${item}."
+  },{
+    "id":29,
+    "color":122,
+    "en":"${actor} is paralyzed."
+  },{
+    "id":30,
+    "en":"${target} anticipates the attack.",
+    "color":"M",
+    "suffix":"(miss)"
+  },{
+    "id":31,
+    "en":"${number} of ${target}'s shadows absorbs the damage and disappears.",
+    "color":29,
+    "suffix":"shadow"
+  },{
+    "id":32,
+    "color":29,
+    "en":"${target} dodges the attack."
+  },{
+    "id":33,
+    "color":"D",
+    "en":"${actor}'s attack is countered by ${target}. ${actor} takes ${number} points of damage."
+  },{
+    "id":34,
+    "color":122,
+    "en":"${actor} does not have enough MP to cast ${spell}."
+  },{
+    "id":35,
+    "color":122,
+    "en":"${actor} lacks the ninja tools to cast ${spell}."
+  },{
+    "id":36,
+    "color":122,
+    "en":"You lose sight of ${target}."
+  },{
+    "id":37,
+    "color":122,
+    "en":"You are too far from the battle to gain experience."
+  },{
+    "id":38,
+    "color":129,
+    "en":"${target}'s ${skill} skill rises 0.${number2} points."
+  },{
+    "id":39,
+    "color":121,
+    "en":"You need the Dual Wield ability to equip the ${item} as a sub-weapon."
+  },{
+    "id":40,
+    "color":122,
+    "en":"You cannot use ${spell} in this area."
+  },{
+    "id":41,
+    "color":1,
+    "en":"${actor}: Status ailment check (${number})Cannot rest at this time."
+  },{
+    "id":42,
+    "color":56,
+    "en":"${actor} casts ${spell} on ${target}."
+  },{
+    "id":43,
+    "color":110,
+    "en":"${actor} readies ${weapon_skill}."
+  },{
+    "id":44,
+    "color":"D",
+    "en":"${target}'s spikes deal ${number} points of damage to ${actor}."
+  },{
+    "id":45,
+    "color":81,
+    "en":"${actor} learns \"${weapon_skill}\"!"
+  },{
+    "id":46,
+    "color":1,
+    "en":"Debug Message:${lb}Current POP number: (${number})"
+  },{
+    "id":47,
+    "color":122,
+    "en":"${actor} cannot cast ${spell}."
+  },{
+    "id":48,
+    "color":122,
+    "en":"${spell} cannot be cast on ${target}."
+  },{
+    "id":49,
+    "color":122,
+    "en":"${actor} is unable to cast spells."
+  },{
+    "id":50,
+    "en":"${actor} earns a merit points! (Total: ${number})",
+    "color":1,
+    "suffix":"merit points"
+  },{
+    "id":51,
+    "color":1,
+    "en":"--Out of sight--"
+  },{
+    "id":52,
+    "color":1,
+    "en":"${target} gives up chasing ${actor}.${lb}---Find Path Error---"
+  },{
+    "id":53,
+    "color":129,
+    "en":"${target}'s ${skill} skill reaches level ${number2}."
+  },{
+    "id":54,
+    "color":1,
+    "en":"${actor} gains ${number} Besieged points."
+  },{
+    "id":55,
+    "color":122,
+    "en":"Unable to use item."
+  },{
+    "id":56,
+    "color":122,
+    "en":"Unable to use item."
+  },{
+    "id":57,
+    "color":1,
+    "en":"Job changed."
+  },{
+    "id":58,
+    "color":1,
+    "en":"Invalid job number."
+  },{
+    "id":59,
+    "color":1,
+    "en":"You do not have access to specified job yet."
+  },{
+    "id":60,
+    "color":1,
+    "en":"You do not have access to support jobs yet."
+  },{
+    "id":61,
+    "color":1,
+    "en":"You cannot have the same job as both main and support jobs."
+  },{
+    "id":62,
+    "color":121,
+    "en":"The ${item} fails to activate."
+  },{
+    "id":63,
+    "en":"${actor} misses ${target}.",
+    "color":"M",
+    "suffix":"(miss)"
+  },{
+    "id":64,
+    "color":191,
+    "en":"${target} is no longer ${status}."
+  },{
+    "id":65,
+    "color":122,
+    "en":"You are not carrying any Petras. You cannot use the ${item}."
+  },{
+    "id":66,
+    "color":"R",
+    "en":"Debug: Resisted spell!"
+  },{
+    "id":67,
+    "color":"D",
+    "en":"${actor} scores a critical hit!${lb}${target} takes ${number} points of damage."
+  },{
+    "id":68,
+    "color":1,
+    "en":"Debug: Casting interrupted!"
+  },{
+    "id":69,
+    "color":29,
+    "en":"${target} blocks ${actor}'s attack with his shield."
+  },{
+    "id":70,
+    "color":29,
+    "en":"${target} parries ${actor}'s attack with his weapon."
+  },{
+    "id":71,
+    "color":122,
+    "en":"${actor} cannot perform that action."
+  },{
+    "id":72,
+    "color":121,
+    "en":"That action cannot be performed on ${target}."
+  },{
+    "id":73,
+    "color":1,
+    "en":"Debug: ${target}'s status is now ${status}."
+  },{
+    "id":74,
+    "color":"H",
+    "en":"Debug: ${target} recovers from ${status}."
+  },{
+    "id":75,
+    "color":"R",
+    "en":"${actor}'s ${spell} has no effect on ${target}."
+  },{
+    "id":76,
+    "color":69,
+    "en":"No valid target within area of effect."
+  },{
+    "id":77,
+    "color":"D",
+    "en":"${actor} uses Sange.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":78,
+    "color":122,
+    "en":"${target} is too far away."
+  },{
+    "id":79,
+    "color":1,
+    "en":"Debug: ${target} uses Double Attack(${number}%)."
+  },{
+    "id":80,
+    "color":1,
+    "en":"Debug: ${target} uses Triple Attack(${number}%)."
+  },{
+    "id":81,
+    "color":1,
+    "en":"Debug: Battle Debug No. (${number}) used on ${target}."
+  },{
+    "id":82,
+    "color":57,
+    "en":"${actor} casts ${spell}.${lb}${target} is ${status}!"
+  },{
+    "id":83,
+    "color":64,
+    "en":"${actor} casts ${spell}.${lb}${actor} successfully removes ${target}'s ${status}."
+  },{
+    "id":84,
+    "color":122,
+    "en":"${actor} is paralyzed."
+  },{
+    "id":85,
+    "color":"R",
+    "en":"${actor} casts ${spell}.${lb}${target} resists the spell."
+  },{
+    "id":86,
+    "color":59,
+    "en":"${actor} casts ${spell}, but ${target} is outside the area of effect."
+  },{
+    "id":87,
+    "color":122,
+    "en":"Unable to use job ability."
+  },{
+    "id":88,
+    "color":122,
+    "en":"Unable to use job ability."
+  },{
+    "id":89,
+    "color":122,
+    "en":"Unable to use weapon skill."
+  },{
+    "id":90,
+    "color":122,
+    "en":"Unable to use weapon skill."
+  },{
+    "id":91,
+    "color":122,
+    "en":"${actor} does not have any ${item}."
+  },{
+    "id":92,
+    "color":122,
+    "en":"Cannot use the ${item} on ${target}."
+  },{
+    "id":93,
+    "color":64,
+    "en":"${actor} casts ${spell}.${lb}${target} vanishes."
+  },{
+    "id":94,
+    "color":121,
+    "en":"You must wait longer to perform that action."
+  },{
+    "id":95,
+    "color":122,
+    "en":"You cannot learn ${spell}. You do not meet the job or level requirements."
+  },{
+    "id":96,
+    "color":122,
+    "en":"You already know ${spell}."
+  },{
+    "id":97,
+    "color":38,
+    "en":"${target} was defeated by ${actor}."
+  },{
+    "id":98,
+    "color":127,
+    "en":"You obtain a ${item} from ${target}."
+  },{
+    "id":99,
+    "color":1,
+    "en":"${actor}}${target}: ${number}, ${number}"
+  },{
+    "id":100,
+    "color":101,
+    "en":"${actor} uses ${ability}."
+  },{
+    "id":101,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill}."
+  },{
+    "id":102,
+    "en":"${actor} uses ${ability}.${lb}${target} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":103,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":104,
+    "color":122,
+    "en":"Unable to use item. You do not meet the level requirement."
+  },{
+    "id":105,
+    "color":131,
+    "en":"${actor} gains ${number2} experience points."
+  },{
+    "id":106,
+    "color":122,
+    "en":"${actor} is intimidated by ${target}'s presence."
+  },{
+    "id":107,
+    "color":123,
+    "en":"${target} is temporarily unable to access support job abilities."
+  },{
+    "id":108,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}Pet's powers increase!"
+  },{
+    "id":109,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill}.${lb}Pet's powers increase!"
+  },{
+    "id":110,
+    "color":"D",
+    "en":"${actor} uses ${ability}.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":111,
+    "color":122,
+    "en":"You cannot use ${item} while medicated."
+  },{
+    "id":112,
+    "color":101,
+    "en":"${target}'s doom counter is now down to ${number}."
+  },{
+    "id":113,
+    "color":56,
+    "en":"${actor} casts ${spell}.${lb}${target} falls to the ground."
+  },{
+    "id":114,
+    "color":69,
+    "en":"${actor} casts ${spell} on ${target}, but the spell fails to take effect."
+  },{
+    "id":115,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}Attacks are enhanced but defense weakens."
+  },{
+    "id":116,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target}'s attacks are enhanced."
+  },{
+    "id":117,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}Defense is enhanced but attacks weaken."
+  },{
+    "id":118,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}Accuracy is enhanced but evasion is impaired."
+  },{
+    "id":119,
+    "color":101,
+    "en":"${actor} uses ${ability} on ${target}."
+  },{
+    "id":120,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target}'s accuracy is enhanced."
+  },{
+    "id":121,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target}'s evasion is enhanced."
+  },{
+    "id":122,
+    "en":"${actor} uses ${ability}.${lb}${actor} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":123,
+    "color":64,
+    "en":"${actor} uses ${ability}.${lb}${actor} successfully removes ${target}'s ${status}."
+  },{
+    "id":124,
+    "color":122,
+    "en":"${actor} achieves Gate Breach status!"
+  },{
+    "id":125,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${actor} steals a ${item} from ${target}."
+  },{
+    "id":126,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${actor}'s movement speed increases."
+  },{
+    "id":127,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} is ${status}."
+  },{
+    "id":128,
+    "color":122,
+    "en":"${target} is ${status} and cannot perform that action."
+  },{
+    "id":129,
+    "en":"${actor} uses ${ability}.${lb}${actor} mugs ${number} from ${target}.",
+    "color":101,
+    "suffix":"gil"
+  },{
+    "id":130,
+    "color":122,
+    "en":"${target} is ${status} for making a equipment change."
+  },{
+    "id":131,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} is fortified against undead."
+  },{
+    "id":132,
+    "en":"${target}'s spikes drain ${number} HP from ${actor}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":133,
+    "en":"${actor} uses ${ability}.${lb}${actor} steals ${number} Petra from ${target}.",
+    "color":101,
+    "suffix":"Petra"
+  },{
+    "id":134,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} is fortified against arcana."
+  },{
+    "id":135,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill} on ${target}."
+  },{
+    "id":136,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} is now under ${actor}'s control."
+  },{
+    "id":137,
+    "color":69,
+    "en":"${actor} uses ${ability}.${lb}${actor} fails to charm ${target}."
+  },{
+    "id":138,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} seems friendlier."
+  },{
+    "id":139,
+    "color":101,
+    "en":"${actor} uses ${ability}, but finds nothing."
+  },{
+    "id":140,
+    "color":101,
+    "en":"${actor} uses ${ability}, and finds a ${item2}."
+  },{
+    "id":141,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} is ${status}."
+  },{
+    "id":142,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} receives the effect of Accuracy Down and Evasion Down."
+  },{
+    "id":143,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}Ranged attacks become more accurate."
+  },{
+    "id":144,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} receives the effect of Accuracy Down and Evasion Down."
+  },{
+    "id":145,
+    "color":101,
+    "en":"${target} receives the effect of Accuracy Down and Evasion Down."
+  },{
+    "id":146,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} receives the effect of Accuracy Boost and Evasion Boost."
+  },{
+    "id":147,
+    "color":101,
+    "en":"${target} receives the effect of Accuracy Boost and Evasion Boost."
+  },{
+    "id":148,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} is fortified against demons."
+  },{
+    "id":149,
+    "color":101,
+    "en":"${target} is fortified against demons."
+  },{
+    "id":150,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} is fortified against dragons."
+  },{
+    "id":151,
+    "color":64,
+    "en":"${target} is fortified against dragons."
+  },{
+    "id":152,
+    "en":"Additional effect: ${actor} recovers ${number} MP.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":153,
+    "color":69,
+    "en":"${actor} uses ${ability}.${lb}${actor} fails to steal from ${target}."
+  },{
+    "id":154,
+    "color":122,
+    "en":"${target} is out of range."
+  },{
+    "id":155,
+    "color":122,
+    "en":"You cannot perform that action on the specified target."
+  },{
+    "id":156,
+    "color":"R",
+    "en":"${actor} uses ${ability}. No effect on ${target}."
+  },{
+    "id":157,
+    "color":"D",
+    "en":"${actor} uses Barrage.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":158,
+    "en":"${actor} uses ${ability}, but misses.",
+    "color":"M",
+    "suffix":"(miss)"
+  },{
+    "id":159,
+    "color":"H",
+    "en":"${actor} uses ${weapon_skill}.${lb}${target}'s ${status} effect disappears!"
+  },{
+    "id":160,
+    "color":34,
+    "en":"Additional effect: ${status}."
+  },{
+    "id":161,
+    "en":"Additional effect: ${number} HP drained from ${target}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":162,
+    "en":"Additional effect: ${number} MP drained from ${target}.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":163,
+    "color":"D",
+    "en":"Additional effect: ${number} points of damage."
+  },{
+    "id":164,
+    "color":34,
+    "en":"Additional effect: ${status}."
+  },{
+    "id":165,
+    "en":"Additional effect: ${number} TP drained from ${target}.",
+    "color":"H",
+    "suffix":"TP"
+  },{
+    "id":166,
+    "color":56,
+    "en":"Additional effect: ${actor} gains the effect of ${status}."
+  },{
+    "id":167,
+    "en":"Additional effect: ${actor} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":168,
+    "color":101,
+    "en":"Additional effect: ${target}'s ${status} effect disappears!"
+  },{
+    "id":169,
+    "color":56,
+    "en":"Additional effect: Warp!"
+  },{
+    "id":170,
+    "color":191,
+    "en":"${target} seems ${skill}.${lb}It seems to have high evasion and defense."
+  },{
+    "id":171,
+    "color":191,
+    "en":"${target} seems ${skill}.${lb}It seems to have high evasion."
+  },{
+    "id":172,
+    "color":191,
+    "en":"${target} seems ${skill}.${lb}It seems to have high evasion but low defense."
+  },{
+    "id":173,
+    "color":191,
+    "en":"${target} seems ${skill}.${lb}It seems to have high defense."
+  },{
+    "id":174,
+    "color":191,
+    "en":"${target} seems ${skill}."
+  },{
+    "id":175,
+    "color":191,
+    "en":"${target} seems ${skill}.${lb}It seems to have low defense."
+  },{
+    "id":176,
+    "color":191,
+    "en":"${target} seems ${skill}.${lb}It seems to have low evasion but high defense."
+  },{
+    "id":177,
+    "color":191,
+    "en":"${target} seems ${skill}.${lb}It seems to have low evasion."
+  },{
+    "id":178,
+    "color":191,
+    "en":"${target} seems ${skill}.${lb}It seems to have low evasion and defense."
+  },{
+    "id":179,
+    "color":1,
+    "en":"${target}:${lb}hit-eva(${number}) =} ${number}%"
+  },{
+    "id":180,
+    "color":1,
+    "en":"str-vit(${number}) dmg-adj(${number})"
+  },{
+    "id":181,
+    "color":1,
+    "en":"atk-def(${number}) ofs-adj%(${number})"
+  },{
+    "id":182,
+    "color":1,
+    "en":"${target}:${lb}MonNo(${number})-Lev(${number})"
+  },{
+    "id":183,
+    "color":1,
+    "en":"HIT-EVA(${number})${lb}ATK-DEF(${number})"
+  },{
+    "id":184,
+    "color":1,
+    "en":"${actor}:ALLIANCE SUM=${number}/LEV=${number}"
+  },{
+    "id":185,
+    "color":"D",
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":186,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} gains the effect of ${status}."
+  },{
+    "id":187,
+    "en":"${actor} uses ${weapon_skill}.${lb}${number} HP drained from ${target}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":188,
+    "en":"${actor} uses ${weapon_skill}, but misses ${target}.",
+    "color":"M",
+    "suffix":"(miss)"
+  },{
+    "id":189,
+    "color":"R",
+    "en":"${actor} uses ${weapon_skill}.${lb}No effect on ${target}."
+  },{
+    "id":190,
+    "color":122,
+    "en":"${actor} cannot use that weapon ability."
+  },{
+    "id":191,
+    "color":122,
+    "en":"${actor} is unable to use weapon skills."
+  },{
+    "id":192,
+    "color":122,
+    "en":"${actor} does not have enough TP."
+  },{
+    "id":193,
+    "color":122,
+    "en":"${weapon_skill} cannot be used against that target."
+  },{
+    "id":194,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} gains the effect of ${status}."
+  },{
+    "id":195,
+    "color":1,
+    "en":"${target}:${lb}TOTAL ALLIANCE SUM=${number}/LEV=${number}"
+  },{
+    "id":196,
+    "color":"D",
+    "en":"Skillchain! ${target} takes ${number} points of damage."
+  },{
+    "id":197,
+    "color":"D",
+    "en":"${actor} uses ${weapon_skill}, but ${target} resists.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":198,
+    "color":122,
+    "en":"${target} is too far away."
+  },{
+    "id":199,
+    "color":122,
+    "en":"That action requires a shield."
+  },{
+    "id":200,
+    "color":1,
+    "en":"Time left until next use: (${time})"
+  },{
+    "id":201,
+    "color":1,
+    "en":"Current time: (${time})"
+  },{
+    "id":202,
+    "color":209,
+    "en":"Time left: (${time})"
+  },{
+    "id":203,
+    "color":122,
+    "en":"${target} is ${status}."
+  },{
+    "id":204,
+    "color":191,
+    "en":"${target} is no longer ${status}."
+  },{
+    "id":205,
+    "color":56,
+    "en":"${target} gains the effect of ${status}."
+  },{
+    "id":206,
+    "color":191,
+    "en":"${target}'s ${status} effect wears off."
+  },{
+    "id":207,
+    "color":1,
+    "en":"HP / HPMax:${number}/${number}"
+  },{
+    "id":208,
+    "color":1,
+    "en":"MP / MPMax:${number}/${number}"
+  },{
+    "id":209,
+    "en":"TP:${number}%",
+    "color":1,
+    "suffix":"TP"
+  },{
+    "id":210,
+    "color":191,
+    "en":"${actor} cannot charm ${target}!"
+  },{
+    "id":211,
+    "color":191,
+    "en":"It would be very difficult for ${actor} to charm ${target}."
+  },{
+    "id":212,
+    "color":191,
+    "en":"It would be difficult for ${actor} to charm ${target}."
+  },{
+    "id":213,
+    "color":191,
+    "en":"${actor} might be able to charm ${target}."
+  },{
+    "id":214,
+    "color":191,
+    "en":"${actor} should be able to charm ${target}."
+  },{
+    "id":215,
+    "color":122,
+    "en":"That action requires a pet."
+  },{
+    "id":216,
+    "color":122,
+    "en":"You do not have a appropriate ranged weapon equipped."
+  },{
+    "id":217,
+    "color":122,
+    "en":"You cannot see ${target}."
+  },{
+    "id":218,
+    "color":122,
+    "en":"You move and interrupt your aim."
+  },{
+    "id":219,
+    "color":122,
+    "en":"You cannot see ${target}."
+  },{
+    "id":220,
+    "color":122,
+    "en":"You move and interrupt your aim."
+  },{
+    "id":221,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target}'s pet is released."
+  },{
+    "id":222,
+    "color":122,
+    "en":"${target} isn't selling anything."
+  },{
+    "id":223,
+    "color":"D",
+    "en":"Skillchain: ${number} points of damage."
+  },{
+    "id":224,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} recovers ${number} MP.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":225,
+    "en":"${actor} uses ${weapon_skill}.${lb}${number} MP drained from ${target}.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":226,
+    "en":"${actor} uses ${weapon_skill}.${lb}${number} TP drained from ${target}.",
+    "color":"H",
+    "suffix":"TP"
+  },{
+    "id":227,
+    "en":"${actor} casts ${spell}.${lb}${number} HP drained from ${target}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":228,
+    "en":"${actor} casts ${spell}.${lb}${number} MP drained from ${target}.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":229,
+    "color":"D",
+    "en":"Additional effect: ${target} takes ${number} additional points of damage."
+  },{
+    "id":230,
+    "color":56,
+    "en":"${actor} casts ${spell}.${lb}${target} gains the effect of ${status}."
+  },{
+    "id":231,
+    "en":"${actor} uses ${weapon_skill}.${lb}${number} of ${target}'s effects disappears!",
+    "color":56,
+    "suffix":"effects disappears"
+  },{
+    "id":232,
+    "color":122,
+    "en":"${target} is drawn in!"
+  },{
+    "id":233,
+    "color":122,
+    "en":"You are ineligible to attack that target."
+  },{
+    "id":234,
+    "color":122,
+    "en":"Auto-targeting ${target}."
+  },{
+    "id":235,
+    "color":122,
+    "en":"That is someone's pet."
+  },{
+    "id":236,
+    "color":57,
+    "en":"${actor} casts ${spell}.${lb}${target} is ${status}."
+  },{
+    "id":237,
+    "color":57,
+    "en":"${actor} casts ${spell}.${lb}${target} receives the effect of ${status}."
+  },{
+    "id":238,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":239,
+    "color":191,
+    "en":"Size: ${number}"
+  },{
+    "id":240,
+    "color":110,
+    "en":"${actor} tries to hide, but is spotted by ${target}."
+  },{
+    "id":241,
+    "color":101,
+    "en":"${actor} hides!"
+  },{
+    "id":242,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} is ${status}."
+  },{
+    "id":243,
+    "color":57,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} receives the effect of ${status}."
+  },{
+    "id":244,
+    "color":69,
+    "en":"${actor} fails to mug ${target}."
+  },{
+    "id":245,
+    "en":"${actor} uses Eagle Eye Shot, but misses ${target}.",
+    "color":"M",
+    "suffix":"(miss)"
+  },{
+    "id":246,
+    "color":122,
+    "en":"${target} is full."
+  },{
+    "id":247,
+    "color":122,
+    "en":"${actor} can't eat the ${item}."
+  },{
+    "id":248,
+    "color":"R",
+    "en":"${actor}'s attack has no effect on ${target}."
+  },{
+    "id":249,
+    "color":191,
+    "en":"${target}'s strength is impossible to gauge!"
+  },{
+    "id":250,
+    "color":122,
+    "en":"Reraise takes effect!"
+  },{
+    "id":251,
+    "color":123,
+    "en":"The effect of ${status} is about to wear off."
+  },{
+    "id":252,
+    "color":"D",
+    "en":"${actor} casts ${spell}.${lb}Magic Burst! ${target} takes ${number} points of damage."
+  },{
+    "id":253,
+    "color":131,
+    "en":"EXP chain #${number2}!${lb}${actor} gains ${number} experience points."
+  },{
+    "id":254,
+    "color":191,
+    "en":"Current enmity: ${number}"
+  },{
+    "id":255,
+    "color":1,
+    "en":"DEBUG: ${target}}${number}% chance of success."
+  },{
+    "id":256,
+    "color":121,
+    "en":"In this flower pot:${lb}Seeds sown: ${item}"
+  },{
+    "id":257,
+    "color":121,
+    "en":"Crystal used: none"
+  },{
+    "id":258,
+    "color":121,
+    "en":"Crystal used: ${item}"
+  },{
+    "id":259,
+    "color":121,
+    "en":"First crystal used: ${item}${lb}Second crystal used: ${item}"
+  },{
+    "id":260,
+    "color":121,
+    "en":"First crystal used: none${lb}Second crystal used: ${item}"
+  },{
+    "id":261,
+    "color":121,
+    "en":"First crystal used: ${item}${lb}Second crystal used: none"
+  },{
+    "id":262,
+    "color":121,
+    "en":"First crystal used: none${lb}Second crystal used: none"
+  },{
+    "id":263,
+    "en":"${target} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":264,
+    "color":"D",
+    "en":"${target} takes ${number} points of damage."
+  },{
+    "id":265,
+    "color":"D",
+    "en":"Magic Burst! ${target} takes ${number} points of damage."
+  },{
+    "id":266,
+    "color":56,
+    "en":"${target} gains the effect of ${status}."
+  },{
+    "id":267,
+    "color":57,
+    "en":"${target} receives the effect of ${status}."
+  },{
+    "id":268,
+    "color":57,
+    "en":"${actor} casts ${spell}.${lb}Magic Burst! ${target} receives the effect of ${status}."
+  },{
+    "id":269,
+    "color":57,
+    "en":"Magic Burst! ${target} receives the effect of ${status}."
+  },{
+    "id":270,
+    "color":65,
+    "en":"${target} is ${status}."
+  },{
+    "id":271,
+    "color":56,
+    "en":"${actor} casts ${spell}.${lb}Magic Burst! ${target} is ${status}."
+  },{
+    "id":272,
+    "color":56,
+    "en":"Magic Burst! ${target} is ${status}."
+  },{
+    "id":273,
+    "color":64,
+    "en":"${target} vanishes!"
+  },{
+    "id":274,
+    "en":"${actor} casts ${spell}.${lb}Magic Burst! ${number} HP drained from ${target}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":275,
+    "en":"${actor} casts ${spell}.${lb}Magic Burst! ${number} MP drained from ${target}.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":276,
+    "en":"${target} recovers ${number} MP.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":277,
+    "color":65,
+    "en":"${target} is ${status}."
+  },{
+    "id":278,
+    "color":57,
+    "en":"${target} receives the effect of ${status}."
+  },{
+    "id":279,
+    "color":65,
+    "en":"${target} is ${status}."
+  },{
+    "id":280,
+    "color":56,
+    "en":"${target} gains the effect of ${status}."
+  },{
+    "id":281,
+    "en":"${number} HP drained from ${target}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":282,
+    "color":114,
+    "en":"${target} evades."
+  },{
+    "id":283,
+    "color":"R",
+    "en":"No effect on ${target}."
+  },{
+    "id":284,
+    "color":"R",
+    "en":"${target} resists the effects of the spell!"
+  },{
+    "id":285,
+    "color":101,
+    "en":"${target}'s attacks are enhanced."
+  },{
+    "id":286,
+    "color":101,
+    "en":"${target} is fortified against undead."
+  },{
+    "id":287,
+    "color":101,
+    "en":"${target} is fortified against arcana."
+  },{
+    "id":288,
+    "color":"D",
+    "en":"Skillchain: Light.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":289,
+    "color":"D",
+    "en":"Skillchain: Darkness.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":290,
+    "color":"D",
+    "en":"Skillchain: Gravitation.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":291,
+    "color":"D",
+    "en":"Skillchain: Fragmentation.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":292,
+    "color":"D",
+    "en":"Skillchain: Distortion.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":293,
+    "color":"D",
+    "en":"Skillchain: Fusion.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":294,
+    "color":"D",
+    "en":"Skillchain: Compression.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":295,
+    "color":"D",
+    "en":"Skillchain: Liquefaction.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":296,
+    "color":"D",
+    "en":"Skillchain: Induration.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":297,
+    "color":"D",
+    "en":"Skillchain: Reverberation.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":298,
+    "color":"D",
+    "en":"Skillchain: Transfixion.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":299,
+    "color":"D",
+    "en":"Skillchain: Scission.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":300,
+    "color":"D",
+    "en":"Skillchain: Detonation.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":301,
+    "color":"D",
+    "en":"Skillchain: Impaction.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":302,
+    "color":"D",
+    "en":"Skillchain: Cosmic Elucidation.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":303,
+    "color":101,
+    "en":"${actor} uses Divine Seal."
+  },{
+    "id":304,
+    "color":101,
+    "en":"${actor} uses Elemental Seal."
+  },{
+    "id":305,
+    "color":101,
+    "en":"${actor} uses Trick Attack."
+  },{
+    "id":306,
+    "en":"${actor} uses ${ability}.${lb}${target} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":307,
+    "color":122,
+    "en":"That action requires a two-handed weapon."
+  },{
+    "id":308,
+    "color":123,
+    "en":"Unable to use the ${item}. ${target}'s inventory is full."
+  },{
+    "id":309,
+    "color":56,
+    "en":"${actor} casts ${spell} on ${target}."
+  },{
+    "id":310,
+    "en":"${actor}'s ${skill} skill drops 0.${number} points!",
+    "color":1,
+    "suffix":"skill points"
+  },{
+    "id":311,
+    "color":101,
+    "en":"${actor} covers ${target}."
+  },{
+    "id":312,
+    "color":"R",
+    "en":"${actor}'s attempt to cover has no effect."
+  },{
+    "id":313,
+    "color":123,
+    "en":"${target} is out of range.${lb}Unable to cast ${spell}."
+  },{
+    "id":314,
+    "color":122,
+    "en":"${target}'s level is currently restricted to ${number}.${lb}Equipment affected by the level restriction will be adjusted accordingly."
+  },{
+    "id":315,
+    "color":122,
+    "en":"${actor} already has a pet."
+  },{
+    "id":316,
+    "color":56,
+    "en":"That action cannot be used in this area."
+  },{
+    "id":317,
+    "color":"D",
+    "en":"${actor} uses ${ability}.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":318,
+    "en":"${actor} uses ${ability}.${lb}${target} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":319,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} gains the effect of ${status}."
+  },{
+    "id":320,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} receives the effect of ${status}."
+  },{
+    "id":321,
+    "color":56,
+    "en":"${actor} uses ${ability}.${lb}${target}'s ${status} effect wears off."
+  },{
+    "id":322,
+    "color":56,
+    "en":"${actor} uses ${ability}.${lb}${target}'s ${status} effect wears off."
+  },{
+    "id":323,
+    "color":"R",
+    "en":"${actor} uses ${ability}.${lb}No effect on ${target}."
+  },{
+    "id":324,
+    "en":"${actor} uses ${ability}, but misses ${target}.",
+    "color":"M",
+    "suffix":"(miss)"
+  },{
+    "id":325,
+    "color":122,
+    "en":"You are charmed by a enemy and unable to act."
+  },{
+    "id":326,
+    "color":100,
+    "en":"${actor} readies ${ability}."
+  },{
+    "id":327,
+    "color":50,
+    "en":"${actor} starts casting ${spell} on ${target}."
+  },{
+    "id":328,
+    "color":122,
+    "en":"${target} is too far away."
+  },{
+    "id":329,
+    "color":34,
+    "en":"${actor} casts ${spell}.${lb}${target}'s STR is drained."
+  },{
+    "id":330,
+    "color":34,
+    "en":"${actor} casts ${spell}.${lb}${target}'s DEX is drained."
+  },{
+    "id":331,
+    "color":34,
+    "en":"${actor} casts ${spell}.${lb}${target}'s VIT is drained."
+  },{
+    "id":332,
+    "color":34,
+    "en":"${actor} casts ${spell}.${lb}${target}'s AGI is drained."
+  },{
+    "id":333,
+    "color":34,
+    "en":"${actor} casts ${spell}.${lb}${target}'s INT is drained."
+  },{
+    "id":334,
+    "color":34,
+    "en":"${actor} casts ${spell}.${lb}${target}'s MND is drained."
+  },{
+    "id":335,
+    "color":34,
+    "en":"${actor} casts ${spell}.${lb}${target}'s CHR is drained."
+  },{
+    "id":336,
+    "color":"R",
+    "en":"No effect on that pet."
+  },{
+    "id":337,
+    "color":122,
+    "en":"You do not have the necessary item equipped to call a beast."
+  },{
+    "id":338,
+    "color":122,
+    "en":"You cannot summon avatars here."
+  },{
+    "id":339,
+    "color":122,
+    "en":"Your mount senses a hostile presence and refuses to come to your side."
+  },{
+    "id":340,
+    "color":123,
+    "en":"You must equip your main weapon first to use Dual Wield."
+  },{
+    "id":341,
+    "color":"H",
+    "en":"${actor} casts ${spell}.${lb}${target}'s ${status} effect disappears!"
+  },{
+    "id":342,
+    "color":"H",
+    "en":"${actor} casts ${spell}.${lb}${target}'s ${status} effect disappears!"
+  },{
+    "id":343,
+    "color":81,
+    "en":"${target}'s ${status} effect disappears!"
+  },{
+    "id":344,
+    "color":81,
+    "en":"${target}'s ${status} effect disappears!"
+  },{
+    "id":345,
+    "color":123,
+    "en":"You cannot heal while you have a avatar summoned."
+  },{
+    "id":346,
+    "color":122,
+    "en":"You must summon a avatar to use that command."
+  },{
+    "id":347,
+    "color":122,
+    "en":"You must have pet food equipped to use that command."
+  },{
+    "id":348,
+    "color":122,
+    "en":"You cannot call wyverns here."
+  },{
+    "id":349,
+    "color":122,
+    "en":"You cannot call beasts here."
+  },{
+    "id":350,
+    "color":191,
+    "en":"${target} is no longer ${status}."
+  },{
+    "id":351,
+    "color":191,
+    "en":"The remedy removes ${target}'s status ailments."
+  },{
+    "id":352,
+    "color":"D",
+    "en":"${actor}'s ranged attack hits ${target} for ${number} points of damage."
+  },{
+    "id":353,
+    "color":"D",
+    "en":"${actor}'s ranged attack scores a critical hit!${lb}${target} takes ${number} points of damage."
+  },{
+    "id":354,
+    "en":"${actor}'s ranged attack misses.",
+    "color":"M",
+    "suffix":"(miss)"
+  },{
+    "id":355,
+    "color":"R",
+    "en":"${actor}'s ranged attack has no effect on ${target}."
+  },{
+    "id":356,
+    "color":122,
+    "en":"Cannot execute command. Your inventory is full."
+  },{
+    "id":357,
+    "en":"${target} regains ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":358,
+    "en":"${target} regains ${number} MP.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":359,
+    "color":122,
+    "en":"${target} narrowly escapes impending doom."
+  },{
+    "id":360,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill}.${lb}All of ${target}'s abilities are recharged."
+  },{
+    "id":361,
+    "color":101,
+    "en":"All of ${target}'s abilities are recharged."
+  },{
+    "id":362,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target}'s TP is reduced to ${number}.",
+    "color":56,
+    "suffix":"TP"
+  },{
+    "id":363,
+    "en":"${target}'s TP is reduced to ${number}.",
+    "color":56,
+    "suffix":"TP"
+  },{
+    "id":364,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}All of ${target}'s status parameters are boosted."
+  },{
+    "id":365,
+    "color":101,
+    "en":"All of ${target}'s status parameters are boosted."
+  },{
+    "id":366,
+    "en":"${number} MP drained from ${target}.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":367,
+    "en":"${target} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":368,
+    "en":"${actor} earns a merit points! (Total: ${number})",
+    "color":1,
+    "suffix":"merit points"
+  },{
+    "id":369,
+    "en":"${actor} uses ${weapon_skill}.${lb}${number} of ${target}'s attributes is drained.",
+    "color":"H",
+    "suffix":"attributes drained"
+  },{
+    "id":370,
+    "en":"${actor} uses ${weapon_skill}.${lb}${number} status effect is drained from ${target}.",
+    "color":56,
+    "suffix":"status effect drained"
+  },{
+    "id":371,
+    "en":"${actor} gains ${number} limit points.",
+    "color":131,
+    "suffix":"limit points"
+  },{
+    "id":372,
+    "en":"Limit chain #${number2}!${lb}${actor} gains ${number} limit points.",
+    "color":131,
+    "suffix":"limit points"
+  },{
+    "id":373,
+    "en":"${actor} hits ${target}.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":374,
+    "color":112,
+    "en":"Striking ${target}'s armor causes ${actor} to become ${status}."
+  },{
+    "id":375,
+    "color":81,
+    "en":"${actor} uses a ${item}.${lb}${target} receives the effect of ${status}."
+  },{
+    "id":376,
+    "color":81,
+    "en":"${actor} uses a ${item}.${lb}${target} obtains a ${item2}."
+  },{
+    "id":377,
+    "color":81,
+    "en":"${actor} uses a ${item}.${lb}${target} obtains ${item2}."
+  },{
+    "id":378,
+    "color":81,
+    "en":"${actor} uses a ${item}.${lb}${target}'s ${status} effect disappears!"
+  },{
+    "id":379,
+    "color":"D",
+    "en":"${actor} uses ${ability}.${lb}Magic Burst! ${target} takes ${number} points of damage."
+  },{
+    "id":380,
+    "color":121,
+    "en":"${merit skill} modification has risen to level ${number}."
+  },{
+    "id":381,
+    "color":121,
+    "en":"${merit skill} modification has dropped to level ${number}."
+  },{
+    "id":382,
+    "en":"${actor}'s ranged attack hits ${target}.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":383,
+    "en":"${target}'s spikes restore ${number} HP to ${actor}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":384,
+    "en":"Additional effect: ${target} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":385,
+    "en":"Skillchain: Light.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":386,
+    "en":"Skillchain: Darkness.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":387,
+    "en":"Skillchain: Gravitation.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":388,
+    "en":"Skillchain: Fragmentation.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":389,
+    "en":"Skillchain: Distortion.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":390,
+    "en":"Skillchain: Fusion.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":391,
+    "en":"Skillchain: Compression.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":392,
+    "en":"Skillchain: Liquefaction.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":393,
+    "en":"Skillchain: Induration.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":394,
+    "en":"Skillchain: Reverberation.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":395,
+    "en":"Skillchain: Transfixion.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":396,
+    "en":"Skillchain: Scission.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":397,
+    "en":"Skillchain: Detonation.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":398,
+    "en":"Skillchain: Impaction.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":399,
+    "color":81,
+    "en":"${actor} uses a ${item}.${lb}All of ${target}'s Petras vanish!"
+  },{
+    "id":400,
+    "en":"${actor} uses a ${item}.${lb}${number} of ${target}'s status ailments disappears!",
+    "color":81,
+    "suffix":"status ailments disappears"
+  },{
+    "id":401,
+    "en":"${actor} uses a ${item}.${lb}${number} of ${target}'s effects disappears!",
+    "color":81,
+    "suffix":"effects disappears"
+  },{
+    "id":402,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target}'s magic defense is enhanced."
+  },{
+    "id":403,
+    "en":"${number} of ${target}'s attributes is drained.",
+    "color":"H",
+    "suffix":"attributes drained"
+  },{
+    "id":404,
+    "en":"${number} status effect is drained from ${target}.",
+    "color":"H",
+    "suffix":"status effect drained"
+  },{
+    "id":405,
+    "en":"${actor} uses ${weapon_skill}.${lb}${number} of ${target}'s effects disappears!",
+    "color":56,
+    "suffix":"effects disappears"
+  },{
+    "id":406,
+    "color":102,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} falls to the ground."
+  },{
+    "id":407,
+    "en":"${actor} uses a ${item}.${lb}${target}'s TP is reduced.",
+    "color":81,
+    "suffix":"TP"
+  },{
+    "id":408,
+    "color":"R",
+    "en":"${actor} uses a ${item}.${lb}No effect on ${target}."
+  },{
+    "id":409,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target}'s TP is increased to ${number}.",
+    "color":"H",
+    "suffix":"TP"
+  },{
+    "id":410,
+    "color":122,
+    "en":"No target available. Unable to use item."
+  },{
+    "id":411,
+    "color":122,
+    "en":"${actor} attempts to use the ${item}, but lacks the required number of Ballista Points.${lb}You currently have ${number} Ballista Points."
+  },{
+    "id":412,
+    "color":81,
+    "en":"${actor} uses a ${item}.${lb}${target} receives the effect of ${status}."
+  },{
+    "id":413,
+    "color":"D",
+    "en":"${actor} uses a ${item}.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":414,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} receives the effect of Magic Attack Boost and Magic Defense Boost."
+  },{
+    "id":415,
+    "color":101,
+    "en":"${target} receives the effect of Magic Attack Boost and Magic Defense Boost."
+  },{
+    "id":416,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} receives the effect of Magic Attack Boost and Magic Defense Boost."
+  },{
+    "id":417,
+    "en":"${actor} uses ${ability}.${lb}${number} of ${target}'s attributes is drained.",
+    "color":"H",
+    "suffix":"attributes drained"
+  },{
+    "id":418,
+    "color":56,
+    "en":"${actor} uses ${weapon_skill} on ${target}.${lb}${target}'s target switches to ${actor}!"
+  },{
+    "id":419,
+    "color":81,
+    "en":"${target} learns ${spell}!"
+  },{
+    "id":420,
+    "color":101,
+    "en":"${actor} uses ${ability}. The total comes to ${number}!${lb}${target} receives the effect of ${ability}."
+  },{
+    "id":421,
+    "color":111,
+    "en":"${target} receives the effect of ${ability}."
+  },{
+    "id":422,
+    "color":"R",
+    "en":"${actor} uses ${ability}. The total comes to ${number}!${lb}No effect on ${target}."
+  },{
+    "id":423,
+    "color":"R",
+    "en":"No effect on ${target}."
+  },{
+    "id":424,
+    "color":101,
+    "en":"${actor} uses Double-Up.${lb}The total for ${ability} increases to ${number}!${lb}${target} receives the effect of ${ability}."
+  },{
+    "id":425,
+    "color":"R",
+    "en":"${actor} uses Double-Up.${lb}The total for ${ability} increases to ${number}!${lb}No effect on ${target}."
+  },{
+    "id":426,
+    "color":102,
+    "en":"${actor} uses Double-Up.${lb}Bust!${lb}${target} loses the effect of ${ability}."
+  },{
+    "id":427,
+    "color":112,
+    "en":"${target} loses the effect of ${ability}."
+  },{
+    "id":428,
+    "color":122,
+    "en":"There are no rolls eligible for Double-Up. Unable to use ability."
+  },{
+    "id":429,
+    "color":122,
+    "en":"The same roll is already active on ${actor}."
+  },{
+    "id":430,
+    "en":"${actor} casts ${spell}.${lb}1 of ${target}'s magic effects is drained.",
+    "color":"H",
+    "suffix":"buffs"
+  },{
+    "id":431,
+    "en":"${actor} casts ${spell}.${lb}${target}'s TP is reduced.",
+    "color":56,
+    "suffix":"TP"
+  },{
+    "id":432,
+    "color":101,
+    "en":"${actor} casts ${spell}.${lb}${target} receives the effect of Accuracy Boost and Evasion Boost."
+  },{
+    "id":433,
+    "color":101,
+    "en":"${actor} casts ${spell}.${lb}${target} receives the effect of Magic Attack Boost and Magic Defense Boost."
+  },{
+    "id":434,
+    "color":122,
+    "en":"You cannot customize an activated automaton."
+  },{
+    "id":435,
+    "color":101,
+    "en":"${actor} uses ${ability}!${lb}${target}'s abilities are recharged."
+  },{
+    "id":436,
+    "color":111,
+    "en":"${target}'s abilities are recharged."
+  },{
+    "id":437,
+    "color":101,
+    "en":"${actor} uses ${ability}!${lb}${target}'s abilities are recharged.${lb}${target}'s TP is increased."
+  },{
+    "id":438,
+    "color":111,
+    "en":"${target}'s abilities are recharged.${lb}${target}'s TP is increased."
+  },{
+    "id":439,
+    "color":101,
+    "en":"${actor} uses ${ability}!${lb}All of ${target}'s abilities are recharged.${lb}${target} regains MP."
+  },{
+    "id":440,
+    "en":"All of ${target}'s abilities are recharged.${lb}${target} regains MP.",
+    "color":111,
+    "suffix":"MP"
+  },{
+    "id":441,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} receives the effect of ${ability}."
+  },{
+    "id":442,
+    "color":81,
+    "en":"${actor} learns a new ability!"
+  },{
+    "id":443,
+    "color":122,
+    "en":"You cannot learn ${ability}. You do not meet the job or level requirements."
+  },{
+    "id":444,
+    "color":122,
+    "en":"You already know ${ability}."
+  },{
+    "id":445,
+    "color":141,
+    "en":"You cannot use items at this time."
+  },{
+    "id":446,
+    "color":141,
+    "en":"You cannot attack that target."
+  },{
+    "id":447,
+    "color":141,
+    "en":"You are provoked and unable to change your target."
+  },{
+    "id":448,
+    "color":141,
+    "en":"Time allowed in Dynamis has been extended by ${number} minute."
+  },{
+    "id":449,
+    "color":141,
+    "en":"---== WARNING ==----${lb}Time remaining in Dynamis: ${number} minute."
+  },{
+    "id":450,
+    "color":101,
+    "en":"WATCH${number} ${target}:${number}"
+  },{
+    "id":451,
+    "en":"${actor} uses ${ability}.${lb}${target} regains ${number} MP.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":452,
+    "en":"${actor} uses ${ability}.${lb}${target} regains ${number} TP.",
+    "color":"H",
+    "suffix":"TP"
+  },{
+    "id":453,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${actor} steals the effect of ${status} from ${target}."
+  },{
+    "id":454,
+    "en":"${actor} casts ${spell}.${lb}${number} TP drained from ${target}.",
+    "color":"H",
+    "suffix":"TP"
+  },{
+    "id":455,
+    "color":101,
+    "en":"Debug : Fishing skill check: ${item} : ???${number}"
+  },{
+    "id":456,
+    "color":101,
+    "en":"Debug : Level Restriction on. PetType ${number}/ID ${number}"
+  },{
+    "id":457,
+    "color":101,
+    "en":"Debug : Level restriction off. PetType ${number}/ID ${number}"
+  },{
+    "id":458,
+    "color":101,
+    "en":"Debug : Dif - Now } ${number} RATE ${number}/1000"
+  },{
+    "id":459,
+    "color":101,
+    "en":"Self-destruct check: skipping calculation of ${target}'s self-destruct process md_no${number}/cmd_arg${number}!"
+  },{
+    "id":460,
+    "color":101,
+    "en":"EXP Check: ${actor} } ${target} XP:${number}/LvUp${number}"
+  },{
+    "id":461,
+    "color":1,
+    "en":"${target}:STR ${number}/${number}"
+  },{
+    "id":462,
+    "color":1,
+    "en":"${target}:DEX ${number}/${number}"
+  },{
+    "id":463,
+    "color":1,
+    "en":"${target}:VIT ${number}/${number}"
+  },{
+    "id":464,
+    "color":1,
+    "en":"${target}:AGI ${number}/${number}"
+  },{
+    "id":465,
+    "color":1,
+    "en":"${target}:INT ${number}/${number}"
+  },{
+    "id":466,
+    "color":1,
+    "en":"${target}:MND ${number}/${number}"
+  },{
+    "id":467,
+    "color":1,
+    "en":"${target}:CHR ${number}/${number}"
+  },{
+    "id":468,
+    "color":1,
+    "en":"Wyvern: JobLv${${number}} TaskLv${${number}}"
+  },{
+    "id":469,
+    "color":1,
+    "en":"ID: Master${${number}} Pet${${number}}"
+  },{
+    "id":470,
+    "color":1,
+    "en":"Wyvern routine type: Master${${number}} Pet${${number}}"
+  },{
+    "id":471,
+    "color":1,
+    "en":"Avatar type: Master${${number}} Pet${${number}}"
+  },{
+    "id":472,
+    "color":1,
+    "en":"Avatar MP: Master${${number}} Pet${${number}}"
+  },{
+    "id":473,
+    "color":1,
+    "en":"Avatar HP: Master${${number}} Pet${${number}}"
+  },{
+    "id":474,
+    "color":1,
+    "en":"Avatar level: Master${${number}} Pet${${number}}"
+  },{
+    "id":475,
+    "color":1,
+    "en":"Avatar No.: Master${${number}} Pet${${number}}"
+  },{
+    "id":476,
+    "color":1,
+    "en":"Probability of ${target} dropping ${item}: ${number}/10000"
+  },{
+    "id":477,
+    "color":1,
+    "en":"Unable to target ${target}. You have not received the level cap status."
+  },{
+    "id":478,
+    "color":1,
+    "en":"Height differential between ${actor} and ${target}: ${number}mm."
+  },{
+    "id":479,
+    "color":1,
+    "en":"Damage taken."
+  },{
+    "id":480,
+    "color":1,
+    "en":"Number of Targets (${number}) Damage (${number})"
+  },{
+    "id":481,
+    "color":1,
+    "en":"Overall: Number of Attacks (${number}) Misses (${number})"
+  },{
+    "id":482,
+    "color":1,
+    "en":"Number of Targets (${number}) Damage (${number})"
+  },{
+    "id":483,
+    "color":1,
+    "en":"Ranged Attack: Number of Attacks (${number}) Misses (${number})"
+  },{
+    "id":484,
+    "color":1,
+    "en":"Number of Targets (${number}) Damage (${number})"
+  },{
+    "id":485,
+    "color":1,
+    "en":"JA: Number of Attacks (${number}) Misses (${number})"
+  },{
+    "id":486,
+    "color":1,
+    "en":"Number of Targets (${number}) Damage (${number})"
+  },{
+    "id":487,
+    "color":1,
+    "en":"Weapon Skill: Number of Attacks (${number}) Misses (${number})"
+  },{
+    "id":488,
+    "color":1,
+    "en":"Number of Targets (${number}) Damage(${number})"
+  },{
+    "id":489,
+    "color":1,
+    "en":"Spell: Number of Attacks (${number}) Misses (${number})"
+  },{
+    "id":490,
+    "color":1,
+    "en":"Number of Targets (${number}) Damage(${number})"
+  },{
+    "id":491,
+    "color":1,
+    "en":"AA: Number of Attacks (${number}) Misses (${number})"
+  },{
+    "id":492,
+    "color":1,
+    "en":"Time: ${number}"
+  },{
+    "id":493,
+    "color":1,
+    "en":"${actor}'s log"
+  },{
+    "id":494,
+    "color":1,
+    "en":"??????:${number} ??????:${number}"
+  },{
+    "id":495,
+    "color":1,
+    "en":"${actor}???:${skill}}????${number}%"
+  },{
+    "id":496,
+    "color":1,
+    "en":"${actor}???:${skill}}?????${number}%"
+  },{
+    "id":497,
+    "color":1,
+    "en":"??????${actor} : ??+${number}/??+${number}%"
+  },{
+    "id":498,
+    "color":1,
+    "en":"????? ${actor} } ${target}"
+  },{
+    "id":499,
+    "color":1,
+    "en":"Hate : ${actor}}${target} ${number}/${number}"
+  },{
+    "id":500,
+    "color":1,
+    "en":"????to?? ${actor}:CODE ${number}/${number}"
+  },{
+    "id":501,
+    "color":1,
+    "en":"StatusGet(${target}:${number}/${number})"
+  },{
+    "id":502,
+    "color":1,
+    "en":"StatusSet(${target}:${number}/${number})"
+  },{
+    "id":503,
+    "color":1,
+    "en":"${target}: Skillchain Element ${number}(${number})"
+  },{
+    "id":504,
+    "color":1,
+    "en":"${target}:???????????(${number}?????${number}%)"
+  },{
+    "id":505,
+    "color":1,
+    "en":"${target}:????????(${number})???????(${number})?"
+  },{
+    "id":506,
+    "color":1,
+    "en":"${target}:????????(${number})???????(${number})?"
+  },{
+    "id":507,
+    "color":1,
+    "en":"${target}:??????????=${number}/?????????=${number}"
+  },{
+    "id":508,
+    "color":1,
+    "en":"${target}:??????${number}%,PS${number}"
+  },{
+    "id":509,
+    "color":1,
+    "en":"${target}:${ ${number}/${number} }"
+  },{
+    "id":510,
+    "color":1,
+    "en":"DEBUG:${target}}${skill} = ${number}%"
+  },{
+    "id":511,
+    "color":1,
+    "en":"DEBUG:${target}}${number}%?????(${number})?"
+  },{
+    "id":512,
+    "color":123,
+    "en":"You must have a two-handed weapon equipped in the main weapon slot in order to equip a grip."
+  },{
+    "id":513,
+    "color":123,
+    "en":"This grip is not compatible with the two-handed weapon you currently have equipped."
+  },{
+    "id":514,
+    "color":191,
+    "en":"You do not have the proper items equipped to use the ${item}."
+  },{
+    "id":515,
+    "color":81,
+    "en":"${actor} has successfully recorded the target's image onto a ${item}."
+  },{
+    "id":516,
+    "color":104,
+    "en":"${actor} was unable to capture the target's image."
+  },{
+    "id":517,
+    "color":122,
+    "en":"The ${item} cannot be used on that target."
+  },{
+    "id":518,
+    "color":122,
+    "en":"The ${item} cannot be used while under the effect of Invisible or Sneak."
+  },{
+    "id":519,
+    "color":101,
+    "prefix":"lv.",
+    "en":"${actor} uses ${ability}.${lb}${target} is afflicted with Lethargic Daze (lv.${number})."
+  },{
+    "id":520,
+    "color":101,
+    "prefix":"lv.",
+    "en":"${actor} uses ${ability}.${lb}${target} is afflicted with Sluggish Daze (lv.${number})."
+  },{
+    "id":521,
+    "color":101,
+    "prefix":"lv.",
+    "en":"${actor} uses ${ability}.${lb}${target} is afflicted with Weakened Daze (lv.${number})."
+  },{
+    "id":522,
+    "en":"${actor} uses ${ability}.${lb}${target} takes ${number} points of damage and is stunned.",
+    "color":"D",
+    "suffix":"stun"
+  },{
+    "id":523,
+    "color":122,
+    "en":"The same effect is already active on ${actor}."
+  },{
+    "id":524,
+    "color":122,
+    "en":"You have not earned enough finishing moves to perform that action."
+  },{
+    "id":525,
+    "color":122,
+    "en":"${ability} can only be performed during battle."
+  },{
+    "id":526,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}Enmity is stolen from ${target}."
+  },{
+    "id":527,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}Ranged attack power and speed are increased. Melee attack power and speed are reduced."
+  },{
+    "id":528,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}Enmity is transferred to ${actor}'s pet."
+  },{
+    "id":529,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} is chainbound."
+  },{
+    "id":530,
+    "color":101,
+    "en":"${target}'s petrification counter is now down to ${number}."
+  },{
+    "id":531,
+    "color":191,
+    "en":"${target} is no longer ${status}."
+  },{
+    "id":532,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} receives the effect of Sneak and Invisible."
+  },{
+    "id":533,
+    "color":"H",
+    "en":"${actor} casts ${spell}.${lb}${target}'s Accuracy is drained."
+  },{
+    "id":534,
+    "color":"H",
+    "en":"${actor} casts ${spell}.${lb}${target}'s Attack is drained."
+  },{
+    "id":535,
+    "en":"${target} retaliates. ${number} of ${actor}'s shadows absorbs the damage and disappears.",
+    "color":29,
+    "suffix":"shadow"
+  },{
+    "id":536,
+    "color":"D",
+    "en":"${target} retaliates. ${actor} takes ${number} points of damage."
+  },{
+    "id":537,
+    "en":"${target}'s TP is increased to ${number}%.",
+    "color":"H",
+    "suffix":"TP"
+  },{
+    "id":538,
+    "color":122,
+    "en":"A protective energy absorbs the malice of your enemy!"
+  },{
+    "id":539,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} regains HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":540,
+    "color":122,
+    "en":"Level Sync activated. Your level has been restricted to ${number}.${lb}Equipment affected by the level restriction will be adjusted accordingly.${lb}Experience points will become unavailable for all party members should the Level Sync designee stray too far from the enemy."
+  },{
+    "id":541,
+    "color":122,
+    "en":"Level Sync could not be activated.${lb}The designated player is below level 10."
+  },{
+    "id":542,
+    "color":122,
+    "en":"Level Sync could not be activated.${lb}The designated player is in a different area."
+  },{
+    "id":543,
+    "color":122,
+    "en":"Level Sync could not be activated.${lb}One or more party members are currently under the effect of a status which prevents synchronization."
+  },{
+    "id":544,
+    "color":122,
+    "en":"Level synchronization will be removed in ${number} seconds."
+  },{
+    "id":545,
+    "color":122,
+    "en":"No experience points gained...${lb}The Level Sync designee is either too far from the enemy, or unconscious."
+  },{
+    "id":546,
+    "color":81,
+    "en":"Your ${status} effect duration has been extended."
+  },{
+    "id":547,
+    "color":122,
+    "en":"This ability can only be used on targets under the effect of a helix."
+  },{
+    "id":548,
+    "color":122,
+    "en":"The party member you have selected is incapable of receiving experience points, and as such cannot be a Level Sync designee."
+  },{
+    "id":549,
+    "color":122,
+    "en":"No experience points gained...${lb}The Level Sync designee is incapable of receiving experience points."
+  },{
+    "id":550,
+    "color":122,
+    "en":"Level Sync will be deactivated in ${number} seconds.${lb}One or more party members have received the effect of a status which prevents synchronization."
+  },{
+    "id":551,
+    "color":122,
+    "en":"Level Sync will be deactivated in ${number} seconds.${lb}The party leader or the Level Sync designee has left the area."
+  },{
+    "id":552,
+    "color":122,
+    "en":"Level Sync will be deactivated in ${number} seconds.${lb}Less than two party members fulfill the requirements for Level Sync."
+  },{
+    "id":553,
+    "color":122,
+    "en":"Level Sync will be deactivated in ${number} seconds.${lb}The party leader has removed synchronization, or the Level Sync designee has left the party."
+  },{
+    "id":554,
+    "color":122,
+    "en":"Level Sync will be deactivated in ${number} seconds.${lb}The Level Sync designee has fallen below level 10."
+  },{
+    "id":555,
+    "color":122,
+    "en":"Level Sync will be deactivated in ${number} seconds.${lb}A party member has undergone a job change."
+  },{
+    "id":556,
+    "color":122,
+    "en":"Level Sync will be deactivated in ${number} seconds.${lb}The Level Sync designee is incapable of receiving experience points."
+  },{
+    "id":557,
+    "color":101,
+    "en":"${target} receives ${number} piece of alexandrite."
+  },{
+    "id":558,
+    "color":122,
+    "en":"You defeated a designated target. (Progress: ${number}/${number2})"
+  },{
+    "id":559,
+    "color":122,
+    "en":"You have successfully completed the training regime."
+  },{
+    "id":560,
+    "en":"${actor} uses ${ability}. Finishing move now ${number}.",
+    "color":101,
+    "suffix":"FM"
+  },{
+    "id":561,
+    "color":122,
+    "en":"Unable to perform that action.${lb}Your have already earned the maximum number of finishing moves."
+  },{
+    "id":562,
+    "color":122,
+    "en":"The status parameters of ${target} have increased."
+  },{
+    "id":563,
+    "color":101,
+    "en":"${actor} destroys ${target}."
+  },{
+    "id":564,
+    "color":101,
+    "en":"${target} was destroyed."
+  },{
+    "id":565,
+    "en":"${target} obtains ${gil}.",
+    "color":127,
+    "suffix":"gil"
+  },{
+    "id":566,
+    "color":131,
+    "en":"${target} obtains ${number} tab. (Total: ${number})"
+  },{
+    "id":567,
+    "color":81,
+    "en":"${actor} stowed away a ${item} in his tattered Maze Monger pouch."
+  },{
+    "id":568,
+    "color":122,
+    "en":"Your tattered Maze Monger pouch already contains a ${item} and cannot hold another."
+  },{
+    "id":569,
+    "color":123,
+    "en":"Your current status prevents you from using that ability."
+  },{
+    "id":570,
+    "en":"${actor} casts ${spell}.${lb}${number} of ${target}'s status ailments disappears!",
+    "color":81,
+    "suffix":"status ailments disappears"
+  },{
+    "id":571,
+    "en":"${number} of ${target}'s status ailments disappears!",
+    "color":81,
+    "suffix":"status ailments disappears"
+  },{
+    "id":572,
+    "en":"${actor} casts ${spell}.${lb}${actor} absorbs ${number} of ${target}'s status ailments.",
+    "color":81,
+    "suffix":"status ailments absorbed"
+  },{
+    "id":573,
+    "color":123,
+    "en":"${actor} or a alliance member is participating in a union.${lb}Ineligible to obtain treasure from this enemy."
+  },{
+    "id":574,
+    "color":122,
+    "en":"${actor}'s pet is currently unable to perform that action."
+  },{
+    "id":575,
+    "color":122,
+    "en":"${actor}'s pet does not have enough TP to perform that action."
+  },{
+    "id":576,
+    "color":"D",
+    "en":"${actor}'s ranged attack hits ${target} squarely for ${number} points of damage!"
+  },{
+    "id":577,
+    "color":"D",
+    "en":"${actor}'s ranged attack strikes true, pummeling ${target} for ${number} points of damage!"
+  },{
+    "id":578,
+    "color":122,
+    "en":"Hunt objective fulfilled!${lb}Please report to a hunt registry to collect your reward."
+  },{
+    "id":579,
+    "color":122,
+    "en":"Unable to use the ${item}.${lb}Party leaders or those not in a party cannot use a ${item}."
+  },{
+    "id":580,
+    "color":122,
+    "en":"Unable to use the ${item}.${lb}The party leader is in either a area beyond warping range or a place you have yet to visit."
+  },{
+    "id":581,
+    "color":122,
+    "en":"Unable to cast ${spell}.${lb}Astral Flow must be in effect to cast this spell."
+  },{
+    "id":582,
+    "en":"${actor} obtains ${gil}.",
+    "color":127,
+    "suffix":"gil"
+  },{
+    "id":583,
+    "color":127,
+    "en":"Trial ${number}: ${number} objective remains."
+  },{
+    "id":584,
+    "color":127,
+    "en":"You have completed Trial ${number}.${lb}Report your success to a Magian Moogle."
+  },{
+    "id":585,
+    "en":"${actor} uses ${ability}.${lb}${target}'s enmity towards ${actor} is ${number}%.",
+    "color":101,
+    "suffix":"%%"
+  },{
+    "id":586,
+    "en":"Towards ${target} is ${number}%.",
+    "color":101,
+    "suffix":"%%"
+  },{
+    "id":587,
+    "en":"${target} regains ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":588,
+    "en":"${target} regains ${number} MP.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":589,
+    "en":"${target} has been healed of ${number} status ailments.",
+    "color":101,
+    "suffix":"status ailments healed"
+  },{
+    "id":590,
+    "color":122,
+    "en":"You can now perform ${weapon_skill}."
+  },{
+    "id":591,
+    "color":101,
+    "prefix":"lv.",
+    "en":"${actor} uses ${ability}.${lb}${target} is afflicted with Bewildered Daze (lv.${number})."
+  },{
+    "id":592,
+    "en":"${target} attempts to counter ${actor}'s attack, but misses.",
+    "color":"M",
+    "suffix":"(miss)"
+  },{
+    "id":593,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${actor} steals a ${item} from ${target}.${lb}Additional effect: ${target} is afflicted with Attack Down."
+  },{
+    "id":594,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${actor} steals a ${item} from ${target}.${lb}Additional effect: ${target} is afflicted with Defense Down."
+  },{
+    "id":595,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${actor} steals a ${item} from ${target}.${lb}Additional effect: ${target} is afflicted with Magic Atk. Down."
+  },{
+    "id":596,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${actor} steals a ${item} from ${target}.${lb}Additional effect: ${target} is afflicted with Magic Def. Down."
+  },{
+    "id":597,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${actor} steals a ${item} from ${target}.${lb}Additional effect: ${target} is afflicted with Evasion Down."
+  },{
+    "id":598,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${actor} steals a ${item} from ${target}.${lb}Additional effect: ${target} is afflicted with Accuracy Down."
+  },{
+    "id":599,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${actor} steals a ${item} from ${target}.${lb}Additional effect: ${target} is afflicted with Slow."
+  },{
+    "id":600,
+    "color":81,
+    "en":"${actor} eats a ${item}.${lb}${actor} finds a ${item2} inside!"
+  },{
+    "id":601,
+    "color":122,
+    "en":"Objective fulfilled!${lb}Please report to a Dominion Sergeant to collect your reward."
+  },{
+    "id":602,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} receives the effect of ${ability}."
+  },{
+    "id":603,
+    "color":101,
+    "en":"Additional effect: Treasure Hunter effectiveness against ${target} increases to ${number}."
+  },{
+    "id":604,
+    "color":81,
+    "en":"${actor} eats a ${item}, but finds nothing inside..."
+  },{
+    "id":605,
+    "color":56,
+    "en":"Additional effect: ${target} falls to the ground."
+  },{
+    "id":606,
+    "en":"${actor}'s absorbs ${target}'s counter.${lb}${actor} recovers ${number} HP.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":607,
+    "en":"${actor} uses ${weapon_skill}.${lb}${number} of ${target}'s status ailments disappears!",
+    "color":"H",
+    "suffix":"status ailments disappears"
+  },{
+    "id":608,
+    "color":101,
+    "prefix":"TH",
+    "en":"${actor} uses ${ability}.${lb}Treasure Hunter effectiveness against ${target} increases to ${number}."
+  },{
+    "id":609,
+    "color":122,
+    "en":"Prowess attained: Increased treasure casket discovery."
+  },{
+    "id":610,
+    "color":122,
+    "en":"Prowess attained: Increased combat and magic skill gain."
+  },{
+    "id":611,
+    "color":122,
+    "en":"Prowess attained: Increased crystal yield."
+  },{
+    "id":612,
+    "color":122,
+    "en":"Prowess attained: Treasure Hunter bonus."
+  },{
+    "id":613,
+    "color":122,
+    "en":"Prowess attained: Increased attack speed."
+  },{
+    "id":614,
+    "color":122,
+    "en":"Prowess attained: Increased HP and MP."
+  },{
+    "id":615,
+    "color":122,
+    "en":"Prowess attained: Enhanced accuracy and ranged accuracy."
+  },{
+    "id":616,
+    "color":122,
+    "en":"Prowess attained: Enhanced attack and ranged attack."
+  },{
+    "id":617,
+    "color":122,
+    "en":"Prowess attained: Enhanced magic accuracy and magic attack."
+  },{
+    "id":618,
+    "color":122,
+    "en":"Prowess attained: Enhanced \"Cure\" potency."
+  },{
+    "id":619,
+    "color":122,
+    "en":"Prowess attained: Increased weapon skill damage."
+  },{
+    "id":620,
+    "color":122,
+    "en":"Prowess attained: \"Killer\" effects bonus."
+  },null,null,null,null,{
+    "id":625,
+    "color":122,
+    "en":"Prowess boosted: Increased treasure casket discovery."
+  },{
+    "id":626,
+    "color":122,
+    "en":"Prowess boosted: Increased combat and magic skill gain."
+  },{
+    "id":627,
+    "color":122,
+    "en":"Prowess boosted: Increased crystal yield."
+  },{
+    "id":628,
+    "color":122,
+    "en":"Prowess boosted: Treasure Hunter bonus."
+  },{
+    "id":629,
+    "color":122,
+    "en":"Prowess boosted: Increased attack speed."
+  },{
+    "id":630,
+    "color":122,
+    "en":"Prowess boosted: Increased HP and MP."
+  },{
+    "id":631,
+    "color":122,
+    "en":"Prowess boosted: Enhanced accuracy and ranged accuracy."
+  },{
+    "id":632,
+    "color":122,
+    "en":"Prowess boosted: Enhanced attack and ranged attack."
+  },{
+    "id":633,
+    "color":122,
+    "en":"Prowess boosted: Enhanced magic accuracy and magic attack."
+  },{
+    "id":634,
+    "color":122,
+    "en":"Prowess boosted: Enhanced \"Cure\" potency."
+  },{
+    "id":635,
+    "color":122,
+    "en":"Prowess boosted: Increased weapon skill damage."
+  },{
+    "id":636,
+    "color":122,
+    "en":"Prowess boosted: \"Killer\" effects bonus."
+  },null,null,null,null,{
+    "id":641,
+    "en":"Additional effect: 1 of ${target}'s attributes is drained.",
+    "color":"H",
+    "suffix":"attributes drained"
+  },{
+    "id":642,
+    "en":"${actor} casts ${spell}.${lb}${actor} absorbs ${number} of ${target}'s status benefits.",
+    "color":"H",
+    "suffix":"status benefits absorbed"
+  },{
+    "id":643,
+    "color":122,
+    "en":"Your current training regime will begin anew!"
+  },{
+    "id":644,
+    "en":"${actor} uses ${ability}.${lb}${number} of ${target}'s status effects are removed.",
+    "color":"H",
+    "suffix":"status effects removed"
+  },{
+    "id":645,
+    "color":65,
+    "en":"${actor} uses ${ability}.${lb}${target} is ${status}."
+  },{
+    "id":646,
+    "color":56,
+    "en":"${actor} uses ${ability}.${lb}${target} falls to the ground."
+  },{
+    "id":647,
+    "color":81,
+    "en":"${actor} casts ${ability}.${lb}${target}'s ${status} effect disappears!"
+  },{
+    "id":648,
+    "color":"D",
+    "en":"${actor} leads the casting of ${spell}.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":649,
+    "color":122,
+    "en":"A member of another party is readying ${spell} against your target.${lb}You cannot cast the same spell at this time."
+  },{
+    "id":650,
+    "color":"D",
+    "en":"${actor} leads the casting of ${spell}.${lb}Magic Burst! ${target} takes ${number} points of damage."
+  },{
+    "id":651,
+    "en":"${actor} leads the casting of ${spell}.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":652,
+    "en":"Additional effect: ${target} loses ${number} TP.",
+    "color":56,
+    "suffix":"TP"
+  },{
+    "id":653,
+    "color":"R",
+    "en":"${actor} casts ${spell}.${lb}${target} resists the spell.${lb}Immunobreak!"
+  },{
+    "id":654,
+    "color":"R",
+    "en":"${target} resists the spell.${lb}Immunobreak!"
+  },{
+    "id":655,
+    "color":"R",
+    "en":"${actor} casts ${spell}.${lb}${target} completely resists the spell."
+  },{
+    "id":656,
+    "color":"R",
+    "en":"${target} completely resists the spell."
+  },{
+    "id":657,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}All enmity is transferred to ${target}."
+  },{
+    "id":658,
+    "en":"${actor} uses ${ability}, but misses ${target}.",
+    "color":"M",
+    "suffix":"(miss)"
+  },{
+    "id":659,
+    "color":"R",
+    "en":"No effect on ${target}."
+  },{
+    "id":660,
+    "color":122,
+    "en":"The same effect is already active on that luopan!"
+  },{
+    "id":661,
+    "color":122,
+    "en":"${actor} has already placed a luopan.${lb}Unable to use ability."
+  },{
+    "id":662,
+    "color":122,
+    "en":"This action requires a luopan."
+  },{
+    "id":663,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}The luopan's HP consumption rate has been reduced."
+  },{
+    "id":664,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}The effects of the luopan and its HP consumption rate have increased."
+  },{
+    "id":665,
+    "color":122,
+    "en":"${actor} has a pet. Unable to use ability."
+  },{
+    "id":666,
+    "color":122,
+    "en":"This action requires the ability Rune Enchantment."
+  },{
+    "id":667,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}Accuracy and evasion are enhanced."
+  },{
+    "id":668,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} receives the effect of Vallation, reducing damage taken from certain elemental magic spells."
+  },{
+    "id":669,
+    "color":101,
+    "en":"Magic damage of a certain element is reduced for ${target}."
+  },{
+    "id":670,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} can now absorb magic damage of a certain element."
+  },{
+    "id":671,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} now has enhanced resistance."
+  },{
+    "id":672,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target} receives the effect of Gambit, reducing defense against magic of a certain element."
+  },{
+    "id":673,
+    "color":127,
+    "en":"${actor} obtains ${number} corpuscles of menace plasm."
+  },{
+    "id":674,
+    "color":101,
+    "en":"${actor} uses ${ability}, and finds ${number} ${item2}."
+  },{
+    "id":675,
+    "color":100,
+    "en":"${actor} readies ${weapon_skill}."
+  },{
+    "id":676,
+    "color":101,
+    "en":"${target}'s movement speed increases."
+  },{
+    "id":677,
+    "color":129,
+    "en":"You are now able to possess a new monster!"
+  },{
+    "id":678,
+    "color":129,
+    "en":"You have learned a new instinct!"
+  },{
+    "id":679,
+    "color":101,
+    "en":"${actor} will return to the Feretory in: ${number2}."
+  },{
+    "id":680,
+    "color":132,
+    "en":"A newfound puissance courses through your veins."
+  },{
+    "id":681,
+    "color":132,
+    "en":"Your muscles ripple with an immensely powerful and invigorating force."
+  },{
+    "id":682,
+    "color":133,
+    "en":"Your puissance withers slightly."
+  },{
+    "id":683,
+    "color":121,
+    "en":"You have claimed ${target}!"
+  },{
+    "id":684,
+    "color":121,
+    "en":"${target} has been claimed!"
+  },{
+    "id":685,
+    "color":122,
+    "en":"The enemy you are battling will no longer be claimed in: ${number}."
+  },{
+    "id":686,
+    "color":122,
+    "en":"The enemy you were battling is no longer claimed."
+  },{
+    "id":687,
+    "color":38,
+    "en":"${actor} captured ${target}."
+  },{
+    "id":688,
+    "color":101,
+    "en":"${actor} has fled!"
+  },{
+    "id":689,
+    "color":38,
+    "en":"${actor} captured ${target}."
+  },{
+    "id":690,
+    "color":127,
+    "en":"You have completed the following Records of Eminence objective: ${regime}."
+  },{
+    "id":691,
+    "color":127,
+    "en":"This objective may be repeated, and can be canceled from the menu."
+  },{
+    "id":692,
+    "color":131,
+    "en":"You receive ${number} sparks of eminence and now possess a total of ${number2}."
+  },{
+    "id":693,
+    "color":121,
+    "en":"As a special bonus for your valiant efforts, you have been awarded ${item}."
+  },{
+    "id":694,
+    "color":121,
+    "en":"As a special bonus for your valiant efforts, you have been awarded ${number} sparks of eminence."
+  },{
+    "id":695,
+    "color":123,
+    "en":"Unable to receive special bonus. Make room in your inventory and receive your reward from the Records of Eminence menu."
+  },{
+    "id":696,
+    "color":123,
+    "en":"You have yet to receive certain special bonuses from objectives you have completed. Make room in your inventory and receive your rewards from the Records of Eminence menu."
+  },{
+    "id":697,
+    "color":127,
+    "en":"Records of Eminence: ${regime}."
+  },{
+    "id":698,
+    "color":127,
+    "en":"Progress: ${number}/${number2}."
+  },{
+    "id":699,
+    "color":127,
+    "en":"A new objective has been added!"
+  },{
+    "id":700,
+    "color":122,
+    "en":"You are unable to use Trust magic at this time."
+  },{
+    "id":701,
+    "color":122,
+    "en":"There's no time to do that now!"
+  },null,null,{
+    "id":704,
+    "color":121,
+    "en":"You have undertaken \"${regime}.\""
+  },{
+    "id":705,
+    "color":121,
+    "en":"You have undertaken the limited-time Records of Eminence challenge \"${regime}.\"."
+  },{
+    "id":706,
+    "color":121,
+    "en":"You have obtained a ${item} as a special reward."
+  },{
+    "id":707,
+    "color":127,
+    "en":"As a first-time bonus, you receive ${number} sparks of eminence for a total of ${number2}!"
+  },{
+    "id":708,
+    "color":127,
+    "en":"This place is now known as a location that brings memories flooding back to ${actor}."
+  },{
+    "id":709,
+    "color":121,
+    "en":"As a special bonus for your valiant efforts, you have been awarded the following: ${item} x${number2}!"
+  },{
+    "id":710,
+    "color":127,
+    "en":"You are cleared to fulfill this objective once again."
+  },{
+    "id":711,
+    "color":91,
+    "en":"(${actor}) ${item}"
+  },{
+    "id":712,
+    "color":191,
+    "en":"Primary Accuracy: ${number} / Primary Attack: ${number2}"
+  },{
+    "id":713,
+    "color":191,
+    "en":"Auxiliary Accuracy: ${number} / Auxiliary Attack: ${number2}"
+  },{
+    "id":714,
+    "color":191,
+    "en":"Ranged Accuracy: ${number} / Ranged Attack: ${number2}"
+  },{
+    "id":715,
+    "color":191,
+    "en":"Evasion: ${number} / Defense: ${number2}"
+  },{
+    "id":716,
+    "color":52,
+    "en":"${actor} starts casting ${weapon_skill}."
+  },{
+    "id":717,
+    "color":131,
+    "en":"You cannot call forth alter egos here."
+  },{
+    "id":718,
+    "color":131,
+    "en":"${actor} gains ${number} capacity points."
+  },{
+    "id":719,
+    "color":131,
+    "en":"${actor} earns a job point! (Total: ${number})"
+  },{
+    "id":720,
+    "color":132,
+    "en":"Your ${job_point_skill} modification has risen to level ${number}"
+  },{
+    "id":721,
+    "color":127,
+    "en":"You receive a bonus of ${number} fishing guild points!"
+  },{
+    "id":722,
+    "color":127,
+    "en":"You receive a bonus of ${number} woodworking guild points!"
+  },{
+    "id":723,
+    "color":127,
+    "en":"You receive a bonus of ${number} smithing guild points!"
+  },{
+    "id":724,
+    "color":127,
+    "en":"You receive a bonus of ${number} goldsmithing guild points!"
+  },{
+    "id":725,
+    "color":127,
+    "en":"You receive a bonus of ${number} clothcraft guild points!"
+  },{
+    "id":726,
+    "color":127,
+    "en":"You receive a bonus of ${number} leathercraft guild points!"
+  },{
+    "id":727,
+    "color":127,
+    "en":"You receive a bonus of ${number} bonecraft guild points!"
+  },{
+    "id":728,
+    "color":127,
+    "en":"You receive a bonus of ${number} alchemy guild points!"
+  },{
+    "id":729,
+    "color":127,
+    "en":"You receive a bonus of ${number} cooking guild points!"
+  },{
+    "id":730,
+    "color":101,
+    "en":"${actor} uses ${ability}${lb}${target}'s TP is reduced to ${number}."
+  },{
+    "id":731,
+    "color":191,
+    "en":"Average item level: ${number}."
+  },{
+    "id":732,
+    "color":"D",
+    "en":"Skillchain: Universal Enlightenment.${lb}${target} takes ${number} points of damage"
+  },{
+    "id":733,
+    "color":191,
+    "en":"${target}:"
+  },{
+    "id":734,
+    "color":56,
+    "en":"${actor} uses ${ability} on ${target}."
+  },{
+    "id":735,
+    "color":131,
+    "en":"Capacity chain #${number}!${lb}${actor} gains ${number2} capacity points."
+  },{
+    "id":736,
+    "en":"${actor} uses ${ability}.${lb}${number} HP drained from ${target}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":737,
+    "en":"${actor} uses ${ability}. ${lb}${number} of ${target} magic effects is drained.",
+    "color":101,
+    "suffix":"magic effects drained"
+  },{
+    "id":738,
+    "color":101,
+    "en":"${actor} uses ${ability}."
+  },{
+    "id":739,
+    "en":"${target} receives ${number} magical effects.",
+    "color":56,
+    "suffix":"magical effects received"
+  },{
+    "id":740,
+    "color":"1 $gt;",
+    "en":"${target}: $lt; ${number}/${number2}"
+  },{
+    "id":741,
+    "color":127,
+    "en":"You receive ${number} Unity accolades for a total of ${number2}!"
+  },{
+    "id":742,
+    "color":121,
+    "en":"You are currently unable to undertake this objective."
+  },{
+    "id":743,
+    "color":101,
+    "en":"${actor} uses ${ability}.${lb}${target}'s enmity decreases."
+  },{
+    "id":744,
+    "color":1,
+    "en":"${actor}奄"
+  },{
+    "id":745,
+    "color":122,
+    "en":"Your automaton exceeds one or more elemental capacity values and cannot be activated."
+  },{
+    "id":746,
+    "en":"${actor} uses ${ability}.${lb}${number} TP drained from ${target}.",
+    "color":"H",
+    "suffix":"TP"
+  },{
+    "id":747,
+    "color":"D",
+    "en":"${actor} uses ${weapon_skill}.${lb}Magic Burst! ${target} takes ${number} points of damage."
+  },{
+    "id":748,
+    "en":"${actor} uses ${weapon_skill}.${lb}Magic Burst! ${number} HP drained from ${target}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":749,
+    "en":"Magic Burst! ${number} HP drained from ${target}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":750,
+    "en":"${actor} uses ${weapon_skill}.${lb}Magic Burst! ${number} MP drained from ${target}.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":751,
+    "en":"Magic Burst! ${number} MP drained from ${target}.",
+    "color":"H",
+    "suffix":"MP"
+  },{
+    "id":752,
+    "en":"${actor} uses ${weapon_skill}.${lb}Magic Burst! ${number} TP drained from ${target}.",
+    "color":"H",
+    "suffix":"TP"
+  },{
+    "id":753,
+    "en":"Magic Burst! ${number} TP drained from ${target}.",
+    "color":"H",
+    "suffix":"TP"
+  },{
+    "id":754,
+    "color":57,
+    "en":"${actor} uses ${weapon_skill}.${lb}Magic Burst! ${target} is ${status}."
+  },{
+    "id":755,
+    "color":57,
+    "en":"${actor} uses ${weapon_skill}.${lb}Magic Burst! ${target} receives the effect of ${status}."
+  },{
+    "id":756,
+    "color":112,
+    "en":"${target}'s spikes cause ${target} to fall to the ground."
+  },{
+    "id":757,
+    "en":"${number} of ${target}'s effects disappears!",
+    "color":56,
+    "suffix":"effects disappears"
+  },{
+    "id":758,
+    "color":81,
+    "en":"${actor} uses ${item}.${lb}→Obtained key item: ${key_item}."
+  },{
+    "id":759,
+    "color":122,
+    "en":"You already have key item: ${key_item}."
+  },{
+    "id":760,
+    "color":123,
+    "en":"You are only able to possess one ${item} and thus are unable to receive your just reward. Clear out your inventory and receive the item from the Records of Eminence Menu."
+  },{
+    "id":761,
+    "color":123,
+    "en":"You were unable to receive your just reward because you need ${number} free spaces in your inventory. Clear out your bags and receive your item from the Records of Eminence Menu."
+  },{
+    "id":762,
+    "color":101,
+    "en":"${actor} uses ${weapon_skill}.${lb}All of ${target}'s status parameters are boosted."
+  },{
+    "id":763,
+    "color":101,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} has grown noticeably bored."
+  },{
+    "id":764,
+    "color":101,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target} feels the Fever!"
+  },{
+    "id":765,
+    "color":127,
+    "en":"${actor} uses ${item}.${lb}${target} obtains ${number} escha silt."
+  },{
+    "id":766,
+    "color":127,
+    "en":"${actor} uses ${item}.${lb}${target} obtains ${number} escha beads."
+  },{
+    "id":767,
+    "color":"D",
+    "en":"Skillchain: Radiance.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":768,
+    "color":"D",
+    "en":"Skillchain: Umbra.${lb}${target} takes ${number} points of damage."
+  },{
+    "id":769,
+    "en":"Skillchain: Radiance.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":770,
+    "en":"Skillchain: Umbra.${lb}${target} recovers ${number} hit points!",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":771,
+    "color":127,
+    "en":"Congratulations! Your deeds of valor will ring throughout the ages, providing inspiration for generations to come."
+  },{
+    "id":772,
+    "color":101,
+    "en":"${actor} stands resolute thanks to the power of the bonds that tie you!"
+  },{
+    "id":773,
+    "color":122,
+    "en":"You are unable to call forth your mount because your main job level is not at least ${number}."
+  },{
+    "id":774,
+    "color":121,
+    "en":"You already possess that item and are unable to receive your just reward!"
+  },{
+    "id":775,
+    "color":121,
+    "en":"A new objective has been added in the Contents > Content (Ambuscade) Records of Eminence category!"
+  },{
+    "id":776,
+    "color":56,
+    "en":"Additional effect: ${target} is chainbound."
+  },{
+    "id":777,
+    "color":122,
+    "en":"You cannot mount at this time."
+  },{
+    "id":778,
+    "en":"${actor} uses ${weapon_skill}.${lb}${actor} copies ${number} magical effects from ${target}.",
+    "color":111,
+    "suffix":"magical effects copied"
+  },{
+    "id":779,
+    "color":111,
+    "en":"${actor} uses ${weapon_skill}.${lb}A barrier begins to pulsate around ${target}."
+  },{
+    "id":780,
+    "color":111,
+    "en":"${actor} uses ${weapon_skill}.${lb}${actor} takes aim at ${target}!"
+  },{
+    "id":781,
+    "color":101,
+    "en":"${target} retaliates, absorbing ${number} TP from ${actor}."
+  },null,null,null,null,null,null,null,null,null,null,{
+    "id":792,
+    "en":"${actor} uses ${spell}.${lb}${number} of ${target}'s effects disappears!",
+    "color":56,
+    "suffix":"effects disappears"
+  },null,null,null,null,null,{
+    "id":798,
+    "color":101,
+    "en":"${actor}'s ${ability} overload chance is ${number}%."
+  },{
+    "id":799,
+    "color":101,
+    "en":"${actor}'s ${ability} overload chance is ${number}%.${lb}${actor} is overloaded!"
+  },{
+    "id":800,
+    "color":"D",
+    "en":"${status} activates. ${target} takes ${number} points of damage."
+  },null,{
+    "id":802,
+    "en":"${actor} uses ${ability}.${lb}${number} HP drained from ${target}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":803,
+    "en":"${actor} uses ${ability}.${lb}Magic Burst! ${number} HP drained from ${target}.",
+    "color":"H",
+    "suffix":"HP"
+  },{
+    "id":804,
+    "color":57,
+    "en":"${actor} uses ${ability}.${lb}Magic Burst! ${target} receives the effect of ${status}."
+  },{
+    "id":805,
+    "color":"H",
+    "en":"${actor} uses ${weapon_skill}.${lb}${target}'s ${status} effect disappears!"
+  },{
+    "id":806,
+    "color":81,
+    "en":"${target}'s ${status} effect disappears!"
+  },null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,{
+    "id":1023,
+    "color":111,
+    "en":"${actor} uses ${weapon_skill}.${lb}${target}'s attacks and defenses are enhanced."
+  }]

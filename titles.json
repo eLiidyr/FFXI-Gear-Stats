@@ -1,0 +1,5437 @@
+{
+  "1":{
+    "id":1,
+    "ja":"フォッダーチーフ　フレーヤー",
+    "en":"Fodderchief Flayer"
+  },
+  "2":{
+    "id":2,
+    "ja":"ウォーチーフ　レッカー",
+    "en":"Warchief Wrecker"
+  },
+  "3":{
+    "id":3,
+    "ja":"ドレッドドラゴン　スレーヤー",
+    "en":"Dread Dragon Slayer"
+  },
+  "4":{
+    "id":4,
+    "ja":"オーバーロード　エグゼキューショナー",
+    "en":"Overlord Executioner"
+  },
+  "5":{
+    "id":5,
+    "ja":"ダークドラゴン　スレーヤー",
+    "en":"Dark Dragon Slayer"
+  },
+  "6":{
+    "id":6,
+    "ja":"アダマンキング　キラー",
+    "en":"Adamantking Killer"
+  },
+  "7":{
+    "id":7,
+    "ja":"ブラックドラゴン　スレーヤー",
+    "en":"Black Dragon Slayer"
+  },
+  "8":{
+    "id":8,
+    "ja":"マニフェスト　モーラー",
+    "en":"Manifest Mauler"
+  },
+  "9":{
+    "id":9,
+    "ja":"ベヒーモス　ベーン",
+    "en":"Behemoth's Bane"
+  },
+  "10":{
+    "id":10,
+    "ja":"アークメイジ　アサシン",
+    "en":"Archmage Assassin"
+  },
+  "11":{
+    "id":11,
+    "ja":"ヘルズベーン",
+    "en":"Hellsbane"
+  },
+  "12":{
+    "id":12,
+    "ja":"ジャイアントキラー",
+    "en":"Giant Killer"
+  },
+  "13":{
+    "id":13,
+    "ja":"リッチ　バニッシャー",
+    "en":"Lich Banisher"
+  },
+  "14":{
+    "id":14,
+    "ja":"ジェリーベーン",
+    "en":"Jellybane"
+  },
+  "15":{
+    "id":15,
+    "ja":"ゴギー　ダウナー",
+    "en":"Bogeydowner"
+  },
+  "16":{
+    "id":16,
+    "ja":"ビークベンダー",
+    "en":"Beakbender"
+  },
+  "17":{
+    "id":17,
+    "ja":"スカルクラッシャー",
+    "en":"Skullcrusher"
+  },
+  "18":{
+    "id":18,
+    "ja":"モルボル　ベーン",
+    "en":"Morbolbane"
+  },
+  "19":{
+    "id":19,
+    "ja":"ゴリアテ　キラー",
+    "en":"Goliath Killer"
+  },
+  "20":{
+    "id":20,
+    "ja":"メリーズガイド",
+    "en":"Mary's Guide"
+  },
+  "21":{
+    "id":21,
+    "ja":"シムルグ　スレーヤー",
+    "en":"Simurgh Poacher"
+  },
+  "22":{
+    "id":22,
+    "ja":"ロック　スター",
+    "en":"Roc Star"
+  },
+  "23":{
+    "id":23,
+    "ja":"セルケト　ブレーカー",
+    "en":"Serket Breaker"
+  },
+  "24":{
+    "id":24,
+    "ja":"キャシノバ",
+    "en":"Cassienova"
+  },
+  "25":{
+    "id":25,
+    "ja":"ホーンスプリッター",
+    "en":"The Hornsplitter"
+  },
+  "26":{
+    "id":26,
+    "ja":"トータストーチャラー",
+    "en":"Tortoise Torturer"
+  },
+  "27":{
+    "id":27,
+    "ja":"モン　チェリー",
+    "en":"Mon Cherry"
+  },
+  "28":{
+    "id":28,
+    "ja":"ベヒーモス　デスローナー",
+    "en":"Behemoth Dethroner"
+  },
+  "29":{
+    "id":29,
+    "ja":"ビビセクター",
+    "en":"The Vivisector"
+  },
+  "30":{
+    "id":30,
+    "ja":"ドラゴンアッシャー",
+    "en":"Dragon Asher"
+  },
+  "31":{
+    "id":31,
+    "ja":"遠征軍遊撃隊員",
+    "en":"Expeditionary Trooper"
+  },
+  "32":{
+    "id":32,
+    "ja":"賢者の希望を担いし者",
+    "en":"Bearer of the Wisewoman's Hope"
+  },
+  "33":{
+    "id":33,
+    "ja":"八つの祈りを帯びし者",
+    "en":"Bearer of the Eight Prayers"
+  },
+  "34":{
+    "id":34,
+    "ja":"光の紡ぎ手",
+    "en":"Lightweaver"
+  },
+  "35":{
+    "id":35,
+    "ja":"いにしえを屠る者",
+    "en":"Destroyer of Antiquity"
+  },
+  "36":{
+    "id":36,
+    "ja":"神の扉を閉ざす者",
+    "en":"Sealer of the Portal of the Gods"
+  },
+  "37":{
+    "id":37,
+    "ja":"幻影を葬りし者",
+    "en":"Burier of the Illusion"
+  },
+  "39":{
+    "id":39,
+    "ja":"小さな親切運動家",
+    "en":"Family Counselor"
+  },
+  "41":{
+    "id":41,
+    "ja":"格闘家スコーピオン！？",
+    "en":"Great Grappler Scorpio!?"
+  },
+  "42":{
+    "id":42,
+    "ja":"絆の証人",
+    "en":"Bond Fixer"
+  },
+  "43":{
+    "id":43,
+    "ja":"低級ヴァンパイアハンター",
+    "en":"Vampire Hunter D-Minus"
+  },
+  "44":{
+    "id":44,
+    "ja":"羊乳配達人",
+    "en":"Sheep's Milk Deliverer"
+  },
+  "45":{
+    "id":45,
+    "ja":"マメ料理人手伝い",
+    "en":"Bean Cuisine Salter"
+  },
+  "46":{
+    "id":46,
+    "ja":"ヘッポコくん",
+    "en":"Total Loser"
+  },
+  "47":{
+    "id":47,
+    "ja":"シャントット博士のお気に入り",
+    "en":"Doctor Shantotto's Flavor of the Month"
+  },
+  "48":{
+    "id":48,
+    "ja":"ホラの巡礼者",
+    "en":"Pilgrim to Holla"
+  },
+  "49":{
+    "id":49,
+    "ja":"デムの巡礼者",
+    "en":"Pilgrim to Dem"
+  },
+  "50":{
+    "id":50,
+    "ja":"メアの巡礼者",
+    "en":"Pilgrim to Mea"
+  },
+  "51":{
+    "id":51,
+    "ja":"暁の勝負師",
+    "en":"Daybreak Gambler"
+  },
+  "52":{
+    "id":52,
+    "ja":"信心深き者",
+    "en":"The Pious One"
+  },
+  "53":{
+    "id":53,
+    "ja":"心優しき者",
+    "en":"A Moss Kind Person"
+  },
+  "54":{
+    "id":54,
+    "ja":"門前払い",
+    "en":"Entrance Denied"
+  },
+  "55":{
+    "id":55,
+    "ja":"ハチミツ博士",
+    "en":"Apiarist"
+  },
+  "56":{
+    "id":56,
+    "ja":"ワイルドハンター",
+    "en":"Rabbiter"
+  },
+  "57":{
+    "id":57,
+    "ja":"龍王の墓守",
+    "en":"Royal Grave Keeper"
+  },
+  "58":{
+    "id":58,
+    "ja":"凄腕の運び屋",
+    "en":"Courier Extraordinaire"
+  },
+  "59":{
+    "id":59,
+    "ja":"森の救急隊員",
+    "en":"Ronfaurian Rescuer"
+  },
+  "60":{
+    "id":60,
+    "ja":"街の名探偵",
+    "en":"Pickpocket Pincher"
+  },
+  "61":{
+    "id":61,
+    "ja":"ファング",
+    "en":"Fang Finder"
+  },
+  "62":{
+    "id":62,
+    "ja":"炎の信者",
+    "en":"Faith like a Candle"
+  },
+  "63":{
+    "id":63,
+    "ja":"清らかなる者",
+    "en":"The Pure One"
+  },
+  "64":{
+    "id":64,
+    "ja":"迷子引受人",
+    "en":"Lost Child Officer"
+  },
+  "65":{
+    "id":65,
+    "ja":"沈黙の羊飼い",
+    "en":"Silencer of the Lambs"
+  },
+  "66":{
+    "id":66,
+    "ja":"遺失物捜索隊員",
+    "en":"Lost & Found Officer"
+  },
+  "67":{
+    "id":67,
+    "ja":"ベジタブル特急",
+    "en":"Green Grocer"
+  },
+  "68":{
+    "id":68,
+    "ja":"慈悲深き者",
+    "en":"The Benevolent One"
+  },
+  "69":{
+    "id":69,
+    "ja":"見習い騎士",
+    "en":"Knight in Training"
+  },
+  "70":{
+    "id":70,
+    "ja":"リザードキラー",
+    "en":"Lizard Skinner"
+  },
+  "71":{
+    "id":71,
+    "ja":"虫採り名人",
+    "en":"Bug Catcher"
+  },
+  "72":{
+    "id":72,
+    "ja":"洞窟探検隊",
+    "en":"Spelunker"
+  },
+  "73":{
+    "id":73,
+    "ja":"取引代理人",
+    "en":"Arms Trader"
+  },
+  "74":{
+    "id":74,
+    "ja":"旅の調剤士",
+    "en":"Traveling Medicine Man"
+  },
+  "75":{
+    "id":75,
+    "ja":"虎ハンター",
+    "en":"Cat Skinner"
+  },
+  "76":{
+    "id":76,
+    "ja":"フナ釣りマイスター",
+    "en":"Carp Diem"
+  },
+  "77":{
+    "id":77,
+    "ja":"呼び込み名人",
+    "en":"Advertising Executive"
+  },
+  "78":{
+    "id":78,
+    "ja":"下級オーガナイザー",
+    "en":"Third-rate Organizer"
+  },
+  "79":{
+    "id":79,
+    "ja":"中級オーガナイザー",
+    "en":"Second-rate Organizer"
+  },
+  "80":{
+    "id":80,
+    "ja":"上級オーガナイザー",
+    "en":"First-rate Organizer"
+  },
+  "81":{
+    "id":81,
+    "ja":"バストゥークの案内人",
+    "en":"Bastok Welcoming Committee"
+  },
+  "82":{
+    "id":82,
+    "ja":"甲羅からの解放者",
+    "en":"Shell Outer"
+  },
+  "83":{
+    "id":83,
+    "ja":"バケツフィッシャー",
+    "en":"Bucket Fisher"
+  },
+  "84":{
+    "id":84,
+    "ja":"過去を垣間見る者",
+    "en":"Pursuer of the Past"
+  },
+  "85":{
+    "id":85,
+    "ja":"真実の探求者",
+    "en":"Pursuer of the Truth"
+  },
+  "86":{
+    "id":86,
+    "ja":"ママのお手伝い",
+    "en":"Mommy's Helper"
+  },
+  "87":{
+    "id":87,
+    "ja":"スモーキー",
+    "en":"Hot Dog"
+  },
+  "88":{
+    "id":88,
+    "ja":"スタンピオン",
+    "en":"Stampeder"
+  },
+  "89":{
+    "id":89,
+    "ja":"クィジの友人",
+    "en":"Qiji's Friend"
+  },
+  "90":{
+    "id":90,
+    "ja":"クィジのライバル",
+    "en":"Qiji's Rival"
+  },
+  "91":{
+    "id":91,
+    "ja":"勝負の采配人",
+    "en":"Contest Rigger"
+  },
+  "92":{
+    "id":92,
+    "ja":"怪しい運び屋",
+    "en":"Ringbearer"
+  },
+  "93":{
+    "id":93,
+    "ja":"クラウツ橋の友人",
+    "en":"Kulatz Bridge Companion"
+  },
+  "94":{
+    "id":94,
+    "ja":"ベドー調査員",
+    "en":"Beadeaux Surveyor"
+  },
+  "95":{
+    "id":95,
+    "ja":"死者を弔いし者",
+    "en":"Avenger"
+  },
+  "96":{
+    "id":96,
+    "ja":"トレジャーハンター",
+    "en":"Treasure Scavenger"
+  },
+  "97":{
+    "id":97,
+    "ja":"飛空艇伝道師",
+    "en":"Airship Denouncer"
+  },
+  "98":{
+    "id":98,
+    "ja":"ツェールンスイーパー",
+    "en":"Zeruhn Sweeper"
+  },
+  "99":{
+    "id":99,
+    "ja":"水辺に立つ者",
+    "en":"Tearjerker"
+  },
+  "100":{
+    "id":100,
+    "ja":"クラブクラッシャー",
+    "en":"Crab Crusher"
+  },
+  "101":{
+    "id":101,
+    "ja":"イフリートの空に向かう者",
+    "en":"Star of Ifrit"
+  },
+  "102":{
+    "id":102,
+    "ja":"ラプソディコンダクター",
+    "en":"Sorrow Drowner"
+  },
+  "103":{
+    "id":103,
+    "ja":"ブリジッドのお墨付き",
+    "en":"Brygid-approved"
+  },
+  "104":{
+    "id":104,
+    "ja":"臥竜の験者",
+    "en":"Drachenfall Ascetic"
+  },
+  "105":{
+    "id":105,
+    "ja":"「蒸気の羊」亭の常連客",
+    "en":"\"Steaming Sheep\" Regular"
+  },
+  "106":{
+    "id":106,
+    "ja":"紫帯の有段者",
+    "en":"Purple Belt"
+  },
+  "107":{
+    "id":107,
+    "ja":"グスタベルグツーリスト",
+    "en":"Gustaberg Tourist"
+  },
+  "108":{
+    "id":108,
+    "ja":"砂の開拓者",
+    "en":"Sand Blaster"
+  },
+  "109":{
+    "id":109,
+    "ja":"黒の死神",
+    "en":"Black Death"
+  },
+  "111":{
+    "id":111,
+    "ja":"北風団の新米",
+    "en":"Fresh \"North Winds\" Recruit"
+  },
+  "112":{
+    "id":112,
+    "ja":"ウェスト・オブ・ビースト",
+    "en":"New \"Best of the West\" Recruit"
+  },
+  "113":{
+    "id":113,
+    "ja":"ブーマガードの新米",
+    "en":"New \"Buuma's Boomers\" Recruit"
+  },
+  "114":{
+    "id":114,
+    "ja":"天の塔前・魔戦士隊員",
+    "en":"Heavens Tower Gatehouse Recruit"
+  },
+  "115":{
+    "id":115,
+    "ja":"泥棒ミスラのコブン",
+    "en":"Cat Burglar Groupie"
+  },
+  "116":{
+    "id":116,
+    "ja":"クロウラーバスター",
+    "en":"Crawler Culler"
+  },
+  "117":{
+    "id":117,
+    "ja":"知識の守り手",
+    "en":"Savior of Knowledge"
+  },
+  "118":{
+    "id":118,
+    "ja":"星巡りの戦士",
+    "en":"Star-ordained Warrior"
+  },
+  "119":{
+    "id":119,
+    "ja":"くさったバナナ",
+    "en":"Lower than the Lowest Tunnel Worm"
+  },
+  "120":{
+    "id":120,
+    "ja":"スターオニオンズ団員",
+    "en":"Star Onion Brigade Member"
+  },
+  "121":{
+    "id":121,
+    "ja":"オニオンヒーロー",
+    "en":"Star Onion Brigadier"
+  },
+  "122":{
+    "id":122,
+    "ja":"お手軽修繕屋",
+    "en":"Quick Fixer"
+  },
+  "123":{
+    "id":123,
+    "ja":"つけひげの名探偵",
+    "en":"Fake-moustached Investigator"
+  },
+  "124":{
+    "id":124,
+    "ja":"ハックルリンクルの恩人",
+    "en":"Hakkuru-Rinkuru's Benefactor"
+  },
+  "125":{
+    "id":125,
+    "ja":"正義の味方",
+    "en":"S.O.B. Super Hero"
+  },
+  "126":{
+    "id":126,
+    "ja":"編集長の刺客",
+    "en":"Editor's Hatchet Man"
+  },
+  "127":{
+    "id":127,
+    "ja":"シャントット博士の実験台",
+    "en":"Doctor Shantotto's Guinea Pig"
+  },
+  "128":{
+    "id":128,
+    "ja":"マナー違反者",
+    "en":"Spoilsport"
+  },
+  "129":{
+    "id":129,
+    "ja":"ナイスモデル",
+    "en":"Super Model"
+  },
+  "130":{
+    "id":130,
+    "ja":"ゴーストバスター",
+    "en":"Ghostie Buster"
+  },
+  "131":{
+    "id":131,
+    "ja":"夜空の航海士",
+    "en":"Night Sky Navigator"
+  },
+  "132":{
+    "id":132,
+    "ja":"買出し部隊員",
+    "en":"Fast Food Deliverer"
+  },
+  "133":{
+    "id":133,
+    "ja":"花鼻キューピッド",
+    "en":"Cupid's Florist"
+  },
+  "134":{
+    "id":134,
+    "ja":"殺タルタル容疑者",
+    "en":"Tarutaru Murder Suspect"
+  },
+  "135":{
+    "id":135,
+    "ja":"不幸な呪い師",
+    "en":"Hexer Vexer"
+  },
+  "136":{
+    "id":136,
+    "ja":"カーディアン教育者",
+    "en":"Cardian Tutor"
+  },
+  "137":{
+    "id":137,
+    "ja":"銀色の涙の使者",
+    "en":"Deliverer of Tearful News"
+  },
+  "138":{
+    "id":138,
+    "ja":"太古の海人",
+    "en":"Fossilized Sea Farer"
+  },
+  "139":{
+    "id":139,
+    "ja":"栄光なる薔薇の笛吹き",
+    "en":"Down Piper Pipe-upperer"
+  },
+  "140":{
+    "id":140,
+    "ja":"美の開拓者",
+    "en":"Kisser Make-upper"
+  },
+  "141":{
+    "id":141,
+    "ja":"時の旅人",
+    "en":"Timekeeper"
+  },
+  "142":{
+    "id":142,
+    "ja":"見習い占い師",
+    "en":"Fortune-teller in Training"
+  },
+  "143":{
+    "id":143,
+    "ja":"ともし火ランナー",
+    "en":"Torchbearer"
+  },
+  "144":{
+    "id":144,
+    "ja":"天晶堂会員",
+    "en":"Tenshodo Member"
+  },
+  "145":{
+    "id":145,
+    "ja":"チョコボ調教師",
+    "en":"Chocobo Trainer"
+  },
+  "146":{
+    "id":146,
+    "ja":"しあわせ宅配人",
+    "en":"Bringer of Bliss"
+  },
+  "147":{
+    "id":147,
+    "ja":"慈善活動家",
+    "en":"Activist for Kindness"
+  },
+  "148":{
+    "id":148,
+    "ja":"北への使者",
+    "en":"Envoy to the North"
+  },
+  "149":{
+    "id":149,
+    "ja":"エクソシスト見習い",
+    "en":"Exorcist in Training"
+  },
+  "150":{
+    "id":150,
+    "ja":"街一番の油売り",
+    "en":"Professional Loafer"
+  },
+  "151":{
+    "id":151,
+    "ja":"時計塔保存嘆願者",
+    "en":"Clock Tower Preservationist"
+  },
+  "152":{
+    "id":152,
+    "ja":"命の恩人",
+    "en":"Life Saver"
+  },
+  "153":{
+    "id":153,
+    "ja":"下級ツカイッパー",
+    "en":"Fool's Errand Runner"
+  },
+  "154":{
+    "id":154,
+    "ja":"カードコレクター",
+    "en":"Card Collector"
+  },
+  "155":{
+    "id":155,
+    "ja":"古典研究家",
+    "en":"Researcher of Classics"
+  },
+  "156":{
+    "id":156,
+    "ja":"街の掃除人",
+    "en":"Street Sweeper"
+  },
+  "157":{
+    "id":157,
+    "ja":"上級ツカイッパー",
+    "en":"Mercy Errand Runner"
+  },
+  "158":{
+    "id":158,
+    "ja":"第一発見者",
+    "en":"Two's Company"
+  },
+  "159":{
+    "id":159,
+    "ja":"アルタナ教信者",
+    "en":"Believer of Altana"
+  },
+  "160":{
+    "id":160,
+    "ja":"迷トレーダー",
+    "en":"Trader of Mysteries"
+  },
+  "161":{
+    "id":161,
+    "ja":"お宝出品人",
+    "en":"Trader of Antiquities"
+  },
+  "162":{
+    "id":162,
+    "ja":"名トレーダー",
+    "en":"Trader of Renown"
+  },
+  "163":{
+    "id":163,
+    "ja":"茶帯の有段者",
+    "en":"Brown Belt"
+  },
+  "164":{
+    "id":164,
+    "ja":"オーバー・ザ・トップ",
+    "en":"Horizon Breaker"
+  },
+  "165":{
+    "id":165,
+    "ja":"ゴブリン専属モデル",
+    "en":"Goblin's Exclusive Fashion Mannequin"
+  },
+  "166":{
+    "id":166,
+    "ja":"山の頂に立つ者",
+    "en":"Summit Breaker"
+  },
+  "167":{
+    "id":167,
+    "ja":"風来坊",
+    "en":"Sky Breaker"
+  },
+  "168":{
+    "id":168,
+    "ja":"雲入道",
+    "en":"Cloud Breaker"
+  },
+  "169":{
+    "id":169,
+    "ja":"ヴァナ・ディールのスター",
+    "en":"Star Breaker"
+  },
+  "170":{
+    "id":170,
+    "ja":"ヨバクリ",
+    "en":"Greedalox"
+  },
+  "171":{
+    "id":171,
+    "ja":"鼻の院認可冒険者",
+    "en":"Certified Rhinostery Venturer"
+  },
+  "172":{
+    "id":172,
+    "ja":"釣り名人",
+    "en":"Cordon Bleu Fisher"
+  },
+  "173":{
+    "id":173,
+    "ja":"釣り大名人",
+    "en":"Ace Angler"
+  },
+  "174":{
+    "id":174,
+    "ja":"太公望",
+    "en":"Lu Shang-like Fisher King"
+  },
+  "175":{
+    "id":175,
+    "ja":"愛の仲人",
+    "en":"Matchmaker"
+  },
+  "176":{
+    "id":176,
+    "ja":"エコロジスト",
+    "en":"Ecologist"
+  },
+  "177":{
+    "id":177,
+    "ja":"愛のキューピッド",
+    "en":"Li'l Cupid"
+  },
+  "178":{
+    "id":178,
+    "ja":"キング・オブ・ラブ",
+    "en":"The Love Doctor"
+  },
+  "179":{
+    "id":179,
+    "ja":"愛の救世主",
+    "en":"Savior of Love"
+  },
+  "180":{
+    "id":180,
+    "ja":"セルビナ名誉市民",
+    "en":"Honorary Citizen of Selbina"
+  },
+  "181":{
+    "id":181,
+    "ja":"食材調達人見習い",
+    "en":"Purveyor in Training"
+  },
+  "182":{
+    "id":182,
+    "ja":"食材調達人",
+    "en":"One-star Purveyor"
+  },
+  "183":{
+    "id":183,
+    "ja":"目利きの調達人",
+    "en":"Two-star Purveyor"
+  },
+  "184":{
+    "id":184,
+    "ja":"調達人",
+    "en":"Three-star Purveyor"
+  },
+  "185":{
+    "id":185,
+    "ja":"調達の達人",
+    "en":"Four-star Purveyor"
+  },
+  "186":{
+    "id":186,
+    "ja":"孤高の調達人",
+    "en":"Five-star Purveyor"
+  },
+  "187":{
+    "id":187,
+    "ja":"ヨランオラン博士の味方",
+    "en":"Doctor Yoran-Oran Supporter"
+  },
+  "188":{
+    "id":188,
+    "ja":"シャントット博士の味方",
+    "en":"Doctor Shantotto Supporter"
+  },
+  "189":{
+    "id":189,
+    "ja":"コルモル博士の味方",
+    "en":"Professor Koru-Moru Supporter"
+  },
+  "190":{
+    "id":190,
+    "ja":"虹を織りし者",
+    "en":"Rainbow Weaver"
+  },
+  "191":{
+    "id":191,
+    "ja":"忍びの道を往く者",
+    "en":"Shadow Walker"
+  },
+  "192":{
+    "id":192,
+    "ja":"聖なる印を継ぐ者",
+    "en":"Heir to the Holy Crest"
+  },
+  "193":{
+    "id":193,
+    "ja":"ブシドー・ザ・ブレード",
+    "en":"Bushido Blade"
+  },
+  "195":{
+    "id":195,
+    "ja":"高雅なる大騎士",
+    "en":"Paragon of Paladin Excellence"
+  },
+  "196":{
+    "id":196,
+    "ja":"熾烈なる大獣使い",
+    "en":"Paragon of Beastmaster Excellence"
+  },
+  "197":{
+    "id":197,
+    "ja":"果敢なる大狩人",
+    "en":"Paragon of Ranger Excellence"
+  },
+  "198":{
+    "id":198,
+    "ja":"威風なる大暗黒騎士",
+    "en":"Paragon of Dark Knight Excellence"
+  },
+  "199":{
+    "id":199,
+    "ja":"典麗なる大吟遊詩人",
+    "en":"Paragon of Bard Excellence"
+  },
+  "200":{
+    "id":200,
+    "ja":"無双なる大武士",
+    "en":"Paragon of Samurai Excellence"
+  },
+  "201":{
+    "id":201,
+    "ja":"勇猛なる大竜騎士",
+    "en":"Paragon of Dragoon Excellence"
+  },
+  "202":{
+    "id":202,
+    "ja":"沈勇なる大忍者",
+    "en":"Paragon of Ninja Excellence"
+  },
+  "203":{
+    "id":203,
+    "ja":"博雅なる大召喚士",
+    "en":"Paragon of Summoner Excellence"
+  },
+  "206":{
+    "id":206,
+    "ja":"冒険者見習い",
+    "en":"New Adventurer"
+  },
+  "207":{
+    "id":207,
+    "ja":"公認冒険者",
+    "en":"Certified Adventurer"
+  },
+  "208":{
+    "id":208,
+    "ja":"闇を祓いし者",
+    "en":"Shadow Banisher"
+  },
+  "209":{
+    "id":209,
+    "ja":"騎士の魂宿りし者",
+    "en":"Tried and Tested Knight"
+  },
+  "210":{
+    "id":210,
+    "ja":"暗き業宿りし者",
+    "en":"Dark Sider"
+  },
+  "211":{
+    "id":211,
+    "ja":"牙持つ者",
+    "en":"The Fanged One"
+  },
+  "212":{
+    "id":212,
+    "ja":"翼持つ者",
+    "en":"Have Wings, Will Fly"
+  },
+  "213":{
+    "id":213,
+    "ja":"モンスター調教師",
+    "en":"Animal Trainer"
+  },
+  "214":{
+    "id":214,
+    "ja":"心の歌うたい",
+    "en":"Wandering Minstrel"
+  },
+  "215":{
+    "id":215,
+    "ja":"モーグリのご主人さま",
+    "en":"Mog's Master"
+  },
+  "216":{
+    "id":216,
+    "ja":"やさしいご主人さま",
+    "en":"Mog's Kind Master"
+  },
+  "217":{
+    "id":217,
+    "ja":"すてきなご主人さま",
+    "en":"Mog's Exceptionally Kind Master"
+  },
+  "218":{
+    "id":218,
+    "ja":"勇壮なる大戦士",
+    "en":"Paragon of Warrior Excellence"
+  },
+  "219":{
+    "id":219,
+    "ja":"孤高なる大格闘家",
+    "en":"Paragon of Monk Excellence"
+  },
+  "220":{
+    "id":220,
+    "ja":"比類なき大赤魔道士",
+    "en":"Paragon of Red Mage Excellence"
+  },
+  "221":{
+    "id":221,
+    "ja":"華麗なる大盗賊",
+    "en":"Paragon of Thief Excellence"
+  },
+  "222":{
+    "id":222,
+    "ja":"偉大なる大黒魔道士",
+    "en":"Paragon of Black Mage Excellence"
+  },
+  "223":{
+    "id":223,
+    "ja":"高潔なる大白魔道士",
+    "en":"Paragon of White Mage Excellence"
+  },
+  "224":{
+    "id":224,
+    "ja":"ラブラブご主人さま",
+    "en":"Mog's Loving Master"
+  },
+  "226":{
+    "id":226,
+    "ja":"王国弓兵",
+    "en":"Royal Archer"
+  },
+  "227":{
+    "id":227,
+    "ja":"王国槍兵",
+    "en":"Royal Spearman"
+  },
+  "228":{
+    "id":228,
+    "ja":"王国従騎士",
+    "en":"Royal Squire"
+  },
+  "229":{
+    "id":229,
+    "ja":"王国剣士",
+    "en":"Royal Swordsman"
+  },
+  "230":{
+    "id":230,
+    "ja":"王国騎士",
+    "en":"Royal Cavalier"
+  },
+  "231":{
+    "id":231,
+    "ja":"近衛騎士",
+    "en":"Royal Guard"
+  },
+  "232":{
+    "id":232,
+    "ja":"王国大騎士",
+    "en":"Grand Knight of the Realm"
+  },
+  "233":{
+    "id":233,
+    "ja":"神殿大騎士",
+    "en":"Grand Temple Knight"
+  },
+  "234":{
+    "id":234,
+    "ja":"傭兵騎士団長",
+    "en":"Reserve Knight Captain"
+  },
+  "235":{
+    "id":235,
+    "ja":"上級近衛騎士",
+    "en":"Elite Royal Guard"
+  },
+  "236":{
+    "id":236,
+    "ja":"共和軍団兵",
+    "en":"Legionnaire"
+  },
+  "237":{
+    "id":237,
+    "ja":"十人隊長",
+    "en":"Decurion"
+  },
+  "238":{
+    "id":238,
+    "ja":"百人隊長",
+    "en":"Centurion"
+  },
+  "239":{
+    "id":239,
+    "ja":"准銃士",
+    "en":"Junior Musketeer"
+  },
+  "240":{
+    "id":240,
+    "ja":"正銃士",
+    "en":"Senior Musketeer"
+  },
+  "241":{
+    "id":241,
+    "ja":"銃士隊長",
+    "en":"Musketeer Commander"
+  },
+  "242":{
+    "id":242,
+    "ja":"黄金銃士",
+    "en":"Gold Musketeer"
+  },
+  "243":{
+    "id":243,
+    "ja":"千人隊長",
+    "en":"Praefectus"
+  },
+  "244":{
+    "id":244,
+    "ja":"先任黄金銃士",
+    "en":"Senior Gold Musketeer"
+  },
+  "245":{
+    "id":245,
+    "ja":"一番千人隊長",
+    "en":"Praefectus Castrorum"
+  },
+  "246":{
+    "id":246,
+    "ja":"義勇兵",
+    "en":"Freesword"
+  },
+  "247":{
+    "id":247,
+    "ja":"傭兵",
+    "en":"Mercenary"
+  },
+  "248":{
+    "id":248,
+    "ja":"傭兵隊長",
+    "en":"Mercenary Captain"
+  },
+  "249":{
+    "id":249,
+    "ja":"連邦魔戦士",
+    "en":"Combat Caster"
+  },
+  "250":{
+    "id":250,
+    "ja":"連邦軍師",
+    "en":"Tactician Magician"
+  },
+  "251":{
+    "id":251,
+    "ja":"連邦賢者",
+    "en":"Wise Wizard"
+  },
+  "252":{
+    "id":252,
+    "ja":"元老院警護隊士",
+    "en":"Patriarch Protector"
+  },
+  "253":{
+    "id":253,
+    "ja":"連邦魔戦隊長",
+    "en":"Caster Captain"
+  },
+  "254":{
+    "id":254,
+    "ja":"筆頭魔戦隊長",
+    "en":"Master Caster"
+  },
+  "255":{
+    "id":255,
+    "ja":"連邦傭兵団長",
+    "en":"Mercenary Major"
+  },
+  "256":{
+    "id":256,
+    "ja":"脱走院長追跡者",
+    "en":"Fugitive Minister Bounty Hunter"
+  },
+  "257":{
+    "id":257,
+    "ja":"オポオポ王",
+    "en":"King of the Opo-opos"
+  },
+  "258":{
+    "id":258,
+    "ja":"カザム追放者",
+    "en":"Excommunicate of Kazham"
+  },
+  "259":{
+    "id":259,
+    "ja":"カザムの客人",
+    "en":"Kazham Caller"
+  },
+  "260":{
+    "id":260,
+    "ja":"夢の住人",
+    "en":"Dream Dweller"
+  },
+  "261":{
+    "id":261,
+    "ja":"ソムリエ見習い",
+    "en":"Apprentice Sommelier"
+  },
+  "262":{
+    "id":262,
+    "ja":"デザートハンター",
+    "en":"Desert Hunter"
+  },
+  "263":{
+    "id":263,
+    "ja":"真理を垣間見た者",
+    "en":"Seeker of Truth"
+  },
+  "264":{
+    "id":264,
+    "ja":"クフタルツーリスト",
+    "en":"Kuftal Tourist"
+  },
+  "265":{
+    "id":265,
+    "ja":"不死身の太公望",
+    "en":"The Immortal Fisher, Lu Shang"
+  },
+  "266":{
+    "id":266,
+    "ja":"サブリガを輝かせる者",
+    "en":"Looks Sublime in a Subligar"
+  },
+  "267":{
+    "id":267,
+    "ja":"レギンスを輝かせる者",
+    "en":"Looks Good in Leggings"
+  },
+  "268":{
+    "id":268,
+    "ja":"トンベリ博士",
+    "en":"Honorary Doctorate, Majoring in Tonberries"
+  },
+  "269":{
+    "id":269,
+    "ja":"宝物庫あらし",
+    "en":"Treasure-house Ransacker"
+  },
+  "270":{
+    "id":270,
+    "ja":"暗号？解読者",
+    "en":"Cracker of the Secret Code"
+  },
+  "271":{
+    "id":271,
+    "ja":"闇ブローカー",
+    "en":"Black Marketeer"
+  },
+  "272":{
+    "id":272,
+    "ja":"古代秘法を継ぐ者",
+    "en":"Acquirer of Ancient Arcanum"
+  },
+  "273":{
+    "id":273,
+    "ja":"アンタヤルーニャ",
+    "en":"Ya Done Good"
+  },
+  "274":{
+    "id":274,
+    "ja":"大いなる火の継承者",
+    "en":"Heir of the Great Fire"
+  },
+  "275":{
+    "id":275,
+    "ja":"大いなる土の継承者",
+    "en":"Heir of the Great Earth"
+  },
+  "276":{
+    "id":276,
+    "ja":"大いなる水の継承者",
+    "en":"Heir of the Great Water"
+  },
+  "277":{
+    "id":277,
+    "ja":"大いなる風の継承者",
+    "en":"Heir of the Great Wind"
+  },
+  "278":{
+    "id":278,
+    "ja":"大いなる氷の継承者",
+    "en":"Heir of the Great Ice"
+  },
+  "279":{
+    "id":279,
+    "ja":"大いなる雷の継承者",
+    "en":"Heir of the Great Lightning"
+  },
+  "280":{
+    "id":280,
+    "ja":"聖地に魂導く者",
+    "en":"Guider of Souls to the Sanctuary"
+  },
+  "281":{
+    "id":281,
+    "ja":"時を越えた絆持つ者",
+    "en":"Bearer of Bonds Beyond Time"
+  },
+  "282":{
+    "id":282,
+    "ja":"オポオポの友",
+    "en":"Friend of the Opo-opos"
+  },
+  "283":{
+    "id":283,
+    "ja":"ウィンダス代表の勇士",
+    "en":"Hero on Behalf of Windurst"
+  },
+  "284":{
+    "id":284,
+    "ja":"バルガ武闘会の勝利者",
+    "en":"Victor of the Balga Contest"
+  },
+  "285":{
+    "id":285,
+    "ja":"いい人カモ",
+    "en":"Gullible's Travels"
+  },
+  "286":{
+    "id":286,
+    "ja":"もっといい人カモ",
+    "en":"Even More Gullible's Travels"
+  },
+  "287":{
+    "id":287,
+    "ja":"新しい力の継承者",
+    "en":"Heir of the New Moon"
+  },
+  "288":{
+    "id":288,
+    "ja":"アサシン不採用",
+    "en":"Assassin Reject"
+  },
+  "289":{
+    "id":289,
+    "ja":"黒帯の有段者",
+    "en":"Black Belt"
+  },
+  "290":{
+    "id":290,
+    "ja":"紅霞の雇われハンター",
+    "en":"Vermillion Venturer"
+  },
+  "291":{
+    "id":291,
+    "ja":"蒼海の雇われハンター",
+    "en":"Cerulean Soldier"
+  },
+  "292":{
+    "id":292,
+    "ja":"翠嶺の雇われハンター",
+    "en":"Emerald Exterminator"
+  },
+  "293":{
+    "id":293,
+    "ja":"導きの星",
+    "en":"Guiding Star"
+  },
+  "294":{
+    "id":294,
+    "ja":"魔天のしるべ",
+    "en":"Vestal Chamberlain"
+  },
+  "295":{
+    "id":295,
+    "ja":"次期サンドリア国王候補者",
+    "en":"San d'Orian Royal Heir"
+  },
+  "296":{
+    "id":296,
+    "ja":"英雄なき時代の英雄",
+    "en":"Hero Among Heroes"
+  },
+  "297":{
+    "id":297,
+    "ja":"デュナミス～サンドリアの踏破者",
+    "en":"Dynamis-San d'Oria Interloper"
+  },
+  "298":{
+    "id":298,
+    "ja":"デュナミス～バストゥークの踏破者",
+    "en":"Dynamis-Bastok Interloper"
+  },
+  "299":{
+    "id":299,
+    "ja":"デュナミス～ウィンダスの踏破者",
+    "en":"Dynamis-Windurst Interloper"
+  },
+  "300":{
+    "id":300,
+    "ja":"デュナミス～ジュノの踏破者",
+    "en":"Dynamis-Jeuno Interloper"
+  },
+  "301":{
+    "id":301,
+    "ja":"デュナミス～ボスディンの踏破者",
+    "en":"Dynamis-Beaucedine Interloper"
+  },
+  "302":{
+    "id":302,
+    "ja":"デュナミス～ザルカバードの踏破者",
+    "en":"Dynamis-Xarcabard Interloper"
+  },
+  "303":{
+    "id":303,
+    "ja":"違いの分かるヤツ",
+    "en":"Discerning Individual"
+  },
+  "304":{
+    "id":304,
+    "ja":"とても違いの分かるヤツ",
+    "en":"Very Discerning Individual"
+  },
+  "305":{
+    "id":305,
+    "ja":"とてもとても違いの分かるヤツ",
+    "en":"Extremely Discerning Individual"
+  },
+  "306":{
+    "id":306,
+    "ja":"月下氷人",
+    "en":"Royal Wedding Planner"
+  },
+  "307":{
+    "id":307,
+    "ja":"サンドリア王子妃候補",
+    "en":"Consort Candidate"
+  },
+  "308":{
+    "id":308,
+    "ja":"漆黒の稲妻",
+    "en":"Obsidian Storm"
+  },
+  "309":{
+    "id":309,
+    "ja":"神威",
+    "en":"Pentacide Perpetrator"
+  },
+  "310":{
+    "id":310,
+    "ja":"白樫の木彫師",
+    "en":"Wood Worshiper"
+  },
+  "311":{
+    "id":311,
+    "ja":"紫檀の木彫師",
+    "en":"Lumber Lather"
+  },
+  "312":{
+    "id":312,
+    "ja":"黒檀の木彫師",
+    "en":"Accomplished Carpenter"
+  },
+  "313":{
+    "id":313,
+    "ja":"青銅の鍛冶師",
+    "en":"Anvil Advocate"
+  },
+  "314":{
+    "id":314,
+    "ja":"黒鉄の鍛冶師",
+    "en":"Forge Fanatic"
+  },
+  "315":{
+    "id":315,
+    "ja":"超鋼の鍛冶師",
+    "en":"Accomplished Blacksmith"
+  },
+  "316":{
+    "id":316,
+    "ja":"真鍮の彫金師",
+    "en":"Trinket Turner"
+  },
+  "317":{
+    "id":317,
+    "ja":"白銀の彫金師",
+    "en":"Silver Smelter"
+  },
+  "318":{
+    "id":318,
+    "ja":"黄金の彫金師",
+    "en":"Accomplished Goldsmith"
+  },
+  "319":{
+    "id":319,
+    "ja":"木綿の裁縫師",
+    "en":"Knitting Know-It-All"
+  },
+  "320":{
+    "id":320,
+    "ja":"別珍の裁縫師",
+    "en":"Loom Lunatic"
+  },
+  "321":{
+    "id":321,
+    "ja":"錦の裁縫師",
+    "en":"Accomplished Weaver"
+  },
+  "322":{
+    "id":322,
+    "ja":"博識の錬金術師",
+    "en":"Formula Fiddler"
+  },
+  "323":{
+    "id":323,
+    "ja":"神秘の錬金術師",
+    "en":"Potion Potentate"
+  },
+  "324":{
+    "id":324,
+    "ja":"奇蹟の錬金術師",
+    "en":"Accomplished Alchemist"
+  },
+  "325":{
+    "id":325,
+    "ja":"白骨の骨彫師",
+    "en":"Bone Beautifier"
+  },
+  "326":{
+    "id":326,
+    "ja":"亀甲の骨彫師",
+    "en":"Shell Scrimshander"
+  },
+  "327":{
+    "id":327,
+    "ja":"珊瑚の骨彫師",
+    "en":"Accomplished Boneworker"
+  },
+  "328":{
+    "id":328,
+    "ja":"羊皮の革細工師",
+    "en":"Hide Handler"
+  },
+  "329":{
+    "id":329,
+    "ja":"虎皮の革細工師",
+    "en":"Leather Lauder"
+  },
+  "330":{
+    "id":330,
+    "ja":"竜皮の革細工師",
+    "en":"Accomplished Tanner"
+  },
+  "331":{
+    "id":331,
+    "ja":"川釣りの漁師",
+    "en":"Fastriver Fisher"
+  },
+  "332":{
+    "id":332,
+    "ja":"磯釣りの漁師",
+    "en":"Coastline Caster"
+  },
+  "333":{
+    "id":333,
+    "ja":"沖釣りの漁師",
+    "en":"Accomplished Angler"
+  },
+  "334":{
+    "id":334,
+    "ja":"炎の調理師",
+    "en":"Gourmand Gratifier"
+  },
+  "335":{
+    "id":335,
+    "ja":"三ツ星の調理師",
+    "en":"Banquet Bestower"
+  },
+  "336":{
+    "id":336,
+    "ja":"至高の調理師",
+    "en":"Accomplished Chef"
+  },
+  "337":{
+    "id":337,
+    "ja":"死ぬ気で冒険者",
+    "en":"Fine Tuner"
+  },
+  "338":{
+    "id":338,
+    "ja":"仮面同盟員",
+    "en":"Friend of the Helmed"
+  },
+  "339":{
+    "id":339,
+    "ja":"タブナジア侯国騎士見習",
+    "en":"Tavnazian Squire"
+  },
+  "340":{
+    "id":340,
+    "ja":"搾取される弱者",
+    "en":"Ducal Dupe"
+  },
+  "341":{
+    "id":341,
+    "ja":"翼の名づけ親",
+    "en":"Hyper Ultra Sonic Adventurer"
+  },
+  "342":{
+    "id":342,
+    "ja":"勝訴の支援者",
+    "en":"Rod Retriever"
+  },
+  "343":{
+    "id":343,
+    "ja":"千骸谷の逃亡者",
+    "en":"Deed Verifier"
+  },
+  "344":{
+    "id":344,
+    "ja":"チョコボの愛を解いた者",
+    "en":"Chocobo Love Guru"
+  },
+  "345":{
+    "id":345,
+    "ja":"ナンパな愛を解いた者",
+    "en":"Pick-up Artist"
+  },
+  "346":{
+    "id":346,
+    "ja":"ニィジャンスカルッヘープ",
+    "en":"Trash Collector"
+  },
+  "347":{
+    "id":347,
+    "ja":"古のほむらに触れし者",
+    "en":"Ancient Flame Follower"
+  },
+  "348":{
+    "id":348,
+    "ja":"聖者の島を訪れし者",
+    "en":"Tavnazian Traveler"
+  },
+  "349":{
+    "id":349,
+    "ja":"うたかたなる夢を見し者",
+    "en":"Transient Dreamer"
+  },
+  "350":{
+    "id":350,
+    "ja":"迷いに心揺れし者",
+    "en":"The Lost One"
+  },
+  "351":{
+    "id":351,
+    "ja":"凍てつく過去を踏みしめる者",
+    "en":"Treader of an Icy Past"
+  },
+  "352":{
+    "id":352,
+    "ja":"いかづちの洗礼を受けし者",
+    "en":"Branded by Lightning"
+  },
+  "353":{
+    "id":353,
+    "ja":"眩き世界を求むる者",
+    "en":"Seeker of the Light"
+  },
+  "354":{
+    "id":354,
+    "ja":"どざえもん",
+    "en":"Dead Body"
+  },
+  "355":{
+    "id":355,
+    "ja":"ドザえもん",
+    "en":"Frozen Dead Body"
+  },
+  "356":{
+    "id":356,
+    "ja":"夢を断つ者",
+    "en":"Dreambreaker"
+  },
+  "357":{
+    "id":357,
+    "ja":"龍に応える者",
+    "en":"Mist Melter"
+  },
+  "358":{
+    "id":358,
+    "ja":"デルタを狩る者",
+    "en":"Delta Enforcer"
+  },
+  "359":{
+    "id":359,
+    "ja":"オメガになる者",
+    "en":"Omega Ostracizer"
+  },
+  "360":{
+    "id":360,
+    "ja":"アルテマになる者",
+    "en":"Ultima Undertaker"
+  },
+  "361":{
+    "id":361,
+    "ja":"ウルミアの理解者",
+    "en":"Ulmia's Soulmate"
+  },
+  "362":{
+    "id":362,
+    "ja":"テンゼンの盟友",
+    "en":"Tenzen's Ally"
+  },
+  "363":{
+    "id":363,
+    "ja":"ルーヴランスの友人",
+    "en":"Companion of Louverance"
+  },
+  "364":{
+    "id":364,
+    "ja":"真のルーヴランスの友人",
+    "en":"True Companion of Louverance"
+  },
+  "365":{
+    "id":365,
+    "ja":"プリッシュの同志",
+    "en":"Prishe's Buddy"
+  },
+  "366":{
+    "id":366,
+    "ja":"ナグモラーダのなじみ",
+    "en":"Nag'molada's Underling"
+  },
+  "367":{
+    "id":367,
+    "ja":"エシャンタールの戦友",
+    "en":"Esha'ntarl's Comrade in Arms"
+  },
+  "368":{
+    "id":368,
+    "ja":"タルタル3人組の天敵",
+    "en":"The Chebukkis' Worst Nightmare"
+  },
+  "369":{
+    "id":369,
+    "ja":"はらへにゃー",
+    "en":"Brown Mage Guinea Pig"
+  },
+  "370":{
+    "id":370,
+    "ja":"はらピーゴロ",
+    "en":"Brown Magic By-Product"
+  },
+  "371":{
+    "id":371,
+    "ja":"ベスト・オブ・サブリスト",
+    "en":"Bastok's Second Best Dressed"
+  },
+  "372":{
+    "id":372,
+    "ja":"冒険初心者の師匠",
+    "en":"Rookie Hero Instructor"
+  },
+  "373":{
+    "id":373,
+    "ja":"ゴブリン人間",
+    "en":"Goblin in Disguise"
+  },
+  "374":{
+    "id":374,
+    "ja":"雇われ背信者",
+    "en":"Apostate for Hire"
+  },
+  "375":{
+    "id":375,
+    "ja":"残党の標的",
+    "en":"Talks with Tonberries"
+  },
+  "376":{
+    "id":376,
+    "ja":"ルーク・バスター",
+    "en":"Rook Buster"
+  },
+  "377":{
+    "id":377,
+    "ja":"バナレット",
+    "en":"Banneret"
+  },
+  "378":{
+    "id":378,
+    "ja":"ゴールド・バリ☆☆☆☆スター",
+    "en":"Gold Balli☆☆☆☆star"
+  },
+  "379":{
+    "id":379,
+    "ja":"ミスリル・バリ☆☆☆スター",
+    "en":"Mythril Balli☆☆☆star"
+  },
+  "380":{
+    "id":380,
+    "ja":"シルバー・バリ☆☆スター",
+    "en":"Silver Balli☆☆star"
+  },
+  "381":{
+    "id":381,
+    "ja":"ブロンズ・バリ☆スター",
+    "en":"Bronze Balli☆star"
+  },
+  "382":{
+    "id":382,
+    "ja":"灼熱の★軍星",
+    "en":"Searing★Star"
+  },
+  "383":{
+    "id":383,
+    "ja":"剛勇の★行星",
+    "en":"Striking★Star"
+  },
+  "384":{
+    "id":384,
+    "ja":"白銀の★明星",
+    "en":"Soothing★Star"
+  },
+  "385":{
+    "id":385,
+    "ja":"黒衣の★巨星",
+    "en":"Sable★Star"
+  },
+  "386":{
+    "id":386,
+    "ja":"赤心の★暁星",
+    "en":"Scarlet★Star"
+  },
+  "387":{
+    "id":387,
+    "ja":"疾風の★流星",
+    "en":"Sonic★Star"
+  },
+  "388":{
+    "id":388,
+    "ja":"名誉の★瑞星",
+    "en":"Saintly★Star"
+  },
+  "389":{
+    "id":389,
+    "ja":"無情の★将星",
+    "en":"Shadowy★Star"
+  },
+  "390":{
+    "id":390,
+    "ja":"百獣の★群星",
+    "en":"Savage★Star"
+  },
+  "391":{
+    "id":391,
+    "ja":"博愛の★極星",
+    "en":"Singing★Star"
+  },
+  "392":{
+    "id":392,
+    "ja":"神速の★彗星",
+    "en":"Sniping★Star"
+  },
+  "393":{
+    "id":393,
+    "ja":"万夫の★魁星",
+    "en":"Slicing★Star"
+  },
+  "394":{
+    "id":394,
+    "ja":"雲影の★妖星",
+    "en":"Sneaking★Star"
+  },
+  "395":{
+    "id":395,
+    "ja":"竜座の★双星",
+    "en":"Spearing★Star"
+  },
+  "396":{
+    "id":396,
+    "ja":"夢幻の★遊星",
+    "en":"Summoning★Star"
+  },
+  "397":{
+    "id":397,
+    "ja":"ちょっと臭う人",
+    "en":"Putrid Purveyor of Pungent Petals"
+  },
+  "398":{
+    "id":398,
+    "ja":"花散る嵐起こす者",
+    "en":"Unquenchable Light"
+  },
+  "399":{
+    "id":399,
+    "ja":"バリステイジャー",
+    "en":"Ballistager"
+  },
+  "400":{
+    "id":400,
+    "ja":"天下無双魔阿斗戦覇者",
+    "en":"Ultimate Champion of the World"
+  },
+  "401":{
+    "id":401,
+    "ja":"クリスタルの戦士",
+    "en":"Warrior of the Crystal"
+  },
+  "402":{
+    "id":402,
+    "ja":"釣神流免許皆伝",
+    "en":"Indomitable Fisher"
+  },
+  "403":{
+    "id":403,
+    "ja":"世界の終わりを繰る者",
+    "en":"Averter of the Apocalypse"
+  },
+  "404":{
+    "id":404,
+    "ja":"虚ろなる闇に涙する者",
+    "en":"Banisher of Emptiness"
+  },
+  "405":{
+    "id":405,
+    "ja":"適当な冒険者",
+    "en":"Random Adventurer"
+  },
+  "406":{
+    "id":406,
+    "ja":"いい加減な冒険者",
+    "en":"Irresponsible Adventurer"
+  },
+  "407":{
+    "id":407,
+    "ja":"生臭冒険者",
+    "en":"Odorous Adventurer"
+  },
+  "408":{
+    "id":408,
+    "ja":"歌う価値もない冒険者",
+    "en":"Insignificant Adventurer"
+  },
+  "409":{
+    "id":409,
+    "ja":"ファイナバリ☆☆☆☆スター",
+    "en":"Final Balli☆☆☆☆star"
+  },
+  "410":{
+    "id":410,
+    "ja":"バリ☆☆☆☆スター・ロワイヤル",
+    "en":"Balli☆☆☆☆star Royale"
+  },
+  "411":{
+    "id":411,
+    "ja":"導となる者",
+    "en":"Destined Fellow"
+  },
+  "412":{
+    "id":412,
+    "ja":"オーキシュサージェント",
+    "en":"Orcish Serjeant"
+  },
+  "413":{
+    "id":413,
+    "ja":"ブロンズクゥダフ",
+    "en":"Bronze Quadav"
+  },
+  "414":{
+    "id":414,
+    "ja":"ヤグードイニシエート",
+    "en":"Yagudo Initiate"
+  },
+  "415":{
+    "id":415,
+    "ja":"モブリンキンズマン",
+    "en":"Moblin Kinsman"
+  },
+  "416":{
+    "id":416,
+    "ja":"決闘の勝利者",
+    "en":"Sin Hunter Hunter"
+  },
+  "417":{
+    "id":417,
+    "ja":"正義の勝利者",
+    "en":"Disciple of Justice"
+  },
+  "418":{
+    "id":418,
+    "ja":"帝龍の飛泉調査員",
+    "en":"Monarch Linn Patrol Guard"
+  },
+  "419":{
+    "id":419,
+    "ja":"志を共にせし者",
+    "en":"Team Player"
+  },
+  "420":{
+    "id":420,
+    "ja":"心の糧となりし者",
+    "en":"Worthy of Trust"
+  },
+  "421":{
+    "id":421,
+    "ja":"人の系譜を開く者",
+    "en":"Conqueror of Fate"
+  },
+  "422":{
+    "id":422,
+    "ja":"呪縛を葬りし者",
+    "en":"Breaker of the Chains"
+  },
+  "423":{
+    "id":423,
+    "ja":"助け合う者",
+    "en":"A Friend Indeed"
+  },
+  "424":{
+    "id":424,
+    "ja":"夢渡る力の継承者",
+    "en":"Heir to the Realm of Dreams"
+  },
+  "425":{
+    "id":425,
+    "ja":"ゴールドフック",
+    "en":"Gold Hook"
+  },
+  "426":{
+    "id":426,
+    "ja":"ミスリルフック",
+    "en":"Mythril Hook"
+  },
+  "427":{
+    "id":427,
+    "ja":"シルバーフック",
+    "en":"Silver Hook"
+  },
+  "428":{
+    "id":428,
+    "ja":"カッパーフック",
+    "en":"Copper Hook"
+  },
+  "430":{
+    "id":430,
+    "ja":"デュナミス～バルクルムの踏破者",
+    "en":"Dynamis-Valkurm Interloper"
+  },
+  "431":{
+    "id":431,
+    "ja":"デュナミス～ブブリムの踏破者",
+    "en":"Dynamis-Buburimu Interloper"
+  },
+  "432":{
+    "id":432,
+    "ja":"デュナミス～クフィムの踏破者",
+    "en":"Dynamis-Qufim Interloper"
+  },
+  "433":{
+    "id":433,
+    "ja":"デュナミス～タブナジアの踏破者",
+    "en":"Dynamis-Tavnazia Interloper"
+  },
+  "434":{
+    "id":434,
+    "ja":"悪夢ヲ喰らい合ウ者",
+    "en":"Confronter of Nightmares"
+  },
+  "435":{
+    "id":435,
+    "ja":"目覚めしかんなぎ",
+    "en":"Disturber of Slumber"
+  },
+  "436":{
+    "id":436,
+    "ja":"眠り浅きまれびと",
+    "en":"Interrupter of Dreams"
+  },
+  "437":{
+    "id":437,
+    "ja":"青雲の★客星",
+    "en":"Sapphire★Star"
+  },
+  "438":{
+    "id":438,
+    "ja":"四海の★奔星",
+    "en":"Surging★Star"
+  },
+  "439":{
+    "id":439,
+    "ja":"志操の★連星",
+    "en":"Swaying★Star"
+  },
+  "440":{
+    "id":440,
+    "ja":"冥闇への抵抗者",
+    "en":"Dark Resistant"
+  },
+  "441":{
+    "id":441,
+    "ja":"双頭蛇の印背負いしモノ",
+    "en":"Bearer of the Mark of Zahak"
+  },
+  "442":{
+    "id":442,
+    "ja":"海猫党クルー",
+    "en":"Seagull Phratrie Crew Member"
+  },
+  "443":{
+    "id":443,
+    "ja":"からくりオーナー",
+    "en":"Proud Automaton Owner"
+  },
+  "444":{
+    "id":444,
+    "ja":"山猫二等傭兵",
+    "en":"Private Second Class"
+  },
+  "445":{
+    "id":445,
+    "ja":"山猫一等傭兵",
+    "en":"Private First Class"
+  },
+  "446":{
+    "id":446,
+    "ja":"山猫上等傭兵",
+    "en":"Superior Private"
+  },
+  "447":{
+    "id":447,
+    "ja":"山猫宣伝員",
+    "en":"Wildcat Publicist"
+  },
+  "448":{
+    "id":448,
+    "ja":"アダマントキング　ユザーパー",
+    "en":"Adamantking Usurper"
+  },
+  "449":{
+    "id":449,
+    "ja":"オーバーロード　オーバースロワー",
+    "en":"Overlord Overthrower"
+  },
+  "450":{
+    "id":450,
+    "ja":"デイティーデバンカー",
+    "en":"Deity Debunker"
+  },
+  "451":{
+    "id":451,
+    "ja":"ファヴニル　スレーヤー",
+    "en":"Fafnir Slayer"
+  },
+  "452":{
+    "id":452,
+    "ja":"アスピドケロン　シンカー",
+    "en":"Aspidochelone Sinker"
+  },
+  "453":{
+    "id":453,
+    "ja":"ニーズヘッグ　スレーヤー",
+    "en":"Nidhogg Slayer"
+  },
+  "454":{
+    "id":454,
+    "ja":"マート　マッシャー",
+    "en":"Maat Masher"
+  },
+  "455":{
+    "id":455,
+    "ja":"キリン　キャプティヴェイター",
+    "en":"Kirin Captivator"
+  },
+  "456":{
+    "id":456,
+    "ja":"カクトロット　デサセレラドール",
+    "en":"Cactrot Desacelerador"
+  },
+  "457":{
+    "id":457,
+    "ja":"リフター　オブ　シャドーズ",
+    "en":"Lifter of Shadows"
+  },
+  "458":{
+    "id":458,
+    "ja":"ティアマット　トラウンサー",
+    "en":"Tiamat Trouncer"
+  },
+  "459":{
+    "id":459,
+    "ja":"ヴリトラ　ヴァンクィシャー",
+    "en":"Vrtra Vanquisher"
+  },
+  "460":{
+    "id":460,
+    "ja":"ワールドサーペントスレーヤー",
+    "en":"World Serpent Slayer"
+  },
+  "461":{
+    "id":461,
+    "ja":"ショロトル　エクストラポレーター",
+    "en":"Xolotl Xtrapolator"
+  },
+  "462":{
+    "id":462,
+    "ja":"ボロカ　ベリーガラー",
+    "en":"Boroka Beleaguerer"
+  },
+  "463":{
+    "id":463,
+    "ja":"應龍調伏猛士",
+    "en":"Ouryu Overwhelmer"
+  },
+  "464":{
+    "id":464,
+    "ja":"ビネガーエヴァポレーター",
+    "en":"Vinegar Evaporator"
+  },
+  "465":{
+    "id":465,
+    "ja":"ヴァーチャスセイント",
+    "en":"Virtuous Saint"
+  },
+  "466":{
+    "id":466,
+    "ja":"さよなら太歳",
+    "en":"Bye-bye, Taisai"
+  },
+  "467":{
+    "id":467,
+    "ja":"テメナスリバレーター",
+    "en":"Temenos Liberator"
+  },
+  "468":{
+    "id":468,
+    "ja":"アポリオンラベジャー",
+    "en":"Apollyon Ravager"
+  },
+  "469":{
+    "id":469,
+    "ja":"ウィルムアストニシャー",
+    "en":"Wyrm Astonisher"
+  },
+  "470":{
+    "id":470,
+    "ja":"ナイトメア　アウェイクナー",
+    "en":"Nightmare Awakener"
+  },
+  "471":{
+    "id":471,
+    "ja":"ケルベロスマズラー",
+    "en":"Cerberus Muzzler"
+  },
+  "472":{
+    "id":472,
+    "ja":"ハイドラヘッドハンター",
+    "en":"Hydra Headhunter"
+  },
+  "473":{
+    "id":473,
+    "ja":"スケールライフラー",
+    "en":"Shining Scale Rifler"
+  },
+  "474":{
+    "id":474,
+    "ja":"トロールサブジュゲーター",
+    "en":"Troll Subjugator"
+  },
+  "475":{
+    "id":475,
+    "ja":"ゴーゴンストーンサンダラー",
+    "en":"Gorgonstone Sunderer"
+  },
+  "476":{
+    "id":476,
+    "ja":"キマイラカーバー",
+    "en":"Khimaira Carver"
+  },
+  "477":{
+    "id":477,
+    "ja":"エインヘリヤルエリート",
+    "en":"Elite Einherjar"
+  },
+  "478":{
+    "id":478,
+    "ja":"スターチャリオッティア",
+    "en":"Star Charioteer"
+  },
+  "479":{
+    "id":479,
+    "ja":"サンチャリオッティア",
+    "en":"Sun Charioteer"
+  },
+  "480":{
+    "id":480,
+    "ja":"マムークサブドゥア",
+    "en":"Subduer of the Mamool Ja"
+  },
+  "481":{
+    "id":481,
+    "ja":"ハルブーンサブドゥア",
+    "en":"Subduer of the Trolls"
+  },
+  "482":{
+    "id":482,
+    "ja":"アンデッドサブドゥア",
+    "en":"Subduer of the Undead Swarm"
+  },
+  "483":{
+    "id":483,
+    "ja":"アルタナ同盟エージェント",
+    "en":"Agent of the Allied Forces"
+  },
+  "484":{
+    "id":484,
+    "ja":"風景記録の達人",
+    "en":"Scenic Snapshotter"
+  },
+  "485":{
+    "id":485,
+    "ja":"五蛇の烙印押されしモノ",
+    "en":"Branded by the Five Serpents"
+  },
+  "486":{
+    "id":486,
+    "ja":"蒼き獅子",
+    "en":"Immortal Lion"
+  },
+  "487":{
+    "id":487,
+    "ja":"冷厳なる大青魔道士",
+    "en":"Paragon of Blue Mage Excellence"
+  },
+  "488":{
+    "id":488,
+    "ja":"剛胆なる大海賊",
+    "en":"Paragon of Corsair Excellence"
+  },
+  "489":{
+    "id":489,
+    "ja":"痛快なる大からくり士",
+    "en":"Paragon of Puppetmaster Excellence"
+  },
+  "490":{
+    "id":490,
+    "ja":"山猫傭兵長",
+    "en":"Lance Corporal"
+  },
+  "491":{
+    "id":491,
+    "ja":"山猫伍長",
+    "en":"Corporal"
+  },
+  "492":{
+    "id":492,
+    "ja":"慧眼を断つモノ",
+    "en":"Master of Ambition"
+  },
+  "493":{
+    "id":493,
+    "ja":"碧海の勝負師",
+    "en":"Master of Chance"
+  },
+  "494":{
+    "id":494,
+    "ja":"奔放不羈の業人",
+    "en":"Master of Manipulation"
+  },
+  "495":{
+    "id":495,
+    "ja":"アヴゼンの小間使い",
+    "en":"Ovjang's Errand Runner"
+  },
+  "496":{
+    "id":496,
+    "ja":"山猫軍曹",
+    "en":"Sergeant"
+  },
+  "497":{
+    "id":497,
+    "ja":"山猫曹長",
+    "en":"Sergeant Major"
+  },
+  "498":{
+    "id":498,
+    "ja":"カラババの現地ガイド",
+    "en":"Karababa's Tour Guide"
+  },
+  "499":{
+    "id":499,
+    "ja":"カラババのボディガード",
+    "en":"Karababa's Bodyguard"
+  },
+  "500":{
+    "id":500,
+    "ja":"カラババの特命エージェント",
+    "en":"Karababa's Secret Agent"
+  },
+  "501":{
+    "id":501,
+    "ja":"天蛇将の遊撃隊",
+    "en":"Skyserpent Aggrandizer"
+  },
+  "502":{
+    "id":502,
+    "ja":"山猫特務曹長",
+    "en":"Chief Sergeant"
+  },
+  "503":{
+    "id":503,
+    "ja":"アフマウの傭兵",
+    "en":"Aphmau's Mercenary"
+  },
+  "504":{
+    "id":504,
+    "ja":"ナシュメラの傭兵",
+    "en":"Nashmeira's Mercenary"
+  },
+  "505":{
+    "id":505,
+    "ja":"チョコボレースのルーキー",
+    "en":"Chocorookie"
+  },
+  "506":{
+    "id":506,
+    "ja":"山猫少尉",
+    "en":"Second Lieutenant"
+  },
+  "507":{
+    "id":507,
+    "ja":"風蛇将の教導隊",
+    "en":"Galeserpent Guardian"
+  },
+  "508":{
+    "id":508,
+    "ja":"土蛇将の突撃隊",
+    "en":"Stoneserpent Shocktrooper"
+  },
+  "509":{
+    "id":509,
+    "ja":"バラカフ発明品の使い手",
+    "en":"Photopticator Operator"
+  },
+  "510":{
+    "id":510,
+    "ja":"サラヒムの斥候",
+    "en":"Salaheem's Risk Assessor"
+  },
+  "511":{
+    "id":511,
+    "ja":"財宝の番兵",
+    "en":"Treasure Trove Tender"
+  },
+  "512":{
+    "id":512,
+    "ja":"月照の介錯人",
+    "en":"Gessho's Mercy"
+  },
+  "513":{
+    "id":513,
+    "ja":"聖皇の密使",
+    "en":"Emissary of the Empress"
+  },
+  "514":{
+    "id":514,
+    "ja":"エンディミオン空艇隊員",
+    "en":"Endymion Paratrooper"
+  },
+  "515":{
+    "id":515,
+    "ja":"ナジャの戦友",
+    "en":"Naja's Comrade-In-Arms"
+  },
+  "516":{
+    "id":516,
+    "ja":"ナシュメラの腹心",
+    "en":"Nashmeira's Loyalist"
+  },
+  "517":{
+    "id":517,
+    "ja":"ラグナロクの調停者",
+    "en":"Preventer of Ragnarok"
+  },
+  "518":{
+    "id":518,
+    "ja":"アトルガンの守護者",
+    "en":"Champion of Aht Urhgan"
+  },
+  "519":{
+    "id":519,
+    "ja":"山猫中尉",
+    "en":"First Lieutenant"
+  },
+  "520":{
+    "id":520,
+    "ja":"山猫大尉",
+    "en":"Captain"
+  },
+  "521":{
+    "id":521,
+    "ja":"クリスタルステークス覇者",
+    "en":"Crystal Stakes Cupholder"
+  },
+  "522":{
+    "id":522,
+    "ja":"勝鳥オーナー",
+    "en":"Winning Owner"
+  },
+  "523":{
+    "id":523,
+    "ja":"猛鳥オーナー",
+    "en":"Victorious Owner"
+  },
+  "524":{
+    "id":524,
+    "ja":"覇鳥オーナー",
+    "en":"Triumphant Owner"
+  },
+  "525":{
+    "id":525,
+    "ja":"幸運の勝負師",
+    "en":"High Roller"
+  },
+  "526":{
+    "id":526,
+    "ja":"強運の勝負師",
+    "en":"Fortune's Favorite"
+  },
+  "527":{
+    "id":527,
+    "ja":"スーパーヒーロー",
+    "en":"Superhero"
+  },
+  "528":{
+    "id":528,
+    "ja":"スーパーヒロイン",
+    "en":"Superheroine"
+  },
+  "529":{
+    "id":529,
+    "ja":"ブラッディバーサーカー",
+    "en":"Bloody Berserker"
+  },
+  "530":{
+    "id":530,
+    "ja":"准蛇将",
+    "en":"The Sixth Serpent"
+  },
+  "531":{
+    "id":531,
+    "ja":"エターナルマーシナリー",
+    "en":"Eternal Mercenary"
+  },
+  "532":{
+    "id":532,
+    "ja":"水蛇将の親衛隊",
+    "en":"Springserpent Sentry"
+  },
+  "533":{
+    "id":533,
+    "ja":"魅惑の★眩星",
+    "en":"Sprightly★Star"
+  },
+  "534":{
+    "id":534,
+    "ja":"明哲の★識星",
+    "en":"Sagacious★Star"
+  },
+  "535":{
+    "id":535,
+    "ja":"見習い軍学者",
+    "en":"Schultz Scholar"
+  },
+  "536":{
+    "id":536,
+    "ja":"鉄羊騎士",
+    "en":"Knight of the Iron Ram"
+  },
+  "537":{
+    "id":537,
+    "ja":"第四共和軍団兵",
+    "en":"Fourth Division Soldier"
+  },
+  "538":{
+    "id":538,
+    "ja":"コブラ傭兵",
+    "en":"Cobra Unit Mercenary"
+  },
+  "539":{
+    "id":539,
+    "ja":"舞台裏の目撃者",
+    "en":"Windtalker"
+  },
+  "540":{
+    "id":540,
+    "ja":"レディキラー",
+    "en":"Lady Killer"
+  },
+  "541":{
+    "id":541,
+    "ja":"ブリリオート舞踏団ダンサー",
+    "en":"Troupe Brilioth Dancer"
+  },
+  "542":{
+    "id":542,
+    "ja":"ケット・シーの助手",
+    "en":"Cait Sith's Assistant"
+  },
+  "543":{
+    "id":543,
+    "ja":"アジドマルジドの救世主",
+    "en":"Ajido-Marujido's Minder"
+  },
+  "544":{
+    "id":544,
+    "ja":"コメットチャリオッティア",
+    "en":"Comet Charioteer"
+  },
+  "545":{
+    "id":545,
+    "ja":"ムーンチャリオッティア",
+    "en":"Moon Charioteer"
+  },
+  "546":{
+    "id":546,
+    "ja":"サンドウォームキャッチャー",
+    "en":"Sandworm Wrangler"
+  },
+  "547":{
+    "id":547,
+    "ja":"イクシオンホーンブレイカー",
+    "en":"Ixion Hornbreaker"
+  },
+  "548":{
+    "id":548,
+    "ja":"ラムトンウォームデセグメンター",
+    "en":"Lambton Worm Desegmenter"
+  },
+  "549":{
+    "id":549,
+    "ja":"パンデモニウムクウェラー",
+    "en":"Pandemonium Queller"
+  },
+  "550":{
+    "id":550,
+    "ja":"ダイナスティディベーサー",
+    "en":"Debaser of Dynasties"
+  },
+  "551":{
+    "id":551,
+    "ja":"ダークネスディスパーサー",
+    "en":"Disperser of Darkness"
+  },
+  "552":{
+    "id":552,
+    "ja":"アイドラトリーエンダー",
+    "en":"Ender of Idolatry"
+  },
+  "553":{
+    "id":553,
+    "ja":"ルー　エクソシスト",
+    "en":"Lugh Exorcist"
+  },
+  "554":{
+    "id":554,
+    "ja":"エラサ　エクソシスト",
+    "en":"Elatha Exorcist"
+  },
+  "555":{
+    "id":555,
+    "ja":"エスニウ　エクソシスト",
+    "en":"Ethniu Exorcist"
+  },
+  "556":{
+    "id":556,
+    "ja":"テスラ　エクソシスト",
+    "en":"Tethra Exorcist"
+  },
+  "557":{
+    "id":557,
+    "ja":"ブーリンナク　エクソシスト",
+    "en":"Buarainech Exorcist"
+  },
+  "558":{
+    "id":558,
+    "ja":"ウピール　インペーラー",
+    "en":"Oupire Impaler"
+  },
+  "559":{
+    "id":559,
+    "ja":"スキュラ　スキンナー",
+    "en":"Scylla Skinner"
+  },
+  "560":{
+    "id":560,
+    "ja":"ジルニトラ　ウィングクリッパー",
+    "en":"Zirnitra Wingclipper"
+  },
+  "561":{
+    "id":561,
+    "ja":"ドゥントラッパー",
+    "en":"Dawon Trapper"
+  },
+  "562":{
+    "id":562,
+    "ja":"クラブカタウ　スチーマー",
+    "en":"Krabkatoa Steamer"
+  },
+  "563":{
+    "id":563,
+    "ja":"オルクス　トロフィーハンター",
+    "en":"Orcus Trophy Hunter"
+  },
+  "564":{
+    "id":564,
+    "ja":"ブロブディンナグ　バースター",
+    "en":"Blobdingnag Burster"
+  },
+  "565":{
+    "id":565,
+    "ja":"ヴェルザンディ　エンスネアラー",
+    "en":"Verthandi Ensnarer"
+  },
+  "566":{
+    "id":566,
+    "ja":"ルスベン　エントゥーマー",
+    "en":"Ruthven Entomber"
+  },
+  "567":{
+    "id":567,
+    "ja":"イルベガン　ハイドフレーヤー",
+    "en":"Yilbegan Hideflayer"
+  },
+  "568":{
+    "id":568,
+    "ja":"第1ウォークのトーチベアラー",
+    "en":"Torchbearer of the 1st Walk"
+  },
+  "569":{
+    "id":569,
+    "ja":"第2ウォークのトーチベアラー",
+    "en":"Torchbearer of the 2nd Walk"
+  },
+  "570":{
+    "id":570,
+    "ja":"第3ウォークのトーチベアラー",
+    "en":"Torchbearer of the 3rd Walk"
+  },
+  "571":{
+    "id":571,
+    "ja":"第4ウォークのトーチベアラー",
+    "en":"Torchbearer of the 4th Walk"
+  },
+  "572":{
+    "id":572,
+    "ja":"第5ウォークのトーチベアラー",
+    "en":"Torchbearer of the 5th Walk"
+  },
+  "573":{
+    "id":573,
+    "ja":"第6ウォークのトーチベアラー",
+    "en":"Torchbearer of the 6th Walk"
+  },
+  "574":{
+    "id":574,
+    "ja":"第7ウォークのトーチベアラー",
+    "en":"Torchbearer of the 7th Walk"
+  },
+  "575":{
+    "id":575,
+    "ja":"第8ウォークのトーチベアラー",
+    "en":"Torchbearer of the 8th Walk"
+  },
+  "576":{
+    "id":576,
+    "ja":"ファーニチャーストアオーナー",
+    "en":"Furniture Store Owner"
+  },
+  "577":{
+    "id":577,
+    "ja":"アーモリーオーナー",
+    "en":"Armory Owner"
+  },
+  "578":{
+    "id":578,
+    "ja":"ジュエリーストアオーナー",
+    "en":"Jewelry Store Owner"
+  },
+  "579":{
+    "id":579,
+    "ja":"ブティックオーナー",
+    "en":"Boutique Owner"
+  },
+  "580":{
+    "id":580,
+    "ja":"アポケサリオーナー",
+    "en":"Apothecary Owner"
+  },
+  "581":{
+    "id":581,
+    "ja":"キュリオシティショップオーナー",
+    "en":"Curiosity Shop Owner"
+  },
+  "582":{
+    "id":582,
+    "ja":"シューショップオーナー",
+    "en":"Shoeshop Owner"
+  },
+  "583":{
+    "id":583,
+    "ja":"フィッシュモンガーオーナー",
+    "en":"Fishmonger Owner"
+  },
+  "584":{
+    "id":584,
+    "ja":"レストランオーナー",
+    "en":"Restaurant Owner"
+  },
+  "585":{
+    "id":585,
+    "ja":"ミスリル銃士隊探偵助手",
+    "en":"Assistant Detective"
+  },
+  "586":{
+    "id":586,
+    "ja":"才気あるダンサー",
+    "en":"Promising Dancer"
+  },
+  "587":{
+    "id":587,
+    "ja":"星くずのダンサー",
+    "en":"Stardust Dancer"
+  },
+  "588":{
+    "id":588,
+    "ja":"流麗なる大舞踏家",
+    "en":"Elegant Dancer"
+  },
+  "589":{
+    "id":589,
+    "ja":"輝く星の踊り子",
+    "en":"Dazzling Dance Diva"
+  },
+  "590":{
+    "id":590,
+    "ja":"レコ・ハボッカの友人",
+    "en":"Friend of Lehko Habhoka"
+  },
+  "591":{
+    "id":591,
+    "ja":"聡明なる大学者",
+    "en":"Summa Cum Laude"
+  },
+  "592":{
+    "id":592,
+    "ja":"グリモアを継ぐもの",
+    "en":"Grimoire Bearer"
+  },
+  "593":{
+    "id":593,
+    "ja":"塩ソムリエ",
+    "en":"Seasoning Connoisseur"
+  },
+  "594":{
+    "id":594,
+    "ja":"少年騎士団のエース",
+    "en":"Fine Young Griffon"
+  },
+  "595":{
+    "id":595,
+    "ja":"ウェイレアの旅の仲間",
+    "en":"Babban's Traveling Companion"
+  },
+  "596":{
+    "id":596,
+    "ja":"高め合う者",
+    "en":"Fellow Fortifier"
+  },
+  "597":{
+    "id":597,
+    "ja":"チョコボレースのホープ",
+    "en":"Chocochampion"
+  },
+  "598":{
+    "id":598,
+    "ja":"往代を巡りし者",
+    "en":"Traverser of Time"
+  },
+  "599":{
+    "id":599,
+    "ja":"ミスリル銃士隊No.6",
+    "en":"Mythril Musketeer No. 6"
+  },
+  "600":{
+    "id":600,
+    "ja":"コブラ傭兵団の秘蔵っ子",
+    "en":"Jewel of the Cobra Unit"
+  },
+  "601":{
+    "id":601,
+    "ja":"鷲獅子騎士",
+    "en":"Knight of the Swiftwing Griffin"
+  },
+  "602":{
+    "id":602,
+    "ja":"気高き龍の盟友",
+    "en":"Wyrmsworn Protector"
+  },
+  "603":{
+    "id":603,
+    "ja":"炎蛇将の特攻隊",
+    "en":"Flameserpent Facilitator"
+  },
+  "604":{
+    "id":604,
+    "ja":"迷宮を彷徨う者",
+    "en":"Maze Wanderer"
+  },
+  "605":{
+    "id":605,
+    "ja":"迷宮を行交う者",
+    "en":"Maze Navigator"
+  },
+  "606":{
+    "id":606,
+    "ja":"迷宮を知る者",
+    "en":"Maze Scholar"
+  },
+  "607":{
+    "id":607,
+    "ja":"迷宮を創る者",
+    "en":"Maze Artisan"
+  },
+  "608":{
+    "id":608,
+    "ja":"迷宮を統べる者",
+    "en":"Maze Overlord"
+  },
+  "609":{
+    "id":609,
+    "ja":"スウォーミネーター",
+    "en":"Swarminator"
+  },
+  "610":{
+    "id":610,
+    "ja":"ジュノ攻防戦の功労者",
+    "en":"Battle of Jeuno Veteran"
+  },
+  "611":{
+    "id":611,
+    "ja":"ゴウツバクリ",
+    "en":"Grand Greedalox"
+  },
+  "612":{
+    "id":612,
+    "ja":"隠者の協力者",
+    "en":"Karaha-Baruha's Research Assistant"
+  },
+  "613":{
+    "id":613,
+    "ja":"赤鹿の名誉騎士",
+    "en":"Honorary Knight of the Cardinal Stag"
+  },
+  "614":{
+    "id":614,
+    "ja":"仮面を砕きし者",
+    "en":"Detector of Deception"
+  },
+  "615":{
+    "id":615,
+    "ja":"神の頌歌に返せる者",
+    "en":"Silencer of the Echo"
+  },
+  "616":{
+    "id":616,
+    "ja":"境界に生きる者",
+    "en":"Bestrider of Futures"
+  },
+  "617":{
+    "id":617,
+    "ja":"モグハウス・キーパー",
+    "en":"Mog House Handyperson"
+  },
+  "618":{
+    "id":618,
+    "ja":"真実を追う者",
+    "en":"Presidential Protector"
+  },
+  "619":{
+    "id":619,
+    "ja":"星月に寄り添う者",
+    "en":"The Moon's Companion"
+  },
+  "620":{
+    "id":620,
+    "ja":"シャントット帝国反乱分子",
+    "en":"Arrester of the Ascension"
+  },
+  "621":{
+    "id":621,
+    "ja":"伯爵家の客分",
+    "en":"House Aurchiat Retainer"
+  },
+  "622":{
+    "id":622,
+    "ja":"失はれた者",
+    "en":"Wanderer of Time"
+  },
+  "623":{
+    "id":623,
+    "ja":"シャドウスマイター",
+    "en":"Smiter of the Shadow"
+  },
+  "624":{
+    "id":624,
+    "ja":"大いなる天光の継承者",
+    "en":"Heir of the Blessed Radiance"
+  },
+  "625":{
+    "id":625,
+    "ja":"大いなる冥闇の継承者",
+    "en":"Heir of the Blighted Gloom"
+  },
+  "626":{
+    "id":626,
+    "ja":"冥路の騎士",
+    "en":"Sworn to the Dark Divinity"
+  },
+  "627":{
+    "id":627,
+    "ja":"ミスリル銃士隊No.0",
+    "en":"Temperer of Mythril"
+  },
+  "628":{
+    "id":628,
+    "ja":"蒼天のしるべ",
+    "en":"Star in the Azure Sky"
+  },
+  "629":{
+    "id":629,
+    "ja":"コロッサスデストロイヤー",
+    "en":"Fangmonger Forestaller"
+  },
+  "630":{
+    "id":630,
+    "ja":"異界の訪問者",
+    "en":"Visitor to Abyssea"
+  },
+  "631":{
+    "id":631,
+    "ja":"異界の協力者",
+    "en":"Friend of Abyssea"
+  },
+  "632":{
+    "id":632,
+    "ja":"異界の戦士",
+    "en":"Warrior of Abyssea"
+  },
+  "633":{
+    "id":633,
+    "ja":"異界の強襲者",
+    "en":"Stormer of Abyssea"
+  },
+  "634":{
+    "id":634,
+    "ja":"異界の破壊者",
+    "en":"Devastator of Abyssea"
+  },
+  "635":{
+    "id":635,
+    "ja":"異界の勇者",
+    "en":"Hero of Abyssea"
+  },
+  "636":{
+    "id":636,
+    "ja":"異界の英雄",
+    "en":"Champion of Abyssea"
+  },
+  "637":{
+    "id":637,
+    "ja":"異界の覇者",
+    "en":"Conqueror of Abyssea"
+  },
+  "638":{
+    "id":638,
+    "ja":"異界の救世主",
+    "en":"Savior of Abyssea"
+  },
+  "639":{
+    "id":639,
+    "ja":"盤上の覇者",
+    "en":"Vanquisher of Spite"
+  },
+  "640":{
+    "id":640,
+    "ja":"ハダヨッシュホルタラー",
+    "en":"Hadhayosh Halterer"
+  },
+  "641":{
+    "id":641,
+    "ja":"ブリアレオスフェラー",
+    "en":"Briareus Feller"
+  },
+  "642":{
+    "id":642,
+    "ja":"カルキノスクロークラッシャー",
+    "en":"Karkinos Clawcrusher"
+  },
+  "643":{
+    "id":643,
+    "ja":"カラボスクワッシャー",
+    "en":"Carabosse Quasher"
+  },
+  "644":{
+    "id":644,
+    "ja":"オヴニオブリテレイター",
+    "en":"Ovni Obliterator"
+  },
+  "645":{
+    "id":645,
+    "ja":"ルミネイターコンファウンダー",
+    "en":"Ruminator Confounder"
+  },
+  "646":{
+    "id":646,
+    "ja":"エクセントリセティエクスパンジャー",
+    "en":"Eccentricity Expunger"
+  },
+  "647":{
+    "id":647,
+    "ja":"フィスチュルドレイナー",
+    "en":"Fistule Drainer"
+  },
+  "648":{
+    "id":648,
+    "ja":"ククルカンデファンガー",
+    "en":"Kukulkan Defanger"
+  },
+  "649":{
+    "id":649,
+    "ja":"トゥルルグラウンダー",
+    "en":"Turul Grounder"
+  },
+  "650":{
+    "id":650,
+    "ja":"ブラッドアイバニッシャー",
+    "en":"Bloodeye Banisher"
+  },
+  "651":{
+    "id":651,
+    "ja":"セイシエーターデプライバー",
+    "en":"Satiator Depriver"
+  },
+  "652":{
+    "id":652,
+    "ja":"イラタムキャプチャラー",
+    "en":"Iratham Capturer"
+  },
+  "653":{
+    "id":653,
+    "ja":"ラコビキャプサイザー",
+    "en":"Lacovie Capsizer"
+  },
+  "654":{
+    "id":654,
+    "ja":"クロリスアップルーター",
+    "en":"Chloris Uprooter"
+  },
+  "655":{
+    "id":655,
+    "ja":"メルメコレオンテイマー",
+    "en":"Myrmecoleon Tamer"
+  },
+  "656":{
+    "id":656,
+    "ja":"グラヴォイドスタンピーダー",
+    "en":"Glavoid Stampeder"
+  },
+  "657":{
+    "id":657,
+    "ja":"ユーサーパーデポーザー",
+    "en":"Usurper Deposer"
+  },
+  "658":{
+    "id":658,
+    "ja":"ヤーネイ　クラッシャー",
+    "en":"Yaanei Crasher"
+  },
+  "659":{
+    "id":659,
+    "ja":"クタレイ　アンホーサー",
+    "en":"Kutharei Unhorser"
+  },
+  "660":{
+    "id":660,
+    "ja":"シポイ　キャプチャラー",
+    "en":"Sippoy Capturer"
+  },
+  "661":{
+    "id":661,
+    "ja":"ティトラカワン　ディスメンベラー",
+    "en":"Titlacauan Dismemberer"
+  },
+  "662":{
+    "id":662,
+    "ja":"ズモク　ディフォッガー",
+    "en":"Smok Defogger"
+  },
+  "663":{
+    "id":663,
+    "ja":"アムルック　イナンデーター",
+    "en":"Amhuluk Inundater"
+  },
+  "664":{
+    "id":664,
+    "ja":"パルバライザー　ディスマンテラー",
+    "en":"Pulverizer Dismantler"
+  },
+  "665":{
+    "id":665,
+    "ja":"ドゥリン　ディシーバー",
+    "en":"Durinn Deceiver"
+  },
+  "666":{
+    "id":666,
+    "ja":"カーカダン　エクスオキュレーター",
+    "en":"Karkadann Exoculator"
+  },
+  "667":{
+    "id":667,
+    "ja":"ウルハドシ　デシケーター",
+    "en":"Ulhuadshi Desiccator"
+  },
+  "668":{
+    "id":668,
+    "ja":"イツパパロツル　ディクローアー",
+    "en":"Itzpapalotl Declawer"
+  },
+  "669":{
+    "id":669,
+    "ja":"ソベク　マミファイアー",
+    "en":"Sobek Mummifier"
+  },
+  "670":{
+    "id":670,
+    "ja":"キレイン・キロイン　ハープーナー",
+    "en":"Cirein-croin Harpooner"
+  },
+  "671":{
+    "id":671,
+    "ja":"ブッキス　テザラー",
+    "en":"Bukhis Tetherer"
+  },
+  "672":{
+    "id":672,
+    "ja":"セドナ　タスクブレーカー",
+    "en":"Sedna Tuskbreaker"
+  },
+  "673":{
+    "id":673,
+    "ja":"クリーバー　ディスマンテラー",
+    "en":"Cleaver Dismantler"
+  },
+  "674":{
+    "id":674,
+    "ja":"エクセキュショナー　ディスマンテラー",
+    "en":"Executioner Dismantler"
+  },
+  "675":{
+    "id":675,
+    "ja":"セバラー　ディスマンテラー",
+    "en":"Severer Dismantler"
+  },
+  "676":{
+    "id":676,
+    "ja":"ルスカ　ディバンカー",
+    "en":"Lusca Debunker"
+  },
+  "677":{
+    "id":677,
+    "ja":"トリスティシア　デリバラー",
+    "en":"Tristitia Deliverer"
+  },
+  "678":{
+    "id":678,
+    "ja":"ケテア　ビーチャー",
+    "en":"Ketea Beacher"
+  },
+  "679":{
+    "id":679,
+    "ja":"ラーニー　デクラウナー",
+    "en":"Rani Decrowner"
+  },
+  "680":{
+    "id":680,
+    "ja":"オルトロス　デカピテーター",
+    "en":"Orthrus Decapitator"
+  },
+  "681":{
+    "id":681,
+    "ja":"ドラグア　スレイヤー",
+    "en":"Dragua Slayer"
+  },
+  "682":{
+    "id":682,
+    "ja":"ベンヌ　デプルーマー",
+    "en":"Bennu Deplumer"
+  },
+  "683":{
+    "id":683,
+    "ja":"ヘデデット　デスティンガー",
+    "en":"Hedjedjet Destinger"
+  },
+  "684":{
+    "id":684,
+    "ja":"クイジャテンダー　デシケイター",
+    "en":"Cuijatender Desiccator"
+  },
+  "685":{
+    "id":685,
+    "ja":"ブルーロ　エクスティングイシャー",
+    "en":"Brulo Extinguisher"
+  },
+  "686":{
+    "id":686,
+    "ja":"パントクラトル　ディスプルーバー",
+    "en":"Pantokrator Disprover"
+  },
+  "687":{
+    "id":687,
+    "ja":"アペデマク　アナイアレーター",
+    "en":"Apademak Annihilator"
+  },
+  "688":{
+    "id":688,
+    "ja":"イスゲビンド　デフロスター",
+    "en":"Isgebind Defroster"
+  },
+  "689":{
+    "id":689,
+    "ja":"レシェフ　エラディケイター",
+    "en":"Resheph Eradicator"
+  },
+  "690":{
+    "id":690,
+    "ja":"エンプーサ　エクスパーゲイター",
+    "en":"Empousa Expurgator"
+  },
+  "691":{
+    "id":691,
+    "ja":"インドリック　イモレイター",
+    "en":"Indrik Immolator"
+  },
+  "692":{
+    "id":692,
+    "ja":"オゴポゴ　オウバーターナー",
+    "en":"Ogopogo Overturner"
+  },
+  "693":{
+    "id":693,
+    "ja":"ラージャー　レジサイド",
+    "en":"Raja Regicide"
+  },
+  "694":{
+    "id":694,
+    "ja":"アルファルド　デトックシファイアー",
+    "en":"Alfard Detoxifier"
+  },
+  "695":{
+    "id":695,
+    "ja":"アジュダヤ　アボリシャー",
+    "en":"Azdaja Abolisher"
+  },
+  "696":{
+    "id":696,
+    "ja":"アムピトリーテー　シャッカー",
+    "en":"Amphitrite Shucker"
+  },
+  "697":{
+    "id":697,
+    "ja":"フーア　ピュリファイアー",
+    "en":"Fuath Purifier"
+  },
+  "698":{
+    "id":698,
+    "ja":"キラクリック　エクスコリエイター",
+    "en":"Killakriq Excoriator"
+  },
+  "699":{
+    "id":699,
+    "ja":"メーア　ベスターラー",
+    "en":"Maere Bestirrer"
+  },
+  "700":{
+    "id":700,
+    "ja":"神竜を葬りし者",
+    "en":"Wyrm God Defier"
+  },
+  "701":{
+    "id":701,
+    "ja":"ハハヴァ　コンデンマー",
+    "en":"Hahava Condemner"
+  },
+  "702":{
+    "id":702,
+    "ja":"セラエノ　サイレンサー",
+    "en":"Celaeno Silencer"
+  },
+  "703":{
+    "id":703,
+    "ja":"ヴォイドロート　デコンストラクター",
+    "en":"Voidwrought Deconstructor"
+  },
+  "704":{
+    "id":704,
+    "ja":"デバウアー　オブ　シャドーズ",
+    "en":"Devourer of Shadows"
+  },
+  "705":{
+    "id":705,
+    "ja":"カッゲン　クロッバラー",
+    "en":"Kaggen Clobberer"
+  },
+  "706":{
+    "id":706,
+    "ja":"アクヴァン　アブスタージャー",
+    "en":"Akvan Absterger"
+  },
+  "707":{
+    "id":707,
+    "ja":"フィル　アンフロッカー",
+    "en":"Pil Unfrocker"
+  },
+  "708":{
+    "id":708,
+    "ja":"チーリン　コントラビーナー",
+    "en":"Qilin Contravener"
+  },
+  "709":{
+    "id":709,
+    "ja":"ウプタラ　レプロベーター",
+    "en":"Uptala Reprobator"
+  },
+  "710":{
+    "id":710,
+    "ja":"アイエロ　アベイター",
+    "en":"Aello Abator"
+  },
+  "711":{
+    "id":711,
+    "ja":"第9ウォークのトーチベアラー",
+    "en":"Torchbearer of the 9th Walk"
+  },
+  "712":{
+    "id":712,
+    "ja":"第10ウォークのトーチベアラー",
+    "en":"Torchbearer of the 10th Walk"
+  },
+  "713":{
+    "id":713,
+    "ja":"第11ウォークのトーチベアラー",
+    "en":"Torchbearer of the 11th Walk"
+  },
+  "714":{
+    "id":714,
+    "ja":"ナイトメア　イルミネーター",
+    "en":"Nightmare Illuminator"
+  },
+  "715":{
+    "id":715,
+    "ja":"ガウナブ　ガッター",
+    "en":"Gaunab Gutter"
+  },
+  "716":{
+    "id":716,
+    "ja":"カラストラクス　クリーメーター",
+    "en":"Kalasutrax Cremator"
+  },
+  "717":{
+    "id":717,
+    "ja":"オシトエ　オバーライダー",
+    "en":"Ocythoe Overrider"
+  },
+  "718":{
+    "id":718,
+    "ja":"イッグ・アリマ　インヒューマー",
+    "en":"Ig-Alima Inhumer"
+  },
+  "719":{
+    "id":719,
+    "ja":"ボチュルス・レックス　エンゴージャー",
+    "en":"Botulus Rex Engorger"
+  },
+  "720":{
+    "id":720,
+    "ja":"第12ウォークのトーチベアラー",
+    "en":"Torchbearer of the 12th Walk"
+  },
+  "721":{
+    "id":721,
+    "ja":"第13ウォークのトーチベアラー",
+    "en":"Torchbearer of the 13th Walk"
+  },
+  "722":{
+    "id":722,
+    "ja":"第14ウォークのトーチベアラー",
+    "en":"Torchbearer of the 14th Walk"
+  },
+  "723":{
+    "id":723,
+    "ja":"第15ウォークのトーチベアラー",
+    "en":"Torchbearer of the 15th Walk"
+  },
+  "724":{
+    "id":724,
+    "ja":"未踏領域を踏破せし者",
+    "en":"Delver of the Depths"
+  },
+  "725":{
+    "id":725,
+    "ja":"ロフティレギオン　サブジュゲーター",
+    "en":"Subjugator of the Lofty"
+  },
+  "726":{
+    "id":726,
+    "ja":"マイアーレギオン　サブジュゲーター",
+    "en":"Subjugator of the Mired"
+  },
+  "727":{
+    "id":727,
+    "ja":"ソアリングレギオン　サブジュゲーター",
+    "en":"Subjugator of the Soaring"
+  },
+  "728":{
+    "id":728,
+    "ja":"ベールレギオン　サブジュゲーター",
+    "en":"Subjugator of the Veiled"
+  },
+  "729":{
+    "id":729,
+    "ja":"パラマウントレギオン　サブジュゲーター",
+    "en":"Legendary Legionnaire"
+  },
+  "730":{
+    "id":730,
+    "ja":"原初の輝きに触れし者",
+    "en":"Witness to Provenance"
+  },
+  "731":{
+    "id":731,
+    "ja":"ビスマルク　フレンサー",
+    "en":"Bismarck Flenser"
+  },
+  "732":{
+    "id":732,
+    "ja":"モルタ　エクスターペイター",
+    "en":"Morta Extirpator"
+  },
+  "733":{
+    "id":733,
+    "ja":"アンサングヒロイン",
+    "en":"Unsung Heroine"
+  },
+  "734":{
+    "id":734,
+    "ja":"エピックヒロイン",
+    "en":"Epic Heroine"
+  },
+  "735":{
+    "id":735,
+    "ja":"エインヘリヤルエピック",
+    "en":"Epic Einherjar"
+  },
+  "736":{
+    "id":736,
+    "ja":"翼を抱きし者",
+    "en":"Mender of Wings"
+  },
+  "737":{
+    "id":737,
+    "ja":"アルタナの神兵",
+    "en":"Champion of the Dawn"
+  },
+  "738":{
+    "id":738,
+    "ja":"武神の門出に立つ者",
+    "en":"Bushin Aspirant"
+  },
+  "739":{
+    "id":739,
+    "ja":"武神流免許皆伝",
+    "en":"Bushin-Ryu Inheritor"
+  },
+  "740":{
+    "id":740,
+    "ja":"テメナスエマンシペーター",
+    "en":"Temenos Emancipator"
+  },
+  "741":{
+    "id":741,
+    "ja":"アポリオンレイザー",
+    "en":"Apollyon Razer"
+  },
+  "742":{
+    "id":742,
+    "ja":"ゴールドウィング　スクァッシャー",
+    "en":"Goldwing Squasher"
+  },
+  "743":{
+    "id":743,
+    "ja":"サイレジャリス　デトネーター",
+    "en":"Silagilith Detonator"
+  },
+  "744":{
+    "id":744,
+    "ja":"スルト　スマザラー",
+    "en":"Surtr Smotherer"
+  },
+  "745":{
+    "id":745,
+    "ja":"ドレールック　プレドミネーター",
+    "en":"Dreyruk Predominator"
+  },
+  "746":{
+    "id":746,
+    "ja":"サムルスク　ビティエター",
+    "en":"Samursk Vitiator"
+  },
+  "747":{
+    "id":747,
+    "ja":"ウマゲルク　メーンマングラー",
+    "en":"Umagrhk Manemangler"
+  },
+  "748":{
+    "id":748,
+    "ja":"スパーナルサバント",
+    "en":"Supernal Savant"
+  },
+  "749":{
+    "id":749,
+    "ja":"ソーラーセージ",
+    "en":"Solar Sage"
+  },
+  "750":{
+    "id":750,
+    "ja":"ボライドバロン",
+    "en":"Bolide Baron"
+  },
+  "751":{
+    "id":751,
+    "ja":"ムーンメーヴェン",
+    "en":"Moon Maven"
+  },
+  "752":{
+    "id":752,
+    "ja":"イジックス　ヴェックサー",
+    "en":"Izyx Vexer"
+  },
+  "753":{
+    "id":753,
+    "ja":"グランナス　ガロッター",
+    "en":"Grannus Garroter"
+  },
+  "754":{
+    "id":754,
+    "ja":"スヴァッハ　ストライカー",
+    "en":"Svaha Striker"
+  },
+  "755":{
+    "id":755,
+    "ja":"メリシアス　ドメステケイター",
+    "en":"Melisseus Domesticator"
+  },
+  "756":{
+    "id":756,
+    "ja":"ウォーターウェー　エグゼンプラー",
+    "en":"Waterway Exemplar"
+  },
+  "757":{
+    "id":757,
+    "ja":"カーヴァン　エグゼンプラー",
+    "en":"Cavern Exemplar"
+  },
+  "758":{
+    "id":758,
+    "ja":"ムイングワ　ウイングクラッシャー",
+    "en":"Muyingwa Wingcrusher"
+  },
+  "759":{
+    "id":759,
+    "ja":"ダクワカ　トローラー",
+    "en":"Dakuwaqa Trawler"
+  },
+  "760":{
+    "id":760,
+    "ja":"トヒル　ダウザー",
+    "en":"Tojil Douser"
+  },
+  "761":{
+    "id":761,
+    "ja":"コルカブ　デスローナー",
+    "en":"Colkhab Dethroner"
+  },
+  "762":{
+    "id":762,
+    "ja":"アチュカ　グレイシエイター",
+    "en":"Achuka Glaciator"
+  },
+  "763":{
+    "id":763,
+    "ja":"チャッカ　デシケイター",
+    "en":"Tchakka Desiccator"
+  },
+  "764":{
+    "id":764,
+    "ja":"ウィールド　エグゼンプラー",
+    "en":"Weald Exemplar"
+  },
+  "765":{
+    "id":765,
+    "ja":"フルカン　バードライミスト",
+    "en":"Hurkan Birdlimeist"
+  },
+  "766":{
+    "id":766,
+    "ja":"ユムカクス　ローガー",
+    "en":"Yumcax Logger"
+  },
+  "767":{
+    "id":767,
+    "ja":"コルカブ　ハイヴクラッシャー",
+    "en":"Colkhab Hivecrusher"
+  },
+  "768":{
+    "id":768,
+    "ja":"アチュカ　コアギュレイター",
+    "en":"Achuka Coagulator"
+  },
+  "769":{
+    "id":769,
+    "ja":"チャッカ　フィレーヤー",
+    "en":"Tchakka Filleter"
+  },
+  "770":{
+    "id":770,
+    "ja":"ラビット　タッスラー",
+    "en":"Rabbit Tussler"
+  },
+  "771":{
+    "id":771,
+    "ja":"ヘルミンス　ミンサー",
+    "en":"Helminth Mincer"
+  },
+  "772":{
+    "id":772,
+    "ja":"マンドラ　ガーデナー",
+    "en":"Mandragardener"
+  },
+  "773":{
+    "id":773,
+    "ja":"モペット　マサカーラー",
+    "en":"Moppet Massacrer"
+  },
+  "774":{
+    "id":774,
+    "ja":"ローリング　リムレンダー",
+    "en":"Rip-roaring Limbrender"
+  },
+  "775":{
+    "id":775,
+    "ja":"シェル　ショッカー",
+    "en":"Shell Shocker"
+  },
+  "776":{
+    "id":776,
+    "ja":"ヤグード　クップキーパー",
+    "en":"Yagudo Coopkeeper"
+  },
+  "777":{
+    "id":777,
+    "ja":"ギガスプロード　エキスパート",
+    "en":"Gigasplosion Expert"
+  },
+  "778":{
+    "id":778,
+    "ja":"ブラザーインアームズ",
+    "en":"Brother-in-arms"
+  },
+  "779":{
+    "id":779,
+    "ja":"アンティカ　ハンター",
+    "en":"Antica Hunter"
+  },
+  "780":{
+    "id":780,
+    "ja":"アンフィ　アダルタレイター",
+    "en":"Amphibian Adulterator"
+  },
+  "781":{
+    "id":781,
+    "ja":"トンベリ　トップラー",
+    "en":"Tonberry Toppler"
+  },
+  "782":{
+    "id":782,
+    "ja":"ブラッドライン　コラプター",
+    "en":"Bloodline Corrupter"
+  },
+  "783":{
+    "id":783,
+    "ja":"クムハウ　ロースター",
+    "en":"Kumhau Roaster"
+  },
+  "784":{
+    "id":784,
+    "ja":"ブリリアンス　マニフェスト",
+    "en":"Brilliance Manifest"
+  },
+  "785":{
+    "id":785,
+    "ja":"エンシェントソート　クワイエター",
+    "en":"Quieter of Ancient Thoughts"
+  },
+  "786":{
+    "id":786,
+    "ja":"アークヒューム　ヒューミリアター",
+    "en":"Ark Hume Humiliator"
+  },
+  "787":{
+    "id":787,
+    "ja":"アークエルヴァーン　エビサレイター",
+    "en":"Ark Elvaan Eviscerator"
+  },
+  "788":{
+    "id":788,
+    "ja":"アークミスラ　マライナー",
+    "en":"Ark Mithra Maligner"
+  },
+  "789":{
+    "id":789,
+    "ja":"アークタルタル　トラウンサー",
+    "en":"Ark Tarutaru Trouncer"
+  },
+  "790":{
+    "id":790,
+    "ja":"アークガルカ　ガウジャー",
+    "en":"Ark Galka Gouger"
+  },
+  "791":{
+    "id":791,
+    "ja":"ペンターク　パシファイアー",
+    "en":"Pentarch Pacifier"
+  },
+  "792":{
+    "id":792,
+    "ja":"ドリーム　デスティラー",
+    "en":"Dream Distiller"
+  },
+  "793":{
+    "id":793,
+    "ja":"ラ・カザナル　エグゼンプラー",
+    "en":"Ra'Kaznar Exemplar"
+  },
+  "794":{
+    "id":794,
+    "ja":"アットクックス　ペルトバーナー",
+    "en":"Utkux Peltburner"
+  },
+  "795":{
+    "id":795,
+    "ja":"カイルイム　プルメッジプラッカー",
+    "en":"Cailimh Plumageplucker"
+  },
+  "796":{
+    "id":796,
+    "ja":"ウォップケット　トランクスプリッター",
+    "en":"Wopket Trunksplitter"
+  },
+  "797":{
+    "id":797,
+    "ja":"オウリュウ　オブフスケイター",
+    "en":"Ouryu Obfuscator"
+  },
+  "798":{
+    "id":798,
+    "ja":"アンウェーヴ　ブレイズ",
+    "en":"Unwavering Blaze"
+  },
+  "799":{
+    "id":799,
+    "ja":"ランスロード　ディベスター",
+    "en":"Lancelord Divester"
+  },
+  "800":{
+    "id":800,
+    "ja":"ゲッショー　ピニオナー",
+    "en":"Gessho Pinioner"
+  },
+  "801":{
+    "id":801,
+    "ja":"シン　パージャー",
+    "en":"Sin Purger"
+  },
+  "802":{
+    "id":802,
+    "ja":"アダンブレイション　デスパーサー",
+    "en":"Adumbration Disperser"
+  },
+  "803":{
+    "id":803,
+    "ja":"ゲール　クウェラー",
+    "en":"Queller of Otherworldly Gales"
+  },
+  "804":{
+    "id":804,
+    "ja":"ブレイズ　マーシャラー",
+    "en":"Blaze Marshaller"
+  },
+  "805":{
+    "id":805,
+    "ja":"ペニテンテズ　ブラスター",
+    "en":"Penitentes Blaster"
+  },
+  "806":{
+    "id":806,
+    "ja":"シロッコ　テイマー",
+    "en":"Sirocco Tamer"
+  },
+  "807":{
+    "id":807,
+    "ja":"スキアン　フェラー",
+    "en":"Suchian Feller"
+  },
+  "808":{
+    "id":808,
+    "ja":"オンビフィッド　スレイヤー",
+    "en":"Ombifid Slayer"
+  },
+  "809":{
+    "id":809,
+    "ja":"ニロチカン　デシメーター",
+    "en":"Nilotican Decimator"
+  },
+  "810":{
+    "id":810,
+    "ja":"第1ウォークのイルミネーター",
+    "en":"Illuminator of the 1st Walk"
+  },
+  "811":{
+    "id":811,
+    "ja":"第2ウォークのイルミネーター",
+    "en":"Illuminator of the 2nd Walk"
+  },
+  "812":{
+    "id":812,
+    "ja":"第3ウォークのイルミネーター",
+    "en":"Illuminator of the 3rd Walk"
+  },
+  "813":{
+    "id":813,
+    "ja":"第4ウォークのイルミネーター",
+    "en":"Illuminator of the 4th Walk"
+  },
+  "814":{
+    "id":814,
+    "ja":"第5ウォークのイルミネーター",
+    "en":"Illuminator of the 5th Walk"
+  },
+  "815":{
+    "id":815,
+    "ja":"第6ウォークのイルミネーター",
+    "en":"Illuminator of the 6th Walk"
+  },
+  "816":{
+    "id":816,
+    "ja":"第7ウォークのイルミネーター",
+    "en":"Illuminator of the 7th Walk"
+  },
+  "817":{
+    "id":817,
+    "ja":"第8ウォークのイルミネーター",
+    "en":"Illuminator of the 8th Walk"
+  },
+  "818":{
+    "id":818,
+    "ja":"第9ウォークのイルミネーター",
+    "en":"Illuminator of the 9th Walk"
+  },
+  "819":{
+    "id":819,
+    "ja":"第10ウォークのイルミネーター",
+    "en":"Illuminator of the 10th Walk"
+  },
+  "820":{
+    "id":820,
+    "ja":"第11ウォークのイルミネーター",
+    "en":"Illuminator of the 11th Walk"
+  },
+  "821":{
+    "id":821,
+    "ja":"第12ウォークのイルミネーター",
+    "en":"Illuminator of the 12th Walk"
+  },
+  "822":{
+    "id":822,
+    "ja":"第13ウォークのイルミネーター",
+    "en":"Illuminator of the 13th Walk"
+  },
+  "823":{
+    "id":823,
+    "ja":"第14ウォークのイルミネーター",
+    "en":"Illuminator of the 14th Walk"
+  },
+  "824":{
+    "id":824,
+    "ja":"第15ウォークのイルミネーター",
+    "en":"Illuminator of the 15th Walk"
+  },
+  "825":{
+    "id":825,
+    "ja":"リソスフィア　アナイアレーター",
+    "en":"Lithosphere Annihilator"
+  },
+  "826":{
+    "id":826,
+    "ja":"フルミネーション　ディスラプター",
+    "en":"Fulmination Disruptor"
+  },
+  "827":{
+    "id":827,
+    "ja":"ボア　リパルサー",
+    "en":"Bore Repulsor"
+  },
+  "828":{
+    "id":828,
+    "ja":"パロリタス　パニシャー",
+    "en":"Palloritus Punisher"
+  },
+  "829":{
+    "id":829,
+    "ja":"ピュトラクシア　パルバライザー",
+    "en":"Putraxia Pulverizer"
+  },
+  "830":{
+    "id":830,
+    "ja":"ランシバス　ラバジャー",
+    "en":"Rancibus Ravager"
+  },
+  "831":{
+    "id":831,
+    "ja":"アルビオン　アセーラント",
+    "en":"Alluvion Assailant"
+  },
+  "832":{
+    "id":832,
+    "ja":"パフィディアン　ペインディーラー",
+    "en":"Perfidien Paindealer"
+  },
+  "833":{
+    "id":833,
+    "ja":"プルートン　ピンサー",
+    "en":"Plouton Pincer"
+  },
+  "834":{
+    "id":834,
+    "ja":"フリートストーカー　フィレーヤー",
+    "en":"Fleetstalker Fileter"
+  },
+  "835":{
+    "id":835,
+    "ja":"ショックモー　サブジュゲーター",
+    "en":"Shockmaw Subjugator"
+  },
+  "836":{
+    "id":836,
+    "ja":"見習い風水士",
+    "en":"Geodancer"
+  },
+  "837":{
+    "id":837,
+    "ja":"ルーンを刻みし者",
+    "en":"Runic Engraver"
+  },
+  "838":{
+    "id":838,
+    "ja":"タルタル★ソース・マネージャー見習い",
+    "en":"Apprentice Tarutaru Sauce Manager"
+  },
+  "839":{
+    "id":839,
+    "ja":"ベジタブルレボリューションヘルパー",
+    "en":"Vegetable Revolutionary"
+  },
+  "840":{
+    "id":840,
+    "ja":"食いしん坊の友",
+    "en":"Friend to Gluttons"
+  },
+  "841":{
+    "id":841,
+    "ja":"シャルルのお気に入り",
+    "en":"Waypoint Warrior"
+  },
+  "842":{
+    "id":842,
+    "ja":"混沌への抵抗者",
+    "en":"Ulbukan Stalwart"
+  },
+  "843":{
+    "id":843,
+    "ja":"どくどくざえもん",
+    "en":"Toxin Tussler"
+  },
+  "844":{
+    "id":844,
+    "ja":"万象の★地星",
+    "en":"Spiritual★Star"
+  },
+  "845":{
+    "id":845,
+    "ja":"刻印の★剣星",
+    "en":"Stippling★Star"
+  },
+  "846":{
+    "id":846,
+    "ja":"自然の理解者",
+    "en":"Geomancipator"
+  },
+  "847":{
+    "id":847,
+    "ja":"理の執行者",
+    "en":"Trialed-and-True Runeist"
+  },
+  "848":{
+    "id":848,
+    "ja":"女王の信頼を得し者",
+    "en":"Queen's Confidante"
+  },
+  "849":{
+    "id":849,
+    "ja":"若姫さまの守り手",
+    "en":"Princess's Partisan"
+  },
+  "850":{
+    "id":850,
+    "ja":"ドリンクエクスプローラー",
+    "en":"Potation Pathfinder"
+  },
+  "851":{
+    "id":851,
+    "ja":"深淵なる大風水士",
+    "en":"Storied Geomancer"
+  },
+  "852":{
+    "id":852,
+    "ja":"灼然なる大魔導剣士",
+    "en":"Ultimate Runeist"
+  },
+  "853":{
+    "id":853,
+    "ja":"モグガーデンのタマゴ",
+    "en":"Mog Garden Seedling"
+  },
+  "854":{
+    "id":854,
+    "ja":"にぅにぅオーナー",
+    "en":"Kit Empathizer"
+  },
+  "855":{
+    "id":855,
+    "ja":"ちゃりちゃりオーナー",
+    "en":"Jingly Dangler"
+  },
+  "856":{
+    "id":856,
+    "ja":"アニキのオーナー",
+    "en":"Mole Manipulator"
+  },
+  "857":{
+    "id":857,
+    "ja":"農耕初心者",
+    "en":"Agrarian Novice"
+  },
+  "858":{
+    "id":858,
+    "ja":"農耕中級者",
+    "en":"Agrarian Initiate"
+  },
+  "859":{
+    "id":859,
+    "ja":"農耕上級者",
+    "en":"Agrarian Professional"
+  },
+  "860":{
+    "id":860,
+    "ja":"農耕の達人",
+    "en":"Agrarian Virtuoso"
+  },
+  "861":{
+    "id":861,
+    "ja":"農耕の超人",
+    "en":"Agrarian Tutelar"
+  },
+  "862":{
+    "id":862,
+    "ja":"草木の守り手",
+    "en":"Weed Praetor"
+  },
+  "863":{
+    "id":863,
+    "ja":"樹木の守り手",
+    "en":"Tree Praetor"
+  },
+  "864":{
+    "id":864,
+    "ja":"林の守り手",
+    "en":"Thicket Praetor"
+  },
+  "865":{
+    "id":865,
+    "ja":"森の守り手",
+    "en":"Forest Praetor"
+  },
+  "866":{
+    "id":866,
+    "ja":"ジャングルの守り手",
+    "en":"Jungle Praetor"
+  },
+  "867":{
+    "id":867,
+    "ja":"カッパーマトック",
+    "en":"Copper Mattock"
+  },
+  "868":{
+    "id":868,
+    "ja":"シルバーマトック",
+    "en":"Silver Mattock"
+  },
+  "869":{
+    "id":869,
+    "ja":"ミスリルマトック",
+    "en":"Mythril Mattock"
+  },
+  "870":{
+    "id":870,
+    "ja":"ゴールドマトック",
+    "en":"Gold Mattock"
+  },
+  "871":{
+    "id":871,
+    "ja":"アダマンマトック",
+    "en":"Adamanttock"
+  },
+  "872":{
+    "id":872,
+    "ja":"水溜まり師匠",
+    "en":"Puddle Patron"
+  },
+  "873":{
+    "id":873,
+    "ja":"沼師匠",
+    "en":"Swamp Savant"
+  },
+  "874":{
+    "id":874,
+    "ja":"池師匠",
+    "en":"Pond Preceptor"
+  },
+  "875":{
+    "id":875,
+    "ja":"渓流師匠",
+    "en":"River Regent"
+  },
+  "876":{
+    "id":876,
+    "ja":"モンケオンケ師匠",
+    "en":"Monke-Onke Master"
+  },
+  "877":{
+    "id":877,
+    "ja":"サーディンちゃん",
+    "en":"Sardineophyte"
+  },
+  "878":{
+    "id":878,
+    "ja":"カラマリちゃん",
+    "en":"Calamareeler"
+  },
+  "879":{
+    "id":879,
+    "ja":"オクトパちゃん",
+    "en":"Octopotentate"
+  },
+  "880":{
+    "id":880,
+    "ja":"スキッドちゃん",
+    "en":"Giant Squimperator"
+  },
+  "881":{
+    "id":881,
+    "ja":"リヴァイアちゃん",
+    "en":"Leviauthority"
+  },
+  "882":{
+    "id":882,
+    "ja":"園丁",
+    "en":"Novice Nurseryman"
+  },
+  "883":{
+    "id":883,
+    "ja":"主任庭師",
+    "en":"Lesser Landscaper"
+  },
+  "884":{
+    "id":884,
+    "ja":"上級庭師",
+    "en":"Greater Gardener"
+  },
+  "885":{
+    "id":885,
+    "ja":"宮廷庭師",
+    "en":"Honored Horticulturist"
+  },
+  "886":{
+    "id":886,
+    "ja":"モグガーデナー",
+    "en":"Mog Gardener"
+  },
+  "887":{
+    "id":887,
+    "ja":"ブリジッド系マネージャー見習い",
+    "en":"Brygidesque Manager"
+  },
+  "888":{
+    "id":888,
+    "ja":"ベジタブルエボリューションヘルパー",
+    "en":"Vegetable Evolutionary"
+  },
+  "889":{
+    "id":889,
+    "ja":"魔導マニア",
+    "en":"Blade Enthusiast"
+  },
+  "890":{
+    "id":890,
+    "ja":"ルーン宅配人",
+    "en":"Runic Emissary"
+  },
+  "891":{
+    "id":891,
+    "ja":"焦らしマイスター",
+    "en":"Maester of Maddening"
+  },
+  "892":{
+    "id":892,
+    "ja":"雲飛ばす東風",
+    "en":"Sunshine Cadet"
+  },
+  "893":{
+    "id":893,
+    "ja":"クワッどコア",
+    "en":"Quartet Captivator"
+  },
+  "894":{
+    "id":894,
+    "ja":"信頼・親愛・友情を抱く者",
+    "en":"The Trustworthy"
+  },
+  "895":{
+    "id":895,
+    "ja":"ラブラブウォッチャー",
+    "en":"The Lovelorn"
+  },
+  "896":{
+    "id":896,
+    "ja":"INV.ワークスツカイッパー",
+    "en":"Inventor Extraordinaire"
+  },
+  "897":{
+    "id":897,
+    "ja":"お遊戯王",
+    "en":"Boomy and Busty"
+  },
+  "898":{
+    "id":898,
+    "ja":"絶零の開拓者",
+    "en":"Weatherer of Brumal Climes"
+  },
+  "899":{
+    "id":899,
+    "ja":"姫を救いし勇者",
+    "en":"White Knight"
+  },
+  "900":{
+    "id":900,
+    "ja":"大いなる暁の継承者",
+    "en":"Light of Dawn"
+  },
+  "901":{
+    "id":901,
+    "ja":"一天地六の観測者",
+    "en":"Observer of Fateful Cubes"
+  },
+  "902":{
+    "id":902,
+    "ja":"無知なる知者",
+    "en":"Knower of Untruths"
+  },
+  "903":{
+    "id":903,
+    "ja":"ウルブカの守護者見習い",
+    "en":"Ulbukan Understudy"
+  },
+  "904":{
+    "id":904,
+    "ja":"ウルブカの守護者",
+    "en":"Keeper of Ulbuka"
+  },
+  "905":{
+    "id":905,
+    "ja":"暁の光",
+    "en":"Radiance of Daybreak"
+  },
+  "906":{
+    "id":906,
+    "ja":"あばばばヒーラー",
+    "en":"Wibbly Wobbly Woozy Warrior"
+  },
+  "907":{
+    "id":907,
+    "ja":"大いなる時の継承者",
+    "en":"Heir of Eternity"
+  },
+  "908":{
+    "id":908,
+    "ja":"初級なでなで士",
+    "en":"Prospective Pamperer"
+  },
+  "909":{
+    "id":909,
+    "ja":"下級なでなで士",
+    "en":"Novice Nuzzler"
+  },
+  "910":{
+    "id":910,
+    "ja":"上級なでなで士",
+    "en":"Serious Snuggler"
+  },
+  "911":{
+    "id":911,
+    "ja":"特級なでなで士",
+    "en":"Cultivated Coddler"
+  },
+  "912":{
+    "id":912,
+    "ja":"なでなで魔神",
+    "en":"Respected Ruffler"
+  },
+  "913":{
+    "id":913,
+    "ja":"生き物係",
+    "en":"Dung Disseminator"
+  },
+  "914":{
+    "id":914,
+    "ja":"牧童",
+    "en":"Fauna Feeder"
+  },
+  "915":{
+    "id":915,
+    "ja":"牧人",
+    "en":"Confident Caretaker"
+  },
+  "916":{
+    "id":916,
+    "ja":"牧場主",
+    "en":"Glorious Groomer"
+  },
+  "917":{
+    "id":917,
+    "ja":"牧畜マスター",
+    "en":"Transcendental Tamer"
+  },
+  "918":{
+    "id":918,
+    "ja":"心つながるモンスター",
+    "en":"Bond-building Breeder"
+  },
+  "919":{
+    "id":919,
+    "ja":"解剖学生",
+    "en":"Clumsy Cleaver"
+  },
+  "920":{
+    "id":920,
+    "ja":"解剖術士",
+    "en":"Disciplined Dissector"
+  },
+  "921":{
+    "id":921,
+    "ja":"解剖マスター",
+    "en":"Established Examiner"
+  },
+  "922":{
+    "id":922,
+    "ja":"命をかける飼育士",
+    "en":"Sublime Slicer"
+  },
+  "923":{
+    "id":923,
+    "ja":"悲嘆の淵の救済者",
+    "en":"Lifter of Spirits"
+  },
+  "924":{
+    "id":924,
+    "ja":"ゲームの勝者",
+    "en":"Shedder of Harlequin Tears"
+  },
+  "925":{
+    "id":925,
+    "ja":"暁の輝き",
+    "en":"Hope for the Future"
+  },
+  "926":{
+    "id":926,
+    "ja":"一千年の旅人",
+    "en":"Thousand-Year Traveler"
+  },
+  "927":{
+    "id":927,
+    "ja":"怪霊を討滅せし者",
+    "en":"Vanquisher of Ashrakk"
+  },
+  "928":{
+    "id":928,
+    "ja":"変妖を討滅せし者",
+    "en":"Vanquisher of Dhokmak"
+  },
+  "929":{
+    "id":929,
+    "ja":"英霊の加護ありし者",
+    "en":"Protected by Ulbukan Spirits"
+  },
+  "930":{
+    "id":930,
+    "ja":"聖痕の受難者",
+    "en":"Receiver of Sigils"
+  },
+  "931":{
+    "id":931,
+    "ja":"冥王を討ちし者",
+    "en":"Destroyer of Hades"
+  },
+  "932":{
+    "id":932,
+    "ja":"暁の先導者",
+    "en":"Bringer of the Dawn"
+  },
+  "933":{
+    "id":933,
+    "ja":"アドゥリンの真なる開拓者",
+    "en":"The One True Pioneer"
+  },
+  "934":{
+    "id":934,
+    "ja":"希望の先導者",
+    "en":"Bringer of Hope"
+  },
+  "935":{
+    "id":935,
+    "ja":"アドゥリンの露騎士候補",
+    "en":"Good Dew-er"
+  },
+  "936":{
+    "id":936,
+    "ja":"森羅",
+    "en":"Lifecycler"
+  },
+  "937":{
+    "id":937,
+    "ja":"剣聖",
+    "en":"Sword Saint"
+  },
+  "938":{
+    "id":938,
+    "ja":"運命を知った者",
+    "en":"The Fated"
+  },
+  "939":{
+    "id":939,
+    "ja":"アドゥリンを守りし者",
+    "en":"Protector of the Sacred City"
+  },
+  "940":{
+    "id":940,
+    "ja":"ウルマフール　ウサーパー",
+    "en":"Urmahlullu Usurper"
+  },
+  "941":{
+    "id":941,
+    "ja":"ブレイズウィング　ビレーター",
+    "en":"Blazewing Berater"
+  },
+  "942":{
+    "id":942,
+    "ja":"カヴン　カラプサー",
+    "en":"Coven Collapser"
+  },
+  "943":{
+    "id":943,
+    "ja":"パズズ　パプレックサー",
+    "en":"Pazuzu Perplexer"
+  },
+  "944":{
+    "id":944,
+    "ja":"ラースヘア　ワックサー",
+    "en":"Wrathare Waxer"
+  },
+  "945":{
+    "id":945,
+    "ja":"ルーパイン　リクィデーター",
+    "en":"Lupine Liquidator"
+  },
+  "946":{
+    "id":946,
+    "ja":"ルビー　リパルサー",
+    "en":"Ruby Repulser"
+  },
+  "947":{
+    "id":947,
+    "ja":"デヴィル　ディマイズ",
+    "en":"Devil's Demise"
+  },
+  "948":{
+    "id":948,
+    "ja":"カストーディアン　オブ　ウルブカ",
+    "en":"Custodian of Ulbuka"
+  },
+  "949":{
+    "id":949,
+    "ja":"アジダハーカ　アナイアレーター",
+    "en":"Azi Dahaka Annihilator"
+  },
+  "950":{
+    "id":950,
+    "ja":"ナーガラージャ　ナリファイヤー",
+    "en":"Naga Raja Nullifier"
+  },
+  "951":{
+    "id":951,
+    "ja":"ケツァルコアトル　プラッカー",
+    "en":"Quetzalcoatl Plucker"
+  },
+  "952":{
+    "id":952,
+    "ja":"パキケト　パシファイヤー",
+    "en":"Pakecet Pacifier"
+  },
+  "953":{
+    "id":953,
+    "ja":"デュークヴェパー　ヴァンキシャー",
+    "en":"Duke Vepar Vanquisher"
+  },
+  "954":{
+    "id":954,
+    "ja":"ヴィラーヴァ　ヴェジテーター",
+    "en":"Vir'ava Vegetator"
+  },
+  "955":{
+    "id":955,
+    "ja":"ビャッコ　テイマー",
+    "en":"Byakko Tamer"
+  },
+  "956":{
+    "id":956,
+    "ja":"ゲンブ　クラッカー",
+    "en":"Genbu Cracker"
+  },
+  "957":{
+    "id":957,
+    "ja":"セイリュウ　クイッパー",
+    "en":"Seiryu Clipper"
+  },
+  "958":{
+    "id":958,
+    "ja":"スザク　プラッカー",
+    "en":"Suzaku Plucker"
+  },
+  "959":{
+    "id":959,
+    "ja":"キリン　ディスマンテラー",
+    "en":"Kirin Dismantler"
+  },
+  "960":{
+    "id":960,
+    "ja":"無知を消し去るもの",
+    "en":"Vanquisher of Apathy"
+  },
+  "961":{
+    "id":961,
+    "ja":"怯懦を消し去るもの",
+    "en":"Vanquisher of Cowardice"
+  },
+  "962":{
+    "id":962,
+    "ja":"嫉妬を消し去るもの",
+    "en":"Vanquisher of Envy"
+  },
+  "963":{
+    "id":963,
+    "ja":"驕慢を消し去るもの",
+    "en":"Vanquisher of Arrogance"
+  },
+  "964":{
+    "id":964,
+    "ja":"憎悪を消し去るもの",
+    "en":"Vanquisher of Rage"
+  },
+  "965":{
+    "id":965,
+    "ja":"番人を打ち破ったもの",
+    "en":"Purger of the Warder"
+  },
+  "966":{
+    "id":966,
+    "ja":"コンカラー　オブ　フィアー",
+    "en":"Conquerer of Fear"
+  },
+  "967":{
+    "id":967,
+    "ja":"ドーン　ディライト",
+    "en":"Dawn's Delight"
+  },
+  "968":{
+    "id":968,
+    "ja":"マジュー　モーラー",
+    "en":"Maju Mauler"
+  },
+  "969":{
+    "id":969,
+    "ja":"ヤクシー　ヤンカー",
+    "en":"Yakshi Yanker"
+  },
+  "970":{
+    "id":970,
+    "ja":"ニーク　ナリファイア",
+    "en":"Neak Nullifier"
+  },
+  "971":{
+    "id":971,
+    "ja":"テレス　リペラー",
+    "en":"Teles Terrifier"
+  },
+  "972":{
+    "id":972,
+    "ja":"最高の助手",
+    "en":"Assistant Extraordinaire"
+  },
+  "973":{
+    "id":973,
+    "ja":"釣神",
+    "en":"Exalted Fisherman"
+  },
+  "974":{
+    "id":974,
+    "ja":"タルタル★ソース・いっぱしマネージャー",
+    "en":"Sauce Supreme"
+  },
+  "975":{
+    "id":975,
+    "ja":"一竿入魂の太公望",
+    "en":"Fish Whisperer"
+  },
+  "976":{
+    "id":976,
+    "ja":"深淵を覗く者",
+    "en":"Abyssal Purveyor"
+  },
+  "977":{
+    "id":977,
+    "ja":"享楽と悪意を退けし者",
+    "en":"Banisher of the Profane"
+  },
+  "978":{
+    "id":978,
+    "ja":"魂の眼を持つ者",
+    "en":"Spirit Seeker"
+  },
+  "979":{
+    "id":979,
+    "ja":"ピュラクモンの真実を知る者",
+    "en":"One-Eyed Jack"
+  },
+  "980":{
+    "id":980,
+    "ja":"キュレーター　カラー",
+    "en":"Curator Culler"
+  },
+  "981":{
+    "id":981,
+    "ja":"ファイターマスター",
+    "en":"Master Centurion"
+  },
+  "982":{
+    "id":982,
+    "ja":"テンプルマスター",
+    "en":"Master Brawler"
+  },
+  "983":{
+    "id":983,
+    "ja":"ヒーラーマスター",
+    "en":"Master Healer"
+  },
+  "984":{
+    "id":984,
+    "ja":"ウィザードマスター",
+    "en":"Master Wizard"
+  },
+  "985":{
+    "id":985,
+    "ja":"ワーロックマスター",
+    "en":"Master Warlock"
+  },
+  "986":{
+    "id":986,
+    "ja":"ローグマスター",
+    "en":"Master Rogue"
+  },
+  "987":{
+    "id":987,
+    "ja":"ガラントマスター",
+    "en":"Master Templar"
+  },
+  "988":{
+    "id":988,
+    "ja":"カオスマスター",
+    "en":"Master Soulstealer"
+  },
+  "989":{
+    "id":989,
+    "ja":"ビーストマスター",
+    "en":"Master Tamer"
+  },
+  "990":{
+    "id":990,
+    "ja":"コラルマスター",
+    "en":"Master Lyricist"
+  },
+  "991":{
+    "id":991,
+    "ja":"ハンターマスター",
+    "en":"Master Hunter"
+  },
+  "992":{
+    "id":992,
+    "ja":"モノノフマスター",
+    "en":"Master Mononofu"
+  },
+  "993":{
+    "id":993,
+    "ja":"シノビマスター",
+    "en":"Master Shinobi"
+  },
+  "994":{
+    "id":994,
+    "ja":"ドラケンマスター",
+    "en":"Master Hussar"
+  },
+  "995":{
+    "id":995,
+    "ja":"エボカーマスター",
+    "en":"Master Evoker"
+  },
+  "996":{
+    "id":996,
+    "ja":"メガスマスター",
+    "en":"Master Magus"
+  },
+  "997":{
+    "id":997,
+    "ja":"コルセアマスター",
+    "en":"Master Privateer"
+  },
+  "998":{
+    "id":998,
+    "ja":"パペトリマスター",
+    "en":"Master Puppeteer"
+  },
+  "999":{
+    "id":999,
+    "ja":"ダンサーマスター",
+    "en":"Master Headliner"
+  },
+  "1000":{
+    "id":1000,
+    "ja":"スカラーマスター",
+    "en":"Master Academic"
+  },
+  "1001":{
+    "id":1001,
+    "ja":"ジオマスター",
+    "en":"Master Naturalist"
+  },
+  "1002":{
+    "id":1002,
+    "ja":"ルーニストマスター",
+    "en":"Master Runeist"
+  },
+  "1003":{
+    "id":1003,
+    "ja":"ゼルデ　ザッパー",
+    "en":"Zerde Zapper"
+  },
+  "1004":{
+    "id":1004,
+    "ja":"ヴィニパタ　ヴァンクィシャー",
+    "en":"Vinipata Vanquisher"
+  },
+  "1005":{
+    "id":1005,
+    "ja":"シャー　スクレーパー",
+    "en":"Schah Scraper"
+  },
+  "1006":{
+    "id":1006,
+    "ja":"アルブメン　アグリヴェーター",
+    "en":"Albumen Aggrivator"
+  },
+  "1007":{
+    "id":1007,
+    "ja":"オニコフォラ　オブリテレーター",
+    "en":"Onychophora Obliterator"
+  },
+  "1008":{
+    "id":1008,
+    "ja":"エリニス　エンガルファー",
+    "en":"Erinys Engulfer"
+  },
+  "1009":{
+    "id":1009,
+    "ja":"ヘラルド　オブ　ア　ニュー　エイジ",
+    "en":"Herald of a New Age"
+  },
+  "1010":{
+    "id":1010,
+    "ja":"再臨を食い止めし者",
+    "en":"Preventer of the Second Coming"
+  },
+  "1011":{
+    "id":1011,
+    "ja":"ルックス・エクス・テネブリス",
+    "en":"Lux Ex Tenebris"
+  },
+  "1012":{
+    "id":1012,
+    "ja":"トライアンファント",
+    "en":"The Triumphant"
+  },
+  "1013":{
+    "id":1013,
+    "ja":"フ・ファイター",
+    "en":"Fu Fighter"
+  },
+  "1014":{
+    "id":1014,
+    "ja":"キョウ・キラー",
+    "en":"Kyou Killer"
+  },
+  "1015":{
+    "id":1015,
+    "ja":"ケイ・コンバスター",
+    "en":"Kei Combuster"
+  },
+  "1016":{
+    "id":1016,
+    "ja":"ギン・ガッガー",
+    "en":"Gin Gagger"
+  },
+  "1017":{
+    "id":1017,
+    "ja":"キン・キッカー",
+    "en":"Kin Kicker"
+  },
+  "1018":{
+    "id":1018,
+    "ja":"オウ・オビリテレーター",
+    "en":"Ou Obliterator"
+  },
+  "1019":{
+    "id":1019,
+    "ja":"デュナミス～サンドリア〔Ｄ〕の侵入者",
+    "en":"Dynamis-San d'Oria [D] Trespasser"
+  },
+  "1020":{
+    "id":1020,
+    "ja":"デュナミス～サンドリア〔Ｄ〕の潜入者",
+    "en":"Dynamis-San d'Oria [D] Infiltrator"
+  },
+  "1021":{
+    "id":1021,
+    "ja":"デュナミス～サンドリア〔Ｄ〕の制覇者",
+    "en":"Dynamis-San d'Oria [D] Dominator"
+  },
+  "1022":{
+    "id":1022,
+    "ja":"デュナミス～バストゥーク〔Ｄ〕の侵入者",
+    "en":"Dynamis-Bastok [D] Trespasser"
+  },
+  "1023":{
+    "id":1023,
+    "ja":"デュナミス～バストゥーク〔Ｄ〕の潜入者",
+    "en":"Dynamis-Bastok [D] Infiltrator"
+  },
+  "1024":{
+    "id":1024,
+    "ja":"デュナミス～バストゥーク〔Ｄ〕の制覇者",
+    "en":"Dynamis-Bastok [D] Dominator"
+  },
+  "1142":{
+    "id":1142,
+    "ja":"ミュモルNo.1",
+    "en":"Long Live Mumor"
+  },
+  "1031":{
+    "id":1031,
+    "ja":"ミミックマッシャー",
+    "en":"Mimic Masher"
+  },
+  "1047":{
+    "id":1047,
+    "ja":"神となりし者",
+    "en":"The Ascended"
+  },
+  "1063":{
+    "id":1063,
+    "ja":"ンガイナッバー",
+    "en":"Ngai Nabber"
+  },
+  "1127":{
+    "id":1127,
+    "ja":"運斤成風の調理師",
+    "en":"Legendary Culinarian"
+  },
+  "1143":{
+    "id":1143,
+    "ja":"悪魔を見抜きし者",
+    "en":"Parter of the Veil"
+  },
+  "1032":{
+    "id":1032,
+    "ja":"分かたれし者を断ち截った者",
+    "en":"Judge, Jury, and Executioner"
+  },
+  "1048":{
+    "id":1048,
+    "ja":"ヴァナ・ディールの救世主",
+    "en":"The Savior of Vana'diel"
+  },
+  "1064":{
+    "id":1064,
+    "ja":"カルーンガコラップサー",
+    "en":"Kalunga Collapser"
+  },
+  "1128":{
+    "id":1128,
+    "ja":"大いなる自然の継承者",
+    "en":"Eternal Communer"
+  },
+  "1144":{
+    "id":1144,
+    "ja":"デモニカル・ドリーマーズ",
+    "en":"Demonic Dreamer"
+  },
+  "1033":{
+    "id":1033,
+    "ja":"ゼロイントゥヒロイン",
+    "en":"Zeroine to Heroine"
+  },
+  "1049":{
+    "id":1049,
+    "ja":"大いなる力の継承者",
+    "en":"Blessed by the Avatars"
+  },
+  "1065":{
+    "id":1065,
+    "ja":"ムボゼモーラー",
+    "en":"Mboze Mauler"
+  },
+  "1129":{
+    "id":1129,
+    "ja":"ディスティニーデストロイヤー団デストロイヤー",
+    "en":"Destiny Destroyer...Destroyer"
+  },
+  "1034":{
+    "id":1034,
+    "ja":"エブリーイルムヒロイン",
+    "en":"Every Ilm a Heroine"
+  },
+  "1050":{
+    "id":1050,
+    "ja":"星唄に乗せて歩み続ける者",
+    "en":"Seer of Songs"
+  },
+  "1066":{
+    "id":1066,
+    "ja":"オンゴオブリテレーター",
+    "en":"Ongo Obliterator"
+  },
+  "1130":{
+    "id":1130,
+    "ja":"完熟ヒーロー",
+    "en":"Fully-Baked Hero"
+  },
+  "1035":{
+    "id":1035,
+    "ja":"ドレッド　パージャー",
+    "en":"Dread Purger"
+  },
+  "1051":{
+    "id":1051,
+    "ja":"悠久の風",
+    "en":"The Eternal Wind"
+  },
+  "1067":{
+    "id":1067,
+    "ja":"アレバティアソルター",
+    "en":"Arepati Assaulter"
+  },
+  "1131":{
+    "id":1131,
+    "ja":"ケテロテククムウラケミニ",
+    "en":"Ghdwk Vshdnhu"
+  },
+  "1036":{
+    "id":1036,
+    "ja":"シー　スマッシャー",
+    "en":"Sidhe Smasher"
+  },
+  "1052":{
+    "id":1052,
+    "ja":"デランデディマー",
+    "en":"Dealan-dhe Dimmer"
+  },
+  "1068":{
+    "id":1068,
+    "ja":"バンバビファウラー",
+    "en":"Bumba Befouler"
+  },
+  "1116":{
+    "id":1116,
+    "ja":"爆速ラプトルライダー",
+    "en":"Raptor Wrangler"
+  },
+  "1132":{
+    "id":1132,
+    "ja":"ラブ・ア・ライブ",
+    "en":"Love is Alive"
+  },
+  "1037":{
+    "id":1037,
+    "ja":"アレキサンダー　アナイアレーター",
+    "en":"Alexander Annihilator"
+  },
+  "1053":{
+    "id":1053,
+    "ja":"シグリストンパー",
+    "en":"Sgili Stomper"
+  },
+  "1117":{
+    "id":1117,
+    "ja":"疾走ガーデンライダー",
+    "en":"Gardener for the Ages"
+  },
+  "1133":{
+    "id":1133,
+    "ja":"目覚めを見届けし者",
+    "en":"The Awakener"
+  },
+  "1038":{
+    "id":1038,
+    "ja":"リリス　リクィデーター",
+    "en":"Lilith Liquidator"
+  },
+  "1054":{
+    "id":1054,
+    "ja":"ウブナイアンダーマイナー",
+    "en":"U Bnai Underminer"
+  },
+  "1118":{
+    "id":1118,
+    "ja":"伝説ラグーンライダー",
+    "en":"Lagoon Explorer"
+  },
+  "1134":{
+    "id":1134,
+    "ja":"ロマンシング サ・ソリさん",
+    "en":"Get Over Here!"
+  },
+  "1039":{
+    "id":1039,
+    "ja":"ミレウミンサー",
+    "en":"Mireu Mincer"
+  },
+  "1055":{
+    "id":1055,
+    "ja":"ゴグマゴググラインダー",
+    "en":"Gogmagog Grinder"
+  },
+  "1119":{
+    "id":1119,
+    "ja":"侍女と葉っぱに翻弄されし功労者",
+    "en":"Servant to the Servant"
+  },
+  "1135":{
+    "id":1135,
+    "ja":"再生を見届けし者",
+    "en":"Bond Renewer"
+  },
+  "1040":{
+    "id":1040,
+    "ja":"ドラコニック　インターローパー",
+    "en":"Draconic Interloper"
+  },
+  "1056":{
+    "id":1056,
+    "ja":"アリステウスアセーラー",
+    "en":"Aristaeus Assailer"
+  },
+  "1120":{
+    "id":1120,
+    "ja":"運斤成風の木彫師",
+    "en":"Legendary Woodworker"
+  },
+  "1136":{
+    "id":1136,
+    "ja":"オルドゥームの秘宝",
+    "en":"Treasure of Olduum"
+  },
+  "1025":{
+    "id":1025,
+    "ja":"デュナミス～ウィンダス〔Ｄ〕の侵入者",
+    "en":"Dynamis-Windurst [D] Trespasser"
+  },
+  "1057":{
+    "id":1057,
+    "ja":"マーモルクレブモーラー",
+    "en":"Marmorkrebs Mauler"
+  },
+  "1121":{
+    "id":1121,
+    "ja":"運斤成風の鍛冶師",
+    "en":"Legendary Blacksmith"
+  },
+  "1137":{
+    "id":1137,
+    "ja":"アプクーップアプカリッチョ",
+    "en":"Beloved by the Sea God"
+  },
+  "1026":{
+    "id":1026,
+    "ja":"デュナミス～ウィンダス〔Ｄ〕の潜入者",
+    "en":"Dynamis-Windurst [D] Infiltrator"
+  },
+  "1058":{
+    "id":1058,
+    "ja":"ギゲローラムガガー",
+    "en":"Gigelorum Gagger"
+  },
+  "1122":{
+    "id":1122,
+    "ja":"運斤成風の彫金師",
+    "en":"Legendary Goldsmith"
+  },
+  "1138":{
+    "id":1138,
+    "ja":"ディスティニーシショー",
+    "en":"Destiny Master"
+  },
+  "1027":{
+    "id":1027,
+    "ja":"デュナミス～ウィンダス〔Ｄ〕の制覇者",
+    "en":"Dynamis-Windurst [D] Dominator"
+  },
+  "1059":{
+    "id":1059,
+    "ja":"ラスコフニチェレンダー",
+    "en":"Raskovniche Render"
+  },
+  "1123":{
+    "id":1123,
+    "ja":"運斤成風の裁縫師",
+    "en":"Legendary Weaver"
+  },
+  "1139":{
+    "id":1139,
+    "ja":"葉団扇に乗せて歩み続ける者",
+    "en":"Tireless Tracker"
+  },
+  "1028":{
+    "id":1028,
+    "ja":"デュナミス～ジュノ〔Ｄ〕の侵入者",
+    "en":"Dynamis-Jeuno [D] Trespasser"
+  },
+  "1044":{
+    "id":1044,
+    "ja":"カリカリ救世主",
+    "en":"Vegetable Hero"
+  },
+  "1060":{
+    "id":1060,
+    "ja":"プロクネパニシャー",
+    "en":"Procne Punisher"
+  },
+  "1124":{
+    "id":1124,
+    "ja":"運斤成風の革細工師",
+    "en":"Legendary Tanner"
+  },
+  "1140":{
+    "id":1140,
+    "ja":"ガルカンハザード",
+    "en":"Galkan Hazard"
+  },
+  "1029":{
+    "id":1029,
+    "ja":"デュナミス～ジュノ〔Ｄ〕の潜入者",
+    "en":"Dynamis-Jeuno [D] Infiltrator"
+  },
+  "1045":{
+    "id":1045,
+    "ja":"陰の貢献者なのん",
+    "en":"Contributer from the Shadows"
+  },
+  "1061":{
+    "id":1061,
+    "ja":"ヘンウェンハリア",
+    "en":"Henwen Harrier"
+  },
+  "1125":{
+    "id":1125,
+    "ja":"運斤成風の骨彫師",
+    "en":"Legendary Boneworker"
+  },
+  "1141":{
+    "id":1141,
+    "ja":"秘密を託されし者",
+    "en":"Bearer of Secrets"
+  },
+  "1030":{
+    "id":1030,
+    "ja":"デュナミス～ジュノ〔Ｄ〕の制覇者",
+    "en":"Dynamis-Jeuno [D] Dominator"
+  },
+  "1046":{
+    "id":1046,
+    "ja":"裁定者",
+    "en":"The Decider"
+  },
+  "1062":{
+    "id":1062,
+    "ja":"ゼヴィオソザッパー",
+    "en":"Xevioso Zapper"
+  },
+  "1126":{
+    "id":1126,
+    "ja":"運斤成風の錬金術師",
+    "en":"Legendary Alchemist"
+  },
+  "0":{
+    "id":0,
+    "ja":"なし",
+    "en":"N/A"
+  }
+}
